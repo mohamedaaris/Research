@@ -1,0 +1,2218 @@
+{
+  "topic": "edge metric dimension",
+  "generated_at": "2026-01-27T20:27:03.846366",
+  "summary": {
+    "papers_analyzed": 79,
+    "claims_extracted": 3,
+    "contradictions_found": 0,
+    "research_gaps_identified": 12
+  },
+  "topic_map": {
+    "main_topic": "edge metric dimension",
+    "subtopics": [],
+    "methods": [],
+    "keywords": [
+      "dimension",
+      "metric",
+      "edge"
+    ],
+    "datasets": []
+  },
+  "papers": [
+    {
+      "title": "Edge Metric Dimension of Silicate Networks",
+      "authors": [
+        "S. Prabhu",
+        "T. Jenifer Janany"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "relevance_score": 1.0,
+      "abstract": "Metric dimension is an essential parameter in graph theory that aids in addressing issues pertaining to information retrieval, localization, network design, and chemistry through the identification of the least possible number of elements necessary to identify the distances between vertices in a gra...",
+      "doi": null,
+      "arxiv_id": "2406.07019",
+      "url": "http://arxiv.org/abs/2406.07019v1"
+    },
+    {
+      "title": "Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes",
+      "authors": [
+        "Waseem Abbas",
+        "Faryal Chudhary",
+        "Umar Farooq",
+        "Muhammad Azeem",
+        "Yilun Shang"
+      ],
+      "year": 2024,
+      "venue": "European Journal of Pure and Applied Mathematics",
+      "relevance_score": 1.0,
+      "abstract": "<jats:p>When there is a difference in the distance between two vertices in a simple linked graph, then a vertex $x$ resolves both $u$ and $v$. If at least one vertex in $S$ distinguishes each pair of distinct vertices in $G$, then a set $S$ of vertices in $G$ is referred to as a resolving set. $G$'s...",
+      "doi": "10.29020/nybg.ejpam.v17i3.5295",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.29020/nybg.ejpam.v17i3.5295"
+    },
+    {
+      "title": "Edge metric dimension and mixed metric dimension of a plane graph Tn",
+      "authors": [
+        "Huige Shen",
+        "Jing Qu",
+        "Na Kang",
+        "Cong Lin"
+      ],
+      "year": 2024,
+      "venue": "Discrete Mathematics, Algorithms and Applications",
+      "relevance_score": 1.0,
+      "abstract": "<jats:p> Let [Formula: see text] be a connected graph where [Formula: see text] is the set of vertices of [Formula: see text] and [Formula: see text] is the set of edges of [Formula: see text]. The distance from the vertex [Formula: see text] to the edge\u00a0[Formula: see text] is given by [Formula: see...",
+      "doi": "10.1142/s1793830923500398",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s1793830923500398"
+    },
+    {
+      "title": "Edge metric dimension of some Cartesian product of graphs",
+      "authors": [
+        "Saritha Chandran C.",
+        "Reji T."
+      ],
+      "year": 2024,
+      "venue": "Proyecciones (Antofagasta)",
+      "relevance_score": 1.0,
+      "abstract": "<jats:p>The edge metric dimension edim(G)of a connected graph G is the minimum cardinality of a set S of vertices such that each edge is uniquely determined by its distance from the vertices of the set S. In this work, the edge metric dimension of the prism over a graph G(G\u25fbK2), cylinder graphs(Cm\u25fbP...",
+      "doi": "10.22199/issn.0717-6279-5770",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.22199/issn.0717-6279-5770"
+    },
+    {
+      "title": "On the edge metric dimension of some classes of cacti",
+      "authors": [
+        "Lyimo Sygbert Mhagama",
+        "Muhammad Faisal Nadeem",
+        "Mohamad Nazri Husin"
+      ],
+      "year": 2024,
+      "venue": "AIMS Mathematics",
+      "relevance_score": 1.0,
+      "abstract": "<jats:p xml:lang=\"fr\">&lt;abstract&gt;&lt;p&gt;The cactus graph has many practical applications, particularly in radio communication systems. Let $ G = (V, E) $ be a finite, undirected, and simple connected graph, then the edge metric dimension of $ G $ is the minimum cardinality of the edge metric ...",
+      "doi": "10.3934/math.2024795",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3934/math.2024795"
+    },
+    {
+      "title": "The K-edge metric dimension of a graph",
+      "authors": [
+        "Nosheen Goshi",
+        "Sohail Zafar",
+        "Tabasam Rashid"
+      ],
+      "year": 2025,
+      "venue": "Discrete Mathematics, Algorithms and Applications",
+      "relevance_score": 1.0,
+      "abstract": "<jats:p>The main advantage of the edge metric basis in the detection problem is that it identifies every distinct pair of edges in a simple connected graph [Formula: see text] by placing detectors at selected vertices. However, if one detector fails, the entire system breaks down. To address this, w...",
+      "doi": "10.1142/s1793830925501472",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s1793830925501472"
+    },
+    {
+      "title": "Central edge metric dimension of joint graph",
+      "authors": [
+        "Moh. Affaf",
+        "Liliek Susilowati",
+        "Yayuk Wahyuni",
+        "Miswanto",
+        "Kamal Dliou"
+      ],
+      "year": 2026,
+      "venue": "Journal of Discrete Mathematical Sciences &amp; Cryptography",
+      "relevance_score": 1.0,
+      "abstract": "<jats:p>Assume that w is a non-trivial connected graph, with u and v representing its vertices and e = uv representing its edges. The shortest total length of the pathways connecting u and v in G is the distance between them, represented by d(u, v). The greatest separation between a vertex u and ano...",
+      "doi": "10.47974/jdmsc-2294",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.47974/jdmsc-2294"
+    },
+    {
+      "title": "Unique identification and domination of edges in a graph: The vertex-edge dominant edge metric dimension",
+      "authors": [
+        "H. M. Ikhlaq",
+        "S. Hayat",
+        "H. M. A. Siddiqui"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.9900000000000001,
+      "abstract": "Dominating sets and resolving sets have important applications in control theory and computer science. In this paper, we introduce an edge-analog of the classical dominant metric dimension of graphs. By combining the concepts of a vertex-edge dominating set and an edge resolving set, we introduce th...",
+      "doi": null,
+      "arxiv_id": "2211.09327",
+      "url": "http://arxiv.org/abs/2211.09327v1"
+    },
+    {
+      "title": "A note on the metric and edge metric dimensions of 2-connected graphs",
+      "authors": [
+        "Martin Knor",
+        "Riste Skrekovski",
+        "Ismael G. Yero"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.9700000000000001,
+      "abstract": "For a given graph $G$, the metric and edge metric dimensions of $G$, $\\dim(G)$ and ${\\rm edim}(G)$, are the cardinalities of the smallest possible subsets of vertices in $V(G)$ such that they uniquely identify the vertices and the edges of $G$, respectively, by means of distances. It is already know...",
+      "doi": null,
+      "arxiv_id": "2103.00215",
+      "url": "http://arxiv.org/abs/2103.00215v1"
+    },
+    {
+      "title": "Vertex and edge metric dimensions of unicyclic graphs",
+      "authors": [
+        "Jelena Sedlar",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.9700000000000001,
+      "abstract": "In a graph G, the cardinality of the smallest ordered set of vertices that distinguishes every element of V (G) (resp. E(G)) is called the vertex (resp. edge) metric dimension of G. In [16] it was shown that both vertex and edge metric dimension of a unicyclic graph G always take values from just tw...",
+      "doi": null,
+      "arxiv_id": "2104.00577",
+      "url": "http://arxiv.org/abs/2104.00577v1"
+    },
+    {
+      "title": "Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene",
+      "authors": [
+        "Sunny Kumar Sharma",
+        "Vijay Kumar Bhat",
+        "Hassan Raza",
+        "Karnika Sharma"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.9700000000000001,
+      "abstract": "Let $\u0393=(V,E)$ be a simple connected graph. $d(\u03b1,\u03b5)=min\\{d(\u03b1, w), d(\u03b1, d\\}$ computes the distance between a vertex $\u03b1\\in V(\u0393)$ and an edge $\u03b5=wd\\in E(\u0393)$. A single vertex $\u03b1$ is said to recognize (resolve) two different edges $\u03b5_{1}$ and $\u03b5_{2}$ from $E(\u0393)$ if $d(\u03b1, \u03b5_{2})\\neq d(\u03b1, \u03b5_{1}\\}$. A subset...",
+      "doi": null,
+      "arxiv_id": "2107.14484",
+      "url": "http://arxiv.org/abs/2107.14484v1"
+    },
+    {
+      "title": "Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone",
+      "authors": [
+        "Sunny Kumar Sharma",
+        "Hassan Raza",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Physics",
+      "relevance_score": 0.9700000000000001,
+      "abstract": "<jats:p>Minimum resolving sets (edge or vertex) have become an integral part of molecular topology and combinatorial chemistry. Resolving sets for a specific network provide crucial information required for the identification of each item contained in the network, uniquely. The distance between an e...",
+      "doi": "10.3389/fphy.2021.749166",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3389/fphy.2021.749166"
+    },
+    {
+      "title": "The comparative analysis of metric and edge metric dimension of some subdivisions of the wheel graph",
+      "authors": [
+        "Zahid Raza",
+        "M. S. Bataineh"
+      ],
+      "year": 2021,
+      "venue": "Asian-European Journal of Mathematics",
+      "relevance_score": 0.9700000000000001,
+      "abstract": "<jats:p> The aim of this study is to compute the edge metric dimension of some subdivision of the wheel graphs. In particular, we determine and compare the metric and edge metric dimensions of the graphs obtained after the cycle, spoke and barycentric subdivisions of the wheel graph. Furthermore, so...",
+      "doi": "10.1142/s1793557121500625",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s1793557121500625"
+    },
+    {
+      "title": "Graphs with the edge metric dimension smaller than the metric dimension",
+      "authors": [
+        "Martin Knor",
+        "Snjezana Majstorovic",
+        "Aoden Teo Masa Toshi",
+        "Riste Skrekovski",
+        "Ismael G. Yero"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "Given a connected graph $G$, the metric (resp. edge metric) dimension of $G$ is the cardinality of the smallest ordered set of vertices that uniquely identifies every pair of distinct vertices (resp. edges) of $G$ by means of distance vectors to such a set. In this work, we settle three open problem...",
+      "doi": null,
+      "arxiv_id": "2006.11772",
+      "url": "http://arxiv.org/abs/2006.11772v1"
+    },
+    {
+      "title": "Uniquely identifying the edges of a graph: the edge metric dimension",
+      "authors": [
+        "Aleksander Kelenc",
+        "Niko Tratnik",
+        "Ismael G. Yero"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "Let $G=(V,E)$ be a connected graph, let $v\\in V$ be a vertex and let $e=uw\\in E$ be an edge. The distance between the vertex $v$ and the edge $e$ is given by $d_G(e,v)=\\min\\{d_G(u,v),d_G(w,v)\\}$. A vertex $w\\in V$ distinguishes two edges $e_1,e_2\\in E$ if $d_G(w,e_1)\\ne d_G(w,e_2)$. A set $S$ of ver...",
+      "doi": null,
+      "arxiv_id": "1602.00291",
+      "url": "http://arxiv.org/abs/1602.00291v1"
+    },
+    {
+      "title": "Edge metric dimension of some generalized Petersen graphs",
+      "authors": [
+        "Vladimir Filipovic. Aleksandar Kartelj",
+        "Jozef Kratica"
+      ],
+      "year": 2018,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "The edge metric dimension problem was recently introduced, which initiated the study of its mathematical properties. The theoretical properties of the edge metric representations and the edge metric dimension of generalized Petersen graphs $GP(n,k)$ are studied in this paper. We prove the exact form...",
+      "doi": null,
+      "arxiv_id": "1807.00580",
+      "url": "http://arxiv.org/abs/1807.00580v3"
+    },
+    {
+      "title": "Edge metric dimension of some graph operations",
+      "authors": [
+        "Iztok Peterin",
+        "Ismael G. Yero"
+      ],
+      "year": 2018,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "Let $G=(V, E)$ be a connected graph. Given a vertex $v\\in V$ and an edge $e=uw\\in E$, the distance between $v$ and $e$ is defined as $d_G(e,v)=\\min\\{d_G(u,v),d_G(w,v)\\}$. A nonempty set $S\\subset V$ is an edge metric generator for $G$ if for any two edges $e_1,e_2\\in E$ there is a vertex $w\\in S$ su...",
+      "doi": null,
+      "arxiv_id": "1809.08900",
+      "url": "http://arxiv.org/abs/1809.08900v1"
+    },
+    {
+      "title": "Edge metric dimensions via hierarchical product and integer linear programming",
+      "authors": [
+        "Sandi Klav\u017ear",
+        "Mostafa Tavakoli"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "If $S=\\{v_1,\\ldots, v_k\\}$ is an ordered subset of vertices of a connected graph $G$ and $e$ is an edge of $G$, then the vector $r_G(e|S) = (d_G(v_1,e), \\ldots, d_G(v_k,e))$ is the edge metric $S$-representation of $e$. If the vertices of $G$ have pairwise different edge metric $S$-representations, ...",
+      "doi": null,
+      "arxiv_id": "2003.04045",
+      "url": "http://arxiv.org/abs/2003.04045v1"
+    },
+    {
+      "title": "On the edge metric dimension for the random graph",
+      "authors": [
+        "Nina Zubrilina"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "Let $G(V, E)$ be a connected simple undirected graph. In this paper we prove that the edge metric dimension (introduced by Kelenc, Tratnik and Yero) of the Erd\u0151s-R\u00e9nyi random graph $G(n, p)$ is given by: $$\\textrm{edim}(G(n, p)) = (1 + o(1))\\frac{4\\log(n)}{\\log(1/q)},$$ where $q = 1 - 2p(1-p)^2(2-p)...",
+      "doi": null,
+      "arxiv_id": "1612.06936",
+      "url": "http://arxiv.org/abs/1612.06936v1"
+    },
+    {
+      "title": "Edge metric dimension of some classes of circulant graphs",
+      "authors": [
+        "Muhammad Ahsan",
+        "Zohaib Zahid",
+        "Sohail Zafar"
+      ],
+      "year": 2020,
+      "venue": "Analele Universitatii \"Ovidius\" Constanta - Seria Matematica",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Let\n                    <jats:italic>G</jats:italic>\n                    = (\n                    <jats:italic>V</jats:italic>\n                    (\n                    <jats:italic>G</jats:italic>\n                    ),...",
+      "doi": "10.2478/auom-2020-0032",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2478/auom-2020-0032"
+    },
+    {
+      "title": "Bi-Edge Metric Dimension of Graphs",
+      "authors": [
+        "Rinurwati Rinurwati",
+        "Fadillah Dian Maharani"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Computing Science and Applied Mathematics",
+      "relevance_score": 0.8799999999999999,
+      "abstract": "",
+      "doi": "10.12962/j24775401.v10i1.20267",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.12962/j24775401.v10i1.20267"
+    },
+    {
+      "title": "Fault-Tolerant Edge Metric Dimension of Zero-Divisor Graphs of Commutative Rings",
+      "authors": [
+        "Omaima Alshanquiti",
+        "Malkesh Singh",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2025,
+      "venue": "Axioms",
+      "relevance_score": 0.8,
+      "abstract": "<jats:p>In recent years, the intersection of algebraic structures and graph-theoretic concepts has developed significant interest, particularly through the study of zero-divisor graphs derived from commutative rings. Let Z*(S) be the set of non-zero zero divisors of a finite commutative ring S with ...",
+      "doi": "10.3390/axioms14070499",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3390/axioms14070499"
+    },
+    {
+      "title": "Remarks on the vertex and the edge metric dimension of 2-connected graphs",
+      "authors": [
+        "Martin Knor",
+        "Jelena Sedlar",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.7900000000000001,
+      "abstract": "The vertex (resp. edge) metric dimension of a graph G is the size of a smallest vertex set in G which distinguishes all pairs of vertices (resp. edges) in G and it is denoted by dim(G) (resp. edim(G)). The upper bounds dim(G) <= 2c(G) - 1 and edim(G) <= 2c(G)-1; where c(G) denotes the cyclomatic num...",
+      "doi": null,
+      "arxiv_id": "2203.07335",
+      "url": "http://arxiv.org/abs/2203.07335v1"
+    },
+    {
+      "title": "Metric dimension and edge metric dimension of unicyclic graphs",
+      "authors": [
+        "Enqiang Zhu",
+        "Shaoxiang Peng",
+        "Chanjuan Liu"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.7700000000000001,
+      "abstract": "The metric (resp. edge metric) dimension of a simple connected graph $G$, denoted by dim$(G)$ (resp. edim$(G)$), is the cardinality of a smallest vertex subset $S\\subseteq V(G)$ for which every two distinct vertices (resp. edges) in $G$ have distinct distances to a vertex of $S$. It is an interestin...",
+      "doi": null,
+      "arxiv_id": "2111.12261",
+      "url": "http://arxiv.org/abs/2111.12261v1"
+    },
+    {
+      "title": "Vertex and edge metric dimensions of cacti",
+      "authors": [
+        "Jelena Sedlar",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.7700000000000001,
+      "abstract": "In a graph G; a vertex (resp. an edge) metric generator is a set of vertices S such that any pair of vertices (resp. edges) from G is distinguished by at least one vertex from S: The cardinality of a smallest vertex (resp. edge) metric generator is the vertex (resp. edge) metric dimension of G: In [...",
+      "doi": null,
+      "arxiv_id": "2107.01397",
+      "url": "http://arxiv.org/abs/2107.01397v1"
+    },
+    {
+      "title": "Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid",
+      "authors": [
+        "Ali N. A. Koam",
+        "Ali Ahmad",
+        "Muhammad Ibrahim",
+        "Muhammad Azeem"
+      ],
+      "year": 2021,
+      "venue": "Mathematics",
+      "relevance_score": 0.7700000000000001,
+      "abstract": "<jats:p>Geometric arrangements of hexagons into six sides of benzenoids are known as coronoid systems. They are organic chemical structures by definition. Hollow coronoids are divided into two types: primitive and catacondensed coronoids. Polycyclic conjugated hydrocarbon is another name for them. C...",
+      "doi": "10.3390/math9121405",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3390/math9121405"
+    },
+    {
+      "title": "ON THE EDGE METRIC DIMENSION OF HELM AND CLOSED HELM GRAPH",
+      "authors": [
+        "Deddy Rahmadi",
+        "Muhammad Fauzi Nur Robiultsani",
+        "Muchammad Abrori"
+      ],
+      "year": 2025,
+      "venue": "Jurnal Matematika UNAND",
+      "relevance_score": 0.75,
+      "abstract": "<jats:p>Dimensi metrik sisi merupakan kardinalitas himpunan pembeda pada suatu graf. Kumpulan verteks dikatakan himpunan pembeda jika untuk setiap verteks pada suatu graf, terdapat satu verteks yang membedakan setiap edge pada graf tersebut. Dengan kata lain, terdapat satu verteks dalam himpunan pem...",
+      "doi": "10.25077/jmua.14.3.232-239.2025",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.25077/jmua.14.3.232-239.2025"
+    },
+    {
+      "title": "On Examining Metric Dimension Through Edge Contraction in Certain Families of Graphs",
+      "authors": [
+        "H. Saleem",
+        "M. N. Husin",
+        "S. Ali",
+        "M. S. Hameed"
+      ],
+      "year": 2025,
+      "venue": "Malaysian Journal of Mathematical Sciences",
+      "relevance_score": 0.75,
+      "abstract": "<jats:p>In graph theory, the Metric Dimension (MD) is an elementary metric that affords evidence nearly the essential selves of graphs. We reconnoiter the MD in the venue of edge-contracted regular graphs in this paper, with exceptional devotion to the Antiprism, Petersen, and Harary graphs. Our eff...",
+      "doi": "10.47836/mjms.19.2.13",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.47836/mjms.19.2.13"
+    },
+    {
+      "title": "Computing edge version of metric dimension of certain chemical networks",
+      "authors": [
+        "Muhammad Umer Farooq",
+        "Muhammad Hussain",
+        "Ahmed Zubair Jan",
+        "Afraz Hussain Mjaeed",
+        "Mirwais Sediqma",
+        "Ayesha Amjad"
+      ],
+      "year": 2024,
+      "venue": "Scientific Reports",
+      "relevance_score": 0.7300000000000001,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>In the modern digital sphere, graph theory is a significant field of research that has a great deal of significance. It finds widespread application in computer science, robotic directions, and chemistry. Additionally, graph theory is used in robot network lo...",
+      "doi": "10.1038/s41598-024-62063-6",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1038/s41598-024-62063-6"
+    },
+    {
+      "title": "The edge metric dimension of the generalized Petersen graph $P(n,3)$ is 4",
+      "authors": [
+        "David G. L. Wang",
+        "Monica M. Y. Wang",
+        "Shiqiang Zhang"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.7000000000000001,
+      "abstract": "It is known that the problem of computing the edge dimension of a graph is NP-hard, and that the edge dimension of any generalized Petersen graph $P(n,k)$ is at least 3. We prove that the graph $P(n,3)$ has edge dimension 4 for $n\\ge 11$, by showing semi-combinatorially the nonexistence of an edge r...",
+      "doi": null,
+      "arxiv_id": "2005.08038",
+      "url": "http://arxiv.org/abs/2005.08038v3"
+    },
+    {
+      "title": "On Some families of Path-related graphs with their edge metric dimension",
+      "authors": [
+        "Lianglin Li",
+        "Shu Bao",
+        "Hassan Raza"
+      ],
+      "year": 2024,
+      "venue": "Examples and Counterexamples",
+      "relevance_score": 0.6799999999999999,
+      "abstract": "",
+      "doi": "10.1016/j.exco.2024.100152",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.exco.2024.100152"
+    },
+    {
+      "title": "Strong Edge Metric Dimension of Graphs",
+      "authors": [
+        "Mojgan Afkhami"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.66,
+      "abstract": "",
+      "doi": "10.2139/ssrn.4769772",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.4769772"
+    },
+    {
+      "title": "Retracted: On the Edge Metric Dimension of Certain Polyphenyl Chains",
+      "authors": [],
+      "year": 2023,
+      "venue": "Journal of Chemistry",
+      "relevance_score": 0.66,
+      "abstract": "",
+      "doi": "10.1155/2023/9837357",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1155/2023/9837357"
+    },
+    {
+      "title": "The dominant edge metric dimension of graphs",
+      "authors": [
+        "Mostafa Tavakoli",
+        "Meysam Korivand",
+        "Ahmad Erfanian",
+        "Gholamreza Abrishami",
+        "Edy Tri Baskoro"
+      ],
+      "year": 2023,
+      "venue": "Electronic Journal of Graph Theory and Applications",
+      "relevance_score": 0.66,
+      "abstract": "",
+      "doi": "10.5614/ejgta.2023.11.1.16",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5614/ejgta.2023.11.1.16"
+    },
+    {
+      "title": "Bounds on metric dimensions of graphs with edge disjoint cycles",
+      "authors": [
+        "Jelena Sedlar",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.6500000000000001,
+      "abstract": "In a graph G, cardinality of the smallest ordered set of vertices that distinguishes every element of V (G) is the (vertex) metric dimension of G. Similarly, the cardinality of such a set is the edge metric dimension of G, if it distinguishes E(G). In this paper these invariants are considered first...",
+      "doi": null,
+      "arxiv_id": "2010.10326",
+      "url": "http://arxiv.org/abs/2010.10326v1"
+    },
+    {
+      "title": "Fault tolerance for metric dimension and its variants",
+      "authors": [
+        "Jesse Geneson",
+        "Shen-Fu Tsai"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.6500000000000001,
+      "abstract": "Hernando et al. (2008) introduced the fault-tolerant metric dimension $\\text{ftdim}(G)$, which is the size of the smallest resolving set $S$ of a graph $G$ such that $S-\\left\\{s\\right\\}$ is also a resolving set of $G$ for every $s \\in S$. They found an upper bound $\\text{ftdim}(G) \\le \\dim(G) (1+2 \\...",
+      "doi": null,
+      "arxiv_id": "2502.02731",
+      "url": "http://arxiv.org/abs/2502.02731v1"
+    },
+    {
+      "title": "Throttling for metric dimension and its variants",
+      "authors": [
+        "Boris Brimkov",
+        "Peter Diao",
+        "Jesse Geneson",
+        "Carolyn Reinhart",
+        "Shen-Fu Tsai",
+        "William Wang",
+        "Kyle Worley"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.6500000000000001,
+      "abstract": "Metric dimension is a graph parameter that has been applied to robot navigation and finding low-dimensional vector embeddings. Throttling entails minimizing the sum of two available resources when solving certain graph problems. In this paper, we introduce throttling for metric dimension, edge metri...",
+      "doi": null,
+      "arxiv_id": "2510.00530",
+      "url": "http://arxiv.org/abs/2510.00530v1"
+    },
+    {
+      "title": "The effect of vertex and edge deletion on the edge metric dimension of graphs",
+      "authors": [
+        "Meiqin Wei",
+        "Jun Yue",
+        "Lily Chen"
+      ],
+      "year": 2022,
+      "venue": "Journal of Combinatorial Optimization",
+      "relevance_score": 0.64,
+      "abstract": "",
+      "doi": "10.1007/s10878-021-00838-7",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s10878-021-00838-7"
+    },
+    {
+      "title": "The complement edge metric dimension of graphs",
+      "authors": [
+        "Nirmala Mega Rosyidah",
+        "Rinurwati"
+      ],
+      "year": 2022,
+      "venue": "AIP Conference Proceedings",
+      "relevance_score": 0.64,
+      "abstract": "",
+      "doi": "10.1063/5.0131823",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1063/5.0131823"
+    },
+    {
+      "title": "Edge Metric Dimension of Honeycomb and Hexagonal Networks for IoT",
+      "authors": [
+        "Sohail Abbas",
+        "Zahid Raza",
+        "Nida Siddiqui",
+        "Faheem Khan",
+        "Taegkeun Whangbo"
+      ],
+      "year": 2022,
+      "venue": "Computers, Materials &amp; Continua",
+      "relevance_score": 0.64,
+      "abstract": "",
+      "doi": "10.32604/cmc.2022.023003",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.32604/cmc.2022.023003"
+    },
+    {
+      "title": "Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>",
+      "authors": [
+        "Jing Qu",
+        "Nanbin Cao"
+      ],
+      "year": 2022,
+      "venue": "Discrete Applied Mathematics",
+      "relevance_score": 0.64,
+      "abstract": "",
+      "doi": "10.1016/j.dam.2022.06.023",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.dam.2022.06.023"
+    },
+    {
+      "title": "Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks",
+      "authors": [
+        "Karnika Sharma",
+        "Vijay Kumar Bhat",
+        "Sunny Kumar Sharma"
+      ],
+      "year": 2022,
+      "venue": "IEEE Access",
+      "relevance_score": 0.64,
+      "abstract": "",
+      "doi": "10.1109/access.2022.3158982",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/access.2022.3158982"
+    },
+    {
+      "title": "Metric dimension and edge metric dimension of windmill graphs",
+      "authors": [
+        "Pradeep Singh",
+        "Sahil Sharma",
+        "Sunny Kumar Sharma",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2021,
+      "venue": "AIMS Mathematics",
+      "relevance_score": 0.62,
+      "abstract": "",
+      "doi": "10.3934/math.2021531",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3934/math.2021531"
+    },
+    {
+      "title": "Asymptotic behavior of the edge metric dimension of the random graph",
+      "authors": [
+        "Nina Zublirina"
+      ],
+      "year": 2021,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.62,
+      "abstract": "",
+      "doi": "10.7151/dmgt.2210",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.2210"
+    },
+    {
+      "title": "Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension",
+      "authors": [
+        "Ali N. A. Koam",
+        "Ali Ahmad"
+      ],
+      "year": 2020,
+      "venue": "IEEE Access",
+      "relevance_score": 0.6,
+      "abstract": "",
+      "doi": "10.1109/access.2020.2990109",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/access.2020.2990109"
+    },
+    {
+      "title": "Edge metric dimension of $k$ multiwheel graph",
+      "authors": [
+        "Mohammad S. Bataineh",
+        "Nida Siddiqui",
+        "Zahid Raza"
+      ],
+      "year": 2020,
+      "venue": "Rocky Mountain Journal of Mathematics",
+      "relevance_score": 0.6,
+      "abstract": "",
+      "doi": "10.1216/rmj.2020.50.1175",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1216/rmj.2020.50.1175"
+    },
+    {
+      "title": "On the edge metric dimension of convex polytopes and its related graphs",
+      "authors": [
+        "Yuezhong Zhang",
+        "Suogang Gao"
+      ],
+      "year": 2020,
+      "venue": "Journal of Combinatorial Optimization",
+      "relevance_score": 0.6,
+      "abstract": "",
+      "doi": "10.1007/s10878-019-00472-4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s10878-019-00472-4"
+    },
+    {
+      "title": "Edge Metric Dimension on Some Families of Tree",
+      "authors": [
+        "R. Adawiyah",
+        "Dafik",
+        "R. Alfarisi",
+        "R. M. Prihandini",
+        "I. H. Agustin"
+      ],
+      "year": 2019,
+      "venue": "Journal of Physics: Conference Series",
+      "relevance_score": 0.6,
+      "abstract": "",
+      "doi": "10.1088/1742-6596/1180/1/012005",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1088/1742-6596/1180/1/012005"
+    },
+    {
+      "title": "On mixed metric dimension in subdivision, middle, and total graphs",
+      "authors": [
+        "Ali Ghalavand",
+        "Sandi Klav\u017ear",
+        "Mostafa Tavakoli",
+        "Ismael G. Yero"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.5900000000000002,
+      "abstract": "Let $G$ be a graph and let $S(G)$, $M(G)$, and $T(G)$ be the subdivision, the middle, and the total graph of $G$, respectively. Let ${\\rm dim}(G)$, ${\\rm edim}(G)$, and ${\\rm mdim}(G)$ be the metric dimension, the edge metric dimension, and the mixed metric dimension of $G$, respectively. In this pa...",
+      "doi": null,
+      "arxiv_id": "2206.04983",
+      "url": "http://arxiv.org/abs/2206.04983v2"
+    },
+    {
+      "title": "On Metric Dimensions of Hypercubes",
+      "authors": [
+        "Aleksander Kelenc",
+        "Aoden Teo Masa Toshi",
+        "Riste Skrekovski",
+        "Ismael G. Yero"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.5700000000000002,
+      "abstract": "The metric (resp. edge metric or mixed metric) dimension of a graph $G$, is the cardinality of the smallest ordered set of vertices that uniquely recognizes all the pairs of distinct vertices (resp. edges, or vertices and edges) of $G$ by using a vector of distances to this set. In this note we show...",
+      "doi": null,
+      "arxiv_id": "2102.10916",
+      "url": "http://arxiv.org/abs/2102.10916v1"
+    },
+    {
+      "title": "Metric dimension and pattern avoidance in graphs",
+      "authors": [
+        "Jesse Geneson"
+      ],
+      "year": 2018,
+      "venue": "arXiv",
+      "relevance_score": 0.5500000000000002,
+      "abstract": "In this paper, we prove a number of results about pattern avoidance in graphs with bounded metric dimension or edge metric dimension. We show that the maximum possible number of edges in a graph of diameter $D$ and edge metric dimension $k$ is at most $(\\lfloor \\frac{2D}{3}\\rfloor +1)^{k}+k \\sum_{i ...",
+      "doi": null,
+      "arxiv_id": "1807.08334",
+      "url": "http://arxiv.org/abs/1807.08334v2"
+    },
+    {
+      "title": "Extremal results for graphs of bounded metric dimension",
+      "authors": [
+        "Jesse Geneson",
+        "Suchir Kaustav",
+        "Antoine Labelle"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.5500000000000002,
+      "abstract": "Metric dimension is a graph parameter motivated by problems in robot navigation, drug design, and image processing. In this paper, we answer several open extremal problems on metric dimension and pattern avoidance in graphs from (Geneson, Metric dimension and pattern avoidance, Discrete Appl. Math. ...",
+      "doi": null,
+      "arxiv_id": "2008.13302",
+      "url": "http://arxiv.org/abs/2008.13302v1"
+    },
+    {
+      "title": "The difference between several metric dimension graph invariants",
+      "authors": [
+        "Milica Milivojevi\u0107 Danas"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.5500000000000002,
+      "abstract": "In this paper extremal values of the difference between several graph invariants related to the metric dimension are studied: mixed metric dimension, edge metric dimension and strong metric dimension. These non-trivial extremal values are computed over all connected graphs of given order. To obtain ...",
+      "doi": null,
+      "arxiv_id": "2012.07471",
+      "url": "http://arxiv.org/abs/2012.07471v1"
+    },
+    {
+      "title": "On Metric Dimension of Edge Comb Product of Symmetric Graphs",
+      "authors": [
+        "Tita Khalis Maryati",
+        "Dindin Sobiruddin",
+        "Fawwaz Fakhrurrozi Hadiputra"
+      ],
+      "year": 2024,
+      "venue": "Jurnal Matematika UNAND",
+      "relevance_score": 0.53,
+      "abstract": "<jats:p>Consider a finite graph G that is simple, undirected, and connected. Let W be an ordered set of vertices with |W| = k. The representation of a vertex v is defined as an ordered k-tuple that consists of the distances from vertex v to each vertex in W. The set W is called a resolving set for G...",
+      "doi": "10.25077/jmua.13.4.349-357.2024",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.25077/jmua.13.4.349-357.2024"
+    },
+    {
+      "title": "Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene",
+      "authors": [
+        "Umar Farooq",
+        "Faryal Chudhary",
+        "Deeba Afzal",
+        "Waseem Abbas"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.51,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>The application of graph invariants serves as a valuable tool for analyzing the complex structures of molecular graphs, attracting researchers across various fields. Graph theory has played a pivotal role in explaining chemical structures and finding...",
+      "doi": "10.21203/rs.3.rs-3783303/v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-3783303/v1"
+    },
+    {
+      "title": "ON METRIC DIMENSION OF EDGE-CORONA GRAPHS",
+      "authors": [
+        "Rinurwati",
+        "Herry Suprajitno",
+        "Slamin"
+      ],
+      "year": 2017,
+      "venue": "Far East Journal of Mathematical Sciences (FJMS)",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.17654/ms102050965",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.17654/ms102050965"
+    },
+    {
+      "title": "Metric Dimension and Secure Metric Dimension of Some Graphs",
+      "authors": [],
+      "year": 2025,
+      "venue": "Applied Mathematics &amp; Information Sciences",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.18576/amis/190606",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.18576/amis/190606"
+    },
+    {
+      "title": "Edge based metric dimension of various coffee compounds",
+      "authors": [
+        "Ali Ahmad",
+        "Ali N. A. Koam",
+        "Muhammad Azeem",
+        "Ibtisam Masmali",
+        "Rehab Alharbi"
+      ],
+      "year": 2024,
+      "venue": "PLOS ONE",
+      "relevance_score": 0.48,
+      "abstract": "<jats:p>An important dietary source of physiologically active compounds, coffee also contains phenolic acids, diterpenes, and caffeine. According to a certain study, some coffee secondary metabolites may advantageously modify a number of anti-cancer defense systems. This research looked at a few cof...",
+      "doi": "10.1371/journal.pone.0294932",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1371/journal.pone.0294932"
+    },
+    {
+      "title": "Edge Resolvability for Circular Ladder of Heptagons",
+      "authors": [
+        "Jia-Bao Liu",
+        "Sunny Kumar Sharma",
+        "Vijay Kumar Bhat",
+        "Hassan Raza"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.47000000000000003,
+      "abstract": "A set $\\mathbb{Y}$ of elements (vertices or edges) in space is said to be a $generator$ of a metric space if each element of the space is recognized by its distances from the elements of $\\mathbb{Y}$, uniquely. The generator with minimum cardinality is known as the $basis$ of the metric space, and t...",
+      "doi": null,
+      "arxiv_id": "2104.12511",
+      "url": "http://arxiv.org/abs/2104.12511v2"
+    },
+    {
+      "title": "Edge Version of Metric Dimension and Doubly Resolving Sets of the Necklace Graph",
+      "authors": [
+        "Jia-Bao Liu",
+        "Zohaib Zahid",
+        "Ruby Nasir",
+        "Waqas Nazeer"
+      ],
+      "year": 2018,
+      "venue": "Mathematics",
+      "relevance_score": 0.45,
+      "abstract": "<jats:p>Consider an undirected and connected graph     G = (  V G  ,  E G  )    , where     V G     and     E G     represent the set of vertices and the set of edges respectively. The concept of edge version of metric dimension and doubly resolving sets is based on the distances of edges in a graph...",
+      "doi": "10.3390/math6110243",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3390/math6110243"
+    },
+    {
+      "title": "Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings",
+      "authors": [
+        "Pranjali",
+        "Amit Kumar",
+        "Rakshita Sharma"
+      ],
+      "year": 2025,
+      "venue": "Journal of Interconnection Networks",
+      "relevance_score": 0.4,
+      "abstract": "<jats:p> Let [Formula: see text] be a finite commutative semi-ring with [Formula: see text]. We define the unit graph of [Formula: see text], denoted [Formula: see text], as a graph where the vertices correspond to the elements of [Formula: see text]. Two distinct vertices [Formula: see text] and [F...",
+      "doi": "10.1142/s0219265925500136",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s0219265925500136"
+    },
+    {
+      "title": "Metric dimensions vs. cyclomatic number of graphs with minimum degree at least two",
+      "authors": [
+        "Jelena Sedlar",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.37,
+      "abstract": "The vertex (resp. edge) metric dimension of a connected graph G; denoted by dim(G) (resp. edim(G)), is defined as the size of a smallest set S in V (G) which distinguishes all pairs of vertices (resp. edges) in G: Bounds dim(G) <= L(G)+2c(G) and edim(G) <= L(G) + 2c(G); where c(G) is the cyclomatic ...",
+      "doi": null,
+      "arxiv_id": "2108.09573",
+      "url": "http://arxiv.org/abs/2108.09573v1"
+    },
+    {
+      "title": "Unbounded Mixed Resolvability of Web Graph and Prism Related Graph",
+      "authors": [
+        "Sunny Kumar Sharma",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.37,
+      "abstract": "Let $\\mathbb{E}(H)$ and $\\mathbb{V}(H)$ denote the edge set and the vertex set of the simple connected graph $H$, respectively. The mixed metric dimension of the graph $H$ is the graph invariant, which is the mixture of two important graph parameters, the edge metric dimension and the metric dimensi...",
+      "doi": null,
+      "arxiv_id": "2108.08588",
+      "url": "http://arxiv.org/abs/2108.08588v1"
+    },
+    {
+      "title": "\u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs",
+      "authors": [
+        "Zeinab Shahmiri",
+        "Darko Dimitrov",
+        "Mostafa Tavakoli"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36000000000000004,
+      "abstract": "",
+      "doi": "10.2139/ssrn.4953611",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.4953611"
+    },
+    {
+      "title": "Patched Network and Its Vertex-Edge Metric-Based Dimension",
+      "authors": [
+        "Sidra Bukhari",
+        "Muhammad Kamran Jamil",
+        "Muhammad Azeem",
+        "Senesie Swaray"
+      ],
+      "year": 2023,
+      "venue": "IEEE Access",
+      "relevance_score": 0.36000000000000004,
+      "abstract": "",
+      "doi": "10.1109/access.2023.3235398",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/access.2023.3235398"
+    },
+    {
+      "title": "The dominant metric dimension of the edge corona product graph",
+      "authors": [
+        "Siti Zahidah",
+        "Liliek Susilowati",
+        "Eric Lusvianto"
+      ],
+      "year": 2023,
+      "venue": "AIP Conference Proceedings",
+      "relevance_score": 0.36000000000000004,
+      "abstract": "",
+      "doi": "10.1063/5.0181065",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1063/5.0181065"
+    },
+    {
+      "title": "The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2)",
+      "authors": [
+        "Junya Lv",
+        "Xiaodong Lv",
+        "Ruby Nasir",
+        "Zohaib Zahid"
+      ],
+      "year": 2021,
+      "venue": "IEEE Access",
+      "relevance_score": 0.32000000000000006,
+      "abstract": "",
+      "doi": "10.1109/access.2021.3083182",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/access.2021.3083182"
+    },
+    {
+      "title": "Mixed metric dimension of graphs with edge disjoint cycles",
+      "authors": [
+        "Jelena Sedlar",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2021,
+      "venue": "Discrete Applied Mathematics",
+      "relevance_score": 0.32000000000000006,
+      "abstract": "",
+      "doi": "10.1016/j.dam.2021.05.004",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.dam.2021.05.004"
+    },
+    {
+      "title": "The effect of vertex or edge deletion on the metric dimension of graphs",
+      "authors": [
+        "Linda Eroh",
+        "Paul Feit",
+        "Cong X. Kang",
+        "Eunjeong Yi"
+      ],
+      "year": 2015,
+      "venue": "Journal of Combinatorics",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.4310/joc.2015.v6.n4.a2",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.4310/joc.2015.v6.n4.a2"
+    },
+    {
+      "title": "DIMENSION OF METRIC SPACES",
+      "authors": [
+        "JUN-ITI NAGATA"
+      ],
+      "year": 2014,
+      "venue": "Modern Dimension Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1016/b978-1-4832-2961-4.50006-5",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/b978-1-4832-2961-4.50006-5"
+    },
+    {
+      "title": "The metric dimension",
+      "authors": [],
+      "year": 2016,
+      "venue": "Mathematical Explorations",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1017/cbo9781316662595.011",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9781316662595.011"
+    },
+    {
+      "title": "DIMENSION OF SEPARABLE METRIC SPACES",
+      "authors": [
+        "JUN-ITI NAGATA"
+      ],
+      "year": 2014,
+      "venue": "Modern Dimension Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1016/b978-1-4832-2961-4.50008-9",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/b978-1-4832-2961-4.50008-9"
+    },
+    {
+      "title": "PubMed Paper 41266630",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41266630/"
+    },
+    {
+      "title": "PubMed Paper 40877386",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40877386/"
+    },
+    {
+      "title": "PubMed Paper 40163553",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40163553/"
+    },
+    {
+      "title": "PubMed Paper 40036293",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40036293/"
+    },
+    {
+      "title": "PubMed Paper 39035488",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39035488/"
+    },
+    {
+      "title": "PubMed Paper 38797733",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38797733/"
+    },
+    {
+      "title": "PubMed Paper 38444503",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38444503/"
+    }
+  ],
+  "claims": [
+    {
+      "statement": "Our effort creates a vital bond between antiprism and its edge-contracted counterpart: we give a scheme to regulate the MD of the edge-contracted graph, given the MD of the novel graph",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "exceptional devotion to the Antiprism",
+        "(MD) is an elementary metric that affords evidence nearly the essential selves of graphs",
+        "to the Antiprism",
+        "affects regular graphs\u2019 MDs",
+        "deviations both the MD and the underlying graph topology",
+        "and alteration of regular graphs in a variety of real-world  circumstances",
+        "elucidates these belongings and improves the field of graph theory"
+      ]
+    },
+    {
+      "statement": "In this paper these invariants are considered first for unicyclic graphs, and it is shown that the vertex and edge metric dimensions obtain values from two particular consecutive integers, which can be determined from the structure of the graph",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "edge disjoint cycles showing that the two invariants can differ at most by c",
+        "of G",
+        "of G"
+      ]
+    },
+    {
+      "statement": "First, we show that the metric and edge metric dimension of $Q_d$ differ by only one for every integer $d$",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "a vector of distances to this set",
+        "of a graph $G$",
+        "hypercube graphs",
+        "of $Q_d$ differ by only one for every integer $d$"
+      ]
+    }
+  ],
+  "contradictions": [],
+  "research_gaps": [
+    {
+      "description": "Limited use of cross-validation in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper cross-validation?",
+        "What are the best practices for cross-validation in this domain?",
+        "Why is cross-validation not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of ablation study in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper ablation study?",
+        "What are the best practices for ablation study in this domain?",
+        "Why is ablation study not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of statistical significance in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper statistical significance?",
+        "What are the best practices for statistical significance in this domain?",
+        "Why is statistical significance not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of baseline comparison in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper baseline comparison?",
+        "What are the best practices for baseline comparison in this domain?",
+        "Why is baseline comparison not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of error analysis in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper error analysis?",
+        "What are the best practices for error analysis in this domain?",
+        "Why is error analysis not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of hyperparameter tuning in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper hyperparameter tuning?",
+        "What are the best practices for hyperparameter tuning in this domain?",
+        "Why is hyperparameter tuning not commonly used?"
+      ]
+    },
+    {
+      "description": "Lack of real-world evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in real-world evaluation?",
+        "What are the challenges of conducting real-world evaluation?",
+        "What metrics are appropriate for real-world evaluation?"
+      ]
+    },
+    {
+      "description": "Lack of user study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in user study?",
+        "What are the challenges of conducting user study?",
+        "What metrics are appropriate for user study?"
+      ]
+    },
+    {
+      "description": "Lack of clinical trial in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in clinical trial?",
+        "What are the challenges of conducting clinical trial?",
+        "What metrics are appropriate for clinical trial?"
+      ]
+    },
+    {
+      "description": "Lack of longitudinal study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in longitudinal study?",
+        "What are the challenges of conducting longitudinal study?",
+        "What metrics are appropriate for longitudinal study?"
+      ]
+    },
+    {
+      "description": "Lack of multi-domain evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in multi-domain evaluation?",
+        "What are the challenges of conducting multi-domain evaluation?",
+        "What metrics are appropriate for multi-domain evaluation?"
+      ]
+    },
+    {
+      "description": "Need for recent comparative studies",
+      "type": "temporal_gap",
+      "priority": 0.5,
+      "potential_questions": [
+        "How do recent methods compare to established ones?",
+        "What are the latest trends and developments?",
+        "Which recent approaches show the most promise?"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "paper_id": "arxiv_2406_07019",
+      "bibtex": "@article{arxiv_2406_07019,\n  title={Edge Metric Dimension of Silicate Networks},\n  author={S. Prabhu and T. Jenifer Janany},\n  journal={arXiv preprint arXiv:2406.07019},\n  year={2024},\n  url={http://arxiv.org/abs/2406.07019v1}\n}",
+      "apa": "Prabhu, S. & Janany, T. J. (2024). Edge Metric Dimension of Silicate Networks. arXiv preprint arXiv:2406.07019.",
+      "ieee": "S. Prabhu, T. Jenifer Janany, \"Edge Metric Dimension of Silicate Networks,\" arXiv preprint arXiv:2406.07019, 2024.",
+      "mla": "Prabhu, S., and T. Jenifer Janany. \"Edge Metric Dimension of Silicate Networks.\" arXiv, 2406.07019, 2024.",
+      "custom_format": "\\bibitem{PrJa24} Prabhu, S., Janany, T. J., Edge metric dimension of silicate networks, arXiv \\textbf{1}(1) (2024) 1--10. http://arxiv.org/abs/2406.07019v1",
+      "paper_url": "http://arxiv.org/abs/2406.07019v1",
+      "journal_name": "arXiv",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_29020_nybg_ejpam_v17i3_5295",
+      "bibtex": "@article{10_29020_nybg_ejpam_v17i3_5295,\n  title={Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes},\n  author={Waseem Abbas and Faryal Chudhary and Umar Farooq and Muhammad Azeem and Yilun Shang},\n  journal={European Journal of Pure and Applied Mathematics},\n  year={2024},\n  doi={10.29020/nybg.ejpam.v17i3.5295},\n  url={https://doi.org/10.29020/nybg.ejpam.v17i3.5295}\n}",
+      "apa": "Abbas, W., Chudhary, F., Farooq, U., Azeem, M., & Shang, Y. (2024). Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes. European Journal of Pure and Applied Mathematics.",
+      "ieee": "Waseem Abbas et al., \"Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes,\" European Journal of Pure and Applied Mathematics, 2024.",
+      "mla": "Abbas, W., et al.. \"Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes.\" European Journal of Pure and Applied Mathematics, 2024.",
+      "custom_format": "\\bibitem{AbChFa24} Abbas, W., Chudhary, F., Farooq, U., Azeem, M., Shang, Y., Investigating metric dimension and edge metric dimension of hexagonal boron nitride and carbon nanotubes, European Journal of Pure and Applied Mathematics \\textbf{1}(1) (2024) 1--10. https://doi.org/10.29020/nybg.ejpam.v17i3.5295",
+      "paper_url": "https://doi.org/10.29020/nybg.ejpam.v17i3.5295",
+      "journal_name": "European Journal of Pure and Applied Mathematics",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1142_s1793830923500398",
+      "bibtex": "@article{10_1142_s1793830923500398,\n  title={Edge metric dimension and mixed metric dimension of a plane graph Tn},\n  author={Huige Shen and Jing Qu and Na Kang and Cong Lin},\n  journal={Discrete Mathematics, Algorithms and Applications},\n  year={2024},\n  doi={10.1142/s1793830923500398},\n  url={https://doi.org/10.1142/s1793830923500398}\n}",
+      "apa": "Shen, H., Qu, J., Kang, N., & Lin, C. (2024). Edge metric dimension and mixed metric dimension of a plane graph Tn. Discrete Mathematics, Algorithms and Applications.",
+      "ieee": "Huige Shen et al., \"Edge metric dimension and mixed metric dimension of a plane graph Tn,\" Discrete Mathematics, Algorithms and Applications, 2024.",
+      "mla": "Shen, H., et al.. \"Edge metric dimension and mixed metric dimension of a plane graph Tn.\" Discrete Mathematics, Algorithms and Applications, 2024.",
+      "custom_format": "\\bibitem{ShQuKa24} Shen, H., Qu, J., Kang, N., Lin, C., Edge metric dimension and mixed metric dimension of a plane graph tn, Discrete Mathematics, Algorithms and Applications \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1142/s1793830923500398",
+      "paper_url": "https://doi.org/10.1142/s1793830923500398",
+      "journal_name": "Discrete Mathematics, Algorithms and Applications",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_22199_issn_0717_6279_5770",
+      "bibtex": "@article{10_22199_issn_0717_6279_5770,\n  title={Edge metric dimension of some Cartesian product of graphs},\n  author={Saritha Chandran C. and Reji T.},\n  journal={Proyecciones (Antofagasta)},\n  year={2024},\n  doi={10.22199/issn.0717-6279-5770},\n  url={https://doi.org/10.22199/issn.0717-6279-5770}\n}",
+      "apa": "C., S. C. & T., R. (2024). Edge metric dimension of some Cartesian product of graphs. Proyecciones (Antofagasta).",
+      "ieee": "Saritha Chandran C., Reji T., \"Edge metric dimension of some Cartesian product of graphs,\" Proyecciones (Antofagasta), 2024.",
+      "mla": "C., S. C., and Reji T.. \"Edge metric dimension of some Cartesian product of graphs.\" Proyecciones (Antofagasta), 2024.",
+      "custom_format": "\\bibitem{C.T.24} C., S. C., T., R., Edge metric dimension of some cartesian product of graphs, Proyecciones (Antofagasta) \\textbf{1}(1) (2024) 1--10. https://doi.org/10.22199/issn.0717-6279-5770",
+      "paper_url": "https://doi.org/10.22199/issn.0717-6279-5770",
+      "journal_name": "Proyecciones (Antofagasta)",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_3934_math_2024795",
+      "bibtex": "@article{10_3934_math_2024795,\n  title={On the edge metric dimension of some classes of cacti},\n  author={Lyimo Sygbert Mhagama and Muhammad Faisal Nadeem and Mohamad Nazri Husin},\n  journal={AIMS Mathematics},\n  year={2024},\n  doi={10.3934/math.2024795},\n  url={https://doi.org/10.3934/math.2024795}\n}",
+      "apa": "Mhagama, L. S., Nadeem, M. F., & Husin, M. N. (2024). On the edge metric dimension of some classes of cacti. AIMS Mathematics.",
+      "ieee": "Lyimo Sygbert Mhagama, Muhammad Faisal Nadeem, Mohamad Nazri Husin, \"On the edge metric dimension of some classes of cacti,\" AIMS Mathematics, 2024.",
+      "mla": "Mhagama, L. S., et al.. \"On the edge metric dimension of some classes of cacti.\" AIMS Mathematics, 2024.",
+      "custom_format": "\\bibitem{MhNaHu24} Mhagama, L. S., Nadeem, M. F., Husin, M. N., On the edge metric dimension of some classes of cacti, AIMS Mathematics \\textbf{1}(1) (2024) 1--10. https://doi.org/10.3934/math.2024795",
+      "paper_url": "https://doi.org/10.3934/math.2024795",
+      "journal_name": "AIMS Mathematics",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1142_s1793830925501472",
+      "bibtex": "@article{10_1142_s1793830925501472,\n  title={The K-edge metric dimension of a graph},\n  author={Nosheen Goshi and Sohail Zafar and Tabasam Rashid},\n  journal={Discrete Mathematics, Algorithms and Applications},\n  year={2025},\n  doi={10.1142/s1793830925501472},\n  url={https://doi.org/10.1142/s1793830925501472}\n}",
+      "apa": "Goshi, N., Zafar, S., & Rashid, T. (2025). The K-edge metric dimension of a graph. Discrete Mathematics, Algorithms and Applications.",
+      "ieee": "Nosheen Goshi, Sohail Zafar, Tabasam Rashid, \"The K-edge metric dimension of a graph,\" Discrete Mathematics, Algorithms and Applications, 2025.",
+      "mla": "Goshi, N., et al.. \"The K-edge metric dimension of a graph.\" Discrete Mathematics, Algorithms and Applications, 2025.",
+      "custom_format": "\\bibitem{GoZaRa25} Goshi, N., Zafar, S., Rashid, T., The k-edge metric dimension of a graph, Discrete Mathematics, Algorithms and Applications \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1142/s1793830925501472",
+      "paper_url": "https://doi.org/10.1142/s1793830925501472",
+      "journal_name": "Discrete Mathematics, Algorithms and Applications",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_47974_jdmsc_2294",
+      "bibtex": "@article{10_47974_jdmsc_2294,\n  title={Central edge metric dimension of joint graph},\n  author={Moh. Affaf and Liliek Susilowati and Yayuk Wahyuni and Miswanto and Kamal Dliou},\n  journal={Journal of Discrete Mathematical Sciences &amp; Cryptography},\n  year={2026},\n  doi={10.47974/jdmsc-2294},\n  url={https://doi.org/10.47974/jdmsc-2294}\n}",
+      "apa": "Affaf, M., Susilowati, L., Wahyuni, Y., Miswanto, & Dliou, K. (2026). Central edge metric dimension of joint graph. Journal of Discrete Mathematical Sciences &amp; Cryptography.",
+      "ieee": "Moh. Affaf et al., \"Central edge metric dimension of joint graph,\" Journal of Discrete Mathematical Sciences &amp; Cryptography, 2026.",
+      "mla": "Affaf, M., et al.. \"Central edge metric dimension of joint graph.\" Journal of Discrete Mathematical Sciences &amp; Cryptography, 2026.",
+      "custom_format": "\\bibitem{AfSuWa26} Affaf, M., Susilowati, L., Wahyuni, Y., Miswanto, Dliou, K., Central edge metric dimension of joint graph, Journal of Discrete Mathematical Sciences &amp; Cryptography \\textbf{1}(1) (2026) 1--10. https://doi.org/10.47974/jdmsc-2294",
+      "paper_url": "https://doi.org/10.47974/jdmsc-2294",
+      "journal_name": "Journal of Discrete Mathematical Sciences &amp; Cryptography",
+      "year": 2026
+    },
+    {
+      "paper_id": "arxiv_2211_09327",
+      "bibtex": "@article{arxiv_2211_09327,\n  title={Unique identification and domination of edges in a graph: The vertex-edge dominant edge metric dimension},\n  author={H. M. Ikhlaq and S. Hayat and H. M. A. Siddiqui},\n  journal={arXiv preprint arXiv:2211.09327},\n  year={2022},\n  url={http://arxiv.org/abs/2211.09327v1}\n}",
+      "apa": "Ikhlaq, H. M., Hayat, S., & Siddiqui, H. M. A. (2022). Unique identification and domination of edges in a graph: The vertex-edge dominant edge metric dimension. arXiv preprint arXiv:2211.09327.",
+      "ieee": "H. M. Ikhlaq, S. Hayat, H. M. A. Siddiqui, \"Unique identification and domination of edges in a graph: The vertex-edge dominant edge metric dimension,\" arXiv preprint arXiv:2211.09327, 2022.",
+      "mla": "Ikhlaq, H. M., et al.. \"Unique identification and domination of edges in a graph: The vertex-edge dominant edge metric dimension.\" arXiv, 2211.09327, 2022.",
+      "custom_format": "\\bibitem{IkHaSi22} Ikhlaq, H. M., Hayat, S., Siddiqui, H. M. A., Unique identification and domination of edges in a graph: the vertex-edge dominant edge metric dimension, arXiv \\textbf{1}(1) (2022) 1--10. http://arxiv.org/abs/2211.09327v1",
+      "paper_url": "http://arxiv.org/abs/2211.09327v1",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2103_00215",
+      "bibtex": "@article{arxiv_2103_00215,\n  title={A note on the metric and edge metric dimensions of 2-connected graphs},\n  author={Martin Knor and Riste Skrekovski and Ismael G. Yero},\n  journal={arXiv preprint arXiv:2103.00215},\n  year={2021},\n  url={http://arxiv.org/abs/2103.00215v1}\n}",
+      "apa": "Knor, M., Skrekovski, R., & Yero, I. G. (2021). A note on the metric and edge metric dimensions of 2-connected graphs. arXiv preprint arXiv:2103.00215.",
+      "ieee": "Martin Knor, Riste Skrekovski, Ismael G. Yero, \"A note on the metric and edge metric dimensions of 2-connected graphs,\" arXiv preprint arXiv:2103.00215, 2021.",
+      "mla": "Knor, M., et al.. \"A note on the metric and edge metric dimensions of 2-connected graphs.\" arXiv, 2103.00215, 2021.",
+      "custom_format": "\\bibitem{KnSkYe21} Knor, M., Skrekovski, R., Yero, I. G., A note on the metric and edge metric dimensions of 2-connected graphs, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2103.00215v1",
+      "paper_url": "http://arxiv.org/abs/2103.00215v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2104_00577",
+      "bibtex": "@article{arxiv_2104_00577,\n  title={Vertex and edge metric dimensions of unicyclic graphs},\n  author={Jelena Sedlar and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:2104.00577},\n  year={2021},\n  url={http://arxiv.org/abs/2104.00577v1}\n}",
+      "apa": "Sedlar, J. & \u0160krekovski, R. (2021). Vertex and edge metric dimensions of unicyclic graphs. arXiv preprint arXiv:2104.00577.",
+      "ieee": "Jelena Sedlar, Riste \u0160krekovski, \"Vertex and edge metric dimensions of unicyclic graphs,\" arXiv preprint arXiv:2104.00577, 2021.",
+      "mla": "Sedlar, J., and Riste \u0160krekovski. \"Vertex and edge metric dimensions of unicyclic graphs.\" arXiv, 2104.00577, 2021.",
+      "custom_format": "\\bibitem{Se\u0160k21} Sedlar, J., \u0160krekovski, R., Vertex and edge metric dimensions of unicyclic graphs, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2104.00577v1",
+      "paper_url": "http://arxiv.org/abs/2104.00577v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2107_14484",
+      "bibtex": "@article{arxiv_2107_14484,\n  title={Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene},\n  author={Sunny Kumar Sharma and Vijay Kumar Bhat and Hassan Raza and Karnika Sharma},\n  journal={arXiv preprint arXiv:2107.14484},\n  year={2021},\n  url={http://arxiv.org/abs/2107.14484v1}\n}",
+      "apa": "Sharma, S. K., Bhat, V. K., Raza, H., & Sharma, K. (2021). Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene. arXiv preprint arXiv:2107.14484.",
+      "ieee": "Sunny Kumar Sharma et al., \"Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene,\" arXiv preprint arXiv:2107.14484, 2021.",
+      "mla": "Sharma, S. K., et al.. \"Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene.\" arXiv, 2107.14484, 2021.",
+      "custom_format": "\\bibitem{ShBhRa21} Sharma, S. K., Bhat, V. K., Raza, H., Sharma, K., Metric and edge metric dimension of zigzag edge coronoid fused with starphene, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2107.14484v1",
+      "paper_url": "http://arxiv.org/abs/2107.14484v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_3389_fphy_2021_749166",
+      "bibtex": "@article{10_3389_fphy_2021_749166,\n  title={Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone},\n  author={Sunny Kumar Sharma and Hassan Raza and Vijay Kumar Bhat},\n  journal={Frontiers in Physics},\n  year={2021},\n  doi={10.3389/fphy.2021.749166},\n  url={https://doi.org/10.3389/fphy.2021.749166}\n}",
+      "apa": "Sharma, S. K., Raza, H., & Bhat, V. K. (2021). Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone. Frontiers in Physics.",
+      "ieee": "Sunny Kumar Sharma, Hassan Raza, Vijay Kumar Bhat, \"Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone,\" Frontiers in Physics, 2021.",
+      "mla": "Sharma, S. K., et al.. \"Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone.\" Frontiers in Physics, 2021.",
+      "custom_format": "\\bibitem{ShRaBh21} Sharma, S. K., Raza, H., Bhat, V. K., Computing edge metric dimension of one-pentagonal carbon nanocone, Frontiers in Physics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.3389/fphy.2021.749166",
+      "paper_url": "https://doi.org/10.3389/fphy.2021.749166",
+      "journal_name": "Frontiers in Physics",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1142_s1793557121500625",
+      "bibtex": "@article{10_1142_s1793557121500625,\n  title={The comparative analysis of metric and edge metric dimension of some subdivisions of the wheel graph},\n  author={Zahid Raza and M. S. Bataineh},\n  journal={Asian-European Journal of Mathematics},\n  year={2021},\n  doi={10.1142/s1793557121500625},\n  url={https://doi.org/10.1142/s1793557121500625}\n}",
+      "apa": "Raza, Z. & Bataineh, M. S. (2021). The comparative analysis of metric and edge metric dimension of some subdivisions of the wheel graph. Asian-European Journal of Mathematics.",
+      "ieee": "Zahid Raza, M. S. Bataineh, \"The comparative analysis of metric and edge metric dimension of some subdivisions of the wheel graph,\" Asian-European Journal of Mathematics, 2021.",
+      "mla": "Raza, Z., and M. S. Bataineh. \"The comparative analysis of metric and edge metric dimension of some subdivisions of the wheel graph.\" Asian-European Journal of Mathematics, 2021.",
+      "custom_format": "\\bibitem{RaBa21} Raza, Z., Bataineh, M. S., The comparative analysis of metric and edge metric dimension of some subdivisions of the wheel graph, Asian-European Journal of Mathematics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1142/s1793557121500625",
+      "paper_url": "https://doi.org/10.1142/s1793557121500625",
+      "journal_name": "Asian-European Journal of Mathematics",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2006_11772",
+      "bibtex": "@article{arxiv_2006_11772,\n  title={Graphs with the edge metric dimension smaller than the metric dimension},\n  author={Martin Knor and Snjezana Majstorovic and Aoden Teo Masa Toshi and Riste Skrekovski and Ismael G. Yero},\n  journal={arXiv preprint arXiv:2006.11772},\n  year={2020},\n  url={http://arxiv.org/abs/2006.11772v1}\n}",
+      "apa": "Knor, M., Majstorovic, S., Toshi, A. T. M., Skrekovski, R., & Yero, I. G. (2020). Graphs with the edge metric dimension smaller than the metric dimension. arXiv preprint arXiv:2006.11772.",
+      "ieee": "Martin Knor et al., \"Graphs with the edge metric dimension smaller than the metric dimension,\" arXiv preprint arXiv:2006.11772, 2020.",
+      "mla": "Knor, M., et al.. \"Graphs with the edge metric dimension smaller than the metric dimension.\" arXiv, 2006.11772, 2020.",
+      "custom_format": "\\bibitem{KnMaTo20} Knor, M., Majstorovic, S., Toshi, A. T. M., Skrekovski, R., Yero, I. G., Graphs with the edge metric dimension smaller than the metric dimension, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2006.11772v1",
+      "paper_url": "http://arxiv.org/abs/2006.11772v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_1602_00291",
+      "bibtex": "@article{arxiv_1602_00291,\n  title={Uniquely identifying the edges of a graph: the edge metric dimension},\n  author={Aleksander Kelenc and Niko Tratnik and Ismael G. Yero},\n  journal={arXiv preprint arXiv:1602.00291},\n  year={2016},\n  url={http://arxiv.org/abs/1602.00291v1}\n}",
+      "apa": "Kelenc, A., Tratnik, N., & Yero, I. G. (2016). Uniquely identifying the edges of a graph: the edge metric dimension. arXiv preprint arXiv:1602.00291.",
+      "ieee": "Aleksander Kelenc, Niko Tratnik, Ismael G. Yero, \"Uniquely identifying the edges of a graph: the edge metric dimension,\" arXiv preprint arXiv:1602.00291, 2016.",
+      "mla": "Kelenc, A., et al.. \"Uniquely identifying the edges of a graph: the edge metric dimension.\" arXiv, 1602.00291, 2016.",
+      "custom_format": "\\bibitem{KeTrYe16} Kelenc, A., Tratnik, N., Yero, I. G., Uniquely identifying the edges of a graph: the edge metric dimension, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1602.00291v1",
+      "paper_url": "http://arxiv.org/abs/1602.00291v1",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_1807_00580",
+      "bibtex": "@article{arxiv_1807_00580,\n  title={Edge metric dimension of some generalized Petersen graphs},\n  author={Vladimir Filipovic. Aleksandar Kartelj and Jozef Kratica},\n  journal={arXiv preprint arXiv:1807.00580},\n  year={2018},\n  url={http://arxiv.org/abs/1807.00580v3}\n}",
+      "apa": "Kartelj, V. F. A. & Kratica, J. (2018). Edge metric dimension of some generalized Petersen graphs. arXiv preprint arXiv:1807.00580.",
+      "ieee": "Vladimir Filipovic. Aleksandar Kartelj, Jozef Kratica, \"Edge metric dimension of some generalized Petersen graphs,\" arXiv preprint arXiv:1807.00580, 2018.",
+      "mla": "Kartelj, V. F. A., and Jozef Kratica. \"Edge metric dimension of some generalized Petersen graphs.\" arXiv, 1807.00580, 2018.",
+      "custom_format": "\\bibitem{KaKr18} Kartelj, V. F. A., Kratica, J., Edge metric dimension of some generalized petersen graphs, arXiv \\textbf{1}(1) (2018) 1--10. http://arxiv.org/abs/1807.00580v3",
+      "paper_url": "http://arxiv.org/abs/1807.00580v3",
+      "journal_name": "arXiv",
+      "year": 2018
+    },
+    {
+      "paper_id": "arxiv_1809_08900",
+      "bibtex": "@article{arxiv_1809_08900,\n  title={Edge metric dimension of some graph operations},\n  author={Iztok Peterin and Ismael G. Yero},\n  journal={arXiv preprint arXiv:1809.08900},\n  year={2018},\n  url={http://arxiv.org/abs/1809.08900v1}\n}",
+      "apa": "Peterin, I. & Yero, I. G. (2018). Edge metric dimension of some graph operations. arXiv preprint arXiv:1809.08900.",
+      "ieee": "Iztok Peterin, Ismael G. Yero, \"Edge metric dimension of some graph operations,\" arXiv preprint arXiv:1809.08900, 2018.",
+      "mla": "Peterin, I., and Ismael G. Yero. \"Edge metric dimension of some graph operations.\" arXiv, 1809.08900, 2018.",
+      "custom_format": "\\bibitem{PeYe18} Peterin, I., Yero, I. G., Edge metric dimension of some graph operations, arXiv \\textbf{1}(1) (2018) 1--10. http://arxiv.org/abs/1809.08900v1",
+      "paper_url": "http://arxiv.org/abs/1809.08900v1",
+      "journal_name": "arXiv",
+      "year": 2018
+    },
+    {
+      "paper_id": "arxiv_2003_04045",
+      "bibtex": "@article{arxiv_2003_04045,\n  title={Edge metric dimensions via hierarchical product and integer linear programming},\n  author={Sandi Klav\u017ear and Mostafa Tavakoli},\n  journal={arXiv preprint arXiv:2003.04045},\n  year={2020},\n  url={http://arxiv.org/abs/2003.04045v1}\n}",
+      "apa": "Klav\u017ear, S. & Tavakoli, M. (2020). Edge metric dimensions via hierarchical product and integer linear programming. arXiv preprint arXiv:2003.04045.",
+      "ieee": "Sandi Klav\u017ear, Mostafa Tavakoli, \"Edge metric dimensions via hierarchical product and integer linear programming,\" arXiv preprint arXiv:2003.04045, 2020.",
+      "mla": "Klav\u017ear, S., and Mostafa Tavakoli. \"Edge metric dimensions via hierarchical product and integer linear programming.\" arXiv, 2003.04045, 2020.",
+      "custom_format": "\\bibitem{KlTa20} Klav\u017ear, S., Tavakoli, M., Edge metric dimensions via hierarchical product and integer linear programming, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2003.04045v1",
+      "paper_url": "http://arxiv.org/abs/2003.04045v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_1612_06936",
+      "bibtex": "@article{arxiv_1612_06936,\n  title={On the edge metric dimension for the random graph},\n  author={Nina Zubrilina},\n  journal={arXiv preprint arXiv:1612.06936},\n  year={2016},\n  url={http://arxiv.org/abs/1612.06936v1}\n}",
+      "apa": "Zubrilina, N. (2016). On the edge metric dimension for the random graph. arXiv preprint arXiv:1612.06936.",
+      "ieee": "Nina Zubrilina, \"On the edge metric dimension for the random graph,\" arXiv preprint arXiv:1612.06936, 2016.",
+      "mla": "Zubrilina, N.. \"On the edge metric dimension for the random graph.\" arXiv, 1612.06936, 2016.",
+      "custom_format": "\\bibitem{Zu16} Zubrilina, N., On the edge metric dimension for the random graph, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1612.06936v1",
+      "paper_url": "http://arxiv.org/abs/1612.06936v1",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "10_2478_auom_2020_0032",
+      "bibtex": "@article{10_2478_auom_2020_0032,\n  title={Edge metric dimension of some classes of circulant graphs},\n  author={Muhammad Ahsan and Zohaib Zahid and Sohail Zafar},\n  journal={Analele Universitatii \"Ovidius\" Constanta - Seria Matematica},\n  year={2020},\n  doi={10.2478/auom-2020-0032},\n  url={https://doi.org/10.2478/auom-2020-0032}\n}",
+      "apa": "Ahsan, M., Zahid, Z., & Zafar, S. (2020). Edge metric dimension of some classes of circulant graphs. Analele Universitatii \"Ovidius\" Constanta - Seria Matematica.",
+      "ieee": "Muhammad Ahsan, Zohaib Zahid, Sohail Zafar, \"Edge metric dimension of some classes of circulant graphs,\" Analele Universitatii \"Ovidius\" Constanta - Seria Matematica, 2020.",
+      "mla": "Ahsan, M., et al.. \"Edge metric dimension of some classes of circulant graphs.\" Analele Universitatii \"Ovidius\" Constanta - Seria Matematica, 2020.",
+      "custom_format": "\\bibitem{AhZaZa20} Ahsan, M., Zahid, Z., Zafar, S., Edge metric dimension of some classes of circulant graphs, Analele Universitatii \"Ovidius\" Constanta - Seria Matematica \\textbf{1}(1) (2020) 1--10. https://doi.org/10.2478/auom-2020-0032",
+      "paper_url": "https://doi.org/10.2478/auom-2020-0032",
+      "journal_name": "Analele Universitatii \"Ovidius\" Constanta - Seria Matematica",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_12962_j24775401_v10i1_20267",
+      "bibtex": "@article{10_12962_j24775401_v10i1_20267,\n  title={Bi-Edge Metric Dimension of Graphs},\n  author={Rinurwati Rinurwati and Fadillah Dian Maharani},\n  journal={International Journal of Computing Science and Applied Mathematics},\n  year={2024},\n  doi={10.12962/j24775401.v10i1.20267},\n  url={https://doi.org/10.12962/j24775401.v10i1.20267}\n}",
+      "apa": "Rinurwati, R. & Maharani, F. D. (2024). Bi-Edge Metric Dimension of Graphs. International Journal of Computing Science and Applied Mathematics.",
+      "ieee": "Rinurwati Rinurwati, Fadillah Dian Maharani, \"Bi-Edge Metric Dimension of Graphs,\" International Journal of Computing Science and Applied Mathematics, 2024.",
+      "mla": "Rinurwati, R., and Fadillah Dian Maharani. \"Bi-Edge Metric Dimension of Graphs.\" International Journal of Computing Science and Applied Mathematics, 2024.",
+      "custom_format": "\\bibitem{RiMa24} Rinurwati, R., Maharani, F. D., Bi-edge metric dimension of graphs, International Journal of Computing Science and Applied Mathematics \\textbf{1}(1) (2024) 1--10. https://doi.org/10.12962/j24775401.v10i1.20267",
+      "paper_url": "https://doi.org/10.12962/j24775401.v10i1.20267",
+      "journal_name": "International Journal of Computing Science and Applied Mathematics",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_3390_axioms14070499",
+      "bibtex": "@article{10_3390_axioms14070499,\n  title={Fault-Tolerant Edge Metric Dimension of Zero-Divisor Graphs of Commutative Rings},\n  author={Omaima Alshanquiti and Malkesh Singh and Vijay Kumar Bhat},\n  journal={Axioms},\n  year={2025},\n  doi={10.3390/axioms14070499},\n  url={https://doi.org/10.3390/axioms14070499}\n}",
+      "apa": "Alshanquiti, O., Singh, M., & Bhat, V. K. (2025). Fault-Tolerant Edge Metric Dimension of Zero-Divisor Graphs of Commutative Rings. Axioms.",
+      "ieee": "Omaima Alshanquiti, Malkesh Singh, Vijay Kumar Bhat, \"Fault-Tolerant Edge Metric Dimension of Zero-Divisor Graphs of Commutative Rings,\" Axioms, 2025.",
+      "mla": "Alshanquiti, O., et al.. \"Fault-Tolerant Edge Metric Dimension of Zero-Divisor Graphs of Commutative Rings.\" Axioms, 2025.",
+      "custom_format": "\\bibitem{AlSiBh25} Alshanquiti, O., Singh, M., Bhat, V. K., Fault-tolerant edge metric dimension of zero-divisor graphs of commutative rings, Axioms \\textbf{1}(1) (2025) 1--10. https://doi.org/10.3390/axioms14070499",
+      "paper_url": "https://doi.org/10.3390/axioms14070499",
+      "journal_name": "Axioms",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2203_07335",
+      "bibtex": "@article{arxiv_2203_07335,\n  title={Remarks on the vertex and the edge metric dimension of 2-connected graphs},\n  author={Martin Knor and Jelena Sedlar and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:2203.07335},\n  year={2022},\n  url={http://arxiv.org/abs/2203.07335v1}\n}",
+      "apa": "Knor, M., Sedlar, J., & \u0160krekovski, R. (2022). Remarks on the vertex and the edge metric dimension of 2-connected graphs. arXiv preprint arXiv:2203.07335.",
+      "ieee": "Martin Knor, Jelena Sedlar, Riste \u0160krekovski, \"Remarks on the vertex and the edge metric dimension of 2-connected graphs,\" arXiv preprint arXiv:2203.07335, 2022.",
+      "mla": "Knor, M., et al.. \"Remarks on the vertex and the edge metric dimension of 2-connected graphs.\" arXiv, 2203.07335, 2022.",
+      "custom_format": "\\bibitem{KnSe\u0160k22} Knor, M., Sedlar, J., \u0160krekovski, R., Remarks on the vertex and the edge metric dimension of 2-connected graphs, arXiv \\textbf{1}(1) (2022) 1--10. http://arxiv.org/abs/2203.07335v1",
+      "paper_url": "http://arxiv.org/abs/2203.07335v1",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2111_12261",
+      "bibtex": "@article{arxiv_2111_12261,\n  title={Metric dimension and edge metric dimension of unicyclic graphs},\n  author={Enqiang Zhu and Shaoxiang Peng and Chanjuan Liu},\n  journal={arXiv preprint arXiv:2111.12261},\n  year={2021},\n  url={http://arxiv.org/abs/2111.12261v1}\n}",
+      "apa": "Zhu, E., Peng, S., & Liu, C. (2021). Metric dimension and edge metric dimension of unicyclic graphs. arXiv preprint arXiv:2111.12261.",
+      "ieee": "Enqiang Zhu, Shaoxiang Peng, Chanjuan Liu, \"Metric dimension and edge metric dimension of unicyclic graphs,\" arXiv preprint arXiv:2111.12261, 2021.",
+      "mla": "Zhu, E., et al.. \"Metric dimension and edge metric dimension of unicyclic graphs.\" arXiv, 2111.12261, 2021.",
+      "custom_format": "\\bibitem{ZhPeLi21} Zhu, E., Peng, S., Liu, C., Metric dimension and edge metric dimension of unicyclic graphs, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2111.12261v1",
+      "paper_url": "http://arxiv.org/abs/2111.12261v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2107_01397",
+      "bibtex": "@article{arxiv_2107_01397,\n  title={Vertex and edge metric dimensions of cacti},\n  author={Jelena Sedlar and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:2107.01397},\n  year={2021},\n  url={http://arxiv.org/abs/2107.01397v1}\n}",
+      "apa": "Sedlar, J. & \u0160krekovski, R. (2021). Vertex and edge metric dimensions of cacti. arXiv preprint arXiv:2107.01397.",
+      "ieee": "Jelena Sedlar, Riste \u0160krekovski, \"Vertex and edge metric dimensions of cacti,\" arXiv preprint arXiv:2107.01397, 2021.",
+      "mla": "Sedlar, J., and Riste \u0160krekovski. \"Vertex and edge metric dimensions of cacti.\" arXiv, 2107.01397, 2021.",
+      "custom_format": "\\bibitem{Se\u0160k21} Sedlar, J., \u0160krekovski, R., Vertex and edge metric dimensions of cacti, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2107.01397v1",
+      "paper_url": "http://arxiv.org/abs/2107.01397v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_3390_math9121405",
+      "bibtex": "@article{10_3390_math9121405,\n  title={Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid},\n  author={Ali N. A. Koam and Ali Ahmad and Muhammad Ibrahim and Muhammad Azeem},\n  journal={Mathematics},\n  year={2021},\n  doi={10.3390/math9121405},\n  url={https://doi.org/10.3390/math9121405}\n}",
+      "apa": "Koam, A. N. A., Ahmad, A., Ibrahim, M., & Azeem, M. (2021). Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid. Mathematics.",
+      "ieee": "Ali N. A. Koam et al., \"Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid,\" Mathematics, 2021.",
+      "mla": "Koam, A. N. A., et al.. \"Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid.\" Mathematics, 2021.",
+      "custom_format": "\\bibitem{KoAhIb21} Koam, A. N. A., Ahmad, A., Ibrahim, M., Azeem, M., Edge metric and fault-tolerant edge metric dimension of hollow coronoid, Mathematics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.3390/math9121405",
+      "paper_url": "https://doi.org/10.3390/math9121405",
+      "journal_name": "Mathematics",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_25077_jmua_14_3_232_239_2025",
+      "bibtex": "@article{10_25077_jmua_14_3_232_239_2025,\n  title={ON THE EDGE METRIC DIMENSION OF HELM AND CLOSED HELM GRAPH},\n  author={Deddy Rahmadi and Muhammad Fauzi Nur Robiultsani and Muchammad Abrori},\n  journal={Jurnal Matematika UNAND},\n  year={2025},\n  doi={10.25077/jmua.14.3.232-239.2025},\n  url={https://doi.org/10.25077/jmua.14.3.232-239.2025}\n}",
+      "apa": "Rahmadi, D., Robiultsani, M. F. N., & Abrori, M. (2025). ON THE EDGE METRIC DIMENSION OF HELM AND CLOSED HELM GRAPH. Jurnal Matematika UNAND.",
+      "ieee": "Deddy Rahmadi, Muhammad Fauzi Nur Robiultsani, Muchammad Abrori, \"ON THE EDGE METRIC DIMENSION OF HELM AND CLOSED HELM GRAPH,\" Jurnal Matematika UNAND, 2025.",
+      "mla": "Rahmadi, D., et al.. \"ON THE EDGE METRIC DIMENSION OF HELM AND CLOSED HELM GRAPH.\" Jurnal Matematika UNAND, 2025.",
+      "custom_format": "\\bibitem{RaRoAb25} Rahmadi, D., Robiultsani, M. F. N., Abrori, M., On the edge metric dimension of helm and closed helm graph, Jurnal Matematika UNAND \\textbf{1}(1) (2025) 1--10. https://doi.org/10.25077/jmua.14.3.232-239.2025",
+      "paper_url": "https://doi.org/10.25077/jmua.14.3.232-239.2025",
+      "journal_name": "Jurnal Matematika UNAND",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_47836_mjms_19_2_13",
+      "bibtex": "@article{10_47836_mjms_19_2_13,\n  title={On Examining Metric Dimension Through Edge Contraction in Certain Families of Graphs},\n  author={H. Saleem and M. N. Husin and S. Ali and M. S. Hameed},\n  journal={Malaysian Journal of Mathematical Sciences},\n  year={2025},\n  doi={10.47836/mjms.19.2.13},\n  url={https://doi.org/10.47836/mjms.19.2.13}\n}",
+      "apa": "Saleem, H., Husin, M. N., Ali, S., & Hameed, M. S. (2025). On Examining Metric Dimension Through Edge Contraction in Certain Families of Graphs. Malaysian Journal of Mathematical Sciences.",
+      "ieee": "H. Saleem et al., \"On Examining Metric Dimension Through Edge Contraction in Certain Families of Graphs,\" Malaysian Journal of Mathematical Sciences, 2025.",
+      "mla": "Saleem, H., et al.. \"On Examining Metric Dimension Through Edge Contraction in Certain Families of Graphs.\" Malaysian Journal of Mathematical Sciences, 2025.",
+      "custom_format": "\\bibitem{SaHuAl25} Saleem, H., Husin, M. N., Ali, S., Hameed, M. S., On examining metric dimension through edge contraction in certain families of graphs, Malaysian Journal of Mathematical Sciences \\textbf{1}(1) (2025) 1--10. https://doi.org/10.47836/mjms.19.2.13",
+      "paper_url": "https://doi.org/10.47836/mjms.19.2.13",
+      "journal_name": "Malaysian Journal of Mathematical Sciences",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1038_s41598_024_62063_6",
+      "bibtex": "@article{10_1038_s41598_024_62063_6,\n  title={Computing edge version of metric dimension of certain chemical networks},\n  author={Muhammad Umer Farooq and Muhammad Hussain and Ahmed Zubair Jan and Afraz Hussain Mjaeed and Mirwais Sediqma and Ayesha Amjad},\n  journal={Scientific Reports},\n  year={2024},\n  doi={10.1038/s41598-024-62063-6},\n  url={https://doi.org/10.1038/s41598-024-62063-6}\n}",
+      "apa": "Farooq, M. U., Hussain, M., Jan, A. Z., Mjaeed, A. H., Sediqma, M., & Amjad, A. (2024). Computing edge version of metric dimension of certain chemical networks. Scientific Reports.",
+      "ieee": "Muhammad Umer Farooq et al., \"Computing edge version of metric dimension of certain chemical networks,\" Scientific Reports, 2024.",
+      "mla": "Farooq, M. U., et al.. \"Computing edge version of metric dimension of certain chemical networks.\" Scientific Reports, 2024.",
+      "custom_format": "\\bibitem{FaHuJa24} Farooq, M. U., Hussain, M., Jan, A. Z., Mjaeed, A. H., Sediqma, M., Amjad, A., Computing edge version of metric dimension of certain chemical networks, Scientific Reports \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1038/s41598-024-62063-6",
+      "paper_url": "https://doi.org/10.1038/s41598-024-62063-6",
+      "journal_name": "Scientific Reports",
+      "year": 2024
+    },
+    {
+      "paper_id": "arxiv_2005_08038",
+      "bibtex": "@article{arxiv_2005_08038,\n  title={The edge metric dimension of the generalized Petersen graph $P(n,3)$ is 4},\n  author={David G. L. Wang and Monica M. Y. Wang and Shiqiang Zhang},\n  journal={arXiv preprint arXiv:2005.08038},\n  year={2020},\n  url={http://arxiv.org/abs/2005.08038v3}\n}",
+      "apa": "Wang, D. G. L., Wang, M. M. Y., & Zhang, S. (2020). The edge metric dimension of the generalized Petersen graph $P(n,3)$ is 4. arXiv preprint arXiv:2005.08038.",
+      "ieee": "David G. L. Wang, Monica M. Y. Wang, Shiqiang Zhang, \"The edge metric dimension of the generalized Petersen graph $P(n,3)$ is 4,\" arXiv preprint arXiv:2005.08038, 2020.",
+      "mla": "Wang, D. G. L., et al.. \"The edge metric dimension of the generalized Petersen graph $P(n,3)$ is 4.\" arXiv, 2005.08038, 2020.",
+      "custom_format": "\\bibitem{WaWaZh20} Wang, D. G. L., Wang, M. M. Y., Zhang, S., The edge metric dimension of the generalized petersen graph $p(n,3)$ is 4, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2005.08038v3",
+      "paper_url": "http://arxiv.org/abs/2005.08038v3",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1016_j_exco_2024_100152",
+      "bibtex": "@article{10_1016_j_exco_2024_100152,\n  title={On Some families of Path-related graphs with their edge metric dimension},\n  author={Lianglin Li and Shu Bao and Hassan Raza},\n  journal={Examples and Counterexamples},\n  year={2024},\n  doi={10.1016/j.exco.2024.100152},\n  url={https://doi.org/10.1016/j.exco.2024.100152}\n}",
+      "apa": "Li, L., Bao, S., & Raza, H. (2024). On Some families of Path-related graphs with their edge metric dimension. Examples and Counterexamples.",
+      "ieee": "Lianglin Li, Shu Bao, Hassan Raza, \"On Some families of Path-related graphs with their edge metric dimension,\" Examples and Counterexamples, 2024.",
+      "mla": "Li, L., et al.. \"On Some families of Path-related graphs with their edge metric dimension.\" Examples and Counterexamples, 2024.",
+      "custom_format": "\\bibitem{LiBaRa24} Li, L., Bao, S., Raza, H., On some families of path-related graphs with their edge metric dimension, Examples and Counterexamples \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1016/j.exco.2024.100152",
+      "paper_url": "https://doi.org/10.1016/j.exco.2024.100152",
+      "journal_name": "Examples and Counterexamples",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_2139_ssrn_4769772",
+      "bibtex": "@article{10_2139_ssrn_4769772,\n  title={Strong Edge Metric Dimension of Graphs},\n  author={Mojgan Afkhami},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.4769772},\n  url={https://doi.org/10.2139/ssrn.4769772}\n}",
+      "apa": "Afkhami, M. (2023). Strong Edge Metric Dimension of Graphs. .",
+      "ieee": "Mojgan Afkhami, \"Strong Edge Metric Dimension of Graphs,\" , 2023.",
+      "mla": "Afkhami, M.. \"Strong Edge Metric Dimension of Graphs.\" , 2023.",
+      "custom_format": "\\bibitem{Af23} Afkhami, M., Strong edge metric dimension of graphs,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.4769772",
+      "paper_url": "https://doi.org/10.2139/ssrn.4769772",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1155_2023_9837357",
+      "bibtex": "@article{10_1155_2023_9837357,\n  title={Retracted: On the Edge Metric Dimension of Certain Polyphenyl Chains},\n  author={},\n  journal={Journal of Chemistry},\n  year={2023},\n  doi={10.1155/2023/9837357},\n  url={https://doi.org/10.1155/2023/9837357}\n}",
+      "apa": "Unknown Author (2023). Retracted: On the Edge Metric Dimension of Certain Polyphenyl Chains. Journal of Chemistry.",
+      "ieee": "Unknown Author, \"Retracted: On the Edge Metric Dimension of Certain Polyphenyl Chains,\" Journal of Chemistry, 2023.",
+      "mla": "Unknown Author. \"Retracted: On the Edge Metric Dimension of Certain Polyphenyl Chains.\" Journal of Chemistry, 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Retracted: on the edge metric dimension of certain polyphenyl chains, Journal of Chemistry \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1155/2023/9837357",
+      "paper_url": "https://doi.org/10.1155/2023/9837357",
+      "journal_name": "Journal of Chemistry",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_5614_ejgta_2023_11_1_16",
+      "bibtex": "@article{10_5614_ejgta_2023_11_1_16,\n  title={The dominant edge metric dimension of graphs},\n  author={Mostafa Tavakoli and Meysam Korivand and Ahmad Erfanian and Gholamreza Abrishami and Edy Tri Baskoro},\n  journal={Electronic Journal of Graph Theory and Applications},\n  year={2023},\n  doi={10.5614/ejgta.2023.11.1.16},\n  url={https://doi.org/10.5614/ejgta.2023.11.1.16}\n}",
+      "apa": "Tavakoli, M., Korivand, M., Erfanian, A., Abrishami, G., & Baskoro, E. T. (2023). The dominant edge metric dimension of graphs. Electronic Journal of Graph Theory and Applications.",
+      "ieee": "Mostafa Tavakoli et al., \"The dominant edge metric dimension of graphs,\" Electronic Journal of Graph Theory and Applications, 2023.",
+      "mla": "Tavakoli, M., et al.. \"The dominant edge metric dimension of graphs.\" Electronic Journal of Graph Theory and Applications, 2023.",
+      "custom_format": "\\bibitem{TaKoEr23} Tavakoli, M., Korivand, M., Erfanian, A., Abrishami, G., Baskoro, E. T., The dominant edge metric dimension of graphs, Electronic Journal of Graph Theory and Applications \\textbf{1}(1) (2023) 1--10. https://doi.org/10.5614/ejgta.2023.11.1.16",
+      "paper_url": "https://doi.org/10.5614/ejgta.2023.11.1.16",
+      "journal_name": "Electronic Journal of Graph Theory and Applications",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2010_10326",
+      "bibtex": "@article{arxiv_2010_10326,\n  title={Bounds on metric dimensions of graphs with edge disjoint cycles},\n  author={Jelena Sedlar and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:2010.10326},\n  year={2020},\n  url={http://arxiv.org/abs/2010.10326v1}\n}",
+      "apa": "Sedlar, J. & \u0160krekovski, R. (2020). Bounds on metric dimensions of graphs with edge disjoint cycles. arXiv preprint arXiv:2010.10326.",
+      "ieee": "Jelena Sedlar, Riste \u0160krekovski, \"Bounds on metric dimensions of graphs with edge disjoint cycles,\" arXiv preprint arXiv:2010.10326, 2020.",
+      "mla": "Sedlar, J., and Riste \u0160krekovski. \"Bounds on metric dimensions of graphs with edge disjoint cycles.\" arXiv, 2010.10326, 2020.",
+      "custom_format": "\\bibitem{Se\u0160k20} Sedlar, J., \u0160krekovski, R., Bounds on metric dimensions of graphs with edge disjoint cycles, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2010.10326v1",
+      "paper_url": "http://arxiv.org/abs/2010.10326v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_2502_02731",
+      "bibtex": "@article{arxiv_2502_02731,\n  title={Fault tolerance for metric dimension and its variants},\n  author={Jesse Geneson and Shen-Fu Tsai},\n  journal={arXiv preprint arXiv:2502.02731},\n  year={2025},\n  url={http://arxiv.org/abs/2502.02731v1}\n}",
+      "apa": "Geneson, J. & Tsai, S. (2025). Fault tolerance for metric dimension and its variants. arXiv preprint arXiv:2502.02731.",
+      "ieee": "Jesse Geneson, Shen-Fu Tsai, \"Fault tolerance for metric dimension and its variants,\" arXiv preprint arXiv:2502.02731, 2025.",
+      "mla": "Geneson, J., and Shen-Fu Tsai. \"Fault tolerance for metric dimension and its variants.\" arXiv, 2502.02731, 2025.",
+      "custom_format": "\\bibitem{GeTs25} Geneson, J., Tsai, S., Fault tolerance for metric dimension and its variants, arXiv \\textbf{1}(1) (2025) 1--10. http://arxiv.org/abs/2502.02731v1",
+      "paper_url": "http://arxiv.org/abs/2502.02731v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2510_00530",
+      "bibtex": "@article{arxiv_2510_00530,\n  title={Throttling for metric dimension and its variants},\n  author={Boris Brimkov and Peter Diao and Jesse Geneson and Carolyn Reinhart and Shen-Fu Tsai and William Wang and Kyle Worley},\n  journal={arXiv preprint arXiv:2510.00530},\n  year={2025},\n  url={http://arxiv.org/abs/2510.00530v1}\n}",
+      "apa": "Brimkov, B., Diao, P., Geneson, J., Reinhart, C., Tsai, S., Wang, W., & Worley, K. (2025). Throttling for metric dimension and its variants. arXiv preprint arXiv:2510.00530.",
+      "ieee": "Boris Brimkov et al., \"Throttling for metric dimension and its variants,\" arXiv preprint arXiv:2510.00530, 2025.",
+      "mla": "Brimkov, B., et al.. \"Throttling for metric dimension and its variants.\" arXiv, 2510.00530, 2025.",
+      "custom_format": "\\bibitem{BrDiGe25} Brimkov, B., Diao, P., Geneson, J., Reinhart, C., Tsai, S., Wang, W., Worley, K., Throttling for metric dimension and its variants, arXiv \\textbf{1}(1) (2025) 1--10. http://arxiv.org/abs/2510.00530v1",
+      "paper_url": "http://arxiv.org/abs/2510.00530v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1007_s10878_021_00838_7",
+      "bibtex": "@article{10_1007_s10878_021_00838_7,\n  title={The effect of vertex and edge deletion on the edge metric dimension of graphs},\n  author={Meiqin Wei and Jun Yue and Lily Chen},\n  journal={Journal of Combinatorial Optimization},\n  year={2022},\n  doi={10.1007/s10878-021-00838-7},\n  url={https://doi.org/10.1007/s10878-021-00838-7}\n}",
+      "apa": "Wei, M., Yue, J., & Chen, L. (2022). The effect of vertex and edge deletion on the edge metric dimension of graphs. Journal of Combinatorial Optimization.",
+      "ieee": "Meiqin Wei, Jun Yue, Lily Chen, \"The effect of vertex and edge deletion on the edge metric dimension of graphs,\" Journal of Combinatorial Optimization, 2022.",
+      "mla": "Wei, M., et al.. \"The effect of vertex and edge deletion on the edge metric dimension of graphs.\" Journal of Combinatorial Optimization, 2022.",
+      "custom_format": "\\bibitem{WeYuCh22} Wei, M., Yue, J., Chen, L., The effect of vertex and edge deletion on the edge metric dimension of graphs, Journal of Combinatorial Optimization \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1007/s10878-021-00838-7",
+      "paper_url": "https://doi.org/10.1007/s10878-021-00838-7",
+      "journal_name": "Journal of Combinatorial Optimization",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1063_5_0131823",
+      "bibtex": "@inproceedings{10_1063_5_0131823,\n  title={The complement edge metric dimension of graphs},\n  author={Nirmala Mega Rosyidah and Rinurwati},\n  booktitle={AIP Conference Proceedings},\n  year={2022},\n  doi={10.1063/5.0131823},\n  url={https://doi.org/10.1063/5.0131823}\n}",
+      "apa": "Rosyidah, N. M. & Rinurwati (2022). The complement edge metric dimension of graphs. In AIP Conference Proceedings.",
+      "ieee": "Nirmala Mega Rosyidah, Rinurwati, \"The complement edge metric dimension of graphs,\" in AIP Conference Proceedings, 2022.",
+      "mla": "Rosyidah, N. M., and Rinurwati. \"The complement edge metric dimension of graphs.\" AIP Conference Proceedings, 2022.",
+      "custom_format": "\\bibitem{RoRi22} Rosyidah, N. M., Rinurwati, The complement edge metric dimension of graphs, AIP Conference Proceedings \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1063/5.0131823",
+      "paper_url": "https://doi.org/10.1063/5.0131823",
+      "journal_name": "AIP Conference Proceedings",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_32604_cmc_2022_023003",
+      "bibtex": "@article{10_32604_cmc_2022_023003,\n  title={Edge Metric Dimension of Honeycomb and Hexagonal Networks for IoT},\n  author={Sohail Abbas and Zahid Raza and Nida Siddiqui and Faheem Khan and Taegkeun Whangbo},\n  journal={Computers, Materials &amp; Continua},\n  year={2022},\n  doi={10.32604/cmc.2022.023003},\n  url={https://doi.org/10.32604/cmc.2022.023003}\n}",
+      "apa": "Abbas, S., Raza, Z., Siddiqui, N., Khan, F., & Whangbo, T. (2022). Edge Metric Dimension of Honeycomb and Hexagonal Networks for IoT. Computers, Materials &amp; Continua.",
+      "ieee": "Sohail Abbas et al., \"Edge Metric Dimension of Honeycomb and Hexagonal Networks for IoT,\" Computers, Materials &amp; Continua, 2022.",
+      "mla": "Abbas, S., et al.. \"Edge Metric Dimension of Honeycomb and Hexagonal Networks for IoT.\" Computers, Materials &amp; Continua, 2022.",
+      "custom_format": "\\bibitem{AbRaSi22} Abbas, S., Raza, Z., Siddiqui, N., Khan, F., Whangbo, T., Edge metric dimension of honeycomb and hexagonal networks for iot, Computers, Materials &amp; Continua \\textbf{1}(1) (2022) 1--10. https://doi.org/10.32604/cmc.2022.023003",
+      "paper_url": "https://doi.org/10.32604/cmc.2022.023003",
+      "journal_name": "Computers, Materials &amp; Continua",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1016_j_dam_2022_06_023",
+      "bibtex": "@article{10_1016_j_dam_2022_06_023,\n  title={Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>},\n  author={Jing Qu and Nanbin Cao},\n  journal={Discrete Applied Mathematics},\n  year={2022},\n  doi={10.1016/j.dam.2022.06.023},\n  url={https://doi.org/10.1016/j.dam.2022.06.023}\n}",
+      "apa": "Qu, J. & Cao, N. (2022). Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>. Discrete Applied Mathematics.",
+      "ieee": "Jing Qu, Nanbin Cao, \"Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>,\" Discrete Applied Mathematics, 2022.",
+      "mla": "Qu, J., and Nanbin Cao. \"Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>.\" Discrete Applied Mathematics, 2022.",
+      "custom_format": "\\bibitem{QuCa22} Qu, J., Cao, N., Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/math/mathml\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>, Discrete Applied Mathematics \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1016/j.dam.2022.06.023",
+      "paper_url": "https://doi.org/10.1016/j.dam.2022.06.023",
+      "journal_name": "Discrete Applied Mathematics",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1109_access_2022_3158982",
+      "bibtex": "@article{10_1109_access_2022_3158982,\n  title={Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks},\n  author={Karnika Sharma and Vijay Kumar Bhat and Sunny Kumar Sharma},\n  journal={IEEE Access},\n  year={2022},\n  doi={10.1109/access.2022.3158982},\n  url={https://doi.org/10.1109/access.2022.3158982}\n}",
+      "apa": "Sharma, K., Bhat, V. K., & Sharma, S. K. (2022). Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks. IEEE Access.",
+      "ieee": "Karnika Sharma, Vijay Kumar Bhat, Sunny Kumar Sharma, \"Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks,\" IEEE Access, 2022.",
+      "mla": "Sharma, K., et al.. \"Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks.\" IEEE Access, 2022.",
+      "custom_format": "\\bibitem{ShBhSh22} Sharma, K., Bhat, V. K., Sharma, S. K., Edge metric dimension and edge basis of one-heptagonal carbon nanocone networks, IEEE Access \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1109/access.2022.3158982",
+      "paper_url": "https://doi.org/10.1109/access.2022.3158982",
+      "journal_name": "IEEE Access",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_3934_math_2021531",
+      "bibtex": "@article{10_3934_math_2021531,\n  title={Metric dimension and edge metric dimension of windmill graphs},\n  author={Pradeep Singh and Sahil Sharma and Sunny Kumar Sharma and Vijay Kumar Bhat},\n  journal={AIMS Mathematics},\n  year={2021},\n  doi={10.3934/math.2021531},\n  url={https://doi.org/10.3934/math.2021531}\n}",
+      "apa": "Singh, P., Sharma, S., Sharma, S. K., & Bhat, V. K. (2021). Metric dimension and edge metric dimension of windmill graphs. AIMS Mathematics.",
+      "ieee": "Pradeep Singh et al., \"Metric dimension and edge metric dimension of windmill graphs,\" AIMS Mathematics, 2021.",
+      "mla": "Singh, P., et al.. \"Metric dimension and edge metric dimension of windmill graphs.\" AIMS Mathematics, 2021.",
+      "custom_format": "\\bibitem{SiShSh21} Singh, P., Sharma, S., Sharma, S. K., Bhat, V. K., Metric dimension and edge metric dimension of windmill graphs, AIMS Mathematics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.3934/math.2021531",
+      "paper_url": "https://doi.org/10.3934/math.2021531",
+      "journal_name": "AIMS Mathematics",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_7151_dmgt_2210",
+      "bibtex": "@article{10_7151_dmgt_2210,\n  title={Asymptotic behavior of the edge metric dimension of the random graph},\n  author={Nina Zublirina},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2021},\n  doi={10.7151/dmgt.2210},\n  url={https://doi.org/10.7151/dmgt.2210}\n}",
+      "apa": "Zublirina, N. (2021). Asymptotic behavior of the edge metric dimension of the random graph. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Nina Zublirina, \"Asymptotic behavior of the edge metric dimension of the random graph,\" Discussiones Mathematicae Graph Theory, 2021.",
+      "mla": "Zublirina, N.. \"Asymptotic behavior of the edge metric dimension of the random graph.\" Discussiones Mathematicae Graph Theory, 2021.",
+      "custom_format": "\\bibitem{Zu21} Zublirina, N., Asymptotic behavior of the edge metric dimension of the random graph, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2021) 1--10. https://doi.org/10.7151/dmgt.2210",
+      "paper_url": "https://doi.org/10.7151/dmgt.2210",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1109_access_2020_2990109",
+      "bibtex": "@article{10_1109_access_2020_2990109,\n  title={Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension},\n  author={Ali N. A. Koam and Ali Ahmad},\n  journal={IEEE Access},\n  year={2020},\n  doi={10.1109/access.2020.2990109},\n  url={https://doi.org/10.1109/access.2020.2990109}\n}",
+      "apa": "Koam, A. N. A. & Ahmad, A. (2020). Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension. IEEE Access.",
+      "ieee": "Ali N. A. Koam, Ali Ahmad, \"Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension,\" IEEE Access, 2020.",
+      "mla": "Koam, A. N. A., and Ali Ahmad. \"Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension.\" IEEE Access, 2020.",
+      "custom_format": "\\bibitem{KoAh20} Koam, A. N. A., Ahmad, A., Barycentric subdivision of cayley graphs with constant edge metric dimension, IEEE Access \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1109/access.2020.2990109",
+      "paper_url": "https://doi.org/10.1109/access.2020.2990109",
+      "journal_name": "IEEE Access",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1216_rmj_2020_50_1175",
+      "bibtex": "@article{10_1216_rmj_2020_50_1175,\n  title={Edge metric dimension of $k$ multiwheel graph},\n  author={Mohammad S. Bataineh and Nida Siddiqui and Zahid Raza},\n  journal={Rocky Mountain Journal of Mathematics},\n  year={2020},\n  doi={10.1216/rmj.2020.50.1175},\n  url={https://doi.org/10.1216/rmj.2020.50.1175}\n}",
+      "apa": "Bataineh, M. S., Siddiqui, N., & Raza, Z. (2020). Edge metric dimension of $k$ multiwheel graph. Rocky Mountain Journal of Mathematics.",
+      "ieee": "Mohammad S. Bataineh, Nida Siddiqui, Zahid Raza, \"Edge metric dimension of $k$ multiwheel graph,\" Rocky Mountain Journal of Mathematics, 2020.",
+      "mla": "Bataineh, M. S., et al.. \"Edge metric dimension of $k$ multiwheel graph.\" Rocky Mountain Journal of Mathematics, 2020.",
+      "custom_format": "\\bibitem{BaSiRa20} Bataineh, M. S., Siddiqui, N., Raza, Z., Edge metric dimension of $k$ multiwheel graph, Rocky Mountain Journal of Mathematics \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1216/rmj.2020.50.1175",
+      "paper_url": "https://doi.org/10.1216/rmj.2020.50.1175",
+      "journal_name": "Rocky Mountain Journal of Mathematics",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1007_s10878_019_00472_4",
+      "bibtex": "@article{10_1007_s10878_019_00472_4,\n  title={On the edge metric dimension of convex polytopes and its related graphs},\n  author={Yuezhong Zhang and Suogang Gao},\n  journal={Journal of Combinatorial Optimization},\n  year={2020},\n  doi={10.1007/s10878-019-00472-4},\n  url={https://doi.org/10.1007/s10878-019-00472-4}\n}",
+      "apa": "Zhang, Y. & Gao, S. (2020). On the edge metric dimension of convex polytopes and its related graphs. Journal of Combinatorial Optimization.",
+      "ieee": "Yuezhong Zhang, Suogang Gao, \"On the edge metric dimension of convex polytopes and its related graphs,\" Journal of Combinatorial Optimization, 2020.",
+      "mla": "Zhang, Y., and Suogang Gao. \"On the edge metric dimension of convex polytopes and its related graphs.\" Journal of Combinatorial Optimization, 2020.",
+      "custom_format": "\\bibitem{ZhGa20} Zhang, Y., Gao, S., On the edge metric dimension of convex polytopes and its related graphs, Journal of Combinatorial Optimization \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1007/s10878-019-00472-4",
+      "paper_url": "https://doi.org/10.1007/s10878-019-00472-4",
+      "journal_name": "Journal of Combinatorial Optimization",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1088_1742_6596_1180_1_012005",
+      "bibtex": "@inproceedings{10_1088_1742_6596_1180_1_012005,\n  title={Edge Metric Dimension on Some Families of Tree},\n  author={R. Adawiyah and Dafik and R. Alfarisi and R. M. Prihandini and I. H. Agustin},\n  booktitle={Journal of Physics: Conference Series},\n  year={2019},\n  doi={10.1088/1742-6596/1180/1/012005},\n  url={https://doi.org/10.1088/1742-6596/1180/1/012005}\n}",
+      "apa": "Adawiyah, R., Dafik, Alfarisi, R., Prihandini, R. M., & Agustin, I. H. (2019). Edge Metric Dimension on Some Families of Tree. In Journal of Physics: Conference Series.",
+      "ieee": "R. Adawiyah et al., \"Edge Metric Dimension on Some Families of Tree,\" in Journal of Physics: Conference Series, 2019.",
+      "mla": "Adawiyah, R., et al.. \"Edge Metric Dimension on Some Families of Tree.\" Journal of Physics: Conference Series, 2019.",
+      "custom_format": "\\bibitem{AdDaAl19} Adawiyah, R., Dafik, Alfarisi, R., Prihandini, R. M., Agustin, I. H., Edge metric dimension on some families of tree, Journal of Physics: Conference Series \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1088/1742-6596/1180/1/012005",
+      "paper_url": "https://doi.org/10.1088/1742-6596/1180/1/012005",
+      "journal_name": "Journal of Physics: Conference Series",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_2206_04983",
+      "bibtex": "@article{arxiv_2206_04983,\n  title={On mixed metric dimension in subdivision, middle, and total graphs},\n  author={Ali Ghalavand and Sandi Klav\u017ear and Mostafa Tavakoli and Ismael G. Yero},\n  journal={arXiv preprint arXiv:2206.04983},\n  year={2022},\n  url={http://arxiv.org/abs/2206.04983v2}\n}",
+      "apa": "Ghalavand, A., Klav\u017ear, S., Tavakoli, M., & Yero, I. G. (2022). On mixed metric dimension in subdivision, middle, and total graphs. arXiv preprint arXiv:2206.04983.",
+      "ieee": "Ali Ghalavand et al., \"On mixed metric dimension in subdivision, middle, and total graphs,\" arXiv preprint arXiv:2206.04983, 2022.",
+      "mla": "Ghalavand, A., et al.. \"On mixed metric dimension in subdivision, middle, and total graphs.\" arXiv, 2206.04983, 2022.",
+      "custom_format": "\\bibitem{GhKlTa22} Ghalavand, A., Klav\u017ear, S., Tavakoli, M., Yero, I. G., On mixed metric dimension in subdivision, middle, and total graphs, arXiv \\textbf{1}(1) (2022) 1--10. http://arxiv.org/abs/2206.04983v2",
+      "paper_url": "http://arxiv.org/abs/2206.04983v2",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2102_10916",
+      "bibtex": "@article{arxiv_2102_10916,\n  title={On Metric Dimensions of Hypercubes},\n  author={Aleksander Kelenc and Aoden Teo Masa Toshi and Riste Skrekovski and Ismael G. Yero},\n  journal={arXiv preprint arXiv:2102.10916},\n  year={2021},\n  url={http://arxiv.org/abs/2102.10916v1}\n}",
+      "apa": "Kelenc, A., Toshi, A. T. M., Skrekovski, R., & Yero, I. G. (2021). On Metric Dimensions of Hypercubes. arXiv preprint arXiv:2102.10916.",
+      "ieee": "Aleksander Kelenc et al., \"On Metric Dimensions of Hypercubes,\" arXiv preprint arXiv:2102.10916, 2021.",
+      "mla": "Kelenc, A., et al.. \"On Metric Dimensions of Hypercubes.\" arXiv, 2102.10916, 2021.",
+      "custom_format": "\\bibitem{KeToSk21} Kelenc, A., Toshi, A. T. M., Skrekovski, R., Yero, I. G., On metric dimensions of hypercubes, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2102.10916v1",
+      "paper_url": "http://arxiv.org/abs/2102.10916v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_1807_08334",
+      "bibtex": "@article{arxiv_1807_08334,\n  title={Metric dimension and pattern avoidance in graphs},\n  author={Jesse Geneson},\n  journal={arXiv preprint arXiv:1807.08334},\n  year={2018},\n  url={http://arxiv.org/abs/1807.08334v2}\n}",
+      "apa": "Geneson, J. (2018). Metric dimension and pattern avoidance in graphs. arXiv preprint arXiv:1807.08334.",
+      "ieee": "Jesse Geneson, \"Metric dimension and pattern avoidance in graphs,\" arXiv preprint arXiv:1807.08334, 2018.",
+      "mla": "Geneson, J.. \"Metric dimension and pattern avoidance in graphs.\" arXiv, 1807.08334, 2018.",
+      "custom_format": "\\bibitem{Ge18} Geneson, J., Metric dimension and pattern avoidance in graphs, arXiv \\textbf{1}(1) (2018) 1--10. http://arxiv.org/abs/1807.08334v2",
+      "paper_url": "http://arxiv.org/abs/1807.08334v2",
+      "journal_name": "arXiv",
+      "year": 2018
+    },
+    {
+      "paper_id": "arxiv_2008_13302",
+      "bibtex": "@article{arxiv_2008_13302,\n  title={Extremal results for graphs of bounded metric dimension},\n  author={Jesse Geneson and Suchir Kaustav and Antoine Labelle},\n  journal={arXiv preprint arXiv:2008.13302},\n  year={2020},\n  url={http://arxiv.org/abs/2008.13302v1}\n}",
+      "apa": "Geneson, J., Kaustav, S., & Labelle, A. (2020). Extremal results for graphs of bounded metric dimension. arXiv preprint arXiv:2008.13302.",
+      "ieee": "Jesse Geneson, Suchir Kaustav, Antoine Labelle, \"Extremal results for graphs of bounded metric dimension,\" arXiv preprint arXiv:2008.13302, 2020.",
+      "mla": "Geneson, J., et al.. \"Extremal results for graphs of bounded metric dimension.\" arXiv, 2008.13302, 2020.",
+      "custom_format": "\\bibitem{GeKaLa20} Geneson, J., Kaustav, S., Labelle, A., Extremal results for graphs of bounded metric dimension, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2008.13302v1",
+      "paper_url": "http://arxiv.org/abs/2008.13302v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_2012_07471",
+      "bibtex": "@article{arxiv_2012_07471,\n  title={The difference between several metric dimension graph invariants},\n  author={Milica Milivojevi\u0107 Danas},\n  journal={arXiv preprint arXiv:2012.07471},\n  year={2020},\n  url={http://arxiv.org/abs/2012.07471v1}\n}",
+      "apa": "Danas, M. M. (2020). The difference between several metric dimension graph invariants. arXiv preprint arXiv:2012.07471.",
+      "ieee": "Milica Milivojevi\u0107 Danas, \"The difference between several metric dimension graph invariants,\" arXiv preprint arXiv:2012.07471, 2020.",
+      "mla": "Danas, M. M.. \"The difference between several metric dimension graph invariants.\" arXiv, 2012.07471, 2020.",
+      "custom_format": "\\bibitem{Da20} Danas, M. M., The difference between several metric dimension graph invariants, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2012.07471v1",
+      "paper_url": "http://arxiv.org/abs/2012.07471v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_25077_jmua_13_4_349_357_2024",
+      "bibtex": "@article{10_25077_jmua_13_4_349_357_2024,\n  title={On Metric Dimension of Edge Comb Product of Symmetric Graphs},\n  author={Tita Khalis Maryati and Dindin Sobiruddin and Fawwaz Fakhrurrozi Hadiputra},\n  journal={Jurnal Matematika UNAND},\n  year={2024},\n  doi={10.25077/jmua.13.4.349-357.2024},\n  url={https://doi.org/10.25077/jmua.13.4.349-357.2024}\n}",
+      "apa": "Maryati, T. K., Sobiruddin, D., & Hadiputra, F. F. (2024). On Metric Dimension of Edge Comb Product of Symmetric Graphs. Jurnal Matematika UNAND.",
+      "ieee": "Tita Khalis Maryati, Dindin Sobiruddin, Fawwaz Fakhrurrozi Hadiputra, \"On Metric Dimension of Edge Comb Product of Symmetric Graphs,\" Jurnal Matematika UNAND, 2024.",
+      "mla": "Maryati, T. K., et al.. \"On Metric Dimension of Edge Comb Product of Symmetric Graphs.\" Jurnal Matematika UNAND, 2024.",
+      "custom_format": "\\bibitem{MaSoHa24} Maryati, T. K., Sobiruddin, D., Hadiputra, F. F., On metric dimension of edge comb product of symmetric graphs, Jurnal Matematika UNAND \\textbf{1}(1) (2024) 1--10. https://doi.org/10.25077/jmua.13.4.349-357.2024",
+      "paper_url": "https://doi.org/10.25077/jmua.13.4.349-357.2024",
+      "journal_name": "Jurnal Matematika UNAND",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_21203_rs_3_rs_3783303_v1",
+      "bibtex": "@article{10_21203_rs_3_rs_3783303_v1,\n  title={Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene},\n  author={Umar Farooq and Faryal Chudhary and Deeba Afzal and Waseem Abbas},\n  journal={},\n  year={2023},\n  doi={10.21203/rs.3.rs-3783303/v1},\n  url={https://doi.org/10.21203/rs.3.rs-3783303/v1}\n}",
+      "apa": "Farooq, U., Chudhary, F., Afzal, D., & Abbas, W. (2023). Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene. .",
+      "ieee": "Umar Farooq et al., \"Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene,\" , 2023.",
+      "mla": "Farooq, U., et al.. \"Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene.\" , 2023.",
+      "custom_format": "\\bibitem{FaChAf23} Farooq, U., Chudhary, F., Afzal, D., Abbas, W., Fault-tolerant metric dimension (ftmd) of m-polynomial of zigzag edge coronoid fused by starphene,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.21203/rs.3.rs-3783303/v1",
+      "paper_url": "https://doi.org/10.21203/rs.3.rs-3783303/v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_17654_ms102050965",
+      "bibtex": "@article{10_17654_ms102050965,\n  title={ON METRIC DIMENSION OF EDGE-CORONA GRAPHS},\n  author={Rinurwati and Herry Suprajitno and Slamin},\n  journal={Far East Journal of Mathematical Sciences (FJMS)},\n  year={2017},\n  doi={10.17654/ms102050965},\n  url={https://doi.org/10.17654/ms102050965}\n}",
+      "apa": "Rinurwati, Suprajitno, H., & Slamin (2017). ON METRIC DIMENSION OF EDGE-CORONA GRAPHS. Far East Journal of Mathematical Sciences (FJMS).",
+      "ieee": "Rinurwati, Herry Suprajitno, Slamin, \"ON METRIC DIMENSION OF EDGE-CORONA GRAPHS,\" Far East Journal of Mathematical Sciences (FJMS), 2017.",
+      "mla": "Rinurwati, et al.. \"ON METRIC DIMENSION OF EDGE-CORONA GRAPHS.\" Far East Journal of Mathematical Sciences (FJMS), 2017.",
+      "custom_format": "\\bibitem{RiSuSl17} Rinurwati, Suprajitno, H., Slamin, On metric dimension of edge-corona graphs, Far East Journal of Mathematical Sciences (FJMS) \\textbf{1}(1) (2017) 1--10. https://doi.org/10.17654/ms102050965",
+      "paper_url": "https://doi.org/10.17654/ms102050965",
+      "journal_name": "Far East Journal of Mathematical Sciences (FJMS)",
+      "year": 2017
+    },
+    {
+      "paper_id": "10_18576_amis_190606",
+      "bibtex": "@article{10_18576_amis_190606,\n  title={Metric Dimension and Secure Metric Dimension of Some Graphs},\n  author={},\n  journal={Applied Mathematics &amp; Information Sciences},\n  year={2025},\n  doi={10.18576/amis/190606},\n  url={https://doi.org/10.18576/amis/190606}\n}",
+      "apa": "Unknown Author (2025). Metric Dimension and Secure Metric Dimension of Some Graphs. Applied Mathematics &amp; Information Sciences.",
+      "ieee": "Unknown Author, \"Metric Dimension and Secure Metric Dimension of Some Graphs,\" Applied Mathematics &amp; Information Sciences, 2025.",
+      "mla": "Unknown Author. \"Metric Dimension and Secure Metric Dimension of Some Graphs.\" Applied Mathematics &amp; Information Sciences, 2025.",
+      "custom_format": "\\bibitem{Unknown25} Unknown Author, Metric dimension and secure metric dimension of some graphs, Applied Mathematics &amp; Information Sciences \\textbf{1}(1) (2025) 1--10. https://doi.org/10.18576/amis/190606",
+      "paper_url": "https://doi.org/10.18576/amis/190606",
+      "journal_name": "Applied Mathematics &amp; Information Sciences",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1371_journal_pone_0294932",
+      "bibtex": "@article{10_1371_journal_pone_0294932,\n  title={Edge based metric dimension of various coffee compounds},\n  author={Ali Ahmad and Ali N. A. Koam and Muhammad Azeem and Ibtisam Masmali and Rehab Alharbi},\n  journal={PLOS ONE},\n  year={2024},\n  doi={10.1371/journal.pone.0294932},\n  url={https://doi.org/10.1371/journal.pone.0294932}\n}",
+      "apa": "Ahmad, A., Koam, A. N. A., Azeem, M., Masmali, I., & Alharbi, R. (2024). Edge based metric dimension of various coffee compounds. PLOS ONE.",
+      "ieee": "Ali Ahmad et al., \"Edge based metric dimension of various coffee compounds,\" PLOS ONE, 2024.",
+      "mla": "Ahmad, A., et al.. \"Edge based metric dimension of various coffee compounds.\" PLOS ONE, 2024.",
+      "custom_format": "\\bibitem{AhKoAz24} Ahmad, A., Koam, A. N. A., Azeem, M., Masmali, I., Alharbi, R., Edge based metric dimension of various coffee compounds, PLOS ONE \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1371/journal.pone.0294932",
+      "paper_url": "https://doi.org/10.1371/journal.pone.0294932",
+      "journal_name": "PLOS ONE",
+      "year": 2024
+    },
+    {
+      "paper_id": "arxiv_2104_12511",
+      "bibtex": "@article{arxiv_2104_12511,\n  title={Edge Resolvability for Circular Ladder of Heptagons},\n  author={Jia-Bao Liu and Sunny Kumar Sharma and Vijay Kumar Bhat and Hassan Raza},\n  journal={arXiv preprint arXiv:2104.12511},\n  year={2021},\n  url={http://arxiv.org/abs/2104.12511v2}\n}",
+      "apa": "Liu, J., Sharma, S. K., Bhat, V. K., & Raza, H. (2021). Edge Resolvability for Circular Ladder of Heptagons. arXiv preprint arXiv:2104.12511.",
+      "ieee": "Jia-Bao Liu et al., \"Edge Resolvability for Circular Ladder of Heptagons,\" arXiv preprint arXiv:2104.12511, 2021.",
+      "mla": "Liu, J., et al.. \"Edge Resolvability for Circular Ladder of Heptagons.\" arXiv, 2104.12511, 2021.",
+      "custom_format": "\\bibitem{LiShBh21} Liu, J., Sharma, S. K., Bhat, V. K., Raza, H., Edge resolvability for circular ladder of heptagons, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2104.12511v2",
+      "paper_url": "http://arxiv.org/abs/2104.12511v2",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_3390_math6110243",
+      "bibtex": "@article{10_3390_math6110243,\n  title={Edge Version of Metric Dimension and Doubly Resolving Sets of the Necklace Graph},\n  author={Jia-Bao Liu and Zohaib Zahid and Ruby Nasir and Waqas Nazeer},\n  journal={Mathematics},\n  year={2018},\n  doi={10.3390/math6110243},\n  url={https://doi.org/10.3390/math6110243}\n}",
+      "apa": "Liu, J., Zahid, Z., Nasir, R., & Nazeer, W. (2018). Edge Version of Metric Dimension and Doubly Resolving Sets of the Necklace Graph. Mathematics.",
+      "ieee": "Jia-Bao Liu et al., \"Edge Version of Metric Dimension and Doubly Resolving Sets of the Necklace Graph,\" Mathematics, 2018.",
+      "mla": "Liu, J., et al.. \"Edge Version of Metric Dimension and Doubly Resolving Sets of the Necklace Graph.\" Mathematics, 2018.",
+      "custom_format": "\\bibitem{LiZaNa18} Liu, J., Zahid, Z., Nasir, R., Nazeer, W., Edge version of metric dimension and doubly resolving sets of the necklace graph, Mathematics \\textbf{1}(1) (2018) 1--10. https://doi.org/10.3390/math6110243",
+      "paper_url": "https://doi.org/10.3390/math6110243",
+      "journal_name": "Mathematics",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_1142_s0219265925500136",
+      "bibtex": "@article{10_1142_s0219265925500136,\n  title={Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings},\n  author={Pranjali and Amit Kumar and Rakshita Sharma},\n  journal={Journal of Interconnection Networks},\n  year={2025},\n  doi={10.1142/s0219265925500136},\n  url={https://doi.org/10.1142/s0219265925500136}\n}",
+      "apa": "Pranjali, Kumar, A., & Sharma, R. (2025). Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings. Journal of Interconnection Networks.",
+      "ieee": "Pranjali, Amit Kumar, Rakshita Sharma, \"Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings,\" Journal of Interconnection Networks, 2025.",
+      "mla": "Pranjali, et al.. \"Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings.\" Journal of Interconnection Networks, 2025.",
+      "custom_format": "\\bibitem{PrKuSh25} Pranjali, Kumar, A., Sharma, R., Metric dimension and dominant metric dimension of unit graph over semi-rings, Journal of Interconnection Networks \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1142/s0219265925500136",
+      "paper_url": "https://doi.org/10.1142/s0219265925500136",
+      "journal_name": "Journal of Interconnection Networks",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2108_09573",
+      "bibtex": "@article{arxiv_2108_09573,\n  title={Metric dimensions vs. cyclomatic number of graphs with minimum degree at least two},\n  author={Jelena Sedlar and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:2108.09573},\n  year={2021},\n  url={http://arxiv.org/abs/2108.09573v1}\n}",
+      "apa": "Sedlar, J. & \u0160krekovski, R. (2021). Metric dimensions vs. cyclomatic number of graphs with minimum degree at least two. arXiv preprint arXiv:2108.09573.",
+      "ieee": "Jelena Sedlar, Riste \u0160krekovski, \"Metric dimensions vs. cyclomatic number of graphs with minimum degree at least two,\" arXiv preprint arXiv:2108.09573, 2021.",
+      "mla": "Sedlar, J., and Riste \u0160krekovski. \"Metric dimensions vs. cyclomatic number of graphs with minimum degree at least two.\" arXiv, 2108.09573, 2021.",
+      "custom_format": "\\bibitem{Se\u0160k21} Sedlar, J., \u0160krekovski, R., Metric dimensions vs. cyclomatic number of graphs with minimum degree at least two, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2108.09573v1",
+      "paper_url": "http://arxiv.org/abs/2108.09573v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2108_08588",
+      "bibtex": "@article{arxiv_2108_08588,\n  title={Unbounded Mixed Resolvability of Web Graph and Prism Related Graph},\n  author={Sunny Kumar Sharma and Vijay Kumar Bhat},\n  journal={arXiv preprint arXiv:2108.08588},\n  year={2021},\n  url={http://arxiv.org/abs/2108.08588v1}\n}",
+      "apa": "Sharma, S. K. & Bhat, V. K. (2021). Unbounded Mixed Resolvability of Web Graph and Prism Related Graph. arXiv preprint arXiv:2108.08588.",
+      "ieee": "Sunny Kumar Sharma, Vijay Kumar Bhat, \"Unbounded Mixed Resolvability of Web Graph and Prism Related Graph,\" arXiv preprint arXiv:2108.08588, 2021.",
+      "mla": "Sharma, S. K., and Vijay Kumar Bhat. \"Unbounded Mixed Resolvability of Web Graph and Prism Related Graph.\" arXiv, 2108.08588, 2021.",
+      "custom_format": "\\bibitem{ShBh21} Sharma, S. K., Bhat, V. K., Unbounded mixed resolvability of web graph and prism related graph, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2108.08588v1",
+      "paper_url": "http://arxiv.org/abs/2108.08588v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_2139_ssrn_4953611",
+      "bibtex": "@article{10_2139_ssrn_4953611,\n  title={\u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs},\n  author={Zeinab Shahmiri and Darko Dimitrov and Mostafa Tavakoli},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.4953611},\n  url={https://doi.org/10.2139/ssrn.4953611}\n}",
+      "apa": "Shahmiri, Z., Dimitrov, D., & Tavakoli, M. (2023). \u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs. .",
+      "ieee": "Zeinab Shahmiri, Darko Dimitrov, Mostafa Tavakoli, \"\u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs,\" , 2023.",
+      "mla": "Shahmiri, Z., et al.. \"\u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs.\" , 2023.",
+      "custom_format": "\\bibitem{ShDiTa23} Shahmiri, Z., Dimitrov, D., Tavakoli, M., \u200efractional $k$-clique metric dimension of (edge) corona products of graphs,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.4953611",
+      "paper_url": "https://doi.org/10.2139/ssrn.4953611",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1109_access_2023_3235398",
+      "bibtex": "@article{10_1109_access_2023_3235398,\n  title={Patched Network and Its Vertex-Edge Metric-Based Dimension},\n  author={Sidra Bukhari and Muhammad Kamran Jamil and Muhammad Azeem and Senesie Swaray},\n  journal={IEEE Access},\n  year={2023},\n  doi={10.1109/access.2023.3235398},\n  url={https://doi.org/10.1109/access.2023.3235398}\n}",
+      "apa": "Bukhari, S., Jamil, M. K., Azeem, M., & Swaray, S. (2023). Patched Network and Its Vertex-Edge Metric-Based Dimension. IEEE Access.",
+      "ieee": "Sidra Bukhari et al., \"Patched Network and Its Vertex-Edge Metric-Based Dimension,\" IEEE Access, 2023.",
+      "mla": "Bukhari, S., et al.. \"Patched Network and Its Vertex-Edge Metric-Based Dimension.\" IEEE Access, 2023.",
+      "custom_format": "\\bibitem{BuJaAz23} Bukhari, S., Jamil, M. K., Azeem, M., Swaray, S., Patched network and its vertex-edge metric-based dimension, IEEE Access \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1109/access.2023.3235398",
+      "paper_url": "https://doi.org/10.1109/access.2023.3235398",
+      "journal_name": "IEEE Access",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1063_5_0181065",
+      "bibtex": "@inproceedings{10_1063_5_0181065,\n  title={The dominant metric dimension of the edge corona product graph},\n  author={Siti Zahidah and Liliek Susilowati and Eric Lusvianto},\n  booktitle={AIP Conference Proceedings},\n  year={2023},\n  doi={10.1063/5.0181065},\n  url={https://doi.org/10.1063/5.0181065}\n}",
+      "apa": "Zahidah, S., Susilowati, L., & Lusvianto, E. (2023). The dominant metric dimension of the edge corona product graph. In AIP Conference Proceedings.",
+      "ieee": "Siti Zahidah, Liliek Susilowati, Eric Lusvianto, \"The dominant metric dimension of the edge corona product graph,\" in AIP Conference Proceedings, 2023.",
+      "mla": "Zahidah, S., et al.. \"The dominant metric dimension of the edge corona product graph.\" AIP Conference Proceedings, 2023.",
+      "custom_format": "\\bibitem{ZaSuLu23} Zahidah, S., Susilowati, L., Lusvianto, E., The dominant metric dimension of the edge corona product graph, AIP Conference Proceedings \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1063/5.0181065",
+      "paper_url": "https://doi.org/10.1063/5.0181065",
+      "journal_name": "AIP Conference Proceedings",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1109_access_2021_3083182",
+      "bibtex": "@article{10_1109_access_2021_3083182,\n  title={The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2)},\n  author={Junya Lv and Xiaodong Lv and Ruby Nasir and Zohaib Zahid},\n  journal={IEEE Access},\n  year={2021},\n  doi={10.1109/access.2021.3083182},\n  url={https://doi.org/10.1109/access.2021.3083182}\n}",
+      "apa": "Lv, J., Lv, X., Nasir, R., & Zahid, Z. (2021). The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2). IEEE Access.",
+      "ieee": "Junya Lv et al., \"The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2),\" IEEE Access, 2021.",
+      "mla": "Lv, J., et al.. \"The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2).\" IEEE Access, 2021.",
+      "custom_format": "\\bibitem{LvLvNa21} Lv, J., Lv, X., Nasir, R., Zahid, Z., The edge version of metric dimension for the family of circulant graphs c\u2099(1, 2), IEEE Access \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1109/access.2021.3083182",
+      "paper_url": "https://doi.org/10.1109/access.2021.3083182",
+      "journal_name": "IEEE Access",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1016_j_dam_2021_05_004",
+      "bibtex": "@article{10_1016_j_dam_2021_05_004,\n  title={Mixed metric dimension of graphs with edge disjoint cycles},\n  author={Jelena Sedlar and Riste \u0160krekovski},\n  journal={Discrete Applied Mathematics},\n  year={2021},\n  doi={10.1016/j.dam.2021.05.004},\n  url={https://doi.org/10.1016/j.dam.2021.05.004}\n}",
+      "apa": "Sedlar, J. & \u0160krekovski, R. (2021). Mixed metric dimension of graphs with edge disjoint cycles. Discrete Applied Mathematics.",
+      "ieee": "Jelena Sedlar, Riste \u0160krekovski, \"Mixed metric dimension of graphs with edge disjoint cycles,\" Discrete Applied Mathematics, 2021.",
+      "mla": "Sedlar, J., and Riste \u0160krekovski. \"Mixed metric dimension of graphs with edge disjoint cycles.\" Discrete Applied Mathematics, 2021.",
+      "custom_format": "\\bibitem{Se\u0160k21} Sedlar, J., \u0160krekovski, R., Mixed metric dimension of graphs with edge disjoint cycles, Discrete Applied Mathematics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1016/j.dam.2021.05.004",
+      "paper_url": "https://doi.org/10.1016/j.dam.2021.05.004",
+      "journal_name": "Discrete Applied Mathematics",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_4310_joc_2015_v6_n4_a2",
+      "bibtex": "@article{10_4310_joc_2015_v6_n4_a2,\n  title={The effect of vertex or edge deletion on the metric dimension of graphs},\n  author={Linda Eroh and Paul Feit and Cong X. Kang and Eunjeong Yi},\n  journal={Journal of Combinatorics},\n  year={2015},\n  doi={10.4310/joc.2015.v6.n4.a2},\n  url={https://doi.org/10.4310/joc.2015.v6.n4.a2}\n}",
+      "apa": "Eroh, L., Feit, P., Kang, C. X., & Yi, E. (2015). The effect of vertex or edge deletion on the metric dimension of graphs. Journal of Combinatorics.",
+      "ieee": "Linda Eroh et al., \"The effect of vertex or edge deletion on the metric dimension of graphs,\" Journal of Combinatorics, 2015.",
+      "mla": "Eroh, L., et al.. \"The effect of vertex or edge deletion on the metric dimension of graphs.\" Journal of Combinatorics, 2015.",
+      "custom_format": "\\bibitem{ErFeKa15} Eroh, L., Feit, P., Kang, C. X., Yi, E., The effect of vertex or edge deletion on the metric dimension of graphs, Journal of Combinatorics \\textbf{1}(1) (2015) 1--10. https://doi.org/10.4310/joc.2015.v6.n4.a2",
+      "paper_url": "https://doi.org/10.4310/joc.2015.v6.n4.a2",
+      "journal_name": "Journal of Combinatorics",
+      "year": 2015
+    },
+    {
+      "paper_id": "10_1016_b978_1_4832_2961_4_50006_5",
+      "bibtex": "@article{10_1016_b978_1_4832_2961_4_50006_5,\n  title={DIMENSION OF METRIC SPACES},\n  author={JUN-ITI NAGATA},\n  journal={Modern Dimension Theory},\n  year={2014},\n  doi={10.1016/b978-1-4832-2961-4.50006-5},\n  url={https://doi.org/10.1016/b978-1-4832-2961-4.50006-5}\n}",
+      "apa": "NAGATA, J. (2014). DIMENSION OF METRIC SPACES. Modern Dimension Theory.",
+      "ieee": "JUN-ITI NAGATA, \"DIMENSION OF METRIC SPACES,\" Modern Dimension Theory, 2014.",
+      "mla": "NAGATA, J.. \"DIMENSION OF METRIC SPACES.\" Modern Dimension Theory, 2014.",
+      "custom_format": "\\bibitem{Na14} NAGATA, J., Dimension of metric spaces, Modern Dimension Theory \\textbf{1}(1) (2014) 1--10. https://doi.org/10.1016/b978-1-4832-2961-4.50006-5",
+      "paper_url": "https://doi.org/10.1016/b978-1-4832-2961-4.50006-5",
+      "journal_name": "Modern Dimension Theory",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_1017_cbo9781316662595_011",
+      "bibtex": "@article{10_1017_cbo9781316662595_011,\n  title={The metric dimension},\n  author={},\n  journal={Mathematical Explorations},\n  year={2016},\n  doi={10.1017/cbo9781316662595.011},\n  url={https://doi.org/10.1017/cbo9781316662595.011}\n}",
+      "apa": "Unknown Author (2016). The metric dimension. Mathematical Explorations.",
+      "ieee": "Unknown Author, \"The metric dimension,\" Mathematical Explorations, 2016.",
+      "mla": "Unknown Author. \"The metric dimension.\" Mathematical Explorations, 2016.",
+      "custom_format": "\\bibitem{Unknown16} Unknown Author, The metric dimension, Mathematical Explorations \\textbf{1}(1) (2016) 1--10. https://doi.org/10.1017/cbo9781316662595.011",
+      "paper_url": "https://doi.org/10.1017/cbo9781316662595.011",
+      "journal_name": "Mathematical Explorations",
+      "year": 2016
+    },
+    {
+      "paper_id": "10_1016_b978_1_4832_2961_4_50008_9",
+      "bibtex": "@article{10_1016_b978_1_4832_2961_4_50008_9,\n  title={DIMENSION OF SEPARABLE METRIC SPACES},\n  author={JUN-ITI NAGATA},\n  journal={Modern Dimension Theory},\n  year={2014},\n  doi={10.1016/b978-1-4832-2961-4.50008-9},\n  url={https://doi.org/10.1016/b978-1-4832-2961-4.50008-9}\n}",
+      "apa": "NAGATA, J. (2014). DIMENSION OF SEPARABLE METRIC SPACES. Modern Dimension Theory.",
+      "ieee": "JUN-ITI NAGATA, \"DIMENSION OF SEPARABLE METRIC SPACES,\" Modern Dimension Theory, 2014.",
+      "mla": "NAGATA, J.. \"DIMENSION OF SEPARABLE METRIC SPACES.\" Modern Dimension Theory, 2014.",
+      "custom_format": "\\bibitem{Na14} NAGATA, J., Dimension of separable metric spaces, Modern Dimension Theory \\textbf{1}(1) (2014) 1--10. https://doi.org/10.1016/b978-1-4832-2961-4.50008-9",
+      "paper_url": "https://doi.org/10.1016/b978-1-4832-2961-4.50008-9",
+      "journal_name": "Modern Dimension Theory",
+      "year": 2014
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41266630_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41266630_2023,\n  title={PubMed Paper 41266630},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41266630/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41266630. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41266630,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41266630.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41266630, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41266630/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41266630/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_40877386_2023",
+      "bibtex": "@article{unknown_pubmed_paper_40877386_2023,\n  title={PubMed Paper 40877386},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/40877386/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 40877386. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 40877386,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 40877386.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 40877386, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/40877386/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/40877386/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_40163553_2023",
+      "bibtex": "@article{unknown_pubmed_paper_40163553_2023,\n  title={PubMed Paper 40163553},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/40163553/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 40163553. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 40163553,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 40163553.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 40163553, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/40163553/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/40163553/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_40036293_2023",
+      "bibtex": "@article{unknown_pubmed_paper_40036293_2023,\n  title={PubMed Paper 40036293},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/40036293/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 40036293. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 40036293,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 40036293.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 40036293, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/40036293/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/40036293/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_39035488_2023",
+      "bibtex": "@article{unknown_pubmed_paper_39035488_2023,\n  title={PubMed Paper 39035488},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/39035488/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 39035488. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 39035488,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 39035488.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 39035488, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/39035488/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/39035488/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_38797733_2023",
+      "bibtex": "@article{unknown_pubmed_paper_38797733_2023,\n  title={PubMed Paper 38797733},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/38797733/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 38797733. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 38797733,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 38797733.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 38797733, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/38797733/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/38797733/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_38444503_2023",
+      "bibtex": "@article{unknown_pubmed_paper_38444503_2023,\n  title={PubMed Paper 38444503},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/38444503/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 38444503. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 38444503,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 38444503.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 38444503, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/38444503/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/38444503/",
+      "journal_name": "PubMed",
+      "year": 2023
+    }
+  ]
+}

@@ -1,0 +1,2327 @@
+{
+  "topic": "mixed metric dimension",
+  "generated_at": "2026-01-27T20:29:02.277037",
+  "summary": {
+    "papers_analyzed": 82,
+    "claims_extracted": 7,
+    "contradictions_found": 0,
+    "research_gaps_identified": 12
+  },
+  "topic_map": {
+    "main_topic": "mixed metric dimension",
+    "subtopics": [],
+    "methods": [],
+    "keywords": [
+      "mixed",
+      "metric",
+      "dimension"
+    ],
+    "datasets": []
+  },
+  "papers": [
+    {
+      "title": "Graphs whose mixed metric dimension is equal to their order",
+      "authors": [
+        "Ali Ghalavand",
+        "Sandi Klav\u017ear",
+        "Mostafa Tavakoli"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 1.0,
+      "abstract": "The mixed metric dimension ${\\rm mdim}(G)$ of a graph $G$ is the cardinality of a smallest set of vertices that (metrically) resolves each pair of elements from $V(G)\\cup E(G)$. We say that $G$ is a max-mdim graph if ${\\rm mdim}(G) = n(G)$. It is proved that a max-mdim graph $G$ with $n(G)\\ge 7$ con...",
+      "doi": null,
+      "arxiv_id": "2305.19620",
+      "url": "http://arxiv.org/abs/2305.19620v1"
+    },
+    {
+      "title": "Edge and mixed metric dimension of Johnson graphs",
+      "authors": [
+        "Jozef Kratica",
+        "Mirjana Cangalovi\u0107",
+        "Vera Kova\u010devi\u0107-Vuj\u010di\u0107",
+        "Milica Milivojevi\u0107 Danas"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "relevance_score": 1.0,
+      "abstract": "In this paper, both edge and mixed metric dimensions of Johnson graphs $J_{n,k}$ are considered. A new tight lower bound for $\u03b2_E(J_{n,k})$ based on hitting sets has been obtained. Using this bound, exact values for $\u03b2_E(J_{n,2})$ and $\u03b2_M(J_{n,2})$ have been derived, and it is proved that $\u03b2_E(J_{n...",
+      "doi": null,
+      "arxiv_id": "2407.07851",
+      "url": "http://arxiv.org/abs/2407.07851v1"
+    },
+    {
+      "title": "Mixed metric dimension and exchange property of hexagonal nano-network",
+      "authors": [
+        "Peide Liu",
+        "Sikander Ali",
+        "Muhammad Azeem",
+        "Muhammad Kamran Jamil",
+        "Manzoor Ahmad Zahid",
+        "Waleed Ali",
+        "Bandar Almohsen"
+      ],
+      "year": 2024,
+      "venue": "Scientific Reports",
+      "relevance_score": 1.0,
+      "abstract": "The mixed metric dimension of a graph is an important parameter in characterizing its structural complexity, specifically in nanoscale networks where precision is paramount. In this article, we calculate the mixed metric dimension of hexagonal nano-network, a modal with significant applications in n...",
+      "doi": "10.1038/s41598-024-77697-9",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/1b48ef5307c3d441ccdb1cd12e336e9be7910af4"
+    },
+    {
+      "title": "Dominant Mixed Metric Dimension of Graph",
+      "authors": [
+        "R. Alfarisi",
+        "S. Husain",
+        "L. Susilowati",
+        "A. I. Kristiana"
+      ],
+      "year": 2024,
+      "venue": "Statistics, Optimization &amp; Information Computing",
+      "relevance_score": 1.0,
+      "abstract": "For $k-$ordered set $W=\\{s_1, s_2,\\dots, s_k \\}$ of vertex set $G$, the representation of a vertex or edge $a$ of $G$ with respect to $W$ is $r(a|W)=(d(a,s_1), d(a,s_2),\\dots, d(a,s_k))$ where $a$ is vertex so that $d(a,s_i)$ is a distance between of the vertex $v$ and the vertices in $W$ and $a=uv$...",
+      "doi": "10.19139/soic-2310-5070-1925",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/bba5b0885d9a66ff41ea3abaf4a5f4a563f43356"
+    },
+    {
+      "title": "Mixed Metric Dimension of Certain Carbon Nanocone Networks",
+      "authors": [
+        "S. Sharma",
+        "V. K. Bhat",
+        "H. A. Khalifa",
+        "Agaeb Mahal Alanzi"
+      ],
+      "year": 2023,
+      "venue": "Polycyclic aromatic compounds (Print)",
+      "relevance_score": 1.0,
+      "abstract": "Abstract Chemical graph theory is an extension of mathematical chemistry that explores chemical phenomena and entities using the conceptual frameworks of graph theory. Chemical graph theory, in particular, uses chemical graphs to represent molecular structures. This chemical graph represents bonds a...",
+      "doi": "10.1080/10406638.2023.2211734",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/91cb53b1ab1bb6944d59545352a1bff68536d5d4"
+    },
+    {
+      "title": "Graphs with mixed metric dimension three and related algorithms",
+      "authors": [
+        "D. Alrowaili",
+        "Uzma Ahmad",
+        "Saira Hameeed",
+        "M. Javaid"
+      ],
+      "year": 2023,
+      "venue": "AIMS Mathematics",
+      "relevance_score": 1.0,
+      "abstract": "Let $ G = (V, E) $ be a simple connected graph. A vertex $ x\\in V(G) $ resolves the elements $ u, v\\in E(G)\\cup V(G) $ if $ d_G(x, u)\\neq d_G(x, v) $. A subset $ S\\subseteq V(G) $ is a mixed metric resolving set for $ G $ if every two elements of $ G $ are resolved by some vertex of $ S $. A set of ...",
+      "doi": "10.3934/math.2023854",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/9a8ea34601307e8ca1c4c46644d1f51f8c0ea538"
+    },
+    {
+      "title": "On Mixed Metric Dimension of Rotationally Symmetric Graphs",
+      "authors": [
+        "H. Raza",
+        "Jia-bao Liu",
+        "Shaojian Qu"
+      ],
+      "year": 2020,
+      "venue": "IEEE Access",
+      "relevance_score": 1.0,
+      "abstract": "A vertex <inline-formula> <tex-math notation=\"LaTeX\">$u\\in V(G)$ </tex-math></inline-formula> resolves (distinguish or recognize) two elements (vertices or edges) <inline-formula> <tex-math notation=\"LaTeX\">$v,w\\in E(G) \\cup V(G)$ </tex-math></inline-formula> if <inline-formula> <tex-math notation=\"...",
+      "doi": "10.1109/ACCESS.2019.2961191",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/21d29efc8099ac127c7690b08646a2fd30f9c763"
+    },
+    {
+      "title": "Computing the Mixed Metric Dimension of a Generalized Petersen Graph P(n, 2)",
+      "authors": [
+        "H. Raza",
+        "Ying Ji"
+      ],
+      "year": 2020,
+      "venue": "Frontiers of Physics",
+      "relevance_score": 1.0,
+      "abstract": "Let \u0393 = (V, E) be a connected graph. A vertex i \u2208 V recognizes two elements (vertices or edges) j, k \u2208 E \u2229 V, if d\u0393(i, j) \u2260 d\u0393(i, k). A set S of vertices in a connected graph \u0393 is a mixed metric generator for \u0393 if every two distinct elements (vertices or edges) of \u0393 are recognized by some vertex of ...",
+      "doi": "10.3389/fphy.2020.00211",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/574a9fe71a8c785caad044a0d518af7aa9880bbf"
+    },
+    {
+      "title": "On Mixed Metric Dimension of Some Path Related Graphs",
+      "authors": [
+        "H. Raza",
+        "Ying Ji",
+        "Shaojian Qu"
+      ],
+      "year": 2020,
+      "venue": "IEEE Access",
+      "relevance_score": 1.0,
+      "abstract": "A vertex <inline-formula> <tex-math notation=\"LaTeX\">$k\\in V_{G}$ </tex-math></inline-formula> determined two elements (vertices or edges) <inline-formula> <tex-math notation=\"LaTeX\">$\\ell,m \\in V_{G}\\cup E_{G}$ </tex-math></inline-formula>, if <inline-formula> <tex-math notation=\"LaTeX\">$d_{G}(k,\\e...",
+      "doi": "10.1109/ACCESS.2020.3030713",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/6ff9a10ff08cafb554cfafaffb24b45869c2d557"
+    },
+    {
+      "title": "On mixed metric dimension in subdivision, middle, and total graphs",
+      "authors": [
+        "Ali Ghalavand",
+        "Sandi Klav\u017ear",
+        "Mostafa Tavakoli",
+        "Ismael G. Yero"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.9900000000000001,
+      "abstract": "Let $G$ be a graph and let $S(G)$, $M(G)$, and $T(G)$ be the subdivision, the middle, and the total graph of $G$, respectively. Let ${\\rm dim}(G)$, ${\\rm edim}(G)$, and ${\\rm mdim}(G)$ be the metric dimension, the edge metric dimension, and the mixed metric dimension of $G$, respectively. In this pa...",
+      "doi": null,
+      "arxiv_id": "2206.04983",
+      "url": "http://arxiv.org/abs/2206.04983v2"
+    },
+    {
+      "title": "The mixed metric dimension of wheel-like graphs",
+      "authors": [
+        "Darmaji",
+        "N. Azahra"
+      ],
+      "year": 2022,
+      "venue": "",
+      "relevance_score": 0.9900000000000001,
+      "abstract": "Consider the graph G = (V, E). It is a connected graph. It is a simple graph too. A node w \u2208 V, then we call vertex, determined two elements of graph. There are vertices and edges of graphs. Any two vertices x, y \u2208 E \u222a V if d(w, x) \u2260 d(w, y), which d(w, x) and d(w, y) is the mixed distance of the el...",
+      "doi": "10.1088/1742-6596/2157/1/012010",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/f77f4a12d1529d8ad4e9b1fd16dd15d953849488"
+    },
+    {
+      "title": "Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid",
+      "authors": [
+        "Jia-Bao Liu",
+        "Sunny Kumar Sharma",
+        "Vijay Kumar Bhat",
+        "Hassan Raza"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.9700000000000001,
+      "abstract": "Let $\u0393=(V,E)$ be a simple connected graph. A vertex $a$ is said to recognize (resolve) two different elements $b_{1}$ and $b_{2}$ from $V(\u0393)\\cup E(\u0393)$ if $d(a, b_{1})\\neq d(a, b_{2}\\}$. A subset of distinct ordered vertices $U_{M}\\subseteq V(\u0393)$ is said to be a mixed metric generator for $\u0393$ if each...",
+      "doi": null,
+      "arxiv_id": "2110.12368",
+      "url": "http://arxiv.org/abs/2110.12368v1"
+    },
+    {
+      "title": "Mixed metric dimension of graphs",
+      "authors": [
+        "Aleksander Kelenc",
+        "Dorota Kuziak",
+        "Andrej Taranenko",
+        "Ismael G. Yero"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "Let $G=(V,E)$ be a connected graph. A vertex $w\\in V$ distinguishes two elements (vertices or edges) $x,y\\in E\\cup V$ if $d_G(w,x)\\ne d_G(w,y)$. A set $S$ of vertices in a connected graph $G$ is a mixed metric generator for $G$ if every two elements (vertices or edges) of $G$ are distinguished by so...",
+      "doi": null,
+      "arxiv_id": "1611.04292",
+      "url": "http://arxiv.org/abs/1611.04292v2"
+    },
+    {
+      "title": "The mixed metric dimension of flower snarks and wheels",
+      "authors": [
+        "Milica Milivojevic Danas"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "New graph invariant, which is called mixed metric dimension, has been recently introduced. In this paper, exact results of mixed metric dimension on two special classes of graphs are found: flower snarks $J_n$ and wheels $W_n$. It is proved that mixed metric dimension for $J_5$ is equal to 5, while ...",
+      "doi": null,
+      "arxiv_id": "2001.09333",
+      "url": "http://arxiv.org/abs/2001.09333v1"
+    },
+    {
+      "title": "Mixed metric dimension of graphs with edge disjoint cycles",
+      "authors": [
+        "Jelena Sedlar",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "In a graph G, the cardinality of the smallest ordered set of vertices that distinguishes every element of V (G)[E(G) is called the mixed metric dimension of G. In this paper we first establish the exact value of the mixed metric dimension of a unicycic graph G which is derived from the structure of ...",
+      "doi": null,
+      "arxiv_id": "2010.10487",
+      "url": "http://arxiv.org/abs/2010.10487v1"
+    },
+    {
+      "title": "Some new general lower bounds for mixed metric dimension of graphs",
+      "authors": [
+        "Milica Milivojevi\u0107 Danas",
+        "Jozef Kratica",
+        "Aleksandar Savi\u0107",
+        "Zoran Lj. Maksimovi\u0107"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "Let $G=(V,E)$ be a connected simple graph. The distance $d(u,v)$ between vertices $u$ and $v$ from $V$ is the number of edges in the shortest $u-v$ path. If $e=uv \\in E$ is an edge in $G$ than distance $d(w,e)$ where $w$ is some vertex in $G$ is defined as $d(w,e)=\\min(d(w,u),d(w,v))$. Now we can sa...",
+      "doi": null,
+      "arxiv_id": "2007.05808",
+      "url": "http://arxiv.org/abs/2007.05808v1"
+    },
+    {
+      "title": "Extremal mixed metric dimension with respect to the cyclomatic number",
+      "authors": [
+        "Jelena Sedlar",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.9500000000000001,
+      "abstract": "In a graph G, the cardinality of the smallest ordered set of vertices that distinguishes every element of V(G)U E(G) is called the mixed metric dimension of G, and it is denoted by mdim(G). In [12] it was conjectured that for a graph G with cyclomatic number c(G) it holds that mdim(G) <= L1(G) + 2c(...",
+      "doi": null,
+      "arxiv_id": "2012.08590",
+      "url": "http://arxiv.org/abs/2012.08590v1"
+    },
+    {
+      "title": "Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications",
+      "authors": [
+        "Sakander Hayat",
+        "R. Naeem",
+        "Hafiz Muhammad Afzal Siddiqui",
+        "Amina Riaz",
+        "Muhammad Imran",
+        "M. Belay",
+        "Zeineb Klai"
+      ],
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "relevance_score": 0.7500000000000001,
+      "abstract": "Resolvability parameters of graphs are widely applicable in fields like computer science, chemistry, and geography. Many of these parameters, such as the metric dimension, are computationally hard to determine. This paper focuses on M\u00f6bius-type geometric graphs, including hexagonal M\u00f6bius graphs, ba...",
+      "doi": "10.1038/s41598-025-24939-z",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/da76726be87017ce45ea552ac17117da26af12fe"
+    },
+    {
+      "title": "On mixed metric dimension of polycyclic aromatic hydrocarbon networks",
+      "authors": [
+        "S. Sharma",
+        "V. K. Bhat",
+        "H. Raza",
+        "Sahil Sharma"
+      ],
+      "year": 2022,
+      "venue": "Chemick\u00e9 zvesti",
+      "relevance_score": 0.72,
+      "abstract": "",
+      "doi": "10.1007/s11696-022-02151-x",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/de610736d382562b976f5c5acb2dcea3a9f95d94"
+    },
+    {
+      "title": "Fault-tolerance and unique identification of vertices and edges in a graph: The fault-tolerant mixed metric dimension",
+      "authors": [
+        "Asad Khan",
+        "Sikander Ali",
+        "Sakander Hayat",
+        "M. Azeem",
+        "Yubin Zhong",
+        "Manzoor Ahmad Zahid",
+        "Mohammed J. F. Alenazi"
+      ],
+      "year": 2024,
+      "venue": "J. Parallel Distributed Comput.",
+      "relevance_score": 0.71,
+      "abstract": "",
+      "doi": "10.1016/j.jpdc.2024.105024",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/ceddb9193e81858a2f47d9e3dae2a59323bb3d9b"
+    },
+    {
+      "title": "Mixed metric dimension of some graphs",
+      "authors": [
+        "Kairui Nie",
+        "Kexiang Xu"
+      ],
+      "year": 2023,
+      "venue": "Applied Mathematics and Computation",
+      "relevance_score": 0.7000000000000001,
+      "abstract": "",
+      "doi": "10.1016/j.amc.2022.127737",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/e62b2e9f336a6cc4dc1d0cd662743ce8905ba28e"
+    },
+    {
+      "title": "Further results on the mixed metric dimension of graphs",
+      "authors": [
+        "Hongbo Hua",
+        "Yaojun Chen",
+        "Xinying Hua"
+      ],
+      "year": 2025,
+      "venue": "Discrete Applied Mathematics",
+      "relevance_score": 0.7,
+      "abstract": "",
+      "doi": "10.1016/j.dam.2025.02.012",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/a49e7e81a14bdba543288499ed67406fb18d73e7"
+    },
+    {
+      "title": "Mixed metric dimension of hollow coronoid structure",
+      "authors": [
+        "Ali N. A. Koam",
+        "A. Ahmad",
+        "Sadia Husain",
+        "Muhammad Azeem"
+      ],
+      "year": 2022,
+      "venue": "Ain Shams Engineering Journal",
+      "relevance_score": 0.7,
+      "abstract": "",
+      "doi": "10.1016/j.asej.2022.102000",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/863598c311ed8d78e6346ef0e8ac1d391c29174f"
+    },
+    {
+      "title": "Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>",
+      "authors": [
+        "Jing Qu",
+        "Nanbin Cao"
+      ],
+      "year": 2022,
+      "venue": "Discrete Applied Mathematics",
+      "relevance_score": 0.7,
+      "abstract": "",
+      "doi": "10.1016/j.dam.2022.06.023",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/d7edeaefd8b9bf63407e872c221d9aac2b5f351f"
+    },
+    {
+      "title": "Mixed metric dimension over (edge) corona products",
+      "authors": [
+        "M. Korivand",
+        "K. Khashyarmanesh",
+        "Mostafa Tavakoli"
+      ],
+      "year": 2023,
+      "venue": "AKCE Int. J. Graphs Comb.",
+      "relevance_score": 0.68,
+      "abstract": "",
+      "doi": "10.1080/09728600.2023.2291465",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/bf16a8b3de3a09ff2f4a85191ef2aedd781f78d9"
+    },
+    {
+      "title": "The Mixed Partition Dimension: A New Resolvability Parameter in Graph Theory",
+      "authors": [
+        "Siti Norziahidayu Amzee Zamri",
+        "Sikander Ali",
+        "Muhammad Azeem",
+        "Husam A. Neamah",
+        "Bandar Almohsen"
+      ],
+      "year": 2025,
+      "venue": "IEEE Access",
+      "relevance_score": 0.68,
+      "abstract": "In this article, we introduce a novel graph-theoretical parameter called the mixed partition dimension and apply it to the path graph and the hexagonal network. This parameter builds on the concept of resolvability in graphs, integrating vertex-based partition dimensions with edge-oriented strategie...",
+      "doi": "10.1109/ACCESS.2025.3534819",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/a0970479c4ec6a579317c3302c102fa48307ec1b"
+    },
+    {
+      "title": "Edge metric dimension and mixed metric dimension of a plane graph Tn",
+      "authors": [
+        "Huige Shen",
+        "Jing Qu",
+        "Na Kang",
+        "Cong Lin"
+      ],
+      "year": 2023,
+      "venue": "Discret. Math. Algorithms Appl.",
+      "relevance_score": 0.67,
+      "abstract": "",
+      "doi": "10.1142/s1793830923500398",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/6d871272e1e7b4fd4a4413dbb458e7b12fa6973a"
+    },
+    {
+      "title": "Edge metric dimension and mixed metric dimension of planar graph Qn",
+      "authors": [
+        "Jing Qu",
+        "Nanbin Cao"
+      ],
+      "year": 2022,
+      "venue": "Discrete Applied Mathematics",
+      "relevance_score": 0.66,
+      "abstract": "",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/ac518b82d0605942a20d24358f411e9470a731cf"
+    },
+    {
+      "title": "On mixed metric dimension of crystal cubic carbon structure",
+      "authors": [
+        "Malkesh Singh",
+        "S. Sharma",
+        "V. K. Bhat"
+      ],
+      "year": 2023,
+      "venue": "Journal of Mathematical Chemistry",
+      "relevance_score": 0.66,
+      "abstract": "",
+      "doi": "10.1007/s10910-023-01507-2",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/833c8697af7438231e08faa14f7c9eb7576a284d"
+    },
+    {
+      "title": "Mixed metric dimension of some plane graphs",
+      "authors": [
+        "Na Kang",
+        "Zhiquan Li",
+        "Lihang Hou",
+        "Jing Qu"
+      ],
+      "year": 2023,
+      "venue": "Discret. Math. Algorithms Appl.",
+      "relevance_score": 0.66,
+      "abstract": "",
+      "doi": "10.1142/s1793830923500258",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/0671cafb511ed01da4a40074eb2edc38ca2d6a1c"
+    },
+    {
+      "title": "Throttling for metric dimension and its variants",
+      "authors": [
+        "Boris Brimkov",
+        "Peter Diao",
+        "Jesse Geneson",
+        "Carolyn Reinhart",
+        "Shen-Fu Tsai",
+        "William Wang",
+        "Kyle Worley"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.65,
+      "abstract": "Metric dimension is a graph parameter that has been applied to robot navigation and finding low-dimensional vector embeddings. Throttling entails minimizing the sum of two available resources when solving certain graph problems. In this paper, we introduce throttling for metric dimension, edge metri...",
+      "doi": null,
+      "arxiv_id": "2510.00530",
+      "url": "http://arxiv.org/abs/2510.00530v1"
+    },
+    {
+      "title": "Study on mixed metric dimension of STAR and its Comb product with path",
+      "authors": [
+        "Darmaji",
+        "N. Azahra",
+        "R. Alfarisi"
+      ],
+      "year": 2022,
+      "venue": "7TH INTERNATIONAL CONFERENCE ON MATHEMATICS: PURE, APPLIED AND COMPUTATION: Mathematics of Quantum Computing",
+      "relevance_score": 0.64,
+      "abstract": "",
+      "doi": "10.1063/5.0131874",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/cddb76ad58e551ad0f2fc7069488e075ca6bd371"
+    },
+    {
+      "title": "On Metric Dimensions of Hypercubes",
+      "authors": [
+        "Aleksander Kelenc",
+        "Aoden Teo Masa Toshi",
+        "Riste Skrekovski",
+        "Ismael G. Yero"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.5700000000000001,
+      "abstract": "The metric (resp. edge metric or mixed metric) dimension of a graph $G$, is the cardinality of the smallest ordered set of vertices that uniquely recognizes all the pairs of distinct vertices (resp. edges, or vertices and edges) of $G$ by using a vector of distances to this set. In this note we show...",
+      "doi": null,
+      "arxiv_id": "2102.10916",
+      "url": "http://arxiv.org/abs/2102.10916v1"
+    },
+    {
+      "title": "The difference between several metric dimension graph invariants",
+      "authors": [
+        "Milica Milivojevi\u0107 Danas"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.55,
+      "abstract": "In this paper extremal values of the difference between several graph invariants related to the metric dimension are studied: mixed metric dimension, edge metric dimension and strong metric dimension. These non-trivial extremal values are computed over all connected graphs of given order. To obtain ...",
+      "doi": null,
+      "arxiv_id": "2012.07471",
+      "url": "http://arxiv.org/abs/2012.07471v1"
+    },
+    {
+      "title": "Computation of mixed resolvability for a circular ladder and its unbounded nature",
+      "authors": [
+        "S. Sharma",
+        "Vijay Kumar Bhat",
+        "Muhammad Azeem",
+        "Manikonda Gayathri",
+        "Bandar Almohsen"
+      ],
+      "year": 2025,
+      "venue": "PLoS ONE",
+      "relevance_score": 0.55,
+      "abstract": "Let \u0393 = \u0393(V ,E) be a simple, planar, connected, and undirected graph. The article primarily concentrates on a category of planar graphs, detailing the explicit identification of each member within this graph family. Within the domain of graph theory, the parameters used to uniquely identify vertices...",
+      "doi": "10.1371/journal.pone.0313788",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/ef2463699f759a4a1ae7292250fcd1f710da0425"
+    },
+    {
+      "title": "Metric Dimension and Secure Metric Dimension of Some Graphs",
+      "authors": [],
+      "year": 2025,
+      "venue": "Applied Mathematics &amp; Information Sciences",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.18576/amis/190606",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.18576/amis/190606"
+    },
+    {
+      "title": "New Constant Dimension Codes From the Inserting Mixed Dimension Construction and Multilevel Construction",
+      "authors": [
+        "Han Li",
+        "Fang-Wei Fu"
+      ],
+      "year": 2025,
+      "venue": "IEEE Transactions on Information Theory",
+      "relevance_score": 0.4700000000000001,
+      "abstract": "Constant dimension codes (CDCs) are essential for error correction in random network coding. A fundamental problem of CDCs is to determine their maximal possible size for given parameters. Inserting construction and multilevel construction are two effective techniques for constructing CDCs. We first...",
+      "doi": "10.1109/TIT.2025.3645311",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/a060a821dca4ef35fb132c0e7964132c9747b5d8"
+    },
+    {
+      "title": "Unbounded Mixed Resolvability of Web Graph and Prism Related Graph",
+      "authors": [
+        "Sunny Kumar Sharma",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.47000000000000003,
+      "abstract": "Let $\\mathbb{E}(H)$ and $\\mathbb{V}(H)$ denote the edge set and the vertex set of the simple connected graph $H$, respectively. The mixed metric dimension of the graph $H$ is the graph invariant, which is the mixture of two important graph parameters, the edge metric dimension and the metric dimensi...",
+      "doi": null,
+      "arxiv_id": "2108.08588",
+      "url": "http://arxiv.org/abs/2108.08588v1"
+    },
+    {
+      "title": "Frequency-aware Dimension Selection for Static Word Embedding by Mixed Product Distance",
+      "authors": [
+        "Lingfeng Shen",
+        "Haiyun Jiang",
+        "Lemao Liu",
+        "Ying Chen"
+      ],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "relevance_score": 0.41000000000000003,
+      "abstract": "Static word embedding is still useful, particularly for context-unavailable tasks, because in the case of no context available, pre-trained language models often perform worse than static word embeddings. Although dimension is a key factor determining the quality of static word embeddings, automatic...",
+      "doi": "10.48550/arXiv.2305.07826",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/59d9d1e840439d5dc62c668f00ff3b9be919ed65"
+    },
+    {
+      "title": "Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings",
+      "authors": [
+        "Pranjali",
+        "Amit Kumar",
+        "Rakshita Sharma"
+      ],
+      "year": 2025,
+      "venue": "Journal of Interconnection Networks",
+      "relevance_score": 0.4,
+      "abstract": "<jats:p> Let [Formula: see text] be a finite commutative semi-ring with [Formula: see text]. We define the unit graph of [Formula: see text], denoted [Formula: see text], as a graph where the vertices correspond to the elements of [Formula: see text]. Two distinct vertices [Formula: see text] and [F...",
+      "doi": "10.1142/s0219265925500136",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s0219265925500136"
+    },
+    {
+      "title": "The metric dimension of the total graph of a semiring",
+      "authors": [
+        "David Dol\u017ean"
+      ],
+      "year": 2025,
+      "venue": "Ukrains\u2019kyi Matematychnyi Zhurnal",
+      "relevance_score": 0.4,
+      "abstract": "<jats:p>UDC 512.5\r\nWe calculate the metric dimension of the total graph of a direct product of finite commutative antinegative semirings with their sets of zero-divisors closed under addition.</jats:p>",
+      "doi": "10.3842/umzh.v76i11.7980",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3842/umzh.v76i11.7980"
+    },
+    {
+      "title": "THE SIMILARITY OF METRIC DIMENSION AND LOCAL METRIC DIMENSION OF ROOTED PRODUCT GRAPH",
+      "authors": [
+        "L. Susilowati",
+        "Slamin",
+        "M. I. Utoyo",
+        "N. Estuningsih"
+      ],
+      "year": 2015,
+      "venue": "Far East Journal of Mathematical Sciences (FJMS)",
+      "relevance_score": 0.4,
+      "abstract": "",
+      "doi": "10.17654/fjmsaug2015_841_856",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.17654/fjmsaug2015_841_856"
+    },
+    {
+      "title": "Computing Fault-Tolerant Metric Dimension of Connected Graphs",
+      "authors": [
+        "Uzma Ahmad",
+        "Sara Ahmed",
+        "M. Javaid",
+        "Md. Nur Alam"
+      ],
+      "year": 2022,
+      "venue": "Journal of mathematics",
+      "relevance_score": 0.39,
+      "abstract": "For a connected graph, the concept of metric dimension contributes an important role in computer networking and in the formation of chemical structures. Among the various types of the metric dimensions, the fault-tolerant metric dimension has attained much more attention by the researchers in the la...",
+      "doi": "10.1155/2022/9773089",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/27dc2702583a979a412b2008e9dcd87b0e45c999"
+    },
+    {
+      "title": "A simple analysis of the mixed-state information metric in AdS3/CFT2",
+      "authors": [
+        "Xiao-Bao Xu",
+        "Shan-Quan Lan",
+        "Guqiang Li",
+        "J. Mo"
+      ],
+      "year": 2018,
+      "venue": "Modern Physics Letters A",
+      "relevance_score": 0.38,
+      "abstract": "We compute the quantum information metrics of a thermal CFT on [Formula: see text] perturbed by the scalar primary operators of conformal dimensions [Formula: see text] = 3, 4, 5, 6. In particular, we assume that the Hamiltonians of the mixed states commute with each other and the temperature is fix...",
+      "doi": "10.1142/s0217732319503346",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/d6b6663feda522d73bb0da03107d1a32927e31ec"
+    },
+    {
+      "title": "The fractal dimension of resting state EEG increases over age in children",
+      "authors": [
+        "Si Long Jenny Tou",
+        "Tom Chau"
+      ],
+      "year": 2025,
+      "venue": "Cerebral Cortex",
+      "relevance_score": 0.37,
+      "abstract": "Abstract Resting-state electroencephalography (rs-EEG) represents spontaneous neural activity and is increasingly analyzed using nonlinear measures to assess brain complexity. The Higuchi Fractal Dimension (HFD) is a widely used metric for quantifying the fractal properties of EEG signals, yet its d...",
+      "doi": "10.1093/cercor/bhaf138",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/da8d95280d9e0a8d0b4d3e896e26b501607c580e"
+    },
+    {
+      "title": "On mixed curvature for Hermitian manifolds",
+      "authors": [
+        "Kai Tang"
+      ],
+      "year": 2025,
+      "venue": "",
+      "relevance_score": 0.37,
+      "abstract": "In this paper, we consider {\\em mixed curvature} $\\mathcal{C}_{\\alpha,\\beta}$ for Hermitian manifolds, which is a convex combination of the first Chern Ricci curvature and holomorphic sectional curvature introduced by Chu-Lee-Tam \\cite{CLT}. We prove that if a compact Hermitian surface with constant...",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/eeeb144a1460496651ed2f62c7be749a7ab11547"
+    },
+    {
+      "title": "Conformally covariant operators of mixed-symmetry tensors and MAGs",
+      "authors": [
+        "Gregorio Paci",
+        "Dario Sauro",
+        "O. Zanusso"
+      ],
+      "year": 2023,
+      "venue": "Classical and quantum gravity",
+      "relevance_score": 0.37,
+      "abstract": "We compute conformally covariant actions and operators for tensors with mixed symmetries in arbitrary dimension d. Our results complete the classification of conformal actions that are quadratic on arbitrary tensors with three indices, which allows to write corresponding conformal actions for all te...",
+      "doi": "10.1088/1361-6382/acf9d8",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/8540c51be80dbdfdf96c47384e41b214d58c06b6"
+    },
+    {
+      "title": "Investigating The Metric Basis And Metric Dimension Of Graphene",
+      "authors": [
+        "Wasim Abbas",
+        "Faryal Chaudhry",
+        "Deeba Afzal",
+        "Umar Farooq"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>This article explores the metric dimension of graphene, atwo-dimensional carbon allotrope, examining how a minimal set of carbon atoms can uniquely determine the distances between all atoms in thegraphene lattice. We investigate the implications of m...",
+      "doi": "10.21203/rs.3.rs-3800695/v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-3800695/v1"
+    },
+    {
+      "title": "Metric mean dimension and analog compression",
+      "authors": [
+        "Yonatan Gutman",
+        "Adam \u015apiewak"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36,
+      "abstract": "<jats:p>&lt;div&gt;Wu and Verd\u00fa developed a theory of almost lossless analog compression, where one imposes various regularity conditions on the compressor and the decompressor with the input signal being modelled by a (typically infinite-entropy) stationary stochastic process. In this work we consi...",
+      "doi": "10.36227/techrxiv.12765497.v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.36227/techrxiv.12765497.v1"
+    },
+    {
+      "title": "Metric dimension and pattern avoidance in graphs",
+      "authors": [
+        "Jesse Geneson"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36,
+      "abstract": "<p>We prove that the maximum possible number of edges in a graph of diameter $D$ and edge metric dimension $k$ is at most $(\\lfloor \\frac{2D}{3}\\rfloor +1)^{k}+k \\sum_{i = 1}^{\\lceil \\frac{D}{3}\\rceil } (2i-1)^{k-1}$, sharpening the bound of $\\binom{k}{2}+k D^{k-1}+D^{k}$ from Zubrilina (2018). We a...",
+      "doi": "10.31219/osf.io/vxuk6",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.31219/osf.io/vxuk6"
+    },
+    {
+      "title": "Metric Dimension in fuzzy(neutrosophic) Graphs-VII",
+      "authors": [
+        "Mohammadesmail Nikfar"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36,
+      "abstract": "<jats:p>New notion of dimension as set, as two optimal numbers including metric number, dimension number and as optimal set are introduced in individual framework and in formation of family. Behaviors of twin and antipodal are explored in fuzzy(neutrosophic) graphs. Fuzzy(neutrosophic) graphs, under...",
+      "doi": "10.20944/preprints202111.0142.v7",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.20944/preprints202111.0142.v7"
+    },
+    {
+      "title": "Geometric Latent Space Tomography with Metric-Preserving Autoencoders",
+      "authors": [
+        "S. M. Yousuf",
+        "Iqbal Tomal",
+        "Abdullah Al"
+      ],
+      "year": 2025,
+      "venue": "",
+      "relevance_score": 0.35,
+      "abstract": "Quantum state tomography faces exponential scaling with system size, while recent neural network approaches achieve polynomial scaling at the cost of losing the geometric structure of quantum state space. We introduce geometric latent space tomography, combining classical neural encoders with parame...",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/26dc186172e52987ce3e20946f6758a59c4f2e07"
+    },
+    {
+      "title": "Kolmogorov widths of balls in mixed norms: the case of rigidity",
+      "authors": [
+        "Yuri Malykhin",
+        "Konstantin Ryutin"
+      ],
+      "year": 2025,
+      "venue": "",
+      "relevance_score": 0.35,
+      "abstract": "We describe the set of parameters $(p_1,p_2,q_1,q_2)$ such that the balls $B_{q_1,q_2}^{s,b}$ are rigid in $\\ell_{q_1,q_2}^{s,b}$ metric i.e. they are poorly approximated by linear subspaces of dimension $\\le (1-\\varepsilon)sb$, for large $s, b$. Thus we have settled an important qualitative case in...",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/f45ba4404ae943a668ebded5ccd7b16b642e517f"
+    },
+    {
+      "title": "Mixed Hessian inequalities on Hermitian manifolds and applications",
+      "authors": [
+        "Haoyuan Sun"
+      ],
+      "year": 2025,
+      "venue": "",
+      "relevance_score": 0.35,
+      "abstract": "Let $(X,\\omega)$ be a compact Hermitian manifold of complex dimension $n$. In this paper we establish a Ko\\l odziej-Nguyen type weak convergence theorem of complex Hessian operators. Utilizing this result, we prove a general mixed Hessian inequality with respect to a background Hermitian metric, cov...",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/fb738786530e76e346efad3c085d049686bcdf42"
+    },
+    {
+      "title": "THE METRIC THEORY OF MIXED TYPE LINEAR FORMS",
+      "authors": [
+        "Detta Dickinson",
+        "Mumtaz Hussain"
+      ],
+      "year": 2013,
+      "venue": "",
+      "relevance_score": 0.35,
+      "abstract": "",
+      "doi": "10.1142/S1793042112501278",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/b6e07320badca1479a1f118fe3847e86c25311b1"
+    },
+    {
+      "title": "The use of electronic health record embedded MRC-ICU as a metric for critical care pharmacist workload",
+      "authors": [
+        "Andrew J. Webb",
+        "Bayleigh Carver",
+        "S. Rowe",
+        "Andrea Sikora"
+      ],
+      "year": 2023,
+      "venue": "medRxiv",
+      "relevance_score": 0.33,
+      "abstract": "Objective: A lack of pharmacist-specific risk-stratification scores in the electronic health record (EHR) may limit resource optimization. The medication regimen complexity-intensive care unit (MRC-ICU) score was implemented into our centers EHR for use by clinical pharmacists. The purpose of this e...",
+      "doi": "10.1093/jamiaopen/ooad101",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/da3780141b532fa8fb9b7b967ab59e209bd9ae9c"
+    },
+    {
+      "title": "Coarse group theoretic study on stable mixed commutator length",
+      "authors": [
+        "Morimichi Kawasaki",
+        "M. Kimura",
+        "Shuhei Maruyama",
+        "Takahiro Matsushita",
+        "M. Mimura"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.33,
+      "abstract": "Let $G$ be a group and $N$ a normal subgroup of $G$. We study the large scale behavior, not the exact values themselves, of the stable mixed commutator length $scl_{G,N}$ on the mixed commutator subgroup $[G,N]$; when $N=G$, $scl_{G,N}$ equals the stable commutator length $scl_G$ on the commutator s...",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/d7189d86959fac31eb49e56645406ab5fec566a8"
+    },
+    {
+      "title": "Metric Dimension in fuzzy(neutrosophic) Graphs-IV",
+      "authors": [
+        "Mohammadesmail Nikfar"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.31,
+      "abstract": "<jats:p>In this study, the term dimension is introduced on fuzzy(neutrosophic) graphs. The classes of these specific graphs are chosen to obtain some results based on dimension. The types of crisp notions and fuzzy(neutrosophic) notions are used to make sense about the material of this study and the...",
+      "doi": "10.20944/preprints202111.0142.v4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.20944/preprints202111.0142.v4"
+    },
+    {
+      "title": "Metric dimension and strong metric dimension in annihilator-ideal graphs",
+      "authors": [
+        "R. Shahriyari",
+        "R. Nikandish",
+        "A. Tehranian",
+        "H. Rasouli"
+      ],
+      "year": 2025,
+      "venue": "Applicable Algebra in Engineering, Communication and Computing",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.1007/s00200-024-00657-3",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s00200-024-00657-3"
+    },
+    {
+      "title": "The Metric Dimension and Local Metric Dimension of Relative Prime Graph",
+      "authors": [
+        "Inna Kuswandari",
+        "Fatmawati Fatmawati",
+        "Mohammad Imam Utoyo"
+      ],
+      "year": 2020,
+      "venue": "CAUCHY: Jurnal Matematika Murni dan Aplikasi",
+      "relevance_score": 0.3,
+      "abstract": "<jats:p>This study aims to determine the value of metric dimensions and local metric dimensions of relative prime graphs formed from modulo \u00a0integer rings, namely . As a vertex set is \u00a0and \u00a0if \u00a0and \u00a0are relatively prime. By finding the pattern elements of resolving set and local resolving set, it ca...",
+      "doi": "10.18860/ca.v6i3.10103",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.18860/ca.v6i3.10103"
+    },
+    {
+      "title": "The product of octahedra is badly approximated in the \u21132,1-metric",
+      "authors": [
+        "Y. Malykhin",
+        "K. Ryutin"
+      ],
+      "year": 2017,
+      "venue": "",
+      "relevance_score": 0.28,
+      "abstract": "",
+      "doi": "10.1134/S0001434617010096",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/0bcab0f4bdb139aae16d9b350b8b226567518a54"
+    },
+    {
+      "title": "Strong Edge Metric Dimension of Graphs",
+      "authors": [
+        "Mojgan Afkhami"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.2139/ssrn.4769772",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.4769772"
+    },
+    {
+      "title": "Metric Number in Dimension",
+      "authors": [
+        "Mohammadesmail Nikfar"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "<jats:p>In this outlet, I\u2019ve devised the concept of relation amid two points where these points are coming up to make situation which in that the set of objects are greed to represent the story of how to be in whatever situations when these two points have the styles of being everywhere in the highl...",
+      "doi": "10.20944/preprints202106.0004.v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.20944/preprints202106.0004.v1"
+    },
+    {
+      "title": "On the Metric Dimension of Ka \u00d7Kb \u00d7Kc",
+      "authors": [
+        "Gerold Jaeger",
+        "Valentin Gledel"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.2139/ssrn.4549525",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.4549525"
+    },
+    {
+      "title": "On Metric Dimension and Fault Tolerant Metric Dimension of Some Chemical Structures",
+      "authors": [
+        "Muhammad Faisal Nadeem",
+        "Ayesha Shabbir",
+        "Muhammad Azeem"
+      ],
+      "year": 2022,
+      "venue": "Polycyclic Aromatic Compounds",
+      "relevance_score": 0.24000000000000002,
+      "abstract": "",
+      "doi": "10.1080/10406638.2021.1994429",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1080/10406638.2021.1994429"
+    },
+    {
+      "title": "Plan & Metric Driven Mixed-Signal Verification for Medical Devices",
+      "authors": [
+        "Gregg T. Sarkinen"
+      ],
+      "year": 2011,
+      "venue": "",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/b995ee5d5a37ca7e4b761ffaf280c9ae62e0ba5b"
+    },
+    {
+      "title": "DIMENSION OF METRIC SPACES",
+      "authors": [
+        "JUN-ITI NAGATA"
+      ],
+      "year": 2014,
+      "venue": "Modern Dimension Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1016/b978-1-4832-2961-4.50006-5",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/b978-1-4832-2961-4.50006-5"
+    },
+    {
+      "title": "The metric dimension",
+      "authors": [],
+      "year": 2016,
+      "venue": "Mathematical Explorations",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1017/cbo9781316662595.011",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9781316662595.011"
+    },
+    {
+      "title": "DIMENSION OF SEPARABLE METRIC SPACES",
+      "authors": [
+        "JUN-ITI NAGATA"
+      ],
+      "year": 2014,
+      "venue": "Modern Dimension Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1016/b978-1-4832-2961-4.50008-9",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/b978-1-4832-2961-4.50008-9"
+    },
+    {
+      "title": "The local metric dimension of a graph",
+      "authors": [
+        "Futaba Okamoto",
+        "Bryan Phinezy",
+        "Ping Zhang"
+      ],
+      "year": 2010,
+      "venue": "Mathematica Bohemica",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.21136/mb.2010.140702",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21136/mb.2010.140702"
+    },
+    {
+      "title": "Chapter 1 Dimension Theory of Separable Metric Spaces",
+      "authors": [],
+      "year": 1979,
+      "venue": "North-Holland Mathematical Library",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1016/s0924-6509(09)70102-3",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/s0924-6509(09)70102-3"
+    },
+    {
+      "title": "A separable complete metric space of dimension n containing isometrically all compact metric spaces of dimension n",
+      "authors": [
+        "S.D. Iliadis"
+      ],
+      "year": 2013,
+      "venue": "Topology and its Applications",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1016/j.topol.2013.04.020",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.topol.2013.04.020"
+    },
+    {
+      "title": "Characterization of $n$-vertex graphs with metric dimension $n-3$",
+      "authors": [
+        "Mohsen Jannesari",
+        "Behnaz Omoomi"
+      ],
+      "year": 2014,
+      "venue": "Mathematica Bohemica",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.21136/mb.2014.143632",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21136/mb.2014.143632"
+    },
+    {
+      "title": "Hausdorff measure and dimension",
+      "authors": [],
+      "year": 1999,
+      "venue": "Metric Diophantine Approximation on Manifolds",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.1017/cbo9780511565991.005",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9780511565991.005"
+    },
+    {
+      "title": "Lower bounds for Hausdorff dimension",
+      "authors": [],
+      "year": 1999,
+      "venue": "Metric Diophantine Approximation on Manifolds",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.1017/cbo9780511565991.007",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9780511565991.007"
+    },
+    {
+      "title": "Upper bounds for Hausdorff dimension",
+      "authors": [],
+      "year": 1999,
+      "venue": "Metric Diophantine Approximation on Manifolds",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.1017/cbo9780511565991.006",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9780511565991.006"
+    },
+    {
+      "title": "",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "",
+      "doi": "10.54499/ui/bd/152212/2021",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.54499/ui/bd/152212/2021"
+    },
+    {
+      "title": "PubMed Paper 41266630",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41266630/"
+    },
+    {
+      "title": "PubMed Paper 40163553",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40163553/"
+    },
+    {
+      "title": "PubMed Paper 39489801",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39489801/"
+    },
+    {
+      "title": "PubMed Paper 39035488",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39035488/"
+    },
+    {
+      "title": "PubMed Paper 38370250",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38370250/"
+    }
+  ],
+  "claims": [
+    {
+      "statement": "In this paper we first establish the exact value of the mixed metric dimension of a unicycic graph G which is derived from the structure of G",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "prescribed cyclomatic number",
+        "of G",
+        "of a unicycic graph G which is derived from the structure of G",
+        "yield a simple sharp upper bound on the mixed metric dimension"
+      ]
+    },
+    {
+      "statement": "In this article, we introduce a novel graph-theoretical parameter called the mixed partition dimension and apply it to the path graph and the hexagonal network",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "edge-oriented strategies to characterize the complexity of graph structures",
+        "dimension and apply it to the path graph and the hexagonal network",
+        "the concept of resolvability in graphs",
+        "dimensions with edge-oriented strategies to characterize the complexity of graph structures",
+        "of the mixed metric dimension and partition dimension"
+      ]
+    },
+    {
+      "statement": "First, we show that the metric and edge metric dimension of $Q_d$ differ by only one for every integer $d$",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "a vector of distances to this set",
+        "of a graph $G$",
+        "hypercube graphs",
+        "of $Q_d$ differ by only one for every integer $d$"
+      ]
+    },
+    {
+      "statement": "We first provide a sufficient condition for a subspace to be added to the code from the mixed dimension construction in Lao et al",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "codes (CDCs) are essential for error correction in random network coding",
+        "and multilevel construction are two effective techniques for constructing CDCs",
+        "for a subspace to be added to the code from the mixed dimension construction in Lao et al",
+        "the mixed dimension construction"
+      ]
+    },
+    {
+      "statement": "Our constructions yield some new lower bounds for CDCs, which are superior to the previously best-known ones",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "codes (CDCs) are essential for error correction in random network coding",
+        "and multilevel construction are two effective techniques for constructing CDCs",
+        "for a subspace to be added to the code from the mixed dimension construction in Lao et al",
+        "the mixed dimension construction"
+      ]
+    },
+    {
+      "statement": "Our constructions yield some new lower bounds for CDCs, which are superior to the previously best-known ones",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "codes (CDCs) are essential for error correction in random network coding",
+        "and multilevel construction are two effective techniques for constructing CDCs",
+        "for a subspace to be added to the code from the mixed dimension construction in Lao et al",
+        "the mixed dimension construction"
+      ]
+    },
+    {
+      "statement": "In this paper, we consider {\\em mixed curvature} $\\mathcal{C}_{\\alpha,\\beta}$ for Hermitian manifolds, which is a convex combination of the first Chern Ricci curvature and holomorphic sectional curvature introduced by Chu-Lee-Tam \\cite{CLT}",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "constant mixed curvature $c$",
+        "constant mixed curvature",
+        "semi-positive but not identically zero mixed curvature has Kodaira dimension $-\\infty$",
+        "$-\\infty$"
+      ]
+    }
+  ],
+  "contradictions": [],
+  "research_gaps": [
+    {
+      "description": "Limited use of cross-validation in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper cross-validation?",
+        "What are the best practices for cross-validation in this domain?",
+        "Why is cross-validation not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of ablation study in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper ablation study?",
+        "What are the best practices for ablation study in this domain?",
+        "Why is ablation study not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of statistical significance in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper statistical significance?",
+        "What are the best practices for statistical significance in this domain?",
+        "Why is statistical significance not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of baseline comparison in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper baseline comparison?",
+        "What are the best practices for baseline comparison in this domain?",
+        "Why is baseline comparison not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of error analysis in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper error analysis?",
+        "What are the best practices for error analysis in this domain?",
+        "Why is error analysis not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of hyperparameter tuning in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper hyperparameter tuning?",
+        "What are the best practices for hyperparameter tuning in this domain?",
+        "Why is hyperparameter tuning not commonly used?"
+      ]
+    },
+    {
+      "description": "Lack of real-world evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in real-world evaluation?",
+        "What are the challenges of conducting real-world evaluation?",
+        "What metrics are appropriate for real-world evaluation?"
+      ]
+    },
+    {
+      "description": "Lack of user study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in user study?",
+        "What are the challenges of conducting user study?",
+        "What metrics are appropriate for user study?"
+      ]
+    },
+    {
+      "description": "Lack of clinical trial in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in clinical trial?",
+        "What are the challenges of conducting clinical trial?",
+        "What metrics are appropriate for clinical trial?"
+      ]
+    },
+    {
+      "description": "Lack of longitudinal study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in longitudinal study?",
+        "What are the challenges of conducting longitudinal study?",
+        "What metrics are appropriate for longitudinal study?"
+      ]
+    },
+    {
+      "description": "Lack of multi-domain evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in multi-domain evaluation?",
+        "What are the challenges of conducting multi-domain evaluation?",
+        "What metrics are appropriate for multi-domain evaluation?"
+      ]
+    },
+    {
+      "description": "Need for recent comparative studies",
+      "type": "temporal_gap",
+      "priority": 0.5,
+      "potential_questions": [
+        "How do recent methods compare to established ones?",
+        "What are the latest trends and developments?",
+        "Which recent approaches show the most promise?"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "paper_id": "arxiv_2305_19620",
+      "bibtex": "@article{arxiv_2305_19620,\n  title={Graphs whose mixed metric dimension is equal to their order},\n  author={Ali Ghalavand and Sandi Klav\u017ear and Mostafa Tavakoli},\n  journal={arXiv preprint arXiv:2305.19620},\n  year={2023},\n  url={http://arxiv.org/abs/2305.19620v1}\n}",
+      "apa": "Ghalavand, A., Klav\u017ear, S., & Tavakoli, M. (2023). Graphs whose mixed metric dimension is equal to their order. arXiv preprint arXiv:2305.19620.",
+      "ieee": "Ali Ghalavand, Sandi Klav\u017ear, Mostafa Tavakoli, \"Graphs whose mixed metric dimension is equal to their order,\" arXiv preprint arXiv:2305.19620, 2023.",
+      "mla": "Ghalavand, A., et al.. \"Graphs whose mixed metric dimension is equal to their order.\" arXiv, 2305.19620, 2023.",
+      "custom_format": "\\bibitem{GhKlTa23} Ghalavand, A., Klav\u017ear, S., Tavakoli, M., Graphs whose mixed metric dimension is equal to their order, arXiv \\textbf{1}(1) (2023) 1--10. http://arxiv.org/abs/2305.19620v1",
+      "paper_url": "http://arxiv.org/abs/2305.19620v1",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2407_07851",
+      "bibtex": "@article{arxiv_2407_07851,\n  title={Edge and mixed metric dimension of Johnson graphs},\n  author={Jozef Kratica and Mirjana Cangalovi\u0107 and Vera Kova\u010devi\u0107-Vuj\u010di\u0107 and Milica Milivojevi\u0107 Danas},\n  journal={arXiv preprint arXiv:2407.07851},\n  year={2024},\n  url={http://arxiv.org/abs/2407.07851v1}\n}",
+      "apa": "Kratica, J., Cangalovi\u0107, M., Kova\u010devi\u0107-Vuj\u010di\u0107, V., & Danas, M. M. (2024). Edge and mixed metric dimension of Johnson graphs. arXiv preprint arXiv:2407.07851.",
+      "ieee": "Jozef Kratica et al., \"Edge and mixed metric dimension of Johnson graphs,\" arXiv preprint arXiv:2407.07851, 2024.",
+      "mla": "Kratica, J., et al.. \"Edge and mixed metric dimension of Johnson graphs.\" arXiv, 2407.07851, 2024.",
+      "custom_format": "\\bibitem{KrCaKo24} Kratica, J., Cangalovi\u0107, M., Kova\u010devi\u0107-Vuj\u010di\u0107, V., Danas, M. M., Edge and mixed metric dimension of johnson graphs, arXiv \\textbf{1}(1) (2024) 1--10. http://arxiv.org/abs/2407.07851v1",
+      "paper_url": "http://arxiv.org/abs/2407.07851v1",
+      "journal_name": "arXiv",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1038_s41598_024_77697_9",
+      "bibtex": "@article{10_1038_s41598_024_77697_9,\n  title={Mixed metric dimension and exchange property of hexagonal nano-network},\n  author={Peide Liu and Sikander Ali and Muhammad Azeem and Muhammad Kamran Jamil and Manzoor Ahmad Zahid and Waleed Ali and Bandar Almohsen},\n  journal={Scientific Reports},\n  year={2024},\n  doi={10.1038/s41598-024-77697-9},\n  url={https://www.semanticscholar.org/paper/1b48ef5307c3d441ccdb1cd12e336e9be7910af4}\n}",
+      "apa": "Liu, P., Ali, S., Azeem, M., Jamil, M. K., Zahid, M. A., Ali, W., & Almohsen, B. (2024). Mixed metric dimension and exchange property of hexagonal nano-network. Scientific Reports.",
+      "ieee": "Peide Liu et al., \"Mixed metric dimension and exchange property of hexagonal nano-network,\" Scientific Reports, 2024.",
+      "mla": "Liu, P., et al.. \"Mixed metric dimension and exchange property of hexagonal nano-network.\" Scientific Reports, 2024.",
+      "custom_format": "\\bibitem{LiAlAz24} Liu, P., Ali, S., Azeem, M., Jamil, M. K., Zahid, M. A., Ali, W., Almohsen, B., Mixed metric dimension and exchange property of hexagonal nano-network, Scientific Reports \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1038/s41598-024-77697-9",
+      "paper_url": "https://doi.org/10.1038/s41598-024-77697-9",
+      "journal_name": "Scientific Reports",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_19139_soic_2310_5070_1925",
+      "bibtex": "@article{10_19139_soic_2310_5070_1925,\n  title={Dominant Mixed Metric Dimension of Graph},\n  author={R. Alfarisi and S. Husain and L. Susilowati and A. I. Kristiana},\n  journal={Statistics, Optimization &amp; Information Computing},\n  year={2024},\n  doi={10.19139/soic-2310-5070-1925},\n  url={https://www.semanticscholar.org/paper/bba5b0885d9a66ff41ea3abaf4a5f4a563f43356}\n}",
+      "apa": "Alfarisi, R., Husain, S., Susilowati, L., & Kristiana, A. I. (2024). Dominant Mixed Metric Dimension of Graph. Statistics, Optimization &amp; Information Computing.",
+      "ieee": "R. Alfarisi et al., \"Dominant Mixed Metric Dimension of Graph,\" Statistics, Optimization &amp; Information Computing, 2024.",
+      "mla": "Alfarisi, R., et al.. \"Dominant Mixed Metric Dimension of Graph.\" Statistics, Optimization &amp; Information Computing, 2024.",
+      "custom_format": "\\bibitem{AlHuSu24} Alfarisi, R., Husain, S., Susilowati, L., Kristiana, A. I., Dominant mixed metric dimension of graph, Statistics, Optimization &amp; Information Computing \\textbf{1}(1) (2024) 1--10. https://doi.org/10.19139/soic-2310-5070-1925",
+      "paper_url": "https://doi.org/10.19139/soic-2310-5070-1925",
+      "journal_name": "Statistics, Optimization &amp; Information Computing",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1080_10406638_2023_2211734",
+      "bibtex": "@article{10_1080_10406638_2023_2211734,\n  title={Mixed Metric Dimension of Certain Carbon Nanocone Networks},\n  author={S. Sharma and V. K. Bhat and H. A. Khalifa and Agaeb Mahal Alanzi},\n  journal={Polycyclic aromatic compounds (Print)},\n  year={2023},\n  doi={10.1080/10406638.2023.2211734},\n  url={https://www.semanticscholar.org/paper/91cb53b1ab1bb6944d59545352a1bff68536d5d4}\n}",
+      "apa": "Sharma, S., Bhat, V. K., Khalifa, H. A., & Alanzi, A. M. (2023). Mixed Metric Dimension of Certain Carbon Nanocone Networks. Polycyclic aromatic compounds (Print).",
+      "ieee": "S. Sharma et al., \"Mixed Metric Dimension of Certain Carbon Nanocone Networks,\" Polycyclic aromatic compounds (Print), 2023.",
+      "mla": "Sharma, S., et al.. \"Mixed Metric Dimension of Certain Carbon Nanocone Networks.\" Polycyclic aromatic compounds (Print), 2023.",
+      "custom_format": "\\bibitem{ShBhKh23} Sharma, S., Bhat, V. K., Khalifa, H. A., Alanzi, A. M., Mixed metric dimension of certain carbon nanocone networks, Polycyclic aromatic compounds (Print) \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1080/10406638.2023.2211734",
+      "paper_url": "https://doi.org/10.1080/10406638.2023.2211734",
+      "journal_name": "Polycyclic aromatic compounds (Print)",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_3934_math_2023854",
+      "bibtex": "@article{10_3934_math_2023854,\n  title={Graphs with mixed metric dimension three and related algorithms},\n  author={D. Alrowaili and Uzma Ahmad and Saira Hameeed and M. Javaid},\n  journal={AIMS Mathematics},\n  year={2023},\n  doi={10.3934/math.2023854},\n  url={https://www.semanticscholar.org/paper/9a8ea34601307e8ca1c4c46644d1f51f8c0ea538}\n}",
+      "apa": "Alrowaili, D., Ahmad, U., Hameeed, S., & Javaid, M. (2023). Graphs with mixed metric dimension three and related algorithms. AIMS Mathematics.",
+      "ieee": "D. Alrowaili et al., \"Graphs with mixed metric dimension three and related algorithms,\" AIMS Mathematics, 2023.",
+      "mla": "Alrowaili, D., et al.. \"Graphs with mixed metric dimension three and related algorithms.\" AIMS Mathematics, 2023.",
+      "custom_format": "\\bibitem{AlAhHa23} Alrowaili, D., Ahmad, U., Hameeed, S., Javaid, M., Graphs with mixed metric dimension three and related algorithms, AIMS Mathematics \\textbf{1}(1) (2023) 1--10. https://doi.org/10.3934/math.2023854",
+      "paper_url": "https://doi.org/10.3934/math.2023854",
+      "journal_name": "AIMS Mathematics",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1109_ACCESS_2019_2961191",
+      "bibtex": "@article{10_1109_ACCESS_2019_2961191,\n  title={On Mixed Metric Dimension of Rotationally Symmetric Graphs},\n  author={H. Raza and Jia-bao Liu and Shaojian Qu},\n  journal={IEEE Access},\n  year={2020},\n  doi={10.1109/ACCESS.2019.2961191},\n  url={https://www.semanticscholar.org/paper/21d29efc8099ac127c7690b08646a2fd30f9c763}\n}",
+      "apa": "Raza, H., Liu, J., & Qu, S. (2020). On Mixed Metric Dimension of Rotationally Symmetric Graphs. IEEE Access.",
+      "ieee": "H. Raza, Jia-bao Liu, Shaojian Qu, \"On Mixed Metric Dimension of Rotationally Symmetric Graphs,\" IEEE Access, 2020.",
+      "mla": "Raza, H., et al.. \"On Mixed Metric Dimension of Rotationally Symmetric Graphs.\" IEEE Access, 2020.",
+      "custom_format": "\\bibitem{RaLiQu20} Raza, H., Liu, J., Qu, S., On mixed metric dimension of rotationally symmetric graphs, IEEE Access \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1109/ACCESS.2019.2961191",
+      "paper_url": "https://doi.org/10.1109/ACCESS.2019.2961191",
+      "journal_name": "IEEE Access",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_3389_fphy_2020_00211",
+      "bibtex": "@article{10_3389_fphy_2020_00211,\n  title={Computing the Mixed Metric Dimension of a Generalized Petersen Graph P(n, 2)},\n  author={H. Raza and Ying Ji},\n  journal={Frontiers of Physics},\n  year={2020},\n  doi={10.3389/fphy.2020.00211},\n  url={https://www.semanticscholar.org/paper/574a9fe71a8c785caad044a0d518af7aa9880bbf}\n}",
+      "apa": "Raza, H. & Ji, Y. (2020). Computing the Mixed Metric Dimension of a Generalized Petersen Graph P(n, 2). Frontiers of Physics.",
+      "ieee": "H. Raza, Ying Ji, \"Computing the Mixed Metric Dimension of a Generalized Petersen Graph P(n, 2),\" Frontiers of Physics, 2020.",
+      "mla": "Raza, H., and Ying Ji. \"Computing the Mixed Metric Dimension of a Generalized Petersen Graph P(n, 2).\" Frontiers of Physics, 2020.",
+      "custom_format": "\\bibitem{RaJi20} Raza, H., Ji, Y., Computing the mixed metric dimension of a generalized petersen graph p(n, 2), Frontiers of Physics \\textbf{1}(1) (2020) 1--10. https://doi.org/10.3389/fphy.2020.00211",
+      "paper_url": "https://doi.org/10.3389/fphy.2020.00211",
+      "journal_name": "Frontiers of Physics",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1109_ACCESS_2020_3030713",
+      "bibtex": "@article{10_1109_ACCESS_2020_3030713,\n  title={On Mixed Metric Dimension of Some Path Related Graphs},\n  author={H. Raza and Ying Ji and Shaojian Qu},\n  journal={IEEE Access},\n  year={2020},\n  doi={10.1109/ACCESS.2020.3030713},\n  url={https://www.semanticscholar.org/paper/6ff9a10ff08cafb554cfafaffb24b45869c2d557}\n}",
+      "apa": "Raza, H., Ji, Y., & Qu, S. (2020). On Mixed Metric Dimension of Some Path Related Graphs. IEEE Access.",
+      "ieee": "H. Raza, Ying Ji, Shaojian Qu, \"On Mixed Metric Dimension of Some Path Related Graphs,\" IEEE Access, 2020.",
+      "mla": "Raza, H., et al.. \"On Mixed Metric Dimension of Some Path Related Graphs.\" IEEE Access, 2020.",
+      "custom_format": "\\bibitem{RaJiQu20} Raza, H., Ji, Y., Qu, S., On mixed metric dimension of some path related graphs, IEEE Access \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1109/ACCESS.2020.3030713",
+      "paper_url": "https://doi.org/10.1109/ACCESS.2020.3030713",
+      "journal_name": "IEEE Access",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_2206_04983",
+      "bibtex": "@article{arxiv_2206_04983,\n  title={On mixed metric dimension in subdivision, middle, and total graphs},\n  author={Ali Ghalavand and Sandi Klav\u017ear and Mostafa Tavakoli and Ismael G. Yero},\n  journal={arXiv preprint arXiv:2206.04983},\n  year={2022},\n  url={http://arxiv.org/abs/2206.04983v2}\n}",
+      "apa": "Ghalavand, A., Klav\u017ear, S., Tavakoli, M., & Yero, I. G. (2022). On mixed metric dimension in subdivision, middle, and total graphs. arXiv preprint arXiv:2206.04983.",
+      "ieee": "Ali Ghalavand et al., \"On mixed metric dimension in subdivision, middle, and total graphs,\" arXiv preprint arXiv:2206.04983, 2022.",
+      "mla": "Ghalavand, A., et al.. \"On mixed metric dimension in subdivision, middle, and total graphs.\" arXiv, 2206.04983, 2022.",
+      "custom_format": "\\bibitem{GhKlTa22} Ghalavand, A., Klav\u017ear, S., Tavakoli, M., Yero, I. G., On mixed metric dimension in subdivision, middle, and total graphs, arXiv \\textbf{1}(1) (2022) 1--10. http://arxiv.org/abs/2206.04983v2",
+      "paper_url": "http://arxiv.org/abs/2206.04983v2",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1088_1742_6596_2157_1_012010",
+      "bibtex": "@article{10_1088_1742_6596_2157_1_012010,\n  title={The mixed metric dimension of wheel-like graphs},\n  author={Darmaji and N. Azahra},\n  journal={},\n  year={2022},\n  doi={10.1088/1742-6596/2157/1/012010},\n  url={https://www.semanticscholar.org/paper/f77f4a12d1529d8ad4e9b1fd16dd15d953849488}\n}",
+      "apa": "Darmaji & Azahra, N. (2022). The mixed metric dimension of wheel-like graphs. .",
+      "ieee": "Darmaji, N. Azahra, \"The mixed metric dimension of wheel-like graphs,\" , 2022.",
+      "mla": "Darmaji, and N. Azahra. \"The mixed metric dimension of wheel-like graphs.\" , 2022.",
+      "custom_format": "\\bibitem{DaAz22} Darmaji, Azahra, N., The mixed metric dimension of wheel-like graphs,  \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1088/1742-6596/2157/1/012010",
+      "paper_url": "https://doi.org/10.1088/1742-6596/2157/1/012010",
+      "journal_name": "",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2110_12368",
+      "bibtex": "@article{arxiv_2110_12368,\n  title={Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid},\n  author={Jia-Bao Liu and Sunny Kumar Sharma and Vijay Kumar Bhat and Hassan Raza},\n  journal={arXiv preprint arXiv:2110.12368},\n  year={2021},\n  url={http://arxiv.org/abs/2110.12368v1}\n}",
+      "apa": "Liu, J., Sharma, S. K., Bhat, V. K., & Raza, H. (2021). Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid. arXiv preprint arXiv:2110.12368.",
+      "ieee": "Jia-Bao Liu et al., \"Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid,\" arXiv preprint arXiv:2110.12368, 2021.",
+      "mla": "Liu, J., et al.. \"Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid.\" arXiv, 2110.12368, 2021.",
+      "custom_format": "\\bibitem{LiShBh21} Liu, J., Sharma, S. K., Bhat, V. K., Raza, H., Multiset and mixed metric dimension for starphene and zigzag-edge coronoid, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2110.12368v1",
+      "paper_url": "http://arxiv.org/abs/2110.12368v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_1611_04292",
+      "bibtex": "@article{arxiv_1611_04292,\n  title={Mixed metric dimension of graphs},\n  author={Aleksander Kelenc and Dorota Kuziak and Andrej Taranenko and Ismael G. Yero},\n  journal={arXiv preprint arXiv:1611.04292},\n  year={2016},\n  url={http://arxiv.org/abs/1611.04292v2}\n}",
+      "apa": "Kelenc, A., Kuziak, D., Taranenko, A., & Yero, I. G. (2016). Mixed metric dimension of graphs. arXiv preprint arXiv:1611.04292.",
+      "ieee": "Aleksander Kelenc et al., \"Mixed metric dimension of graphs,\" arXiv preprint arXiv:1611.04292, 2016.",
+      "mla": "Kelenc, A., et al.. \"Mixed metric dimension of graphs.\" arXiv, 1611.04292, 2016.",
+      "custom_format": "\\bibitem{KeKuTa16} Kelenc, A., Kuziak, D., Taranenko, A., Yero, I. G., Mixed metric dimension of graphs, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1611.04292v2",
+      "paper_url": "http://arxiv.org/abs/1611.04292v2",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_2001_09333",
+      "bibtex": "@article{arxiv_2001_09333,\n  title={The mixed metric dimension of flower snarks and wheels},\n  author={Milica Milivojevic Danas},\n  journal={arXiv preprint arXiv:2001.09333},\n  year={2020},\n  url={http://arxiv.org/abs/2001.09333v1}\n}",
+      "apa": "Danas, M. M. (2020). The mixed metric dimension of flower snarks and wheels. arXiv preprint arXiv:2001.09333.",
+      "ieee": "Milica Milivojevic Danas, \"The mixed metric dimension of flower snarks and wheels,\" arXiv preprint arXiv:2001.09333, 2020.",
+      "mla": "Danas, M. M.. \"The mixed metric dimension of flower snarks and wheels.\" arXiv, 2001.09333, 2020.",
+      "custom_format": "\\bibitem{Da20} Danas, M. M., The mixed metric dimension of flower snarks and wheels, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2001.09333v1",
+      "paper_url": "http://arxiv.org/abs/2001.09333v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_2010_10487",
+      "bibtex": "@article{arxiv_2010_10487,\n  title={Mixed metric dimension of graphs with edge disjoint cycles},\n  author={Jelena Sedlar and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:2010.10487},\n  year={2020},\n  url={http://arxiv.org/abs/2010.10487v1}\n}",
+      "apa": "Sedlar, J. & \u0160krekovski, R. (2020). Mixed metric dimension of graphs with edge disjoint cycles. arXiv preprint arXiv:2010.10487.",
+      "ieee": "Jelena Sedlar, Riste \u0160krekovski, \"Mixed metric dimension of graphs with edge disjoint cycles,\" arXiv preprint arXiv:2010.10487, 2020.",
+      "mla": "Sedlar, J., and Riste \u0160krekovski. \"Mixed metric dimension of graphs with edge disjoint cycles.\" arXiv, 2010.10487, 2020.",
+      "custom_format": "\\bibitem{Se\u0160k20} Sedlar, J., \u0160krekovski, R., Mixed metric dimension of graphs with edge disjoint cycles, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2010.10487v1",
+      "paper_url": "http://arxiv.org/abs/2010.10487v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_2007_05808",
+      "bibtex": "@article{arxiv_2007_05808,\n  title={Some new general lower bounds for mixed metric dimension of graphs},\n  author={Milica Milivojevi\u0107 Danas and Jozef Kratica and Aleksandar Savi\u0107 and Zoran Lj. Maksimovi\u0107},\n  journal={arXiv preprint arXiv:2007.05808},\n  year={2020},\n  url={http://arxiv.org/abs/2007.05808v1}\n}",
+      "apa": "Danas, M. M., Kratica, J., Savi\u0107, A., & Maksimovi\u0107, Z. L. (2020). Some new general lower bounds for mixed metric dimension of graphs. arXiv preprint arXiv:2007.05808.",
+      "ieee": "Milica Milivojevi\u0107 Danas et al., \"Some new general lower bounds for mixed metric dimension of graphs,\" arXiv preprint arXiv:2007.05808, 2020.",
+      "mla": "Danas, M. M., et al.. \"Some new general lower bounds for mixed metric dimension of graphs.\" arXiv, 2007.05808, 2020.",
+      "custom_format": "\\bibitem{DaKrSa20} Danas, M. M., Kratica, J., Savi\u0107, A., Maksimovi\u0107, Z. L., Some new general lower bounds for mixed metric dimension of graphs, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2007.05808v1",
+      "paper_url": "http://arxiv.org/abs/2007.05808v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_2012_08590",
+      "bibtex": "@article{arxiv_2012_08590,\n  title={Extremal mixed metric dimension with respect to the cyclomatic number},\n  author={Jelena Sedlar and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:2012.08590},\n  year={2020},\n  url={http://arxiv.org/abs/2012.08590v1}\n}",
+      "apa": "Sedlar, J. & \u0160krekovski, R. (2020). Extremal mixed metric dimension with respect to the cyclomatic number. arXiv preprint arXiv:2012.08590.",
+      "ieee": "Jelena Sedlar, Riste \u0160krekovski, \"Extremal mixed metric dimension with respect to the cyclomatic number,\" arXiv preprint arXiv:2012.08590, 2020.",
+      "mla": "Sedlar, J., and Riste \u0160krekovski. \"Extremal mixed metric dimension with respect to the cyclomatic number.\" arXiv, 2012.08590, 2020.",
+      "custom_format": "\\bibitem{Se\u0160k20} Sedlar, J., \u0160krekovski, R., Extremal mixed metric dimension with respect to the cyclomatic number, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2012.08590v1",
+      "paper_url": "http://arxiv.org/abs/2012.08590v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1038_s41598_025_24939_z",
+      "bibtex": "@article{10_1038_s41598_025_24939_z,\n  title={Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications},\n  author={Sakander Hayat and R. Naeem and Hafiz Muhammad Afzal Siddiqui and Amina Riaz and Muhammad Imran and M. Belay and Zeineb Klai},\n  journal={Scientific Reports},\n  year={2025},\n  doi={10.1038/s41598-025-24939-z},\n  url={https://www.semanticscholar.org/paper/da76726be87017ce45ea552ac17117da26af12fe}\n}",
+      "apa": "Hayat, S., Naeem, R., Siddiqui, H. M. A., Riaz, A., Imran, M., Belay, M., & Klai, Z. (2025). Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications. Scientific Reports.",
+      "ieee": "Sakander Hayat et al., \"Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications,\" Scientific Reports, 2025.",
+      "mla": "Hayat, S., et al.. \"Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications.\" Scientific Reports, 2025.",
+      "custom_format": "\\bibitem{HaNaSi25} Hayat, S., Naeem, R., Siddiqui, H. M. A., Riaz, A., Imran, M., Belay, M., Klai, Z., Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications, Scientific Reports \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1038/s41598-025-24939-z",
+      "paper_url": "https://doi.org/10.1038/s41598-025-24939-z",
+      "journal_name": "Scientific Reports",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1007_s11696_022_02151_x",
+      "bibtex": "@article{10_1007_s11696_022_02151_x,\n  title={On mixed metric dimension of polycyclic aromatic hydrocarbon networks},\n  author={S. Sharma and V. K. Bhat and H. Raza and Sahil Sharma},\n  journal={Chemick\u00e9 zvesti},\n  year={2022},\n  doi={10.1007/s11696-022-02151-x},\n  url={https://www.semanticscholar.org/paper/de610736d382562b976f5c5acb2dcea3a9f95d94}\n}",
+      "apa": "Sharma, S., Bhat, V. K., Raza, H., & Sharma, S. (2022). On mixed metric dimension of polycyclic aromatic hydrocarbon networks. Chemick\u00e9 zvesti.",
+      "ieee": "S. Sharma et al., \"On mixed metric dimension of polycyclic aromatic hydrocarbon networks,\" Chemick\u00e9 zvesti, 2022.",
+      "mla": "Sharma, S., et al.. \"On mixed metric dimension of polycyclic aromatic hydrocarbon networks.\" Chemick\u00e9 zvesti, 2022.",
+      "custom_format": "\\bibitem{ShBhRa22} Sharma, S., Bhat, V. K., Raza, H., Sharma, S., On mixed metric dimension of polycyclic aromatic hydrocarbon networks, Chemick\u00e9 zvesti \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1007/s11696-022-02151-x",
+      "paper_url": "https://doi.org/10.1007/s11696-022-02151-x",
+      "journal_name": "Chemick\u00e9 zvesti",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1016_j_jpdc_2024_105024",
+      "bibtex": "@article{10_1016_j_jpdc_2024_105024,\n  title={Fault-tolerance and unique identification of vertices and edges in a graph: The fault-tolerant mixed metric dimension},\n  author={Asad Khan and Sikander Ali and Sakander Hayat and M. Azeem and Yubin Zhong and Manzoor Ahmad Zahid and Mohammed J. F. Alenazi},\n  journal={J. Parallel Distributed Comput.},\n  year={2024},\n  doi={10.1016/j.jpdc.2024.105024},\n  url={https://www.semanticscholar.org/paper/ceddb9193e81858a2f47d9e3dae2a59323bb3d9b}\n}",
+      "apa": "Khan, A., Ali, S., Hayat, S., Azeem, M., Zhong, Y., Zahid, M. A., & Alenazi, M. J. F. (2024). Fault-tolerance and unique identification of vertices and edges in a graph: The fault-tolerant mixed metric dimension. J. Parallel Distributed Comput..",
+      "ieee": "Asad Khan et al., \"Fault-tolerance and unique identification of vertices and edges in a graph: The fault-tolerant mixed metric dimension,\" J. Parallel Distributed Comput., 2024.",
+      "mla": "Khan, A., et al.. \"Fault-tolerance and unique identification of vertices and edges in a graph: The fault-tolerant mixed metric dimension.\" J. Parallel Distributed Comput., 2024.",
+      "custom_format": "\\bibitem{KhAlHa24} Khan, A., Ali, S., Hayat, S., Azeem, M., Zhong, Y., Zahid, M. A., Alenazi, M. J. F., Fault-tolerance and unique identification of vertices and edges in a graph: the fault-tolerant mixed metric dimension, J. Parallel Distributed Comput. \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1016/j.jpdc.2024.105024",
+      "paper_url": "https://doi.org/10.1016/j.jpdc.2024.105024",
+      "journal_name": "J. Parallel Distributed Comput.",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1016_j_amc_2022_127737",
+      "bibtex": "@article{10_1016_j_amc_2022_127737,\n  title={Mixed metric dimension of some graphs},\n  author={Kairui Nie and Kexiang Xu},\n  journal={Applied Mathematics and Computation},\n  year={2023},\n  doi={10.1016/j.amc.2022.127737},\n  url={https://www.semanticscholar.org/paper/e62b2e9f336a6cc4dc1d0cd662743ce8905ba28e}\n}",
+      "apa": "Nie, K. & Xu, K. (2023). Mixed metric dimension of some graphs. Applied Mathematics and Computation.",
+      "ieee": "Kairui Nie, Kexiang Xu, \"Mixed metric dimension of some graphs,\" Applied Mathematics and Computation, 2023.",
+      "mla": "Nie, K., and Kexiang Xu. \"Mixed metric dimension of some graphs.\" Applied Mathematics and Computation, 2023.",
+      "custom_format": "\\bibitem{NiXu23} Nie, K., Xu, K., Mixed metric dimension of some graphs, Applied Mathematics and Computation \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1016/j.amc.2022.127737",
+      "paper_url": "https://doi.org/10.1016/j.amc.2022.127737",
+      "journal_name": "Applied Mathematics and Computation",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1016_j_dam_2025_02_012",
+      "bibtex": "@article{10_1016_j_dam_2025_02_012,\n  title={Further results on the mixed metric dimension of graphs},\n  author={Hongbo Hua and Yaojun Chen and Xinying Hua},\n  journal={Discrete Applied Mathematics},\n  year={2025},\n  doi={10.1016/j.dam.2025.02.012},\n  url={https://www.semanticscholar.org/paper/a49e7e81a14bdba543288499ed67406fb18d73e7}\n}",
+      "apa": "Hua, H., Chen, Y., & Hua, X. (2025). Further results on the mixed metric dimension of graphs. Discrete Applied Mathematics.",
+      "ieee": "Hongbo Hua, Yaojun Chen, Xinying Hua, \"Further results on the mixed metric dimension of graphs,\" Discrete Applied Mathematics, 2025.",
+      "mla": "Hua, H., et al.. \"Further results on the mixed metric dimension of graphs.\" Discrete Applied Mathematics, 2025.",
+      "custom_format": "\\bibitem{HuChHu25} Hua, H., Chen, Y., Hua, X., Further results on the mixed metric dimension of graphs, Discrete Applied Mathematics \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1016/j.dam.2025.02.012",
+      "paper_url": "https://doi.org/10.1016/j.dam.2025.02.012",
+      "journal_name": "Discrete Applied Mathematics",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1016_j_asej_2022_102000",
+      "bibtex": "@article{10_1016_j_asej_2022_102000,\n  title={Mixed metric dimension of hollow coronoid structure},\n  author={Ali N. A. Koam and A. Ahmad and Sadia Husain and Muhammad Azeem},\n  journal={Ain Shams Engineering Journal},\n  year={2022},\n  doi={10.1016/j.asej.2022.102000},\n  url={https://www.semanticscholar.org/paper/863598c311ed8d78e6346ef0e8ac1d391c29174f}\n}",
+      "apa": "Koam, A. N. A., Ahmad, A., Husain, S., & Azeem, M. (2022). Mixed metric dimension of hollow coronoid structure. Ain Shams Engineering Journal.",
+      "ieee": "Ali N. A. Koam et al., \"Mixed metric dimension of hollow coronoid structure,\" Ain Shams Engineering Journal, 2022.",
+      "mla": "Koam, A. N. A., et al.. \"Mixed metric dimension of hollow coronoid structure.\" Ain Shams Engineering Journal, 2022.",
+      "custom_format": "\\bibitem{KoAhHu22} Koam, A. N. A., Ahmad, A., Husain, S., Azeem, M., Mixed metric dimension of hollow coronoid structure, Ain Shams Engineering Journal \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1016/j.asej.2022.102000",
+      "paper_url": "https://doi.org/10.1016/j.asej.2022.102000",
+      "journal_name": "Ain Shams Engineering Journal",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1016_j_dam_2022_06_023",
+      "bibtex": "@article{10_1016_j_dam_2022_06_023,\n  title={Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>},\n  author={Jing Qu and Nanbin Cao},\n  journal={Discrete Applied Mathematics},\n  year={2022},\n  doi={10.1016/j.dam.2022.06.023},\n  url={https://www.semanticscholar.org/paper/d7edeaefd8b9bf63407e872c221d9aac2b5f351f}\n}",
+      "apa": "Qu, J. & Cao, N. (2022). Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>. Discrete Applied Mathematics.",
+      "ieee": "Jing Qu, Nanbin Cao, \"Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>,\" Discrete Applied Mathematics, 2022.",
+      "mla": "Qu, J., and Nanbin Cao. \"Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>.\" Discrete Applied Mathematics, 2022.",
+      "custom_format": "\\bibitem{QuCa22} Qu, J., Cao, N., Edge metric dimension and mixed metric dimension of planar graph <mml:math xmlns:mml=\"http://www.w3.org/1998/math/mathml\" display=\"inline\" id=\"d1e39\" altimg=\"si150.svg\"><mml:msub><mml:mrow><mml:mi>q</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:math>, Discrete Applied Mathematics \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1016/j.dam.2022.06.023",
+      "paper_url": "https://doi.org/10.1016/j.dam.2022.06.023",
+      "journal_name": "Discrete Applied Mathematics",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1080_09728600_2023_2291465",
+      "bibtex": "@article{10_1080_09728600_2023_2291465,\n  title={Mixed metric dimension over (edge) corona products},\n  author={M. Korivand and K. Khashyarmanesh and Mostafa Tavakoli},\n  journal={AKCE Int. J. Graphs Comb.},\n  year={2023},\n  doi={10.1080/09728600.2023.2291465},\n  url={https://www.semanticscholar.org/paper/bf16a8b3de3a09ff2f4a85191ef2aedd781f78d9}\n}",
+      "apa": "Korivand, M., Khashyarmanesh, K., & Tavakoli, M. (2023). Mixed metric dimension over (edge) corona products. AKCE Int. J. Graphs Comb..",
+      "ieee": "M. Korivand, K. Khashyarmanesh, Mostafa Tavakoli, \"Mixed metric dimension over (edge) corona products,\" AKCE Int. J. Graphs Comb., 2023.",
+      "mla": "Korivand, M., et al.. \"Mixed metric dimension over (edge) corona products.\" AKCE Int. J. Graphs Comb., 2023.",
+      "custom_format": "\\bibitem{KoKhTa23} Korivand, M., Khashyarmanesh, K., Tavakoli, M., Mixed metric dimension over (edge) corona products, AKCE Int. J. Graphs Comb. \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1080/09728600.2023.2291465",
+      "paper_url": "https://doi.org/10.1080/09728600.2023.2291465",
+      "journal_name": "AKCE Int. J. Graphs Comb.",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1109_ACCESS_2025_3534819",
+      "bibtex": "@article{10_1109_ACCESS_2025_3534819,\n  title={The Mixed Partition Dimension: A New Resolvability Parameter in Graph Theory},\n  author={Siti Norziahidayu Amzee Zamri and Sikander Ali and Muhammad Azeem and Husam A. Neamah and Bandar Almohsen},\n  journal={IEEE Access},\n  year={2025},\n  doi={10.1109/ACCESS.2025.3534819},\n  url={https://www.semanticscholar.org/paper/a0970479c4ec6a579317c3302c102fa48307ec1b}\n}",
+      "apa": "Zamri, S. N. A., Ali, S., Azeem, M., Neamah, H. A., & Almohsen, B. (2025). The Mixed Partition Dimension: A New Resolvability Parameter in Graph Theory. IEEE Access.",
+      "ieee": "Siti Norziahidayu Amzee Zamri et al., \"The Mixed Partition Dimension: A New Resolvability Parameter in Graph Theory,\" IEEE Access, 2025.",
+      "mla": "Zamri, S. N. A., et al.. \"The Mixed Partition Dimension: A New Resolvability Parameter in Graph Theory.\" IEEE Access, 2025.",
+      "custom_format": "\\bibitem{ZaAlAz25} Zamri, S. N. A., Ali, S., Azeem, M., Neamah, H. A., Almohsen, B., The mixed partition dimension: a new resolvability parameter in graph theory, IEEE Access \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1109/ACCESS.2025.3534819",
+      "paper_url": "https://doi.org/10.1109/ACCESS.2025.3534819",
+      "journal_name": "IEEE Access",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1142_s1793830923500398",
+      "bibtex": "@article{10_1142_s1793830923500398,\n  title={Edge metric dimension and mixed metric dimension of a plane graph Tn},\n  author={Huige Shen and Jing Qu and Na Kang and Cong Lin},\n  journal={Discret. Math. Algorithms Appl.},\n  year={2023},\n  doi={10.1142/s1793830923500398},\n  url={https://www.semanticscholar.org/paper/6d871272e1e7b4fd4a4413dbb458e7b12fa6973a}\n}",
+      "apa": "Shen, H., Qu, J., Kang, N., & Lin, C. (2023). Edge metric dimension and mixed metric dimension of a plane graph Tn. Discret. Math. Algorithms Appl..",
+      "ieee": "Huige Shen et al., \"Edge metric dimension and mixed metric dimension of a plane graph Tn,\" Discret. Math. Algorithms Appl., 2023.",
+      "mla": "Shen, H., et al.. \"Edge metric dimension and mixed metric dimension of a plane graph Tn.\" Discret. Math. Algorithms Appl., 2023.",
+      "custom_format": "\\bibitem{ShQuKa23} Shen, H., Qu, J., Kang, N., Lin, C., Edge metric dimension and mixed metric dimension of a plane graph tn, Discret. Math. Algorithms Appl. \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1142/s1793830923500398",
+      "paper_url": "https://doi.org/10.1142/s1793830923500398",
+      "journal_name": "Discret. Math. Algorithms Appl.",
+      "year": 2023
+    },
+    {
+      "paper_id": "qu_edge_metric_dimension_2022",
+      "bibtex": "@article{qu_edge_metric_dimension_2022,\n  title={Edge metric dimension and mixed metric dimension of planar graph Qn},\n  author={Jing Qu and Nanbin Cao},\n  journal={Discrete Applied Mathematics},\n  year={2022},\n  url={https://www.semanticscholar.org/paper/ac518b82d0605942a20d24358f411e9470a731cf}\n}",
+      "apa": "Qu, J. & Cao, N. (2022). Edge metric dimension and mixed metric dimension of planar graph Qn. Discrete Applied Mathematics.",
+      "ieee": "Jing Qu, Nanbin Cao, \"Edge metric dimension and mixed metric dimension of planar graph Qn,\" Discrete Applied Mathematics, 2022.",
+      "mla": "Qu, J., and Nanbin Cao. \"Edge metric dimension and mixed metric dimension of planar graph Qn.\" Discrete Applied Mathematics, 2022.",
+      "custom_format": "\\bibitem{QuCa22} Qu, J., Cao, N., Edge metric dimension and mixed metric dimension of planar graph qn, Discrete Applied Mathematics \\textbf{1}(1) (2022) 1--10. https://www.semanticscholar.org/paper/ac518b82d0605942a20d24358f411e9470a731cf",
+      "paper_url": "https://www.semanticscholar.org/paper/ac518b82d0605942a20d24358f411e9470a731cf",
+      "journal_name": "Discrete Applied Mathematics",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1007_s10910_023_01507_2",
+      "bibtex": "@article{10_1007_s10910_023_01507_2,\n  title={On mixed metric dimension of crystal cubic carbon structure},\n  author={Malkesh Singh and S. Sharma and V. K. Bhat},\n  journal={Journal of Mathematical Chemistry},\n  year={2023},\n  doi={10.1007/s10910-023-01507-2},\n  url={https://www.semanticscholar.org/paper/833c8697af7438231e08faa14f7c9eb7576a284d}\n}",
+      "apa": "Singh, M., Sharma, S., & Bhat, V. K. (2023). On mixed metric dimension of crystal cubic carbon structure. Journal of Mathematical Chemistry.",
+      "ieee": "Malkesh Singh, S. Sharma, V. K. Bhat, \"On mixed metric dimension of crystal cubic carbon structure,\" Journal of Mathematical Chemistry, 2023.",
+      "mla": "Singh, M., et al.. \"On mixed metric dimension of crystal cubic carbon structure.\" Journal of Mathematical Chemistry, 2023.",
+      "custom_format": "\\bibitem{SiShBh23} Singh, M., Sharma, S., Bhat, V. K., On mixed metric dimension of crystal cubic carbon structure, Journal of Mathematical Chemistry \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1007/s10910-023-01507-2",
+      "paper_url": "https://doi.org/10.1007/s10910-023-01507-2",
+      "journal_name": "Journal of Mathematical Chemistry",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1142_s1793830923500258",
+      "bibtex": "@article{10_1142_s1793830923500258,\n  title={Mixed metric dimension of some plane graphs},\n  author={Na Kang and Zhiquan Li and Lihang Hou and Jing Qu},\n  journal={Discret. Math. Algorithms Appl.},\n  year={2023},\n  doi={10.1142/s1793830923500258},\n  url={https://www.semanticscholar.org/paper/0671cafb511ed01da4a40074eb2edc38ca2d6a1c}\n}",
+      "apa": "Kang, N., Li, Z., Hou, L., & Qu, J. (2023). Mixed metric dimension of some plane graphs. Discret. Math. Algorithms Appl..",
+      "ieee": "Na Kang et al., \"Mixed metric dimension of some plane graphs,\" Discret. Math. Algorithms Appl., 2023.",
+      "mla": "Kang, N., et al.. \"Mixed metric dimension of some plane graphs.\" Discret. Math. Algorithms Appl., 2023.",
+      "custom_format": "\\bibitem{KaLiHo23} Kang, N., Li, Z., Hou, L., Qu, J., Mixed metric dimension of some plane graphs, Discret. Math. Algorithms Appl. \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1142/s1793830923500258",
+      "paper_url": "https://doi.org/10.1142/s1793830923500258",
+      "journal_name": "Discret. Math. Algorithms Appl.",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2510_00530",
+      "bibtex": "@article{arxiv_2510_00530,\n  title={Throttling for metric dimension and its variants},\n  author={Boris Brimkov and Peter Diao and Jesse Geneson and Carolyn Reinhart and Shen-Fu Tsai and William Wang and Kyle Worley},\n  journal={arXiv preprint arXiv:2510.00530},\n  year={2025},\n  url={http://arxiv.org/abs/2510.00530v1}\n}",
+      "apa": "Brimkov, B., Diao, P., Geneson, J., Reinhart, C., Tsai, S., Wang, W., & Worley, K. (2025). Throttling for metric dimension and its variants. arXiv preprint arXiv:2510.00530.",
+      "ieee": "Boris Brimkov et al., \"Throttling for metric dimension and its variants,\" arXiv preprint arXiv:2510.00530, 2025.",
+      "mla": "Brimkov, B., et al.. \"Throttling for metric dimension and its variants.\" arXiv, 2510.00530, 2025.",
+      "custom_format": "\\bibitem{BrDiGe25} Brimkov, B., Diao, P., Geneson, J., Reinhart, C., Tsai, S., Wang, W., Worley, K., Throttling for metric dimension and its variants, arXiv \\textbf{1}(1) (2025) 1--10. http://arxiv.org/abs/2510.00530v1",
+      "paper_url": "http://arxiv.org/abs/2510.00530v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1063_5_0131874",
+      "bibtex": "@inproceedings{10_1063_5_0131874,\n  title={Study on mixed metric dimension of STAR and its Comb product with path},\n  author={Darmaji and N. Azahra and R. Alfarisi},\n  booktitle={7TH INTERNATIONAL CONFERENCE ON MATHEMATICS: PURE, APPLIED AND COMPUTATION: Mathematics of Quantum Computing},\n  year={2022},\n  doi={10.1063/5.0131874},\n  url={https://www.semanticscholar.org/paper/cddb76ad58e551ad0f2fc7069488e075ca6bd371}\n}",
+      "apa": "Darmaji, Azahra, N., & Alfarisi, R. (2022). Study on mixed metric dimension of STAR and its Comb product with path. In 7TH INTERNATIONAL CONFERENCE ON MATHEMATICS: PURE, APPLIED AND COMPUTATION: Mathematics of Quantum Computing.",
+      "ieee": "Darmaji, N. Azahra, R. Alfarisi, \"Study on mixed metric dimension of STAR and its Comb product with path,\" in 7TH INTERNATIONAL CONFERENCE ON MATHEMATICS: PURE, APPLIED AND COMPUTATION: Mathematics of Quantum Computing, 2022.",
+      "mla": "Darmaji, et al.. \"Study on mixed metric dimension of STAR and its Comb product with path.\" 7TH INTERNATIONAL CONFERENCE ON MATHEMATICS: PURE, APPLIED AND COMPUTATION: Mathematics of Quantum Computing, 2022.",
+      "custom_format": "\\bibitem{DaAzAl22} Darmaji, Azahra, N., Alfarisi, R., Study on mixed metric dimension of star and its comb product with path, 7TH INTERNATIONAL CONFERENCE ON MATHEMATICS: PURE, APPLIED AND COMPUTATION: Mathematics of Quantum Computing \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1063/5.0131874",
+      "paper_url": "https://doi.org/10.1063/5.0131874",
+      "journal_name": "7TH INTERNATIONAL CONFERENCE ON MATHEMATICS: PURE, APPLIED AND COMPUTATION: Mathematics of Quantum Computing",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2102_10916",
+      "bibtex": "@article{arxiv_2102_10916,\n  title={On Metric Dimensions of Hypercubes},\n  author={Aleksander Kelenc and Aoden Teo Masa Toshi and Riste Skrekovski and Ismael G. Yero},\n  journal={arXiv preprint arXiv:2102.10916},\n  year={2021},\n  url={http://arxiv.org/abs/2102.10916v1}\n}",
+      "apa": "Kelenc, A., Toshi, A. T. M., Skrekovski, R., & Yero, I. G. (2021). On Metric Dimensions of Hypercubes. arXiv preprint arXiv:2102.10916.",
+      "ieee": "Aleksander Kelenc et al., \"On Metric Dimensions of Hypercubes,\" arXiv preprint arXiv:2102.10916, 2021.",
+      "mla": "Kelenc, A., et al.. \"On Metric Dimensions of Hypercubes.\" arXiv, 2102.10916, 2021.",
+      "custom_format": "\\bibitem{KeToSk21} Kelenc, A., Toshi, A. T. M., Skrekovski, R., Yero, I. G., On metric dimensions of hypercubes, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2102.10916v1",
+      "paper_url": "http://arxiv.org/abs/2102.10916v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2012_07471",
+      "bibtex": "@article{arxiv_2012_07471,\n  title={The difference between several metric dimension graph invariants},\n  author={Milica Milivojevi\u0107 Danas},\n  journal={arXiv preprint arXiv:2012.07471},\n  year={2020},\n  url={http://arxiv.org/abs/2012.07471v1}\n}",
+      "apa": "Danas, M. M. (2020). The difference between several metric dimension graph invariants. arXiv preprint arXiv:2012.07471.",
+      "ieee": "Milica Milivojevi\u0107 Danas, \"The difference between several metric dimension graph invariants,\" arXiv preprint arXiv:2012.07471, 2020.",
+      "mla": "Danas, M. M.. \"The difference between several metric dimension graph invariants.\" arXiv, 2012.07471, 2020.",
+      "custom_format": "\\bibitem{Da20} Danas, M. M., The difference between several metric dimension graph invariants, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2012.07471v1",
+      "paper_url": "http://arxiv.org/abs/2012.07471v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1371_journal_pone_0313788",
+      "bibtex": "@article{10_1371_journal_pone_0313788,\n  title={Computation of mixed resolvability for a circular ladder and its unbounded nature},\n  author={S. Sharma and Vijay Kumar Bhat and Muhammad Azeem and Manikonda Gayathri and Bandar Almohsen},\n  journal={PLoS ONE},\n  year={2025},\n  doi={10.1371/journal.pone.0313788},\n  url={https://www.semanticscholar.org/paper/ef2463699f759a4a1ae7292250fcd1f710da0425}\n}",
+      "apa": "Sharma, S., Bhat, V. K., Azeem, M., Gayathri, M., & Almohsen, B. (2025). Computation of mixed resolvability for a circular ladder and its unbounded nature. PLoS ONE.",
+      "ieee": "S. Sharma et al., \"Computation of mixed resolvability for a circular ladder and its unbounded nature,\" PLoS ONE, 2025.",
+      "mla": "Sharma, S., et al.. \"Computation of mixed resolvability for a circular ladder and its unbounded nature.\" PLoS ONE, 2025.",
+      "custom_format": "\\bibitem{ShBhAz25} Sharma, S., Bhat, V. K., Azeem, M., Gayathri, M., Almohsen, B., Computation of mixed resolvability for a circular ladder and its unbounded nature, PLoS ONE \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1371/journal.pone.0313788",
+      "paper_url": "https://doi.org/10.1371/journal.pone.0313788",
+      "journal_name": "PLoS ONE",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_18576_amis_190606",
+      "bibtex": "@article{10_18576_amis_190606,\n  title={Metric Dimension and Secure Metric Dimension of Some Graphs},\n  author={},\n  journal={Applied Mathematics &amp; Information Sciences},\n  year={2025},\n  doi={10.18576/amis/190606},\n  url={https://doi.org/10.18576/amis/190606}\n}",
+      "apa": "Unknown Author (2025). Metric Dimension and Secure Metric Dimension of Some Graphs. Applied Mathematics &amp; Information Sciences.",
+      "ieee": "Unknown Author, \"Metric Dimension and Secure Metric Dimension of Some Graphs,\" Applied Mathematics &amp; Information Sciences, 2025.",
+      "mla": "Unknown Author. \"Metric Dimension and Secure Metric Dimension of Some Graphs.\" Applied Mathematics &amp; Information Sciences, 2025.",
+      "custom_format": "\\bibitem{Unknown25} Unknown Author, Metric dimension and secure metric dimension of some graphs, Applied Mathematics &amp; Information Sciences \\textbf{1}(1) (2025) 1--10. https://doi.org/10.18576/amis/190606",
+      "paper_url": "https://doi.org/10.18576/amis/190606",
+      "journal_name": "Applied Mathematics &amp; Information Sciences",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1109_TIT_2025_3645311",
+      "bibtex": "@article{10_1109_TIT_2025_3645311,\n  title={New Constant Dimension Codes From the Inserting Mixed Dimension Construction and Multilevel Construction},\n  author={Han Li and Fang-Wei Fu},\n  journal={IEEE Transactions on Information Theory},\n  year={2025},\n  doi={10.1109/TIT.2025.3645311},\n  url={https://www.semanticscholar.org/paper/a060a821dca4ef35fb132c0e7964132c9747b5d8}\n}",
+      "apa": "Li, H. & Fu, F. (2025). New Constant Dimension Codes From the Inserting Mixed Dimension Construction and Multilevel Construction. IEEE Transactions on Information Theory.",
+      "ieee": "Han Li, Fang-Wei Fu, \"New Constant Dimension Codes From the Inserting Mixed Dimension Construction and Multilevel Construction,\" IEEE Transactions on Information Theory, 2025.",
+      "mla": "Li, H., and Fang-Wei Fu. \"New Constant Dimension Codes From the Inserting Mixed Dimension Construction and Multilevel Construction.\" IEEE Transactions on Information Theory, 2025.",
+      "custom_format": "\\bibitem{LiFu25} Li, H., Fu, F., New constant dimension codes from the inserting mixed dimension construction and multilevel construction, IEEE Transactions on Information Theory \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1109/TIT.2025.3645311",
+      "paper_url": "https://doi.org/10.1109/TIT.2025.3645311",
+      "journal_name": "IEEE Transactions on Information Theory",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2108_08588",
+      "bibtex": "@article{arxiv_2108_08588,\n  title={Unbounded Mixed Resolvability of Web Graph and Prism Related Graph},\n  author={Sunny Kumar Sharma and Vijay Kumar Bhat},\n  journal={arXiv preprint arXiv:2108.08588},\n  year={2021},\n  url={http://arxiv.org/abs/2108.08588v1}\n}",
+      "apa": "Sharma, S. K. & Bhat, V. K. (2021). Unbounded Mixed Resolvability of Web Graph and Prism Related Graph. arXiv preprint arXiv:2108.08588.",
+      "ieee": "Sunny Kumar Sharma, Vijay Kumar Bhat, \"Unbounded Mixed Resolvability of Web Graph and Prism Related Graph,\" arXiv preprint arXiv:2108.08588, 2021.",
+      "mla": "Sharma, S. K., and Vijay Kumar Bhat. \"Unbounded Mixed Resolvability of Web Graph and Prism Related Graph.\" arXiv, 2108.08588, 2021.",
+      "custom_format": "\\bibitem{ShBh21} Sharma, S. K., Bhat, V. K., Unbounded mixed resolvability of web graph and prism related graph, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2108.08588v1",
+      "paper_url": "http://arxiv.org/abs/2108.08588v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_48550_arXiv_2305_07826",
+      "bibtex": "@article{10_48550_arXiv_2305_07826,\n  title={Frequency-aware Dimension Selection for Static Word Embedding by Mixed Product Distance},\n  author={Lingfeng Shen and Haiyun Jiang and Lemao Liu and Ying Chen},\n  journal={arXiv.org},\n  year={2023},\n  doi={10.48550/arXiv.2305.07826},\n  url={https://www.semanticscholar.org/paper/59d9d1e840439d5dc62c668f00ff3b9be919ed65}\n}",
+      "apa": "Shen, L., Jiang, H., Liu, L., & Chen, Y. (2023). Frequency-aware Dimension Selection for Static Word Embedding by Mixed Product Distance. arXiv.org.",
+      "ieee": "Lingfeng Shen et al., \"Frequency-aware Dimension Selection for Static Word Embedding by Mixed Product Distance,\" arXiv.org, 2023.",
+      "mla": "Shen, L., et al.. \"Frequency-aware Dimension Selection for Static Word Embedding by Mixed Product Distance.\" arXiv.org, 2023.",
+      "custom_format": "\\bibitem{ShJiLi23} Shen, L., Jiang, H., Liu, L., Chen, Y., Frequency-aware dimension selection for static word embedding by mixed product distance, arXiv.org \\textbf{1}(1) (2023) 1--10. https://doi.org/10.48550/arXiv.2305.07826",
+      "paper_url": "https://doi.org/10.48550/arXiv.2305.07826",
+      "journal_name": "arXiv.org",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1142_s0219265925500136",
+      "bibtex": "@article{10_1142_s0219265925500136,\n  title={Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings},\n  author={Pranjali and Amit Kumar and Rakshita Sharma},\n  journal={Journal of Interconnection Networks},\n  year={2025},\n  doi={10.1142/s0219265925500136},\n  url={https://doi.org/10.1142/s0219265925500136}\n}",
+      "apa": "Pranjali, Kumar, A., & Sharma, R. (2025). Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings. Journal of Interconnection Networks.",
+      "ieee": "Pranjali, Amit Kumar, Rakshita Sharma, \"Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings,\" Journal of Interconnection Networks, 2025.",
+      "mla": "Pranjali, et al.. \"Metric Dimension and Dominant Metric Dimension of Unit Graph Over Semi-Rings.\" Journal of Interconnection Networks, 2025.",
+      "custom_format": "\\bibitem{PrKuSh25} Pranjali, Kumar, A., Sharma, R., Metric dimension and dominant metric dimension of unit graph over semi-rings, Journal of Interconnection Networks \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1142/s0219265925500136",
+      "paper_url": "https://doi.org/10.1142/s0219265925500136",
+      "journal_name": "Journal of Interconnection Networks",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_3842_umzh_v76i11_7980",
+      "bibtex": "@article{10_3842_umzh_v76i11_7980,\n  title={The metric dimension of the total graph of a semiring},\n  author={David Dol\u017ean},\n  journal={Ukrains\u2019kyi Matematychnyi Zhurnal},\n  year={2025},\n  doi={10.3842/umzh.v76i11.7980},\n  url={https://doi.org/10.3842/umzh.v76i11.7980}\n}",
+      "apa": "Dol\u017ean, D. (2025). The metric dimension of the total graph of a semiring. Ukrains\u2019kyi Matematychnyi Zhurnal.",
+      "ieee": "David Dol\u017ean, \"The metric dimension of the total graph of a semiring,\" Ukrains\u2019kyi Matematychnyi Zhurnal, 2025.",
+      "mla": "Dol\u017ean, D.. \"The metric dimension of the total graph of a semiring.\" Ukrains\u2019kyi Matematychnyi Zhurnal, 2025.",
+      "custom_format": "\\bibitem{Do25} Dol\u017ean, D., The metric dimension of the total graph of a semiring, Ukrains\u2019kyi Matematychnyi Zhurnal \\textbf{1}(1) (2025) 1--10. https://doi.org/10.3842/umzh.v76i11.7980",
+      "paper_url": "https://doi.org/10.3842/umzh.v76i11.7980",
+      "journal_name": "Ukrains\u2019kyi Matematychnyi Zhurnal",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_17654_fjmsaug2015_841_856",
+      "bibtex": "@article{10_17654_fjmsaug2015_841_856,\n  title={THE SIMILARITY OF METRIC DIMENSION AND LOCAL METRIC DIMENSION OF ROOTED PRODUCT GRAPH},\n  author={L. Susilowati and Slamin and M. I. Utoyo and N. Estuningsih},\n  journal={Far East Journal of Mathematical Sciences (FJMS)},\n  year={2015},\n  doi={10.17654/fjmsaug2015_841_856},\n  url={https://doi.org/10.17654/fjmsaug2015_841_856}\n}",
+      "apa": "Susilowati, L., Slamin, Utoyo, M. I., & Estuningsih, N. (2015). THE SIMILARITY OF METRIC DIMENSION AND LOCAL METRIC DIMENSION OF ROOTED PRODUCT GRAPH. Far East Journal of Mathematical Sciences (FJMS).",
+      "ieee": "L. Susilowati et al., \"THE SIMILARITY OF METRIC DIMENSION AND LOCAL METRIC DIMENSION OF ROOTED PRODUCT GRAPH,\" Far East Journal of Mathematical Sciences (FJMS), 2015.",
+      "mla": "Susilowati, L., et al.. \"THE SIMILARITY OF METRIC DIMENSION AND LOCAL METRIC DIMENSION OF ROOTED PRODUCT GRAPH.\" Far East Journal of Mathematical Sciences (FJMS), 2015.",
+      "custom_format": "\\bibitem{SuSlUt15} Susilowati, L., Slamin, Utoyo, M. I., Estuningsih, N., The similarity of metric dimension and local metric dimension of rooted product graph, Far East Journal of Mathematical Sciences (FJMS) \\textbf{1}(1) (2015) 1--10. https://doi.org/10.17654/fjmsaug2015_841_856",
+      "paper_url": "https://doi.org/10.17654/fjmsaug2015_841_856",
+      "journal_name": "Far East Journal of Mathematical Sciences (FJMS)",
+      "year": 2015
+    },
+    {
+      "paper_id": "10_1155_2022_9773089",
+      "bibtex": "@article{10_1155_2022_9773089,\n  title={Computing Fault-Tolerant Metric Dimension of Connected Graphs},\n  author={Uzma Ahmad and Sara Ahmed and M. Javaid and Md. Nur Alam},\n  journal={Journal of mathematics},\n  year={2022},\n  doi={10.1155/2022/9773089},\n  url={https://www.semanticscholar.org/paper/27dc2702583a979a412b2008e9dcd87b0e45c999}\n}",
+      "apa": "Ahmad, U., Ahmed, S., Javaid, M., & Alam, M. N. (2022). Computing Fault-Tolerant Metric Dimension of Connected Graphs. Journal of mathematics.",
+      "ieee": "Uzma Ahmad et al., \"Computing Fault-Tolerant Metric Dimension of Connected Graphs,\" Journal of mathematics, 2022.",
+      "mla": "Ahmad, U., et al.. \"Computing Fault-Tolerant Metric Dimension of Connected Graphs.\" Journal of mathematics, 2022.",
+      "custom_format": "\\bibitem{AhAhJa22} Ahmad, U., Ahmed, S., Javaid, M., Alam, M. N., Computing fault-tolerant metric dimension of connected graphs, Journal of mathematics \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1155/2022/9773089",
+      "paper_url": "https://doi.org/10.1155/2022/9773089",
+      "journal_name": "Journal of mathematics",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1142_s0217732319503346",
+      "bibtex": "@article{10_1142_s0217732319503346,\n  title={A simple analysis of the mixed-state information metric in AdS3/CFT2},\n  author={Xiao-Bao Xu and Shan-Quan Lan and Guqiang Li and J. Mo},\n  journal={Modern Physics Letters A},\n  year={2018},\n  doi={10.1142/s0217732319503346},\n  url={https://www.semanticscholar.org/paper/d6b6663feda522d73bb0da03107d1a32927e31ec}\n}",
+      "apa": "Xu, X., Lan, S., Li, G., & Mo, J. (2018). A simple analysis of the mixed-state information metric in AdS3/CFT2. Modern Physics Letters A.",
+      "ieee": "Xiao-Bao Xu et al., \"A simple analysis of the mixed-state information metric in AdS3/CFT2,\" Modern Physics Letters A, 2018.",
+      "mla": "Xu, X., et al.. \"A simple analysis of the mixed-state information metric in AdS3/CFT2.\" Modern Physics Letters A, 2018.",
+      "custom_format": "\\bibitem{XuLaLi18} Xu, X., Lan, S., Li, G., Mo, J., A simple analysis of the mixed-state information metric in ads3/cft2, Modern Physics Letters A \\textbf{1}(1) (2018) 1--10. https://doi.org/10.1142/s0217732319503346",
+      "paper_url": "https://doi.org/10.1142/s0217732319503346",
+      "journal_name": "Modern Physics Letters A",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_1093_cercor_bhaf138",
+      "bibtex": "@article{10_1093_cercor_bhaf138,\n  title={The fractal dimension of resting state EEG increases over age in children},\n  author={Si Long Jenny Tou and Tom Chau},\n  journal={Cerebral Cortex},\n  year={2025},\n  doi={10.1093/cercor/bhaf138},\n  url={https://www.semanticscholar.org/paper/da8d95280d9e0a8d0b4d3e896e26b501607c580e}\n}",
+      "apa": "Tou, S. L. J. & Chau, T. (2025). The fractal dimension of resting state EEG increases over age in children. Cerebral Cortex.",
+      "ieee": "Si Long Jenny Tou, Tom Chau, \"The fractal dimension of resting state EEG increases over age in children,\" Cerebral Cortex, 2025.",
+      "mla": "Tou, S. L. J., and Tom Chau. \"The fractal dimension of resting state EEG increases over age in children.\" Cerebral Cortex, 2025.",
+      "custom_format": "\\bibitem{ToCh25} Tou, S. L. J., Chau, T., The fractal dimension of resting state eeg increases over age in children, Cerebral Cortex \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1093/cercor/bhaf138",
+      "paper_url": "https://doi.org/10.1093/cercor/bhaf138",
+      "journal_name": "Cerebral Cortex",
+      "year": 2025
+    },
+    {
+      "paper_id": "tang_on_mixed_curvature_2025",
+      "bibtex": "@article{tang_on_mixed_curvature_2025,\n  title={On mixed curvature for Hermitian manifolds},\n  author={Kai Tang},\n  journal={},\n  year={2025},\n  url={https://www.semanticscholar.org/paper/eeeb144a1460496651ed2f62c7be749a7ab11547}\n}",
+      "apa": "Tang, K. (2025). On mixed curvature for Hermitian manifolds. .",
+      "ieee": "Kai Tang, \"On mixed curvature for Hermitian manifolds,\" , 2025.",
+      "mla": "Tang, K.. \"On mixed curvature for Hermitian manifolds.\" , 2025.",
+      "custom_format": "\\bibitem{Ta25} Tang, K., On mixed curvature for hermitian manifolds,  \\textbf{1}(1) (2025) 1--10. https://www.semanticscholar.org/paper/eeeb144a1460496651ed2f62c7be749a7ab11547",
+      "paper_url": "https://www.semanticscholar.org/paper/eeeb144a1460496651ed2f62c7be749a7ab11547",
+      "journal_name": "",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1088_1361_6382_acf9d8",
+      "bibtex": "@article{10_1088_1361_6382_acf9d8,\n  title={Conformally covariant operators of mixed-symmetry tensors and MAGs},\n  author={Gregorio Paci and Dario Sauro and O. Zanusso},\n  journal={Classical and quantum gravity},\n  year={2023},\n  doi={10.1088/1361-6382/acf9d8},\n  url={https://www.semanticscholar.org/paper/8540c51be80dbdfdf96c47384e41b214d58c06b6}\n}",
+      "apa": "Paci, G., Sauro, D., & Zanusso, O. (2023). Conformally covariant operators of mixed-symmetry tensors and MAGs. Classical and quantum gravity.",
+      "ieee": "Gregorio Paci, Dario Sauro, O. Zanusso, \"Conformally covariant operators of mixed-symmetry tensors and MAGs,\" Classical and quantum gravity, 2023.",
+      "mla": "Paci, G., et al.. \"Conformally covariant operators of mixed-symmetry tensors and MAGs.\" Classical and quantum gravity, 2023.",
+      "custom_format": "\\bibitem{PaSaZa23} Paci, G., Sauro, D., Zanusso, O., Conformally covariant operators of mixed-symmetry tensors and mags, Classical and quantum gravity \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1088/1361-6382/acf9d8",
+      "paper_url": "https://doi.org/10.1088/1361-6382/acf9d8",
+      "journal_name": "Classical and quantum gravity",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_21203_rs_3_rs_3800695_v1",
+      "bibtex": "@article{10_21203_rs_3_rs_3800695_v1,\n  title={Investigating The Metric Basis And Metric Dimension Of Graphene},\n  author={Wasim Abbas and Faryal Chaudhry and Deeba Afzal and Umar Farooq},\n  journal={},\n  year={2023},\n  doi={10.21203/rs.3.rs-3800695/v1},\n  url={https://doi.org/10.21203/rs.3.rs-3800695/v1}\n}",
+      "apa": "Abbas, W., Chaudhry, F., Afzal, D., & Farooq, U. (2023). Investigating The Metric Basis And Metric Dimension Of Graphene. .",
+      "ieee": "Wasim Abbas et al., \"Investigating The Metric Basis And Metric Dimension Of Graphene,\" , 2023.",
+      "mla": "Abbas, W., et al.. \"Investigating The Metric Basis And Metric Dimension Of Graphene.\" , 2023.",
+      "custom_format": "\\bibitem{AbChAf23} Abbas, W., Chaudhry, F., Afzal, D., Farooq, U., Investigating the metric basis and metric dimension of graphene,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.21203/rs.3.rs-3800695/v1",
+      "paper_url": "https://doi.org/10.21203/rs.3.rs-3800695/v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_36227_techrxiv_12765497_v1",
+      "bibtex": "@article{10_36227_techrxiv_12765497_v1,\n  title={Metric mean dimension and analog compression},\n  author={Yonatan Gutman and Adam \u015apiewak},\n  journal={},\n  year={2023},\n  doi={10.36227/techrxiv.12765497.v1},\n  url={https://doi.org/10.36227/techrxiv.12765497.v1}\n}",
+      "apa": "Gutman, Y. & \u015apiewak, A. (2023). Metric mean dimension and analog compression. .",
+      "ieee": "Yonatan Gutman, Adam \u015apiewak, \"Metric mean dimension and analog compression,\" , 2023.",
+      "mla": "Gutman, Y., and Adam \u015apiewak. \"Metric mean dimension and analog compression.\" , 2023.",
+      "custom_format": "\\bibitem{Gu\u015ap23} Gutman, Y., \u015apiewak, A., Metric mean dimension and analog compression,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.36227/techrxiv.12765497.v1",
+      "paper_url": "https://doi.org/10.36227/techrxiv.12765497.v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_31219_osf_io_vxuk6",
+      "bibtex": "@article{10_31219_osf_io_vxuk6,\n  title={Metric dimension and pattern avoidance in graphs},\n  author={Jesse Geneson},\n  journal={},\n  year={2023},\n  doi={10.31219/osf.io/vxuk6},\n  url={https://doi.org/10.31219/osf.io/vxuk6}\n}",
+      "apa": "Geneson, J. (2023). Metric dimension and pattern avoidance in graphs. .",
+      "ieee": "Jesse Geneson, \"Metric dimension and pattern avoidance in graphs,\" , 2023.",
+      "mla": "Geneson, J.. \"Metric dimension and pattern avoidance in graphs.\" , 2023.",
+      "custom_format": "\\bibitem{Ge23} Geneson, J., Metric dimension and pattern avoidance in graphs,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.31219/osf.io/vxuk6",
+      "paper_url": "https://doi.org/10.31219/osf.io/vxuk6",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_20944_preprints202111_0142_v7",
+      "bibtex": "@article{10_20944_preprints202111_0142_v7,\n  title={Metric Dimension in fuzzy(neutrosophic) Graphs-VII},\n  author={Mohammadesmail Nikfar},\n  journal={},\n  year={2023},\n  doi={10.20944/preprints202111.0142.v7},\n  url={https://doi.org/10.20944/preprints202111.0142.v7}\n}",
+      "apa": "Nikfar, M. (2023). Metric Dimension in fuzzy(neutrosophic) Graphs-VII. .",
+      "ieee": "Mohammadesmail Nikfar, \"Metric Dimension in fuzzy(neutrosophic) Graphs-VII,\" , 2023.",
+      "mla": "Nikfar, M.. \"Metric Dimension in fuzzy(neutrosophic) Graphs-VII.\" , 2023.",
+      "custom_format": "\\bibitem{Ni23} Nikfar, M., Metric dimension in fuzzy(neutrosophic) graphs-vii,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.20944/preprints202111.0142.v7",
+      "paper_url": "https://doi.org/10.20944/preprints202111.0142.v7",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "yousuf_geometric_latent_space_2025",
+      "bibtex": "@article{yousuf_geometric_latent_space_2025,\n  title={Geometric Latent Space Tomography with Metric-Preserving Autoencoders},\n  author={S. M. Yousuf and Iqbal Tomal and Abdullah Al},\n  journal={},\n  year={2025},\n  url={https://www.semanticscholar.org/paper/26dc186172e52987ce3e20946f6758a59c4f2e07}\n}",
+      "apa": "Yousuf, S. M., Tomal, I., & Al, A. (2025). Geometric Latent Space Tomography with Metric-Preserving Autoencoders. .",
+      "ieee": "S. M. Yousuf, Iqbal Tomal, Abdullah Al, \"Geometric Latent Space Tomography with Metric-Preserving Autoencoders,\" , 2025.",
+      "mla": "Yousuf, S. M., et al.. \"Geometric Latent Space Tomography with Metric-Preserving Autoencoders.\" , 2025.",
+      "custom_format": "\\bibitem{YoToAl25} Yousuf, S. M., Tomal, I., Al, A., Geometric latent space tomography with metric-preserving autoencoders,  \\textbf{1}(1) (2025) 1--10. https://www.semanticscholar.org/paper/26dc186172e52987ce3e20946f6758a59c4f2e07",
+      "paper_url": "https://www.semanticscholar.org/paper/26dc186172e52987ce3e20946f6758a59c4f2e07",
+      "journal_name": "",
+      "year": 2025
+    },
+    {
+      "paper_id": "malykhin_kolmogorov_widths_of_2025",
+      "bibtex": "@article{malykhin_kolmogorov_widths_of_2025,\n  title={Kolmogorov widths of balls in mixed norms: the case of rigidity},\n  author={Yuri Malykhin and Konstantin Ryutin},\n  journal={},\n  year={2025},\n  url={https://www.semanticscholar.org/paper/f45ba4404ae943a668ebded5ccd7b16b642e517f}\n}",
+      "apa": "Malykhin, Y. & Ryutin, K. (2025). Kolmogorov widths of balls in mixed norms: the case of rigidity. .",
+      "ieee": "Yuri Malykhin, Konstantin Ryutin, \"Kolmogorov widths of balls in mixed norms: the case of rigidity,\" , 2025.",
+      "mla": "Malykhin, Y., and Konstantin Ryutin. \"Kolmogorov widths of balls in mixed norms: the case of rigidity.\" , 2025.",
+      "custom_format": "\\bibitem{MaRy25} Malykhin, Y., Ryutin, K., Kolmogorov widths of balls in mixed norms: the case of rigidity,  \\textbf{1}(1) (2025) 1--10. https://www.semanticscholar.org/paper/f45ba4404ae943a668ebded5ccd7b16b642e517f",
+      "paper_url": "https://www.semanticscholar.org/paper/f45ba4404ae943a668ebded5ccd7b16b642e517f",
+      "journal_name": "",
+      "year": 2025
+    },
+    {
+      "paper_id": "sun_mixed_hessian_inequalities_2025",
+      "bibtex": "@article{sun_mixed_hessian_inequalities_2025,\n  title={Mixed Hessian inequalities on Hermitian manifolds and applications},\n  author={Haoyuan Sun},\n  journal={},\n  year={2025},\n  url={https://www.semanticscholar.org/paper/fb738786530e76e346efad3c085d049686bcdf42}\n}",
+      "apa": "Sun, H. (2025). Mixed Hessian inequalities on Hermitian manifolds and applications. .",
+      "ieee": "Haoyuan Sun, \"Mixed Hessian inequalities on Hermitian manifolds and applications,\" , 2025.",
+      "mla": "Sun, H.. \"Mixed Hessian inequalities on Hermitian manifolds and applications.\" , 2025.",
+      "custom_format": "\\bibitem{Su25} Sun, H., Mixed hessian inequalities on hermitian manifolds and applications,  \\textbf{1}(1) (2025) 1--10. https://www.semanticscholar.org/paper/fb738786530e76e346efad3c085d049686bcdf42",
+      "paper_url": "https://www.semanticscholar.org/paper/fb738786530e76e346efad3c085d049686bcdf42",
+      "journal_name": "",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1142_S1793042112501278",
+      "bibtex": "@article{10_1142_S1793042112501278,\n  title={THE METRIC THEORY OF MIXED TYPE LINEAR FORMS},\n  author={Detta Dickinson and Mumtaz Hussain},\n  journal={},\n  year={2013},\n  doi={10.1142/S1793042112501278},\n  url={https://www.semanticscholar.org/paper/b6e07320badca1479a1f118fe3847e86c25311b1}\n}",
+      "apa": "Dickinson, D. & Hussain, M. (2013). THE METRIC THEORY OF MIXED TYPE LINEAR FORMS. .",
+      "ieee": "Detta Dickinson, Mumtaz Hussain, \"THE METRIC THEORY OF MIXED TYPE LINEAR FORMS,\" , 2013.",
+      "mla": "Dickinson, D., and Mumtaz Hussain. \"THE METRIC THEORY OF MIXED TYPE LINEAR FORMS.\" , 2013.",
+      "custom_format": "\\bibitem{DiHu13} Dickinson, D., Hussain, M., The metric theory of mixed type linear forms,  \\textbf{1}(1) (2013) 1--10. https://doi.org/10.1142/S1793042112501278",
+      "paper_url": "https://doi.org/10.1142/S1793042112501278",
+      "journal_name": "",
+      "year": 2013
+    },
+    {
+      "paper_id": "10_1093_jamiaopen_ooad101",
+      "bibtex": "@article{10_1093_jamiaopen_ooad101,\n  title={The use of electronic health record embedded MRC-ICU as a metric for critical care pharmacist workload},\n  author={Andrew J. Webb and Bayleigh Carver and S. Rowe and Andrea Sikora},\n  journal={medRxiv},\n  year={2023},\n  doi={10.1093/jamiaopen/ooad101},\n  url={https://www.semanticscholar.org/paper/da3780141b532fa8fb9b7b967ab59e209bd9ae9c}\n}",
+      "apa": "Webb, A. J., Carver, B., Rowe, S., & Sikora, A. (2023). The use of electronic health record embedded MRC-ICU as a metric for critical care pharmacist workload. medRxiv.",
+      "ieee": "Andrew J. Webb et al., \"The use of electronic health record embedded MRC-ICU as a metric for critical care pharmacist workload,\" medRxiv, 2023.",
+      "mla": "Webb, A. J., et al.. \"The use of electronic health record embedded MRC-ICU as a metric for critical care pharmacist workload.\" medRxiv, 2023.",
+      "custom_format": "\\bibitem{WeCaRo23} Webb, A. J., Carver, B., Rowe, S., Sikora, A., The use of electronic health record embedded mrc-icu as a metric for critical care pharmacist workload, medRxiv \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1093/jamiaopen/ooad101",
+      "paper_url": "https://doi.org/10.1093/jamiaopen/ooad101",
+      "journal_name": "medRxiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "kawasaki_coarse_group_theoretic_2023",
+      "bibtex": "@article{kawasaki_coarse_group_theoretic_2023,\n  title={Coarse group theoretic study on stable mixed commutator length},\n  author={Morimichi Kawasaki and M. Kimura and Shuhei Maruyama and Takahiro Matsushita and M. Mimura},\n  journal={},\n  year={2023},\n  url={https://www.semanticscholar.org/paper/d7189d86959fac31eb49e56645406ab5fec566a8}\n}",
+      "apa": "Kawasaki, M., Kimura, M., Maruyama, S., Matsushita, T., & Mimura, M. (2023). Coarse group theoretic study on stable mixed commutator length. .",
+      "ieee": "Morimichi Kawasaki et al., \"Coarse group theoretic study on stable mixed commutator length,\" , 2023.",
+      "mla": "Kawasaki, M., et al.. \"Coarse group theoretic study on stable mixed commutator length.\" , 2023.",
+      "custom_format": "\\bibitem{KaKiMa23} Kawasaki, M., Kimura, M., Maruyama, S., Matsushita, T., Mimura, M., Coarse group theoretic study on stable mixed commutator length,  \\textbf{1}(1) (2023) 1--10. https://www.semanticscholar.org/paper/d7189d86959fac31eb49e56645406ab5fec566a8",
+      "paper_url": "https://www.semanticscholar.org/paper/d7189d86959fac31eb49e56645406ab5fec566a8",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_20944_preprints202111_0142_v4",
+      "bibtex": "@article{10_20944_preprints202111_0142_v4,\n  title={Metric Dimension in fuzzy(neutrosophic) Graphs-IV},\n  author={Mohammadesmail Nikfar},\n  journal={},\n  year={2023},\n  doi={10.20944/preprints202111.0142.v4},\n  url={https://doi.org/10.20944/preprints202111.0142.v4}\n}",
+      "apa": "Nikfar, M. (2023). Metric Dimension in fuzzy(neutrosophic) Graphs-IV. .",
+      "ieee": "Mohammadesmail Nikfar, \"Metric Dimension in fuzzy(neutrosophic) Graphs-IV,\" , 2023.",
+      "mla": "Nikfar, M.. \"Metric Dimension in fuzzy(neutrosophic) Graphs-IV.\" , 2023.",
+      "custom_format": "\\bibitem{Ni23} Nikfar, M., Metric dimension in fuzzy(neutrosophic) graphs-iv,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.20944/preprints202111.0142.v4",
+      "paper_url": "https://doi.org/10.20944/preprints202111.0142.v4",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1007_s00200_024_00657_3",
+      "bibtex": "@article{10_1007_s00200_024_00657_3,\n  title={Metric dimension and strong metric dimension in annihilator-ideal graphs},\n  author={R. Shahriyari and R. Nikandish and A. Tehranian and H. Rasouli},\n  journal={Applicable Algebra in Engineering, Communication and Computing},\n  year={2025},\n  doi={10.1007/s00200-024-00657-3},\n  url={https://doi.org/10.1007/s00200-024-00657-3}\n}",
+      "apa": "Shahriyari, R., Nikandish, R., Tehranian, A., & Rasouli, H. (2025). Metric dimension and strong metric dimension in annihilator-ideal graphs. Applicable Algebra in Engineering, Communication and Computing.",
+      "ieee": "R. Shahriyari et al., \"Metric dimension and strong metric dimension in annihilator-ideal graphs,\" Applicable Algebra in Engineering, Communication and Computing, 2025.",
+      "mla": "Shahriyari, R., et al.. \"Metric dimension and strong metric dimension in annihilator-ideal graphs.\" Applicable Algebra in Engineering, Communication and Computing, 2025.",
+      "custom_format": "\\bibitem{ShNiTe25} Shahriyari, R., Nikandish, R., Tehranian, A., Rasouli, H., Metric dimension and strong metric dimension in annihilator-ideal graphs, Applicable Algebra in Engineering, Communication and Computing \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1007/s00200-024-00657-3",
+      "paper_url": "https://doi.org/10.1007/s00200-024-00657-3",
+      "journal_name": "Applicable Algebra in Engineering, Communication and Computing",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_18860_ca_v6i3_10103",
+      "bibtex": "@article{10_18860_ca_v6i3_10103,\n  title={The Metric Dimension and Local Metric Dimension of Relative Prime Graph},\n  author={Inna Kuswandari and Fatmawati Fatmawati and Mohammad Imam Utoyo},\n  journal={CAUCHY: Jurnal Matematika Murni dan Aplikasi},\n  year={2020},\n  doi={10.18860/ca.v6i3.10103},\n  url={https://doi.org/10.18860/ca.v6i3.10103}\n}",
+      "apa": "Kuswandari, I., Fatmawati, F., & Utoyo, M. I. (2020). The Metric Dimension and Local Metric Dimension of Relative Prime Graph. CAUCHY: Jurnal Matematika Murni dan Aplikasi.",
+      "ieee": "Inna Kuswandari, Fatmawati Fatmawati, Mohammad Imam Utoyo, \"The Metric Dimension and Local Metric Dimension of Relative Prime Graph,\" CAUCHY: Jurnal Matematika Murni dan Aplikasi, 2020.",
+      "mla": "Kuswandari, I., et al.. \"The Metric Dimension and Local Metric Dimension of Relative Prime Graph.\" CAUCHY: Jurnal Matematika Murni dan Aplikasi, 2020.",
+      "custom_format": "\\bibitem{KuFaUt20} Kuswandari, I., Fatmawati, F., Utoyo, M. I., The metric dimension and local metric dimension of relative prime graph, CAUCHY: Jurnal Matematika Murni dan Aplikasi \\textbf{1}(1) (2020) 1--10. https://doi.org/10.18860/ca.v6i3.10103",
+      "paper_url": "https://doi.org/10.18860/ca.v6i3.10103",
+      "journal_name": "CAUCHY: Jurnal Matematika Murni dan Aplikasi",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1134_S0001434617010096",
+      "bibtex": "@article{10_1134_S0001434617010096,\n  title={The product of octahedra is badly approximated in the \u21132,1-metric},\n  author={Y. Malykhin and K. Ryutin},\n  journal={},\n  year={2017},\n  doi={10.1134/S0001434617010096},\n  url={https://www.semanticscholar.org/paper/0bcab0f4bdb139aae16d9b350b8b226567518a54}\n}",
+      "apa": "Malykhin, Y. & Ryutin, K. (2017). The product of octahedra is badly approximated in the \u21132,1-metric. .",
+      "ieee": "Y. Malykhin, K. Ryutin, \"The product of octahedra is badly approximated in the \u21132,1-metric,\" , 2017.",
+      "mla": "Malykhin, Y., and K. Ryutin. \"The product of octahedra is badly approximated in the \u21132,1-metric.\" , 2017.",
+      "custom_format": "\\bibitem{MaRy17} Malykhin, Y., Ryutin, K., The product of octahedra is badly approximated in the \u21132,1-metric,  \\textbf{1}(1) (2017) 1--10. https://doi.org/10.1134/S0001434617010096",
+      "paper_url": "https://doi.org/10.1134/S0001434617010096",
+      "journal_name": "",
+      "year": 2017
+    },
+    {
+      "paper_id": "10_2139_ssrn_4769772",
+      "bibtex": "@article{10_2139_ssrn_4769772,\n  title={Strong Edge Metric Dimension of Graphs},\n  author={Mojgan Afkhami},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.4769772},\n  url={https://doi.org/10.2139/ssrn.4769772}\n}",
+      "apa": "Afkhami, M. (2023). Strong Edge Metric Dimension of Graphs. .",
+      "ieee": "Mojgan Afkhami, \"Strong Edge Metric Dimension of Graphs,\" , 2023.",
+      "mla": "Afkhami, M.. \"Strong Edge Metric Dimension of Graphs.\" , 2023.",
+      "custom_format": "\\bibitem{Af23} Afkhami, M., Strong edge metric dimension of graphs,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.4769772",
+      "paper_url": "https://doi.org/10.2139/ssrn.4769772",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_20944_preprints202106_0004_v1",
+      "bibtex": "@article{10_20944_preprints202106_0004_v1,\n  title={Metric Number in Dimension},\n  author={Mohammadesmail Nikfar},\n  journal={},\n  year={2023},\n  doi={10.20944/preprints202106.0004.v1},\n  url={https://doi.org/10.20944/preprints202106.0004.v1}\n}",
+      "apa": "Nikfar, M. (2023). Metric Number in Dimension. .",
+      "ieee": "Mohammadesmail Nikfar, \"Metric Number in Dimension,\" , 2023.",
+      "mla": "Nikfar, M.. \"Metric Number in Dimension.\" , 2023.",
+      "custom_format": "\\bibitem{Ni23} Nikfar, M., Metric number in dimension,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.20944/preprints202106.0004.v1",
+      "paper_url": "https://doi.org/10.20944/preprints202106.0004.v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_2139_ssrn_4549525",
+      "bibtex": "@article{10_2139_ssrn_4549525,\n  title={On the Metric Dimension of Ka \u00d7Kb \u00d7Kc},\n  author={Gerold Jaeger and Valentin Gledel},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.4549525},\n  url={https://doi.org/10.2139/ssrn.4549525}\n}",
+      "apa": "Jaeger, G. & Gledel, V. (2023). On the Metric Dimension of Ka \u00d7Kb \u00d7Kc. .",
+      "ieee": "Gerold Jaeger, Valentin Gledel, \"On the Metric Dimension of Ka \u00d7Kb \u00d7Kc,\" , 2023.",
+      "mla": "Jaeger, G., and Valentin Gledel. \"On the Metric Dimension of Ka \u00d7Kb \u00d7Kc.\" , 2023.",
+      "custom_format": "\\bibitem{JaGl23} Jaeger, G., Gledel, V., On the metric dimension of ka \u00d7kb \u00d7kc,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.4549525",
+      "paper_url": "https://doi.org/10.2139/ssrn.4549525",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1080_10406638_2021_1994429",
+      "bibtex": "@article{10_1080_10406638_2021_1994429,\n  title={On Metric Dimension and Fault Tolerant Metric Dimension of Some Chemical Structures},\n  author={Muhammad Faisal Nadeem and Ayesha Shabbir and Muhammad Azeem},\n  journal={Polycyclic Aromatic Compounds},\n  year={2022},\n  doi={10.1080/10406638.2021.1994429},\n  url={https://doi.org/10.1080/10406638.2021.1994429}\n}",
+      "apa": "Nadeem, M. F., Shabbir, A., & Azeem, M. (2022). On Metric Dimension and Fault Tolerant Metric Dimension of Some Chemical Structures. Polycyclic Aromatic Compounds.",
+      "ieee": "Muhammad Faisal Nadeem, Ayesha Shabbir, Muhammad Azeem, \"On Metric Dimension and Fault Tolerant Metric Dimension of Some Chemical Structures,\" Polycyclic Aromatic Compounds, 2022.",
+      "mla": "Nadeem, M. F., et al.. \"On Metric Dimension and Fault Tolerant Metric Dimension of Some Chemical Structures.\" Polycyclic Aromatic Compounds, 2022.",
+      "custom_format": "\\bibitem{NaShAz22} Nadeem, M. F., Shabbir, A., Azeem, M., On metric dimension and fault tolerant metric dimension of some chemical structures, Polycyclic Aromatic Compounds \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1080/10406638.2021.1994429",
+      "paper_url": "https://doi.org/10.1080/10406638.2021.1994429",
+      "journal_name": "Polycyclic Aromatic Compounds",
+      "year": 2022
+    },
+    {
+      "paper_id": "sarkinen_plan_metric_driven_2011",
+      "bibtex": "@article{sarkinen_plan_metric_driven_2011,\n  title={Plan & Metric Driven Mixed-Signal Verification for Medical Devices},\n  author={Gregg T. Sarkinen},\n  journal={},\n  year={2011},\n  url={https://www.semanticscholar.org/paper/b995ee5d5a37ca7e4b761ffaf280c9ae62e0ba5b}\n}",
+      "apa": "Sarkinen, G. T. (2011). Plan & Metric Driven Mixed-Signal Verification for Medical Devices. .",
+      "ieee": "Gregg T. Sarkinen, \"Plan & Metric Driven Mixed-Signal Verification for Medical Devices,\" , 2011.",
+      "mla": "Sarkinen, G. T.. \"Plan & Metric Driven Mixed-Signal Verification for Medical Devices.\" , 2011.",
+      "custom_format": "\\bibitem{Sa11} Sarkinen, G. T., Plan & metric driven mixed-signal verification for medical devices,  \\textbf{1}(1) (2011) 1--10. https://www.semanticscholar.org/paper/b995ee5d5a37ca7e4b761ffaf280c9ae62e0ba5b",
+      "paper_url": "https://www.semanticscholar.org/paper/b995ee5d5a37ca7e4b761ffaf280c9ae62e0ba5b",
+      "journal_name": "",
+      "year": 2011
+    },
+    {
+      "paper_id": "10_1016_b978_1_4832_2961_4_50006_5",
+      "bibtex": "@article{10_1016_b978_1_4832_2961_4_50006_5,\n  title={DIMENSION OF METRIC SPACES},\n  author={JUN-ITI NAGATA},\n  journal={Modern Dimension Theory},\n  year={2014},\n  doi={10.1016/b978-1-4832-2961-4.50006-5},\n  url={https://doi.org/10.1016/b978-1-4832-2961-4.50006-5}\n}",
+      "apa": "NAGATA, J. (2014). DIMENSION OF METRIC SPACES. Modern Dimension Theory.",
+      "ieee": "JUN-ITI NAGATA, \"DIMENSION OF METRIC SPACES,\" Modern Dimension Theory, 2014.",
+      "mla": "NAGATA, J.. \"DIMENSION OF METRIC SPACES.\" Modern Dimension Theory, 2014.",
+      "custom_format": "\\bibitem{Na14} NAGATA, J., Dimension of metric spaces, Modern Dimension Theory \\textbf{1}(1) (2014) 1--10. https://doi.org/10.1016/b978-1-4832-2961-4.50006-5",
+      "paper_url": "https://doi.org/10.1016/b978-1-4832-2961-4.50006-5",
+      "journal_name": "Modern Dimension Theory",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_1017_cbo9781316662595_011",
+      "bibtex": "@article{10_1017_cbo9781316662595_011,\n  title={The metric dimension},\n  author={},\n  journal={Mathematical Explorations},\n  year={2016},\n  doi={10.1017/cbo9781316662595.011},\n  url={https://doi.org/10.1017/cbo9781316662595.011}\n}",
+      "apa": "Unknown Author (2016). The metric dimension. Mathematical Explorations.",
+      "ieee": "Unknown Author, \"The metric dimension,\" Mathematical Explorations, 2016.",
+      "mla": "Unknown Author. \"The metric dimension.\" Mathematical Explorations, 2016.",
+      "custom_format": "\\bibitem{Unknown16} Unknown Author, The metric dimension, Mathematical Explorations \\textbf{1}(1) (2016) 1--10. https://doi.org/10.1017/cbo9781316662595.011",
+      "paper_url": "https://doi.org/10.1017/cbo9781316662595.011",
+      "journal_name": "Mathematical Explorations",
+      "year": 2016
+    },
+    {
+      "paper_id": "10_1016_b978_1_4832_2961_4_50008_9",
+      "bibtex": "@article{10_1016_b978_1_4832_2961_4_50008_9,\n  title={DIMENSION OF SEPARABLE METRIC SPACES},\n  author={JUN-ITI NAGATA},\n  journal={Modern Dimension Theory},\n  year={2014},\n  doi={10.1016/b978-1-4832-2961-4.50008-9},\n  url={https://doi.org/10.1016/b978-1-4832-2961-4.50008-9}\n}",
+      "apa": "NAGATA, J. (2014). DIMENSION OF SEPARABLE METRIC SPACES. Modern Dimension Theory.",
+      "ieee": "JUN-ITI NAGATA, \"DIMENSION OF SEPARABLE METRIC SPACES,\" Modern Dimension Theory, 2014.",
+      "mla": "NAGATA, J.. \"DIMENSION OF SEPARABLE METRIC SPACES.\" Modern Dimension Theory, 2014.",
+      "custom_format": "\\bibitem{Na14} NAGATA, J., Dimension of separable metric spaces, Modern Dimension Theory \\textbf{1}(1) (2014) 1--10. https://doi.org/10.1016/b978-1-4832-2961-4.50008-9",
+      "paper_url": "https://doi.org/10.1016/b978-1-4832-2961-4.50008-9",
+      "journal_name": "Modern Dimension Theory",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_21136_mb_2010_140702",
+      "bibtex": "@article{10_21136_mb_2010_140702,\n  title={The local metric dimension of a graph},\n  author={Futaba Okamoto and Bryan Phinezy and Ping Zhang},\n  journal={Mathematica Bohemica},\n  year={2010},\n  doi={10.21136/mb.2010.140702},\n  url={https://doi.org/10.21136/mb.2010.140702}\n}",
+      "apa": "Okamoto, F., Phinezy, B., & Zhang, P. (2010). The local metric dimension of a graph. Mathematica Bohemica.",
+      "ieee": "Futaba Okamoto, Bryan Phinezy, Ping Zhang, \"The local metric dimension of a graph,\" Mathematica Bohemica, 2010.",
+      "mla": "Okamoto, F., et al.. \"The local metric dimension of a graph.\" Mathematica Bohemica, 2010.",
+      "custom_format": "\\bibitem{OkPhZh10} Okamoto, F., Phinezy, B., Zhang, P., The local metric dimension of a graph, Mathematica Bohemica \\textbf{1}(1) (2010) 1--10. https://doi.org/10.21136/mb.2010.140702",
+      "paper_url": "https://doi.org/10.21136/mb.2010.140702",
+      "journal_name": "Mathematica Bohemica",
+      "year": 2010
+    },
+    {
+      "paper_id": "10_1016_s0924_6509_09_70102_3",
+      "bibtex": "@article{10_1016_s0924_6509_09_70102_3,\n  title={Chapter 1 Dimension Theory of Separable Metric Spaces},\n  author={},\n  journal={North-Holland Mathematical Library},\n  year={1979},\n  doi={10.1016/s0924-6509(09)70102-3},\n  url={https://doi.org/10.1016/s0924-6509(09)70102-3}\n}",
+      "apa": "Unknown Author (1979). Chapter 1 Dimension Theory of Separable Metric Spaces. North-Holland Mathematical Library.",
+      "ieee": "Unknown Author, \"Chapter 1 Dimension Theory of Separable Metric Spaces,\" North-Holland Mathematical Library, 1979.",
+      "mla": "Unknown Author. \"Chapter 1 Dimension Theory of Separable Metric Spaces.\" North-Holland Mathematical Library, 1979.",
+      "custom_format": "\\bibitem{Unknown79} Unknown Author, Chapter 1 dimension theory of separable metric spaces, North-Holland Mathematical Library \\textbf{1}(1) (1979) 1--10. https://doi.org/10.1016/s0924-6509(09)70102-3",
+      "paper_url": "https://doi.org/10.1016/s0924-6509(09)70102-3",
+      "journal_name": "North-Holland Mathematical Library",
+      "year": 1979
+    },
+    {
+      "paper_id": "10_1016_j_topol_2013_04_020",
+      "bibtex": "@article{10_1016_j_topol_2013_04_020,\n  title={A separable complete metric space of dimension n containing isometrically all compact metric spaces of dimension n},\n  author={S.D. Iliadis},\n  journal={Topology and its Applications},\n  year={2013},\n  doi={10.1016/j.topol.2013.04.020},\n  url={https://doi.org/10.1016/j.topol.2013.04.020}\n}",
+      "apa": "Iliadis, S. (2013). A separable complete metric space of dimension n containing isometrically all compact metric spaces of dimension n. Topology and its Applications.",
+      "ieee": "S.D. Iliadis, \"A separable complete metric space of dimension n containing isometrically all compact metric spaces of dimension n,\" Topology and its Applications, 2013.",
+      "mla": "Iliadis, S.. \"A separable complete metric space of dimension n containing isometrically all compact metric spaces of dimension n.\" Topology and its Applications, 2013.",
+      "custom_format": "\\bibitem{Il13} Iliadis, S., A separable complete metric space of dimension n containing isometrically all compact metric spaces of dimension n, Topology and its Applications \\textbf{1}(1) (2013) 1--10. https://doi.org/10.1016/j.topol.2013.04.020",
+      "paper_url": "https://doi.org/10.1016/j.topol.2013.04.020",
+      "journal_name": "Topology and its Applications",
+      "year": 2013
+    },
+    {
+      "paper_id": "10_21136_mb_2014_143632",
+      "bibtex": "@article{10_21136_mb_2014_143632,\n  title={Characterization of $n$-vertex graphs with metric dimension $n-3$},\n  author={Mohsen Jannesari and Behnaz Omoomi},\n  journal={Mathematica Bohemica},\n  year={2014},\n  doi={10.21136/mb.2014.143632},\n  url={https://doi.org/10.21136/mb.2014.143632}\n}",
+      "apa": "Jannesari, M. & Omoomi, B. (2014). Characterization of $n$-vertex graphs with metric dimension $n-3$. Mathematica Bohemica.",
+      "ieee": "Mohsen Jannesari, Behnaz Omoomi, \"Characterization of $n$-vertex graphs with metric dimension $n-3$,\" Mathematica Bohemica, 2014.",
+      "mla": "Jannesari, M., and Behnaz Omoomi. \"Characterization of $n$-vertex graphs with metric dimension $n-3$.\" Mathematica Bohemica, 2014.",
+      "custom_format": "\\bibitem{JaOm14} Jannesari, M., Omoomi, B., Characterization of $n$-vertex graphs with metric dimension $n-3$, Mathematica Bohemica \\textbf{1}(1) (2014) 1--10. https://doi.org/10.21136/mb.2014.143632",
+      "paper_url": "https://doi.org/10.21136/mb.2014.143632",
+      "journal_name": "Mathematica Bohemica",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_1017_cbo9780511565991_005",
+      "bibtex": "@article{10_1017_cbo9780511565991_005,\n  title={Hausdorff measure and dimension},\n  author={},\n  journal={Metric Diophantine Approximation on Manifolds},\n  year={1999},\n  doi={10.1017/cbo9780511565991.005},\n  url={https://doi.org/10.1017/cbo9780511565991.005}\n}",
+      "apa": "Unknown Author (1999). Hausdorff measure and dimension. Metric Diophantine Approximation on Manifolds.",
+      "ieee": "Unknown Author, \"Hausdorff measure and dimension,\" Metric Diophantine Approximation on Manifolds, 1999.",
+      "mla": "Unknown Author. \"Hausdorff measure and dimension.\" Metric Diophantine Approximation on Manifolds, 1999.",
+      "custom_format": "\\bibitem{Unknown99} Unknown Author, Hausdorff measure and dimension, Metric Diophantine Approximation on Manifolds \\textbf{1}(1) (1999) 1--10. https://doi.org/10.1017/cbo9780511565991.005",
+      "paper_url": "https://doi.org/10.1017/cbo9780511565991.005",
+      "journal_name": "Metric Diophantine Approximation on Manifolds",
+      "year": 1999
+    },
+    {
+      "paper_id": "10_1017_cbo9780511565991_007",
+      "bibtex": "@article{10_1017_cbo9780511565991_007,\n  title={Lower bounds for Hausdorff dimension},\n  author={},\n  journal={Metric Diophantine Approximation on Manifolds},\n  year={1999},\n  doi={10.1017/cbo9780511565991.007},\n  url={https://doi.org/10.1017/cbo9780511565991.007}\n}",
+      "apa": "Unknown Author (1999). Lower bounds for Hausdorff dimension. Metric Diophantine Approximation on Manifolds.",
+      "ieee": "Unknown Author, \"Lower bounds for Hausdorff dimension,\" Metric Diophantine Approximation on Manifolds, 1999.",
+      "mla": "Unknown Author. \"Lower bounds for Hausdorff dimension.\" Metric Diophantine Approximation on Manifolds, 1999.",
+      "custom_format": "\\bibitem{Unknown99} Unknown Author, Lower bounds for hausdorff dimension, Metric Diophantine Approximation on Manifolds \\textbf{1}(1) (1999) 1--10. https://doi.org/10.1017/cbo9780511565991.007",
+      "paper_url": "https://doi.org/10.1017/cbo9780511565991.007",
+      "journal_name": "Metric Diophantine Approximation on Manifolds",
+      "year": 1999
+    },
+    {
+      "paper_id": "10_1017_cbo9780511565991_006",
+      "bibtex": "@article{10_1017_cbo9780511565991_006,\n  title={Upper bounds for Hausdorff dimension},\n  author={},\n  journal={Metric Diophantine Approximation on Manifolds},\n  year={1999},\n  doi={10.1017/cbo9780511565991.006},\n  url={https://doi.org/10.1017/cbo9780511565991.006}\n}",
+      "apa": "Unknown Author (1999). Upper bounds for Hausdorff dimension. Metric Diophantine Approximation on Manifolds.",
+      "ieee": "Unknown Author, \"Upper bounds for Hausdorff dimension,\" Metric Diophantine Approximation on Manifolds, 1999.",
+      "mla": "Unknown Author. \"Upper bounds for Hausdorff dimension.\" Metric Diophantine Approximation on Manifolds, 1999.",
+      "custom_format": "\\bibitem{Unknown99} Unknown Author, Upper bounds for hausdorff dimension, Metric Diophantine Approximation on Manifolds \\textbf{1}(1) (1999) 1--10. https://doi.org/10.1017/cbo9780511565991.006",
+      "paper_url": "https://doi.org/10.1017/cbo9780511565991.006",
+      "journal_name": "Metric Diophantine Approximation on Manifolds",
+      "year": 1999
+    },
+    {
+      "paper_id": "10_54499_ui_bd_152212_2021",
+      "bibtex": "@article{10_54499_ui_bd_152212_2021,\n  title={},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.54499/ui/bd/152212/2021},\n  url={https://doi.org/10.54499/ui/bd/152212/2021}\n}",
+      "apa": "Unknown Author (2023). . .",
+      "ieee": "Unknown Author, \",\" , 2023.",
+      "mla": "Unknown Author. \".\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, ,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.54499/ui/bd/152212/2021",
+      "paper_url": "https://doi.org/10.54499/ui/bd/152212/2021",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41266630_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41266630_2023,\n  title={PubMed Paper 41266630},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41266630/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41266630. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41266630,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41266630.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41266630, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41266630/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41266630/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_40163553_2023",
+      "bibtex": "@article{unknown_pubmed_paper_40163553_2023,\n  title={PubMed Paper 40163553},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/40163553/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 40163553. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 40163553,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 40163553.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 40163553, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/40163553/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/40163553/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_39489801_2023",
+      "bibtex": "@article{unknown_pubmed_paper_39489801_2023,\n  title={PubMed Paper 39489801},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/39489801/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 39489801. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 39489801,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 39489801.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 39489801, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/39489801/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/39489801/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_39035488_2023",
+      "bibtex": "@article{unknown_pubmed_paper_39035488_2023,\n  title={PubMed Paper 39035488},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/39035488/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 39035488. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 39035488,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 39035488.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 39035488, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/39035488/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/39035488/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_38370250_2023",
+      "bibtex": "@article{unknown_pubmed_paper_38370250_2023,\n  title={PubMed Paper 38370250},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/38370250/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 38370250. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 38370250,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 38370250.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 38370250, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/38370250/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/38370250/",
+      "journal_name": "PubMed",
+      "year": 2023
+    }
+  ]
+}

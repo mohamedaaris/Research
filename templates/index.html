@@ -26,6 +26,14 @@
             font-family: monospace;
             font-size: 0.9em;
         }
+        .citation-box {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 5px 0;
+            font-family: monospace;
+            font-size: 0.9em;
+        }
         .gap-badge {
             font-size: 0.8em;
         }
@@ -51,6 +59,11 @@
             <span class="navbar-brand mb-0 h1">
                 <i class="fas fa-microscope"></i> Autonomous Research Agent System
             </span>
+            <div>
+                <a href="/citations" class="btn btn-outline-light me-2">
+                    <i class="fas fa-quote-right"></i> Enhanced Citations
+                </a>
+            </div>
         </div>
     </nav>
 
@@ -145,7 +158,42 @@
                         <div class="card-body">
                             <h5 class="card-title">
                                 <i class="fas fa-quote-right"></i> Generated Citations
+                                <span class="badge bg-primary ms-2" id="citationCount">0</span>
                             </h5>
+                            
+                            <!-- Citation Filters -->
+                            <div class="row mb-3 p-3 bg-light rounded">
+                                <div class="col-md-3">
+                                    <label for="journalFilter" class="form-label">Filter by Journal</label>
+                                    <select class="form-select form-select-sm" id="journalFilter">
+                                        <option value="">All Journals</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="yearFilter" class="form-label">Filter by Year</label>
+                                    <select class="form-select form-select-sm" id="yearFilter">
+                                        <option value="">All Years</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="formatFilter" class="form-label">Reference Format</label>
+                                    <select class="form-select form-select-sm" id="formatFilter">
+                                        <option value="custom">Custom Format</option>
+                                        <option value="bibtex">BibTeX</option>
+                                        <option value="apa">APA</option>
+                                        <option value="ieee">IEEE</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3 d-flex align-items-end">
+                                    <button class="btn btn-success btn-sm me-2" onclick="downloadFilteredCitations()">
+                                        <i class="fas fa-download"></i> Download Filtered
+                                    </button>
+                                    <button class="btn btn-outline-secondary btn-sm" onclick="clearCitationFilters()">
+                                        <i class="fas fa-times"></i> Clear
+                                    </button>
+                                </div>
+                            </div>
+                            
                             <div id="citationsSection">
                                 <!-- Citations will be populated here -->
                             </div>
@@ -209,6 +257,10 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
+        let currentResults = null;
+        let allCitations = [];
+        let filteredCitations = [];
+
         document.getElementById('researchForm').addEventListener('submit', async function(e) {
             e.preventDefault();
             
@@ -231,6 +283,9 @@
                 const data = await response.json();
                 
                 if (response.ok) {
+                    currentResults = data;
+                    allCitations = data.citations || [];
+                    filteredCitations = [...allCitations];
                     displayResults(data);
                 } else {
                     alert('Error: ' + data.error);
@@ -307,51 +362,9 @@
             `).join('');
             document.getElementById('papersSection').innerHTML = papersHtml;
             
-            // Citations
-            const citationsHtml = data.citations.map((citation, index) => `
-                <div class="mb-4">
-                    <h6>Paper ${index + 1} Citations:</h6>
-                    <div class="accordion" id="citation${index}">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bibtex${index}">
-                                    BibTeX
-                                </button>
-                            </h2>
-                            <div id="bibtex${index}" class="accordion-collapse collapse" data-bs-parent="#citation${index}">
-                                <div class="accordion-body">
-                                    <div class="citation-box">${citation.bibtex}</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#apa${index}">
-                                    APA
-                                </button>
-                            </h2>
-                            <div id="apa${index}" class="accordion-collapse collapse" data-bs-parent="#citation${index}">
-                                <div class="accordion-body">
-                                    <div class="citation-box">${citation.apa}</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#ieee${index}">
-                                    IEEE
-                                </button>
-                            </h2>
-                            <div id="ieee${index}" class="accordion-collapse collapse" data-bs-parent="#citation${index}">
-                                <div class="accordion-body">
-                                    <div class="citation-box">${citation.ieee}</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            `).join('');
-            document.getElementById('citationsSection').innerHTML = citationsHtml;
+            // Setup citation filters and display
+            setupCitationFilters();
+            displayCitations();
             
             // Research gaps
             const gapsHtml = data.research_gaps.slice(0, 10).map(gap => `
@@ -384,6 +397,178 @@
             
             // Scroll to results
             document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function setupCitationFilters() {
+            if (!allCitations || allCitations.length === 0) return;
+            
+            // Get unique journals and years
+            const journals = [...new Set(allCitations.map(c => c.journal_name))].sort();
+            const years = [...new Set(allCitations.map(c => c.year))].sort((a, b) => b - a);
+            
+            // Populate journal filter
+            const journalFilter = document.getElementById('journalFilter');
+            journalFilter.innerHTML = '<option value="">All Journals</option>';
+            journals.forEach(journal => {
+                const option = document.createElement('option');
+                option.value = journal;
+                option.textContent = journal;
+                journalFilter.appendChild(option);
+            });
+            
+            // Populate year filter
+            const yearFilter = document.getElementById('yearFilter');
+            yearFilter.innerHTML = '<option value="">All Years</option>';
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearFilter.appendChild(option);
+            });
+            
+            // Add event listeners
+            journalFilter.addEventListener('change', applyCitationFilters);
+            yearFilter.addEventListener('change', applyCitationFilters);
+            document.getElementById('formatFilter').addEventListener('change', displayCitations);
+        }
+
+        function applyCitationFilters() {
+            const journalFilter = document.getElementById('journalFilter').value;
+            const yearFilter = document.getElementById('yearFilter').value;
+            
+            filteredCitations = allCitations.filter(citation => {
+                let matches = true;
+                
+                if (journalFilter && citation.journal_name !== journalFilter) {
+                    matches = false;
+                }
+                
+                if (yearFilter && citation.year.toString() !== yearFilter) {
+                    matches = false;
+                }
+                
+                return matches;
+            });
+            
+            displayCitations();
+        }
+
+        function displayCitations() {
+            const format = document.getElementById('formatFilter').value;
+            document.getElementById('citationCount').textContent = filteredCitations.length;
+            
+            if (filteredCitations.length === 0) {
+                document.getElementById('citationsSection').innerHTML = '<p class="text-muted">No citations match the current filters.</p>';
+                return;
+            }
+            
+            const citationsHtml = filteredCitations.map((citation, index) => `
+                <div class="mb-4 p-3 border rounded">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <div>
+                            <span class="badge bg-primary me-2">${citation.journal_name}</span>
+                            <span class="badge bg-success">${citation.year}</span>
+                        </div>
+                        <div>
+                            ${citation.paper_url ? `
+                                <a href="${citation.paper_url}" target="_blank" class="btn btn-sm btn-outline-primary me-2">
+                                    <i class="fas fa-external-link-alt"></i> View Paper
+                                </a>
+                            ` : ''}
+                            <button class="btn btn-sm btn-outline-secondary" onclick="copyCitation(${index})">
+                                <i class="fas fa-copy"></i> Copy
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="citation-box">
+                        ${getCitationText(citation, format)}
+                    </div>
+                </div>
+            `).join('');
+            
+            document.getElementById('citationsSection').innerHTML = citationsHtml;
+        }
+
+        function getCitationText(citation, format) {
+            switch(format) {
+                case 'bibtex':
+                    return citation.bibtex;
+                case 'apa':
+                    return citation.apa;
+                case 'ieee':
+                    return citation.ieee;
+                case 'custom':
+                    return citation.custom_format || citation.bibtex;
+                default:
+                    return citation.bibtex;
+            }
+        }
+
+        function copyCitation(index) {
+            const citation = filteredCitations[index];
+            const format = document.getElementById('formatFilter').value;
+            const text = getCitationText(citation, format);
+            
+            navigator.clipboard.writeText(text).then(() => {
+                // Show success feedback
+                const button = event.target.closest('button');
+                const originalText = button.innerHTML;
+                button.innerHTML = '<i class="fas fa-check"></i> Copied!';
+                button.classList.add('btn-success');
+                button.classList.remove('btn-outline-secondary');
+                
+                setTimeout(() => {
+                    button.innerHTML = originalText;
+                    button.classList.remove('btn-success');
+                    button.classList.add('btn-outline-secondary');
+                }, 2000);
+            });
+        }
+
+        function clearCitationFilters() {
+            document.getElementById('journalFilter').value = '';
+            document.getElementById('yearFilter').value = '';
+            document.getElementById('formatFilter').value = 'custom';
+            filteredCitations = [...allCitations];
+            displayCitations();
+        }
+
+        function downloadFilteredCitations() {
+            if (filteredCitations.length === 0) {
+                alert('No citations to download. Please adjust your filters.');
+                return;
+            }
+            
+            const format = document.getElementById('formatFilter').value;
+            let content = '';
+            
+            if (format === 'custom') {
+                content = '\\begin{thebibliography}{99}\n\n';
+                filteredCitations.forEach(citation => {
+                    content += (citation.custom_format || citation.bibtex) + '\n\n';
+                });
+                content += '\\end{thebibliography}';
+            } else {
+                filteredCitations.forEach(citation => {
+                    content += getCitationText(citation, format) + '\n\n';
+                });
+            }
+            
+            const filename = `citations_${format}_${new Date().toISOString().split('T')[0]}.txt`;
+            downloadFile(content, filename);
+        }
+
+        function downloadFile(content, filename) {
+            const blob = new Blob([content], { type: 'text/plain' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
         }
 
         async function loadHistory() {
