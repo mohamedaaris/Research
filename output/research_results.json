@@ -1,0 +1,51 @@
+{
+  "topic": "Use of Graph Neural Networks in Drug Discovery",
+  "generated_at": "2026-01-27T19:14:48.571557",
+  "summary": {
+    "papers_analyzed": 3,
+    "claims_extracted": 1,
+    "contradictions_found": 0,
+    "research_gaps_identified": 37
+  },
+  "papers": [
+    {
+      "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+      "authors": [
+        "Thomas N. Kipf",
+        "Max Welling"
+      ],
+      "year": 2017,
+      "venue": "ICLR",
+      "relevance_score": 0.95
+    },
+    {
+      "title": "Graph Attention Networks",
+      "authors": [
+        "Petar Veli\u010dkovi\u0107",
+        "Guillem Cucurull",
+        "Arantxa Casanova"
+      ],
+      "year": 2018,
+      "venue": "ICLR",
+      "relevance_score": 0.92
+    },
+    {
+      "title": "Molecular Graph Enhanced Transformer for Drug Design",
+      "authors": [
+        "Kexin Huang",
+        "Tianfan Fu",
+        "Wenhao Gao"
+      ],
+      "year": 2021,
+      "venue": "Nature Machine Intelligence",
+      "relevance_score": 0.88
+    }
+  ],
+  "top_claims": [
+    {
+      "statement": "We present graph attention networks (GATs), novel neural network architectures",
+      "metrics": {},
+      "confidence": 0.6
+    }
+  ]
+}
