@@ -1,0 +1,1893 @@
+{
+  "topic": "machine learning",
+  "generated_at": "2026-01-27T20:55:24.292130",
+  "summary": {
+    "papers_analyzed": 68,
+    "claims_extracted": 6,
+    "contradictions_found": 0,
+    "research_gaps_identified": 14
+  },
+  "topic_map": {
+    "main_topic": "machine learning",
+    "subtopics": [],
+    "methods": [
+      "Unsupervised Learning",
+      "Supervised Learning"
+    ],
+    "keywords": [
+      "deep learning",
+      "neural networks",
+      "transfer learning",
+      "reinforcement learning",
+      "learning",
+      "supervised learning",
+      "machine",
+      "unsupervised learning"
+    ],
+    "datasets": []
+  },
+  "papers": [
+    {
+      "title": "Machine learning with sklearn",
+      "authors": [
+        "Thomas P. Trappenberg"
+      ],
+      "year": 2019,
+      "venue": "Fundamentals of Machine Learning",
+      "relevance_score": 0.8500000000000001,
+      "abstract": "<p>This chapter\u2019s goal is to show how to apply machine learning algorithms in a general setting using some classic methods. In particular, it demonstrates how to apply three important machine learning algorithms, a support vector classifier (SVC), a random forest classifier (RFC), and a multilayer p...",
+      "doi": "10.1093/oso/9780198828044.003.0003",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1093/oso/9780198828044.003.0003"
+    },
+    {
+      "title": "Why Use Automated Machine Learning?",
+      "authors": [
+        "Kai R. Larsen",
+        "Daniel S. Becker"
+      ],
+      "year": 2021,
+      "venue": "Automated Machine Learning for Business",
+      "relevance_score": 0.8200000000000001,
+      "abstract": "<p>Machine learning is involved in search, translation, detecting depression, likelihood of college dropout, finding lost children, and to sell all kinds of products. While barely beyond its inception, the current machine learning revolution will affect people and organizations no less than the Indu...",
+      "doi": "10.1093/oso/9780190941659.003.0001",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1093/oso/9780190941659.003.0001"
+    },
+    {
+      "title": "A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU",
+      "authors": [
+        "Farhad Mortezapour Shiri",
+        "Thinagaran Perumal",
+        "Norwati Mustapha",
+        "Raihani Mohamed"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.7100000000000002,
+      "abstract": "Deep learning (DL) has emerged as a powerful subset of machine learning (ML) and artificial intelligence (AI), outperforming traditional ML methods, especially in handling unstructured and large datasets. Its impact spans across various domains, including speech recognition, healthcare, autonomous v...",
+      "doi": null,
+      "arxiv_id": "2305.17473",
+      "url": "http://arxiv.org/abs/2305.17473v4"
+    },
+    {
+      "title": "Wireless Networks Design in the Era of Deep Learning: Model-Based, AI-Based, or Both?",
+      "authors": [
+        "Alessio Zappone",
+        "Marco Di Renzo",
+        "M\u00e9rouane Debbah"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.7000000000000001,
+      "abstract": "This work deals with the use of emerging deep learning techniques in future wireless communication networks. It will be shown that data-driven approaches should not replace, but rather complement traditional design techniques based on mathematical models.   Extensive motivation is given for why deep...",
+      "doi": null,
+      "arxiv_id": "1902.02647",
+      "url": "http://arxiv.org/abs/1902.02647v2"
+    },
+    {
+      "title": "Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning",
+      "authors": [
+        "Alberto Castagna"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.65,
+      "abstract": "Reinforcement Learning (RL) enables an intelligent agent to optimise its performance in a task by continuously taking action from an observed state and receiving a feedback from the environment in form of rewards. RL typically uses tables or linear approximators to map state-action tuples that maxim...",
+      "doi": null,
+      "arxiv_id": "2501.15495",
+      "url": "http://arxiv.org/abs/2501.15495v1"
+    },
+    {
+      "title": "Machine learning vs. neutrosophic machine learning",
+      "authors": [
+        "Shabbir Hassan"
+      ],
+      "year": 2025,
+      "venue": "Soft Computing and Machine Learning",
+      "relevance_score": 0.6,
+      "abstract": "",
+      "doi": "10.1201/9781003606055-5",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1201/9781003606055-5"
+    },
+    {
+      "title": "Machine Learning and Medicine",
+      "authors": [],
+      "year": 2025,
+      "venue": "",
+      "relevance_score": 0.6,
+      "abstract": "",
+      "doi": "10.3390/books978-3-7258-4564-4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3390/books978-3-7258-4564-4"
+    },
+    {
+      "title": "Deep Learning in Earthquake Engineering: A Comprehensive Review",
+      "authors": [
+        "Yazhou Xie"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "relevance_score": 0.58,
+      "abstract": "This article surveys the growing interest in utilizing Deep Learning (DL) as a powerful tool to address challenging problems in earthquake engineering. Despite decades of advancement in domain knowledge, issues such as uncertainty in earthquake occurrence, unpredictable seismic loads, nonlinear stru...",
+      "doi": null,
+      "arxiv_id": "2405.09021",
+      "url": "http://arxiv.org/abs/2405.09021v1"
+    },
+    {
+      "title": "Einleitung: Vom Batch Machine Learning zum Online Machine Learning",
+      "authors": [
+        "Thomas Bartz-Beielstein"
+      ],
+      "year": 2024,
+      "venue": "Online Machine Learning",
+      "relevance_score": 0.58,
+      "abstract": "",
+      "doi": "10.1007/978-3-658-46162-1_1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/978-3-658-46162-1_1"
+    },
+    {
+      "title": "Machine learning and medical education",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.37473//10.1038/s41746-018-0061-1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.37473//10.1038/s41746-018-0061-1"
+    },
+    {
+      "title": "Machine Learning: An Overview",
+      "authors": [
+        "Mark Liu"
+      ],
+      "year": 2023,
+      "venue": "Machine Learning, Animated",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.1201/b23383-3",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1201/b23383-3"
+    },
+    {
+      "title": "Adaptive Target Localization under Uncertainty using Multi-Agent Deep Reinforcement Learning with Knowledge Transfer",
+      "authors": [
+        "Ahmed Alagha",
+        "Rabeb Mizouni",
+        "Shakti Singh",
+        "Jamal Bentahar",
+        "Hadi Otrok"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.55,
+      "abstract": "Target localization is a critical task in sensitive applications, where multiple sensing agents communicate and collaborate to identify the target location based on sensor readings. Existing approaches investigated the use of Multi-Agent Deep Reinforcement Learning (MADRL) to tackle target localizat...",
+      "doi": null,
+      "arxiv_id": "2501.10924",
+      "url": "http://arxiv.org/abs/2501.10924v1"
+    },
+    {
+      "title": "Optimization and Machine Learning",
+      "authors": [],
+      "year": 2022,
+      "venue": "",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.1002/9781119902881",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/9781119902881"
+    },
+    {
+      "title": "Optimization for Machine Learning",
+      "authors": [],
+      "year": 2022,
+      "venue": "Machine Learning for Engineers",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.1017/9781009072205.008",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/9781009072205.008"
+    },
+    {
+      "title": "Capacity Estimation Using Machine Learning",
+      "authors": [],
+      "year": 2022,
+      "venue": "Machine Learning and Wireless Communications",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.1017/9781108966559.013",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/9781108966559.013"
+    },
+    {
+      "title": "Channel Coding via Machine Learning",
+      "authors": [],
+      "year": 2022,
+      "venue": "Machine Learning and Wireless Communications",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.1017/9781108966559.006",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/9781108966559.006"
+    },
+    {
+      "title": "Machine Learning for Wireless Networks",
+      "authors": [],
+      "year": 2022,
+      "venue": "Machine Learning and Wireless Communications",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.1017/9781108966559.003",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/9781108966559.003"
+    },
+    {
+      "title": "Wireless Networks for Machine Learning",
+      "authors": [],
+      "year": 2022,
+      "venue": "Machine Learning and Wireless Communications",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.1017/9781108966559.014",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/9781108966559.014"
+    },
+    {
+      "title": "Applications of Machine Learning in cricket: A systematic review",
+      "authors": [
+        "Indika Wickramasinghe"
+      ],
+      "year": 2022,
+      "venue": "Machine Learning with Applications",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.1016/j.mlwa.2022.100435",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.mlwa.2022.100435"
+    },
+    {
+      "title": "Machine Learning, Statistics, and Data Analytics",
+      "authors": [],
+      "year": 2021,
+      "venue": "Machine Learning",
+      "relevance_score": 0.52,
+      "abstract": "",
+      "doi": "10.7551/mitpress/13811.003.0005",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7551/mitpress/13811.003.0005"
+    },
+    {
+      "title": "Why We Are Interested in Machine Learning",
+      "authors": [],
+      "year": 2021,
+      "venue": "Machine Learning",
+      "relevance_score": 0.52,
+      "abstract": "",
+      "doi": "10.7551/mitpress/13811.003.0004",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7551/mitpress/13811.003.0004"
+    },
+    {
+      "title": "Application of machine learning algorithms for prediction of sinter machine productivity",
+      "authors": [
+        "Arpit Mallick",
+        "Subhra Dhara",
+        "Sushant Rath"
+      ],
+      "year": 2021,
+      "venue": "Machine Learning with Applications",
+      "relevance_score": 0.52,
+      "abstract": "",
+      "doi": "10.1016/j.mlwa.2021.100186",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.mlwa.2021.100186"
+    },
+    {
+      "title": "A Brief Review of Hypernetworks in Deep Learning",
+      "authors": [
+        "Vinod Kumar Chauhan",
+        "Jiandong Zhou",
+        "Ping Lu",
+        "Soheila Molaei",
+        "David A. Clifton"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.51,
+      "abstract": "Hypernetworks, or hypernets for short, are neural networks that generate weights for another neural network, known as the target network. They have emerged as a powerful deep learning technique that allows for greater flexibility, adaptability, dynamism, faster training, information sharing, and mod...",
+      "doi": null,
+      "arxiv_id": "2306.06955",
+      "url": "http://arxiv.org/abs/2306.06955v3"
+    },
+    {
+      "title": "Machine learning",
+      "authors": [],
+      "year": 2011,
+      "venue": "Phase Transitions in Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1017/cbo9780511975509.007",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9780511975509.007"
+    },
+    {
+      "title": "Machine Learning and Qualitative Reasoning",
+      "authors": [
+        "Ivan Bratko"
+      ],
+      "year": 1994,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022661713654",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022661713654"
+    },
+    {
+      "title": "Editorial: Human and Machine Learning",
+      "authors": [
+        "Pat Langley"
+      ],
+      "year": 1986,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022854429410",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022854429410"
+    },
+    {
+      "title": "Machine Learning and Concept Formation",
+      "authors": [
+        "Pat Langley"
+      ],
+      "year": 1987,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022896407371",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022896407371"
+    },
+    {
+      "title": "Research Papers in Machine Learning",
+      "authors": [
+        "Pat Langley"
+      ],
+      "year": 1987,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022603230145",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022603230145"
+    },
+    {
+      "title": "Machine Learning: A Maturing Field",
+      "authors": [
+        "Jaime Carbonell"
+      ],
+      "year": 1992,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022665512030",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022665512030"
+    },
+    {
+      "title": "Machine Learning and Grammar Induction",
+      "authors": [
+        "Pat Langely"
+      ],
+      "year": 1987,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022808826027",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022808826027"
+    },
+    {
+      "title": "Machine learning concepts",
+      "authors": [],
+      "year": 2012,
+      "venue": "Bayesian Reasoning and Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1017/cbo9780511804779.018",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9780511804779.018"
+    },
+    {
+      "title": "Editorial: The Terminology of Machine Learning",
+      "authors": [
+        "Pat Langley"
+      ],
+      "year": 1986,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022840627593",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022840627593"
+    },
+    {
+      "title": "Machine Learning as an Experimental Science",
+      "authors": [
+        "Pat Langley"
+      ],
+      "year": 1988,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022623814640",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022623814640"
+    },
+    {
+      "title": "Editorial: Advice to Machine Learning Authors",
+      "authors": [
+        "Pat Langley"
+      ],
+      "year": 1990,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022647305786",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022647305786"
+    },
+    {
+      "title": "COMPREHENSIVE BIBLIOGRAPHY OF MACHINE LEARNING",
+      "authors": [],
+      "year": 1983,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1016/b978-0-08-051054-5.50021-2",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/b978-0-08-051054-5.50021-2"
+    },
+    {
+      "title": "New Theoretical Directions In Machine Learning",
+      "authors": [
+        "David Haussler"
+      ],
+      "year": 1988,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022817027844",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022817027844"
+    },
+    {
+      "title": "Machine Learning Overview",
+      "authors": [
+        "Taiwo Oladipupo"
+      ],
+      "year": 2010,
+      "venue": "New Advances in Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.5772/9374",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5772/9374"
+    },
+    {
+      "title": "Statistics for machine learning",
+      "authors": [],
+      "year": 2012,
+      "venue": "Bayesian Reasoning and Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1017/cbo9780511804779.012",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9780511804779.012"
+    },
+    {
+      "title": "Adversarial Machine Learning Challenges",
+      "authors": [],
+      "year": 2019,
+      "venue": "Adversarial Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1017/9781107338548.009",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/9781107338548.009"
+    },
+    {
+      "title": "Toward a Unified Science of Machine Learning",
+      "authors": [
+        "Pat Langley"
+      ],
+      "year": 1989,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022689616458",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022689616458"
+    },
+    {
+      "title": "Editorial: Machine Learning and Discovery",
+      "authors": [
+        "Pat Langley",
+        "Ryszard S. Michalski"
+      ],
+      "year": 1986,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022814715297",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022814715297"
+    },
+    {
+      "title": "Machine Learning Models",
+      "authors": [],
+      "year": 2020,
+      "venue": "Machine Learning for Speaker Recognition",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1017/9781108552332.004",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/9781108552332.004"
+    },
+    {
+      "title": "Statistical physics and machine learning",
+      "authors": [],
+      "year": 2011,
+      "venue": "Phase Transitions in Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1017/cbo9780511975509.009",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9780511975509.009"
+    },
+    {
+      "title": "Introduction to Machine Learning",
+      "authors": [],
+      "year": 2016,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1201/9781315371658-9",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1201/9781315371658-9"
+    },
+    {
+      "title": "Learning Curves in Machine Learning",
+      "authors": [
+        "Claudia Perlich"
+      ],
+      "year": 2011,
+      "venue": "Encyclopedia of Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1007/978-0-387-30164-8_452",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/978-0-387-30164-8_452"
+    },
+    {
+      "title": "Machine Learning for Information Extraction in Informal Domains",
+      "authors": [
+        "Dayne Freitag"
+      ],
+      "year": 2000,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1007601113994",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1007601113994"
+    },
+    {
+      "title": "Machine Learning in Context",
+      "authors": [],
+      "year": 1988,
+      "venue": "Introduction to Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1016/b978-0-08-050930-3.50018-x",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/b978-0-08-050930-3.50018-x"
+    },
+    {
+      "title": "Genetic Algorithms and Machine Learning",
+      "authors": [
+        "David E. Goldberg",
+        "John H. Holland"
+      ],
+      "year": 1988,
+      "venue": "Machine Learning",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1023/a:1022602019183",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1023/a:1022602019183"
+    },
+    {
+      "title": "Towards Deep Symbolic Reinforcement Learning",
+      "authors": [
+        "Marta Garnelo",
+        "Kai Arulkumaran",
+        "Murray Shanahan"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.45,
+      "abstract": "Deep reinforcement learning (DRL) brings the power of deep neural networks to bear on the generic task of trial-and-error learning, and its effectiveness has been convincingly demonstrated on tasks such as Atari video games and the game of Go. However, contemporary DRL systems inherit a number of sh...",
+      "doi": null,
+      "arxiv_id": "1609.05518",
+      "url": "http://arxiv.org/abs/1609.05518v2"
+    },
+    {
+      "title": "Transfer Learning to Learn with Multitask Neural Model Search",
+      "authors": [
+        "Catherine Wong",
+        "Andrea Gesmundo"
+      ],
+      "year": 2017,
+      "venue": "arXiv",
+      "relevance_score": 0.45,
+      "abstract": "Deep learning models require extensive architecture design exploration and hyperparameter optimization to perform well on a given task. The exploration of the model design space is often made by a human expert, and optimized using a combination of grid search and search heuristics over a large space...",
+      "doi": null,
+      "arxiv_id": "1710.10776",
+      "url": "http://arxiv.org/abs/1710.10776v1"
+    },
+    {
+      "title": "Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks",
+      "authors": [
+        "Changyang She",
+        "Rui Dong",
+        "Zhouyou Gu",
+        "Zhanwei Hou",
+        "Yonghui Li",
+        "Wibowo Hardjawana",
+        "Chenyang Yang",
+        "Lingyang Song",
+        "Branka Vucetic"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.45,
+      "abstract": "In the future 6th generation networks, ultra-reliable and low-latency communications (URLLC) will lay the foundation for emerging mission-critical applications that have stringent requirements on end-to-end delay and reliability. Existing works on URLLC are mainly based on theoretical models and ass...",
+      "doi": null,
+      "arxiv_id": "2002.11045",
+      "url": "http://arxiv.org/abs/2002.11045v1"
+    },
+    {
+      "title": "Adaptable image quality assessment using meta-reinforcement learning of task amenability",
+      "authors": [
+        "Shaheer U. Saeed",
+        "Yunguan Fu",
+        "Vasilis Stavrinides",
+        "Zachary M. C. Baum",
+        "Qianye Yang",
+        "Mirabela Rusu",
+        "Richard E. Fan",
+        "Geoffrey A. Sonn",
+        "J. Alison Noble",
+        "Dean C. Barratt",
+        "Yipeng Hu"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.42,
+      "abstract": "The performance of many medical image analysis tasks are strongly associated with image data quality. When developing modern deep learning algorithms, rather than relying on subjective (human-based) image quality assessment (IQA), task amenability potentially provides an objective measure of task-sp...",
+      "doi": null,
+      "arxiv_id": "2108.04359",
+      "url": "http://arxiv.org/abs/2108.04359v1"
+    },
+    {
+      "title": "Meta-Learning in Neural Networks: A Survey",
+      "authors": [
+        "Timothy Hospedales",
+        "Antreas Antoniou",
+        "Paul Micaelli",
+        "Amos Storkey"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.39999999999999997,
+      "abstract": "The field of meta-learning, or learning-to-learn, has seen a dramatic rise in interest in recent years. Contrary to conventional approaches to AI where tasks are solved from scratch using a fixed learning algorithm, meta-learning aims to improve the learning algorithm itself, given the experience of...",
+      "doi": null,
+      "arxiv_id": "2004.05439",
+      "url": "http://arxiv.org/abs/2004.05439v2"
+    },
+    {
+      "title": "Reinforcement learning",
+      "authors": [
+        "Thomas P. Trappenberg"
+      ],
+      "year": 2019,
+      "venue": "Fundamentals of Machine Learning",
+      "relevance_score": 0.35000000000000003,
+      "abstract": "<p>The discussion here considers a much more common learning condition where an agent, such as a human or a robot, has to learn to make decisions in the environment from simple feedback. Such feedback is provided only after periods of actions in the form of reward or punishment without detailing whi...",
+      "doi": "10.1093/oso/9780198828044.003.0010",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1093/oso/9780198828044.003.0010"
+    },
+    {
+      "title": "A NEAT Approach to Evolving Neural-Network-based Optimization of Chiral Photonic Metasurfaces: Application of a Neuro-Evolution Pipeline",
+      "authors": [
+        "Davide Filippozzi",
+        "Arash Rahimi-Iman"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.25,
+      "abstract": "The design of chiral metasurfaces with tailored optical properties remains a central challenge in nanophotonics due to the highly nonlinear relationship between geometry and chiroptical response. Machine-learning-assisted optimization pipelines have recently emerged as efficient tools to accelerate ...",
+      "doi": null,
+      "arxiv_id": "2512.23558",
+      "url": "http://arxiv.org/abs/2512.23558v1"
+    },
+    {
+      "title": "PubMed Paper 41582841",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582841/"
+    },
+    {
+      "title": "PubMed Paper 41582806",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582806/"
+    },
+    {
+      "title": "PubMed Paper 41582779",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582779/"
+    },
+    {
+      "title": "PubMed Paper 41582682",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582682/"
+    },
+    {
+      "title": "PubMed Paper 41582622",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582622/"
+    },
+    {
+      "title": "PubMed Paper 41582602",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582602/"
+    },
+    {
+      "title": "PubMed Paper 41582574",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582574/"
+    },
+    {
+      "title": "PubMed Paper 41582521",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582521/"
+    },
+    {
+      "title": "PubMed Paper 41582467",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582467/"
+    },
+    {
+      "title": "PubMed Paper 41582390",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582390/"
+    },
+    {
+      "title": "Front Matter",
+      "authors": [],
+      "year": 2022,
+      "venue": "Optimization and Machine Learning",
+      "relevance_score": 0.04,
+      "abstract": "",
+      "doi": "10.1002/9781119902881.fmatter",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/9781119902881.fmatter"
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "year": 2022,
+      "venue": "Optimization and Machine Learning",
+      "relevance_score": 0.04,
+      "abstract": "",
+      "doi": "10.1002/9781119902881.index",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/9781119902881.index"
+    },
+    {
+      "title": "List of Authors",
+      "authors": [],
+      "year": 2022,
+      "venue": "Optimization and Machine Learning",
+      "relevance_score": 0.04,
+      "abstract": "",
+      "doi": "10.1002/9781119902881.contrib",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/9781119902881.contrib"
+    }
+  ],
+  "claims": [
+    {
+      "statement": "A thorough survey of the literature on deep learning for wireless communication networks is provided, followed by a detailed description of several novel case-studies wherein the use of deep learning proves extremely useful for network design",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "the use of emerging deep learning techniques in future wireless communication networks",
+        "the general machine learning paradigm",
+        "networks",
+        "mathematical models",
+        "of deep learning methodologies is provided",
+        "about deep learning and artificial neural networks",
+        "deep learning for wireless communication networks is provided",
+        "and training of the artificial neural network used to solve the problem is discussed",
+        "are the major directions for future research in this field"
+      ]
+    },
+    {
+      "statement": "To bridge the gap, the article first discusses methodological advances to elucidate various applicable DL techniques, such as multi-layer perceptron (MLP), convolutional neural network (CNN), recurrent neural network (RNN), generative adversarial network (GAN), autoencoder (AE), transfer learning (TL), reinforcement learning (RL), and graph neural network (GNN)",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "domain-specific methods",
+        "(MLP)",
+        "(GM) for engineering use"
+      ]
+    },
+    {
+      "statement": "To address these drawbacks, this work proposes a novel MADRL-based method for target localization in uncertain environments",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "Convolutional Neural Networks",
+        "the concept of Transfer Learning",
+        "a radioactive target localization environment and benchmarked against existing methods",
+        "is a critical task in sensitive applications",
+        "based on sensor readings",
+        "in uncertain environments",
+        "to optimize the decision-making of sensing agents",
+        "in the environment",
+        "dimensionalities that control the agents' mobility to search the area for the target",
+        "accurately",
+        "environment and benchmarked against existing methods"
+      ]
+    },
+    {
+      "statement": "NAS has been successfully applied to generate Neural Networks that rival the best human-designed architectures",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "a combination of grid search and search heuristics over a large space of possible choices",
+        "and hyperparameter optimization to perform well on a given task",
+        "of the model design space is often made by a human expert",
+        "of grid search and search heuristics over a large space of possible choices",
+        "model construction on successful model searches for previously seen tasks",
+        "in the search space and reduce search time on unseen tasks"
+      ]
+    },
+    {
+      "statement": "In this article, we first summarize how to apply data-driven supervised deep learning and deep reinforcement learning in URLLC, and discuss some open problems of these methods",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "networks",
+        "URLLC are mainly based on theoretical models and assumptions",
+        "results and discuss some future directions"
+      ]
+    },
+    {
+      "statement": "We first discuss definitions of meta-learning and position it with respect to related fields, such as transfer learning and hyperparameter optimization",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "respect to related fields",
+        "a fixed learning algorithm",
+        "bottlenecks",
+        "it with respect to related fields"
+      ]
+    }
+  ],
+  "contradictions": [],
+  "research_gaps": [
+    {
+      "description": "Insufficient evaluation of Unsupervised Learning",
+      "type": "underrepresented_method",
+      "priority": 1.0,
+      "potential_questions": [
+        "How effective is Unsupervised Learning compared to alternatives?",
+        "What are the computational requirements of Unsupervised Learning?",
+        "In which scenarios does Unsupervised Learning perform best?"
+      ]
+    },
+    {
+      "description": "Insufficient evaluation of Supervised Learning",
+      "type": "underrepresented_method",
+      "priority": 1.0,
+      "potential_questions": [
+        "How effective is Supervised Learning compared to alternatives?",
+        "What are the computational requirements of Supervised Learning?",
+        "In which scenarios does Supervised Learning perform best?"
+      ]
+    },
+    {
+      "description": "Limited use of cross-validation in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper cross-validation?",
+        "What are the best practices for cross-validation in this domain?",
+        "Why is cross-validation not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of ablation study in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper ablation study?",
+        "What are the best practices for ablation study in this domain?",
+        "Why is ablation study not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of statistical significance in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper statistical significance?",
+        "What are the best practices for statistical significance in this domain?",
+        "Why is statistical significance not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of baseline comparison in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper baseline comparison?",
+        "What are the best practices for baseline comparison in this domain?",
+        "Why is baseline comparison not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of error analysis in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper error analysis?",
+        "What are the best practices for error analysis in this domain?",
+        "Why is error analysis not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of hyperparameter tuning in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper hyperparameter tuning?",
+        "What are the best practices for hyperparameter tuning in this domain?",
+        "Why is hyperparameter tuning not commonly used?"
+      ]
+    },
+    {
+      "description": "Lack of real-world evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in real-world evaluation?",
+        "What are the challenges of conducting real-world evaluation?",
+        "What metrics are appropriate for real-world evaluation?"
+      ]
+    },
+    {
+      "description": "Lack of user study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in user study?",
+        "What are the challenges of conducting user study?",
+        "What metrics are appropriate for user study?"
+      ]
+    },
+    {
+      "description": "Lack of clinical trial in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in clinical trial?",
+        "What are the challenges of conducting clinical trial?",
+        "What metrics are appropriate for clinical trial?"
+      ]
+    },
+    {
+      "description": "Lack of longitudinal study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in longitudinal study?",
+        "What are the challenges of conducting longitudinal study?",
+        "What metrics are appropriate for longitudinal study?"
+      ]
+    },
+    {
+      "description": "Lack of multi-domain evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in multi-domain evaluation?",
+        "What are the challenges of conducting multi-domain evaluation?",
+        "What metrics are appropriate for multi-domain evaluation?"
+      ]
+    },
+    {
+      "description": "Need for recent comparative studies",
+      "type": "temporal_gap",
+      "priority": 0.5,
+      "potential_questions": [
+        "How do recent methods compare to established ones?",
+        "What are the latest trends and developments?",
+        "Which recent approaches show the most promise?"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "paper_id": "10_1093_oso_9780198828044_003_0003",
+      "bibtex": "@article{10_1093_oso_9780198828044_003_0003,\n  title={Machine learning with sklearn},\n  author={Thomas P. Trappenberg},\n  journal={Fundamentals of Machine Learning},\n  year={2019},\n  doi={10.1093/oso/9780198828044.003.0003},\n  url={https://doi.org/10.1093/oso/9780198828044.003.0003}\n}",
+      "apa": "Trappenberg, T. P. (2019). Machine learning with sklearn. Fundamentals of Machine Learning.",
+      "ieee": "Thomas P. Trappenberg, \"Machine learning with sklearn,\" Fundamentals of Machine Learning, 2019.",
+      "mla": "Trappenberg, T. P.. \"Machine learning with sklearn.\" Fundamentals of Machine Learning, 2019.",
+      "custom_format": "\\bibitem{Tr19} T.P. Trappenberg, Machine learning with sklearn, Fundamentals of Machine Learning \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1093/oso/9780198828044.003.0003",
+      "paper_url": "https://doi.org/10.1093/oso/9780198828044.003.0003",
+      "journal_name": "Fundamentals of Machine Learning",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_1093_oso_9780190941659_003_0001",
+      "bibtex": "@article{10_1093_oso_9780190941659_003_0001,\n  title={Why Use Automated Machine Learning?},\n  author={Kai R. Larsen and Daniel S. Becker},\n  journal={Automated Machine Learning for Business},\n  year={2021},\n  doi={10.1093/oso/9780190941659.003.0001},\n  url={https://doi.org/10.1093/oso/9780190941659.003.0001}\n}",
+      "apa": "Larsen, K. R. & Becker, D. S. (2021). Why Use Automated Machine Learning?. Automated Machine Learning for Business.",
+      "ieee": "Kai R. Larsen, Daniel S. Becker, \"Why Use Automated Machine Learning?,\" Automated Machine Learning for Business, 2021.",
+      "mla": "Larsen, K. R., and Daniel S. Becker. \"Why Use Automated Machine Learning?.\" Automated Machine Learning for Business, 2021.",
+      "custom_format": "\\bibitem{LaBe21} K.R. Larsen, D.S. Becker, Why use automated machine learning?, Automated Machine Learning for Business \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1093/oso/9780190941659.003.0001",
+      "paper_url": "https://doi.org/10.1093/oso/9780190941659.003.0001",
+      "journal_name": "Automated Machine Learning for Business",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2305_17473",
+      "bibtex": "@article{arxiv_2305_17473,\n  title={A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU},\n  author={Farhad Mortezapour Shiri and Thinagaran Perumal and Norwati Mustapha and Raihani Mohamed},\n  journal={arXiv preprint arXiv:2305.17473},\n  year={2023},\n  url={http://arxiv.org/abs/2305.17473v4}\n}",
+      "apa": "Shiri, F. M., Perumal, T., Mustapha, N., & Mohamed, R. (2023). A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU. arXiv preprint arXiv:2305.17473.",
+      "ieee": "Farhad Mortezapour Shiri et al., \"A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU,\" arXiv preprint arXiv:2305.17473, 2023.",
+      "mla": "Shiri, F. M., et al.. \"A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU.\" arXiv, 2305.17473, 2023.",
+      "custom_format": "\\bibitem{ShPeMu23} F.M. Shiri, T. Perumal, N. Mustapha, R. Mohamed, A comprehensive overview and comparative analysis on deep learning models: cnn, rnn, lstm, gru, arXiv \\textbf{1}(1) (2023) 1--10. http://arxiv.org/abs/2305.17473v4",
+      "paper_url": "http://arxiv.org/abs/2305.17473v4",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_1902_02647",
+      "bibtex": "@article{arxiv_1902_02647,\n  title={Wireless Networks Design in the Era of Deep Learning: Model-Based, AI-Based, or Both?},\n  author={Alessio Zappone and Marco Di Renzo and M\u00e9rouane Debbah},\n  journal={arXiv preprint arXiv:1902.02647},\n  year={2019},\n  url={http://arxiv.org/abs/1902.02647v2}\n}",
+      "apa": "Zappone, A., Renzo, M. D., & Debbah, M. (2019). Wireless Networks Design in the Era of Deep Learning: Model-Based, AI-Based, or Both?. arXiv preprint arXiv:1902.02647.",
+      "ieee": "Alessio Zappone, Marco Di Renzo, M\u00e9rouane Debbah, \"Wireless Networks Design in the Era of Deep Learning: Model-Based, AI-Based, or Both?,\" arXiv preprint arXiv:1902.02647, 2019.",
+      "mla": "Zappone, A., et al.. \"Wireless Networks Design in the Era of Deep Learning: Model-Based, AI-Based, or Both?.\" arXiv, 1902.02647, 2019.",
+      "custom_format": "\\bibitem{ZaReDe19} A. Zappone, M.D. Renzo, M. Debbah, Wireless networks design in the era of deep learning: model-based, ai-based, or both?, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1902.02647v2",
+      "paper_url": "http://arxiv.org/abs/1902.02647v2",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_2501_15495",
+      "bibtex": "@article{arxiv_2501_15495,\n  title={Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning},\n  author={Alberto Castagna},\n  journal={arXiv preprint arXiv:2501.15495},\n  year={2025},\n  url={http://arxiv.org/abs/2501.15495v1}\n}",
+      "apa": "Castagna, A. (2025). Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning. arXiv preprint arXiv:2501.15495.",
+      "ieee": "Alberto Castagna, \"Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning,\" arXiv preprint arXiv:2501.15495, 2025.",
+      "mla": "Castagna, A.. \"Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning.\" arXiv, 2501.15495, 2025.",
+      "custom_format": "\\bibitem{Ca25} A. Castagna, Expert-free online transfer learning in multi-agent reinforcement learning, arXiv \\textbf{1}(1) (2025) 1--10. http://arxiv.org/abs/2501.15495v1",
+      "paper_url": "http://arxiv.org/abs/2501.15495v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1201_9781003606055_5",
+      "bibtex": "@article{10_1201_9781003606055_5,\n  title={Machine learning vs. neutrosophic machine learning},\n  author={Shabbir Hassan},\n  journal={Soft Computing and Machine Learning},\n  year={2025},\n  doi={10.1201/9781003606055-5},\n  url={https://doi.org/10.1201/9781003606055-5}\n}",
+      "apa": "Hassan, S. (2025). Machine learning vs. neutrosophic machine learning. Soft Computing and Machine Learning.",
+      "ieee": "Shabbir Hassan, \"Machine learning vs. neutrosophic machine learning,\" Soft Computing and Machine Learning, 2025.",
+      "mla": "Hassan, S.. \"Machine learning vs. neutrosophic machine learning.\" Soft Computing and Machine Learning, 2025.",
+      "custom_format": "\\bibitem{Ha25} S. Hassan, Machine learning vs. neutrosophic machine learning, Soft Computing and Machine Learning \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1201/9781003606055-5",
+      "paper_url": "https://doi.org/10.1201/9781003606055-5",
+      "journal_name": "Soft Computing and Machine Learning",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_3390_books978_3_7258_4564_4",
+      "bibtex": "@article{10_3390_books978_3_7258_4564_4,\n  title={Machine Learning and Medicine},\n  author={},\n  journal={},\n  year={2025},\n  doi={10.3390/books978-3-7258-4564-4},\n  url={https://doi.org/10.3390/books978-3-7258-4564-4}\n}",
+      "apa": "Unknown Author (2025). Machine Learning and Medicine. .",
+      "ieee": "Unknown Author, \"Machine Learning and Medicine,\" , 2025.",
+      "mla": "Unknown Author. \"Machine Learning and Medicine.\" , 2025.",
+      "custom_format": "\\bibitem{Unknown25} Unknown Author, Machine learning and medicine,  \\textbf{1}(1) (2025) 1--10. https://doi.org/10.3390/books978-3-7258-4564-4",
+      "paper_url": "https://doi.org/10.3390/books978-3-7258-4564-4",
+      "journal_name": "",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2405_09021",
+      "bibtex": "@article{arxiv_2405_09021,\n  title={Deep Learning in Earthquake Engineering: A Comprehensive Review},\n  author={Yazhou Xie},\n  journal={arXiv preprint arXiv:2405.09021},\n  year={2024},\n  url={http://arxiv.org/abs/2405.09021v1}\n}",
+      "apa": "Xie, Y. (2024). Deep Learning in Earthquake Engineering: A Comprehensive Review. arXiv preprint arXiv:2405.09021.",
+      "ieee": "Yazhou Xie, \"Deep Learning in Earthquake Engineering: A Comprehensive Review,\" arXiv preprint arXiv:2405.09021, 2024.",
+      "mla": "Xie, Y.. \"Deep Learning in Earthquake Engineering: A Comprehensive Review.\" arXiv, 2405.09021, 2024.",
+      "custom_format": "\\bibitem{Xi24} Y. Xie, Deep learning in earthquake engineering: a comprehensive review, arXiv \\textbf{1}(1) (2024) 1--10. http://arxiv.org/abs/2405.09021v1",
+      "paper_url": "http://arxiv.org/abs/2405.09021v1",
+      "journal_name": "arXiv",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1007_978_3_658_46162_1_1",
+      "bibtex": "@article{10_1007_978_3_658_46162_1_1,\n  title={Einleitung: Vom Batch Machine Learning zum Online Machine Learning},\n  author={Thomas Bartz-Beielstein},\n  journal={Online Machine Learning},\n  year={2024},\n  doi={10.1007/978-3-658-46162-1_1},\n  url={https://doi.org/10.1007/978-3-658-46162-1_1}\n}",
+      "apa": "Bartz-Beielstein, T. (2024). Einleitung: Vom Batch Machine Learning zum Online Machine Learning. Online Machine Learning.",
+      "ieee": "Thomas Bartz-Beielstein, \"Einleitung: Vom Batch Machine Learning zum Online Machine Learning,\" Online Machine Learning, 2024.",
+      "mla": "Bartz-Beielstein, T.. \"Einleitung: Vom Batch Machine Learning zum Online Machine Learning.\" Online Machine Learning, 2024.",
+      "custom_format": "\\bibitem{Ba24} T. Bartz-Beielstein, Einleitung: vom batch machine learning zum online machine learning, Online Machine Learning \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1007/978-3-658-46162-1_1",
+      "paper_url": "https://doi.org/10.1007/978-3-658-46162-1_1",
+      "journal_name": "Online Machine Learning",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_37473__10_1038_s41746_018_0061_1",
+      "bibtex": "@article{10_37473__10_1038_s41746_018_0061_1,\n  title={Machine learning and medical education},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.37473//10.1038/s41746-018-0061-1},\n  url={https://doi.org/10.37473//10.1038/s41746-018-0061-1}\n}",
+      "apa": "Unknown Author (2023). Machine learning and medical education. .",
+      "ieee": "Unknown Author, \"Machine learning and medical education,\" , 2023.",
+      "mla": "Unknown Author. \"Machine learning and medical education.\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Machine learning and medical education,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.37473//10.1038/s41746-018-0061-1",
+      "paper_url": "https://doi.org/10.37473//10.1038/s41746-018-0061-1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1201_b23383_3",
+      "bibtex": "@article{10_1201_b23383_3,\n  title={Machine Learning: An Overview},\n  author={Mark Liu},\n  journal={Machine Learning, Animated},\n  year={2023},\n  doi={10.1201/b23383-3},\n  url={https://doi.org/10.1201/b23383-3}\n}",
+      "apa": "Liu, M. (2023). Machine Learning: An Overview. Machine Learning, Animated.",
+      "ieee": "Mark Liu, \"Machine Learning: An Overview,\" Machine Learning, Animated, 2023.",
+      "mla": "Liu, M.. \"Machine Learning: An Overview.\" Machine Learning, Animated, 2023.",
+      "custom_format": "\\bibitem{Li23} M. Liu, Machine learning: an overview, Machine Learning, Animated \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1201/b23383-3",
+      "paper_url": "https://doi.org/10.1201/b23383-3",
+      "journal_name": "Machine Learning, Animated",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2501_10924",
+      "bibtex": "@article{arxiv_2501_10924,\n  title={Adaptive Target Localization under Uncertainty using Multi-Agent Deep Reinforcement Learning with Knowledge Transfer},\n  author={Ahmed Alagha and Rabeb Mizouni and Shakti Singh and Jamal Bentahar and Hadi Otrok},\n  journal={arXiv preprint arXiv:2501.10924},\n  year={2025},\n  url={http://arxiv.org/abs/2501.10924v1}\n}",
+      "apa": "Alagha, A., Mizouni, R., Singh, S., Bentahar, J., & Otrok, H. (2025). Adaptive Target Localization under Uncertainty using Multi-Agent Deep Reinforcement Learning with Knowledge Transfer. arXiv preprint arXiv:2501.10924.",
+      "ieee": "Ahmed Alagha et al., \"Adaptive Target Localization under Uncertainty using Multi-Agent Deep Reinforcement Learning with Knowledge Transfer,\" arXiv preprint arXiv:2501.10924, 2025.",
+      "mla": "Alagha, A., et al.. \"Adaptive Target Localization under Uncertainty using Multi-Agent Deep Reinforcement Learning with Knowledge Transfer.\" arXiv, 2501.10924, 2025.",
+      "custom_format": "\\bibitem{AlMiSi25} A. Alagha, R. Mizouni, S. Singh, J. Bentahar, H. Otrok, Adaptive target localization under uncertainty using multi-agent deep reinforcement learning with knowledge transfer, arXiv \\textbf{1}(1) (2025) 1--10. http://arxiv.org/abs/2501.10924v1",
+      "paper_url": "http://arxiv.org/abs/2501.10924v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1002_9781119902881",
+      "bibtex": "@article{10_1002_9781119902881,\n  title={Optimization and Machine Learning},\n  author={},\n  journal={},\n  year={2022},\n  doi={10.1002/9781119902881},\n  url={https://doi.org/10.1002/9781119902881}\n}",
+      "apa": "Unknown Author (2022). Optimization and Machine Learning. .",
+      "ieee": "Unknown Author, \"Optimization and Machine Learning,\" , 2022.",
+      "mla": "Unknown Author. \"Optimization and Machine Learning.\" , 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, Optimization and machine learning,  \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1002/9781119902881",
+      "paper_url": "https://doi.org/10.1002/9781119902881",
+      "journal_name": "",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1017_9781009072205_008",
+      "bibtex": "@article{10_1017_9781009072205_008,\n  title={Optimization for Machine Learning},\n  author={},\n  journal={Machine Learning for Engineers},\n  year={2022},\n  doi={10.1017/9781009072205.008},\n  url={https://doi.org/10.1017/9781009072205.008}\n}",
+      "apa": "Unknown Author (2022). Optimization for Machine Learning. Machine Learning for Engineers.",
+      "ieee": "Unknown Author, \"Optimization for Machine Learning,\" Machine Learning for Engineers, 2022.",
+      "mla": "Unknown Author. \"Optimization for Machine Learning.\" Machine Learning for Engineers, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, Optimization for machine learning, Machine Learning for Engineers \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1017/9781009072205.008",
+      "paper_url": "https://doi.org/10.1017/9781009072205.008",
+      "journal_name": "Machine Learning for Engineers",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1017_9781108966559_013",
+      "bibtex": "@article{10_1017_9781108966559_013,\n  title={Capacity Estimation Using Machine Learning},\n  author={},\n  journal={Machine Learning and Wireless Communications},\n  year={2022},\n  doi={10.1017/9781108966559.013},\n  url={https://doi.org/10.1017/9781108966559.013}\n}",
+      "apa": "Unknown Author (2022). Capacity Estimation Using Machine Learning. Machine Learning and Wireless Communications.",
+      "ieee": "Unknown Author, \"Capacity Estimation Using Machine Learning,\" Machine Learning and Wireless Communications, 2022.",
+      "mla": "Unknown Author. \"Capacity Estimation Using Machine Learning.\" Machine Learning and Wireless Communications, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, Capacity estimation using machine learning, Machine Learning and Wireless Communications \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1017/9781108966559.013",
+      "paper_url": "https://doi.org/10.1017/9781108966559.013",
+      "journal_name": "Machine Learning and Wireless Communications",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1017_9781108966559_006",
+      "bibtex": "@article{10_1017_9781108966559_006,\n  title={Channel Coding via Machine Learning},\n  author={},\n  journal={Machine Learning and Wireless Communications},\n  year={2022},\n  doi={10.1017/9781108966559.006},\n  url={https://doi.org/10.1017/9781108966559.006}\n}",
+      "apa": "Unknown Author (2022). Channel Coding via Machine Learning. Machine Learning and Wireless Communications.",
+      "ieee": "Unknown Author, \"Channel Coding via Machine Learning,\" Machine Learning and Wireless Communications, 2022.",
+      "mla": "Unknown Author. \"Channel Coding via Machine Learning.\" Machine Learning and Wireless Communications, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, Channel coding via machine learning, Machine Learning and Wireless Communications \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1017/9781108966559.006",
+      "paper_url": "https://doi.org/10.1017/9781108966559.006",
+      "journal_name": "Machine Learning and Wireless Communications",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1017_9781108966559_003",
+      "bibtex": "@article{10_1017_9781108966559_003,\n  title={Machine Learning for Wireless Networks},\n  author={},\n  journal={Machine Learning and Wireless Communications},\n  year={2022},\n  doi={10.1017/9781108966559.003},\n  url={https://doi.org/10.1017/9781108966559.003}\n}",
+      "apa": "Unknown Author (2022). Machine Learning for Wireless Networks. Machine Learning and Wireless Communications.",
+      "ieee": "Unknown Author, \"Machine Learning for Wireless Networks,\" Machine Learning and Wireless Communications, 2022.",
+      "mla": "Unknown Author. \"Machine Learning for Wireless Networks.\" Machine Learning and Wireless Communications, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, Machine learning for wireless networks, Machine Learning and Wireless Communications \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1017/9781108966559.003",
+      "paper_url": "https://doi.org/10.1017/9781108966559.003",
+      "journal_name": "Machine Learning and Wireless Communications",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1017_9781108966559_014",
+      "bibtex": "@article{10_1017_9781108966559_014,\n  title={Wireless Networks for Machine Learning},\n  author={},\n  journal={Machine Learning and Wireless Communications},\n  year={2022},\n  doi={10.1017/9781108966559.014},\n  url={https://doi.org/10.1017/9781108966559.014}\n}",
+      "apa": "Unknown Author (2022). Wireless Networks for Machine Learning. Machine Learning and Wireless Communications.",
+      "ieee": "Unknown Author, \"Wireless Networks for Machine Learning,\" Machine Learning and Wireless Communications, 2022.",
+      "mla": "Unknown Author. \"Wireless Networks for Machine Learning.\" Machine Learning and Wireless Communications, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, Wireless networks for machine learning, Machine Learning and Wireless Communications \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1017/9781108966559.014",
+      "paper_url": "https://doi.org/10.1017/9781108966559.014",
+      "journal_name": "Machine Learning and Wireless Communications",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1016_j_mlwa_2022_100435",
+      "bibtex": "@article{10_1016_j_mlwa_2022_100435,\n  title={Applications of Machine Learning in cricket: A systematic review},\n  author={Indika Wickramasinghe},\n  journal={Machine Learning with Applications},\n  year={2022},\n  doi={10.1016/j.mlwa.2022.100435},\n  url={https://doi.org/10.1016/j.mlwa.2022.100435}\n}",
+      "apa": "Wickramasinghe, I. (2022). Applications of Machine Learning in cricket: A systematic review. Machine Learning with Applications.",
+      "ieee": "Indika Wickramasinghe, \"Applications of Machine Learning in cricket: A systematic review,\" Machine Learning with Applications, 2022.",
+      "mla": "Wickramasinghe, I.. \"Applications of Machine Learning in cricket: A systematic review.\" Machine Learning with Applications, 2022.",
+      "custom_format": "\\bibitem{Wi22} I. Wickramasinghe, Applications of machine learning in cricket: a systematic review, Machine Learning with Applications \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1016/j.mlwa.2022.100435",
+      "paper_url": "https://doi.org/10.1016/j.mlwa.2022.100435",
+      "journal_name": "Machine Learning with Applications",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_7551_mitpress_13811_003_0005",
+      "bibtex": "@article{10_7551_mitpress_13811_003_0005,\n  title={Machine Learning, Statistics, and Data Analytics},\n  author={},\n  journal={Machine Learning},\n  year={2021},\n  doi={10.7551/mitpress/13811.003.0005},\n  url={https://doi.org/10.7551/mitpress/13811.003.0005}\n}",
+      "apa": "Unknown Author (2021). Machine Learning, Statistics, and Data Analytics. Machine Learning.",
+      "ieee": "Unknown Author, \"Machine Learning, Statistics, and Data Analytics,\" Machine Learning, 2021.",
+      "mla": "Unknown Author. \"Machine Learning, Statistics, and Data Analytics.\" Machine Learning, 2021.",
+      "custom_format": "\\bibitem{Unknown21} Unknown Author, Machine learning, statistics, and data analytics, Machine Learning \\textbf{1}(1) (2021) 1--10. https://doi.org/10.7551/mitpress/13811.003.0005",
+      "paper_url": "https://doi.org/10.7551/mitpress/13811.003.0005",
+      "journal_name": "Machine Learning",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_7551_mitpress_13811_003_0004",
+      "bibtex": "@article{10_7551_mitpress_13811_003_0004,\n  title={Why We Are Interested in Machine Learning},\n  author={},\n  journal={Machine Learning},\n  year={2021},\n  doi={10.7551/mitpress/13811.003.0004},\n  url={https://doi.org/10.7551/mitpress/13811.003.0004}\n}",
+      "apa": "Unknown Author (2021). Why We Are Interested in Machine Learning. Machine Learning.",
+      "ieee": "Unknown Author, \"Why We Are Interested in Machine Learning,\" Machine Learning, 2021.",
+      "mla": "Unknown Author. \"Why We Are Interested in Machine Learning.\" Machine Learning, 2021.",
+      "custom_format": "\\bibitem{Unknown21} Unknown Author, Why we are interested in machine learning, Machine Learning \\textbf{1}(1) (2021) 1--10. https://doi.org/10.7551/mitpress/13811.003.0004",
+      "paper_url": "https://doi.org/10.7551/mitpress/13811.003.0004",
+      "journal_name": "Machine Learning",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1016_j_mlwa_2021_100186",
+      "bibtex": "@article{10_1016_j_mlwa_2021_100186,\n  title={Application of machine learning algorithms for prediction of sinter machine productivity},\n  author={Arpit Mallick and Subhra Dhara and Sushant Rath},\n  journal={Machine Learning with Applications},\n  year={2021},\n  doi={10.1016/j.mlwa.2021.100186},\n  url={https://doi.org/10.1016/j.mlwa.2021.100186}\n}",
+      "apa": "Mallick, A., Dhara, S., & Rath, S. (2021). Application of machine learning algorithms for prediction of sinter machine productivity. Machine Learning with Applications.",
+      "ieee": "Arpit Mallick, Subhra Dhara, Sushant Rath, \"Application of machine learning algorithms for prediction of sinter machine productivity,\" Machine Learning with Applications, 2021.",
+      "mla": "Mallick, A., et al.. \"Application of machine learning algorithms for prediction of sinter machine productivity.\" Machine Learning with Applications, 2021.",
+      "custom_format": "\\bibitem{MaDhRa21} A. Mallick, S. Dhara, S. Rath, Application of machine learning algorithms for prediction of sinter machine productivity, Machine Learning with Applications \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1016/j.mlwa.2021.100186",
+      "paper_url": "https://doi.org/10.1016/j.mlwa.2021.100186",
+      "journal_name": "Machine Learning with Applications",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2306_06955",
+      "bibtex": "@article{arxiv_2306_06955,\n  title={A Brief Review of Hypernetworks in Deep Learning},\n  author={Vinod Kumar Chauhan and Jiandong Zhou and Ping Lu and Soheila Molaei and David A. Clifton},\n  journal={arXiv preprint arXiv:2306.06955},\n  year={2023},\n  url={http://arxiv.org/abs/2306.06955v3}\n}",
+      "apa": "Chauhan, V. K., Zhou, J., Lu, P., Molaei, S., & Clifton, D. A. (2023). A Brief Review of Hypernetworks in Deep Learning. arXiv preprint arXiv:2306.06955.",
+      "ieee": "Vinod Kumar Chauhan et al., \"A Brief Review of Hypernetworks in Deep Learning,\" arXiv preprint arXiv:2306.06955, 2023.",
+      "mla": "Chauhan, V. K., et al.. \"A Brief Review of Hypernetworks in Deep Learning.\" arXiv, 2306.06955, 2023.",
+      "custom_format": "\\bibitem{ChZhLu23} V.K. Chauhan, J. Zhou, P. Lu, S. Molaei, D.A. Clifton, A brief review of hypernetworks in deep learning, arXiv \\textbf{1}(1) (2023) 1--10. http://arxiv.org/abs/2306.06955v3",
+      "paper_url": "http://arxiv.org/abs/2306.06955v3",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1017_cbo9780511975509_007",
+      "bibtex": "@article{10_1017_cbo9780511975509_007,\n  title={Machine learning},\n  author={},\n  journal={Phase Transitions in Machine Learning},\n  year={2011},\n  doi={10.1017/cbo9780511975509.007},\n  url={https://doi.org/10.1017/cbo9780511975509.007}\n}",
+      "apa": "Unknown Author (2011). Machine learning. Phase Transitions in Machine Learning.",
+      "ieee": "Unknown Author, \"Machine learning,\" Phase Transitions in Machine Learning, 2011.",
+      "mla": "Unknown Author. \"Machine learning.\" Phase Transitions in Machine Learning, 2011.",
+      "custom_format": "\\bibitem{Unknown11} Unknown Author, Machine learning, Phase Transitions in Machine Learning \\textbf{1}(1) (2011) 1--10. https://doi.org/10.1017/cbo9780511975509.007",
+      "paper_url": "https://doi.org/10.1017/cbo9780511975509.007",
+      "journal_name": "Phase Transitions in Machine Learning",
+      "year": 2011
+    },
+    {
+      "paper_id": "10_1023_a_1022661713654",
+      "bibtex": "@article{10_1023_a_1022661713654,\n  title={Machine Learning and Qualitative Reasoning},\n  author={Ivan Bratko},\n  journal={Machine Learning},\n  year={1994},\n  doi={10.1023/a:1022661713654},\n  url={https://doi.org/10.1023/a:1022661713654}\n}",
+      "apa": "Bratko, I. (1994). Machine Learning and Qualitative Reasoning. Machine Learning.",
+      "ieee": "Ivan Bratko, \"Machine Learning and Qualitative Reasoning,\" Machine Learning, 1994.",
+      "mla": "Bratko, I.. \"Machine Learning and Qualitative Reasoning.\" Machine Learning, 1994.",
+      "custom_format": "\\bibitem{Br94} I. Bratko, Machine learning and qualitative reasoning, Machine Learning \\textbf{1}(1) (1994) 1--10. https://doi.org/10.1023/a:1022661713654",
+      "paper_url": "https://doi.org/10.1023/a:1022661713654",
+      "journal_name": "Machine Learning",
+      "year": 1994
+    },
+    {
+      "paper_id": "10_1023_a_1022854429410",
+      "bibtex": "@article{10_1023_a_1022854429410,\n  title={Editorial: Human and Machine Learning},\n  author={Pat Langley},\n  journal={Machine Learning},\n  year={1986},\n  doi={10.1023/a:1022854429410},\n  url={https://doi.org/10.1023/a:1022854429410}\n}",
+      "apa": "Langley, P. (1986). Editorial: Human and Machine Learning. Machine Learning.",
+      "ieee": "Pat Langley, \"Editorial: Human and Machine Learning,\" Machine Learning, 1986.",
+      "mla": "Langley, P.. \"Editorial: Human and Machine Learning.\" Machine Learning, 1986.",
+      "custom_format": "\\bibitem{La86} P. Langley, Editorial: human and machine learning, Machine Learning \\textbf{1}(1) (1986) 1--10. https://doi.org/10.1023/a:1022854429410",
+      "paper_url": "https://doi.org/10.1023/a:1022854429410",
+      "journal_name": "Machine Learning",
+      "year": 1986
+    },
+    {
+      "paper_id": "10_1023_a_1022896407371",
+      "bibtex": "@article{10_1023_a_1022896407371,\n  title={Machine Learning and Concept Formation},\n  author={Pat Langley},\n  journal={Machine Learning},\n  year={1987},\n  doi={10.1023/a:1022896407371},\n  url={https://doi.org/10.1023/a:1022896407371}\n}",
+      "apa": "Langley, P. (1987). Machine Learning and Concept Formation. Machine Learning.",
+      "ieee": "Pat Langley, \"Machine Learning and Concept Formation,\" Machine Learning, 1987.",
+      "mla": "Langley, P.. \"Machine Learning and Concept Formation.\" Machine Learning, 1987.",
+      "custom_format": "\\bibitem{La87} P. Langley, Machine learning and concept formation, Machine Learning \\textbf{1}(1) (1987) 1--10. https://doi.org/10.1023/a:1022896407371",
+      "paper_url": "https://doi.org/10.1023/a:1022896407371",
+      "journal_name": "Machine Learning",
+      "year": 1987
+    },
+    {
+      "paper_id": "10_1023_a_1022603230145",
+      "bibtex": "@article{10_1023_a_1022603230145,\n  title={Research Papers in Machine Learning},\n  author={Pat Langley},\n  journal={Machine Learning},\n  year={1987},\n  doi={10.1023/a:1022603230145},\n  url={https://doi.org/10.1023/a:1022603230145}\n}",
+      "apa": "Langley, P. (1987). Research Papers in Machine Learning. Machine Learning.",
+      "ieee": "Pat Langley, \"Research Papers in Machine Learning,\" Machine Learning, 1987.",
+      "mla": "Langley, P.. \"Research Papers in Machine Learning.\" Machine Learning, 1987.",
+      "custom_format": "\\bibitem{La87} P. Langley, Research papers in machine learning, Machine Learning \\textbf{1}(1) (1987) 1--10. https://doi.org/10.1023/a:1022603230145",
+      "paper_url": "https://doi.org/10.1023/a:1022603230145",
+      "journal_name": "Machine Learning",
+      "year": 1987
+    },
+    {
+      "paper_id": "10_1023_a_1022665512030",
+      "bibtex": "@article{10_1023_a_1022665512030,\n  title={Machine Learning: A Maturing Field},\n  author={Jaime Carbonell},\n  journal={Machine Learning},\n  year={1992},\n  doi={10.1023/a:1022665512030},\n  url={https://doi.org/10.1023/a:1022665512030}\n}",
+      "apa": "Carbonell, J. (1992). Machine Learning: A Maturing Field. Machine Learning.",
+      "ieee": "Jaime Carbonell, \"Machine Learning: A Maturing Field,\" Machine Learning, 1992.",
+      "mla": "Carbonell, J.. \"Machine Learning: A Maturing Field.\" Machine Learning, 1992.",
+      "custom_format": "\\bibitem{Ca92} J. Carbonell, Machine learning: a maturing field, Machine Learning \\textbf{1}(1) (1992) 1--10. https://doi.org/10.1023/a:1022665512030",
+      "paper_url": "https://doi.org/10.1023/a:1022665512030",
+      "journal_name": "Machine Learning",
+      "year": 1992
+    },
+    {
+      "paper_id": "10_1023_a_1022808826027",
+      "bibtex": "@article{10_1023_a_1022808826027,\n  title={Machine Learning and Grammar Induction},\n  author={Pat Langely},\n  journal={Machine Learning},\n  year={1987},\n  doi={10.1023/a:1022808826027},\n  url={https://doi.org/10.1023/a:1022808826027}\n}",
+      "apa": "Langely, P. (1987). Machine Learning and Grammar Induction. Machine Learning.",
+      "ieee": "Pat Langely, \"Machine Learning and Grammar Induction,\" Machine Learning, 1987.",
+      "mla": "Langely, P.. \"Machine Learning and Grammar Induction.\" Machine Learning, 1987.",
+      "custom_format": "\\bibitem{La87} P. Langely, Machine learning and grammar induction, Machine Learning \\textbf{1}(1) (1987) 1--10. https://doi.org/10.1023/a:1022808826027",
+      "paper_url": "https://doi.org/10.1023/a:1022808826027",
+      "journal_name": "Machine Learning",
+      "year": 1987
+    },
+    {
+      "paper_id": "10_1017_cbo9780511804779_018",
+      "bibtex": "@article{10_1017_cbo9780511804779_018,\n  title={Machine learning concepts},\n  author={},\n  journal={Bayesian Reasoning and Machine Learning},\n  year={2012},\n  doi={10.1017/cbo9780511804779.018},\n  url={https://doi.org/10.1017/cbo9780511804779.018}\n}",
+      "apa": "Unknown Author (2012). Machine learning concepts. Bayesian Reasoning and Machine Learning.",
+      "ieee": "Unknown Author, \"Machine learning concepts,\" Bayesian Reasoning and Machine Learning, 2012.",
+      "mla": "Unknown Author. \"Machine learning concepts.\" Bayesian Reasoning and Machine Learning, 2012.",
+      "custom_format": "\\bibitem{Unknown12} Unknown Author, Machine learning concepts, Bayesian Reasoning and Machine Learning \\textbf{1}(1) (2012) 1--10. https://doi.org/10.1017/cbo9780511804779.018",
+      "paper_url": "https://doi.org/10.1017/cbo9780511804779.018",
+      "journal_name": "Bayesian Reasoning and Machine Learning",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_1023_a_1022840627593",
+      "bibtex": "@article{10_1023_a_1022840627593,\n  title={Editorial: The Terminology of Machine Learning},\n  author={Pat Langley},\n  journal={Machine Learning},\n  year={1986},\n  doi={10.1023/a:1022840627593},\n  url={https://doi.org/10.1023/a:1022840627593}\n}",
+      "apa": "Langley, P. (1986). Editorial: The Terminology of Machine Learning. Machine Learning.",
+      "ieee": "Pat Langley, \"Editorial: The Terminology of Machine Learning,\" Machine Learning, 1986.",
+      "mla": "Langley, P.. \"Editorial: The Terminology of Machine Learning.\" Machine Learning, 1986.",
+      "custom_format": "\\bibitem{La86} P. Langley, Editorial: the terminology of machine learning, Machine Learning \\textbf{1}(1) (1986) 1--10. https://doi.org/10.1023/a:1022840627593",
+      "paper_url": "https://doi.org/10.1023/a:1022840627593",
+      "journal_name": "Machine Learning",
+      "year": 1986
+    },
+    {
+      "paper_id": "10_1023_a_1022623814640",
+      "bibtex": "@article{10_1023_a_1022623814640,\n  title={Machine Learning as an Experimental Science},\n  author={Pat Langley},\n  journal={Machine Learning},\n  year={1988},\n  doi={10.1023/a:1022623814640},\n  url={https://doi.org/10.1023/a:1022623814640}\n}",
+      "apa": "Langley, P. (1988). Machine Learning as an Experimental Science. Machine Learning.",
+      "ieee": "Pat Langley, \"Machine Learning as an Experimental Science,\" Machine Learning, 1988.",
+      "mla": "Langley, P.. \"Machine Learning as an Experimental Science.\" Machine Learning, 1988.",
+      "custom_format": "\\bibitem{La88} P. Langley, Machine learning as an experimental science, Machine Learning \\textbf{1}(1) (1988) 1--10. https://doi.org/10.1023/a:1022623814640",
+      "paper_url": "https://doi.org/10.1023/a:1022623814640",
+      "journal_name": "Machine Learning",
+      "year": 1988
+    },
+    {
+      "paper_id": "10_1023_a_1022647305786",
+      "bibtex": "@article{10_1023_a_1022647305786,\n  title={Editorial: Advice to Machine Learning Authors},\n  author={Pat Langley},\n  journal={Machine Learning},\n  year={1990},\n  doi={10.1023/a:1022647305786},\n  url={https://doi.org/10.1023/a:1022647305786}\n}",
+      "apa": "Langley, P. (1990). Editorial: Advice to Machine Learning Authors. Machine Learning.",
+      "ieee": "Pat Langley, \"Editorial: Advice to Machine Learning Authors,\" Machine Learning, 1990.",
+      "mla": "Langley, P.. \"Editorial: Advice to Machine Learning Authors.\" Machine Learning, 1990.",
+      "custom_format": "\\bibitem{La90} P. Langley, Editorial: advice to machine learning authors, Machine Learning \\textbf{1}(1) (1990) 1--10. https://doi.org/10.1023/a:1022647305786",
+      "paper_url": "https://doi.org/10.1023/a:1022647305786",
+      "journal_name": "Machine Learning",
+      "year": 1990
+    },
+    {
+      "paper_id": "10_1016_b978_0_08_051054_5_50021_2",
+      "bibtex": "@article{10_1016_b978_0_08_051054_5_50021_2,\n  title={COMPREHENSIVE BIBLIOGRAPHY OF MACHINE LEARNING},\n  author={},\n  journal={Machine Learning},\n  year={1983},\n  doi={10.1016/b978-0-08-051054-5.50021-2},\n  url={https://doi.org/10.1016/b978-0-08-051054-5.50021-2}\n}",
+      "apa": "Unknown Author (1983). COMPREHENSIVE BIBLIOGRAPHY OF MACHINE LEARNING. Machine Learning.",
+      "ieee": "Unknown Author, \"COMPREHENSIVE BIBLIOGRAPHY OF MACHINE LEARNING,\" Machine Learning, 1983.",
+      "mla": "Unknown Author. \"COMPREHENSIVE BIBLIOGRAPHY OF MACHINE LEARNING.\" Machine Learning, 1983.",
+      "custom_format": "\\bibitem{Unknown83} Unknown Author, Comprehensive bibliography of machine learning, Machine Learning \\textbf{1}(1) (1983) 1--10. https://doi.org/10.1016/b978-0-08-051054-5.50021-2",
+      "paper_url": "https://doi.org/10.1016/b978-0-08-051054-5.50021-2",
+      "journal_name": "Machine Learning",
+      "year": 1983
+    },
+    {
+      "paper_id": "10_1023_a_1022817027844",
+      "bibtex": "@article{10_1023_a_1022817027844,\n  title={New Theoretical Directions In Machine Learning},\n  author={David Haussler},\n  journal={Machine Learning},\n  year={1988},\n  doi={10.1023/a:1022817027844},\n  url={https://doi.org/10.1023/a:1022817027844}\n}",
+      "apa": "Haussler, D. (1988). New Theoretical Directions In Machine Learning. Machine Learning.",
+      "ieee": "David Haussler, \"New Theoretical Directions In Machine Learning,\" Machine Learning, 1988.",
+      "mla": "Haussler, D.. \"New Theoretical Directions In Machine Learning.\" Machine Learning, 1988.",
+      "custom_format": "\\bibitem{Ha88} D. Haussler, New theoretical directions in machine learning, Machine Learning \\textbf{1}(1) (1988) 1--10. https://doi.org/10.1023/a:1022817027844",
+      "paper_url": "https://doi.org/10.1023/a:1022817027844",
+      "journal_name": "Machine Learning",
+      "year": 1988
+    },
+    {
+      "paper_id": "10_5772_9374",
+      "bibtex": "@article{10_5772_9374,\n  title={Machine Learning Overview},\n  author={Taiwo Oladipupo},\n  journal={New Advances in Machine Learning},\n  year={2010},\n  doi={10.5772/9374},\n  url={https://doi.org/10.5772/9374}\n}",
+      "apa": "Oladipupo, T. (2010). Machine Learning Overview. New Advances in Machine Learning.",
+      "ieee": "Taiwo Oladipupo, \"Machine Learning Overview,\" New Advances in Machine Learning, 2010.",
+      "mla": "Oladipupo, T.. \"Machine Learning Overview.\" New Advances in Machine Learning, 2010.",
+      "custom_format": "\\bibitem{Ol10} T. Oladipupo, Machine learning overview, New Advances in Machine Learning \\textbf{1}(1) (2010) 1--10. https://doi.org/10.5772/9374",
+      "paper_url": "https://doi.org/10.5772/9374",
+      "journal_name": "New Advances in Machine Learning",
+      "year": 2010
+    },
+    {
+      "paper_id": "10_1017_cbo9780511804779_012",
+      "bibtex": "@article{10_1017_cbo9780511804779_012,\n  title={Statistics for machine learning},\n  author={},\n  journal={Bayesian Reasoning and Machine Learning},\n  year={2012},\n  doi={10.1017/cbo9780511804779.012},\n  url={https://doi.org/10.1017/cbo9780511804779.012}\n}",
+      "apa": "Unknown Author (2012). Statistics for machine learning. Bayesian Reasoning and Machine Learning.",
+      "ieee": "Unknown Author, \"Statistics for machine learning,\" Bayesian Reasoning and Machine Learning, 2012.",
+      "mla": "Unknown Author. \"Statistics for machine learning.\" Bayesian Reasoning and Machine Learning, 2012.",
+      "custom_format": "\\bibitem{Unknown12} Unknown Author, Statistics for machine learning, Bayesian Reasoning and Machine Learning \\textbf{1}(1) (2012) 1--10. https://doi.org/10.1017/cbo9780511804779.012",
+      "paper_url": "https://doi.org/10.1017/cbo9780511804779.012",
+      "journal_name": "Bayesian Reasoning and Machine Learning",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_1017_9781107338548_009",
+      "bibtex": "@article{10_1017_9781107338548_009,\n  title={Adversarial Machine Learning Challenges},\n  author={},\n  journal={Adversarial Machine Learning},\n  year={2019},\n  doi={10.1017/9781107338548.009},\n  url={https://doi.org/10.1017/9781107338548.009}\n}",
+      "apa": "Unknown Author (2019). Adversarial Machine Learning Challenges. Adversarial Machine Learning.",
+      "ieee": "Unknown Author, \"Adversarial Machine Learning Challenges,\" Adversarial Machine Learning, 2019.",
+      "mla": "Unknown Author. \"Adversarial Machine Learning Challenges.\" Adversarial Machine Learning, 2019.",
+      "custom_format": "\\bibitem{Unknown19} Unknown Author, Adversarial machine learning challenges, Adversarial Machine Learning \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1017/9781107338548.009",
+      "paper_url": "https://doi.org/10.1017/9781107338548.009",
+      "journal_name": "Adversarial Machine Learning",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_1023_a_1022689616458",
+      "bibtex": "@article{10_1023_a_1022689616458,\n  title={Toward a Unified Science of Machine Learning},\n  author={Pat Langley},\n  journal={Machine Learning},\n  year={1989},\n  doi={10.1023/a:1022689616458},\n  url={https://doi.org/10.1023/a:1022689616458}\n}",
+      "apa": "Langley, P. (1989). Toward a Unified Science of Machine Learning. Machine Learning.",
+      "ieee": "Pat Langley, \"Toward a Unified Science of Machine Learning,\" Machine Learning, 1989.",
+      "mla": "Langley, P.. \"Toward a Unified Science of Machine Learning.\" Machine Learning, 1989.",
+      "custom_format": "\\bibitem{La89} P. Langley, Toward a unified science of machine learning, Machine Learning \\textbf{1}(1) (1989) 1--10. https://doi.org/10.1023/a:1022689616458",
+      "paper_url": "https://doi.org/10.1023/a:1022689616458",
+      "journal_name": "Machine Learning",
+      "year": 1989
+    },
+    {
+      "paper_id": "10_1023_a_1022814715297",
+      "bibtex": "@article{10_1023_a_1022814715297,\n  title={Editorial: Machine Learning and Discovery},\n  author={Pat Langley and Ryszard S. Michalski},\n  journal={Machine Learning},\n  year={1986},\n  doi={10.1023/a:1022814715297},\n  url={https://doi.org/10.1023/a:1022814715297}\n}",
+      "apa": "Langley, P. & Michalski, R. S. (1986). Editorial: Machine Learning and Discovery. Machine Learning.",
+      "ieee": "Pat Langley, Ryszard S. Michalski, \"Editorial: Machine Learning and Discovery,\" Machine Learning, 1986.",
+      "mla": "Langley, P., and Ryszard S. Michalski. \"Editorial: Machine Learning and Discovery.\" Machine Learning, 1986.",
+      "custom_format": "\\bibitem{LaMi86} P. Langley, R.S. Michalski, Editorial: machine learning and discovery, Machine Learning \\textbf{1}(1) (1986) 1--10. https://doi.org/10.1023/a:1022814715297",
+      "paper_url": "https://doi.org/10.1023/a:1022814715297",
+      "journal_name": "Machine Learning",
+      "year": 1986
+    },
+    {
+      "paper_id": "10_1017_9781108552332_004",
+      "bibtex": "@article{10_1017_9781108552332_004,\n  title={Machine Learning Models},\n  author={},\n  journal={Machine Learning for Speaker Recognition},\n  year={2020},\n  doi={10.1017/9781108552332.004},\n  url={https://doi.org/10.1017/9781108552332.004}\n}",
+      "apa": "Unknown Author (2020). Machine Learning Models. Machine Learning for Speaker Recognition.",
+      "ieee": "Unknown Author, \"Machine Learning Models,\" Machine Learning for Speaker Recognition, 2020.",
+      "mla": "Unknown Author. \"Machine Learning Models.\" Machine Learning for Speaker Recognition, 2020.",
+      "custom_format": "\\bibitem{Unknown20} Unknown Author, Machine learning models, Machine Learning for Speaker Recognition \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1017/9781108552332.004",
+      "paper_url": "https://doi.org/10.1017/9781108552332.004",
+      "journal_name": "Machine Learning for Speaker Recognition",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1017_cbo9780511975509_009",
+      "bibtex": "@article{10_1017_cbo9780511975509_009,\n  title={Statistical physics and machine learning},\n  author={},\n  journal={Phase Transitions in Machine Learning},\n  year={2011},\n  doi={10.1017/cbo9780511975509.009},\n  url={https://doi.org/10.1017/cbo9780511975509.009}\n}",
+      "apa": "Unknown Author (2011). Statistical physics and machine learning. Phase Transitions in Machine Learning.",
+      "ieee": "Unknown Author, \"Statistical physics and machine learning,\" Phase Transitions in Machine Learning, 2011.",
+      "mla": "Unknown Author. \"Statistical physics and machine learning.\" Phase Transitions in Machine Learning, 2011.",
+      "custom_format": "\\bibitem{Unknown11} Unknown Author, Statistical physics and machine learning, Phase Transitions in Machine Learning \\textbf{1}(1) (2011) 1--10. https://doi.org/10.1017/cbo9780511975509.009",
+      "paper_url": "https://doi.org/10.1017/cbo9780511975509.009",
+      "journal_name": "Phase Transitions in Machine Learning",
+      "year": 2011
+    },
+    {
+      "paper_id": "10_1201_9781315371658_9",
+      "bibtex": "@article{10_1201_9781315371658_9,\n  title={Introduction to Machine Learning},\n  author={},\n  journal={Machine Learning},\n  year={2016},\n  doi={10.1201/9781315371658-9},\n  url={https://doi.org/10.1201/9781315371658-9}\n}",
+      "apa": "Unknown Author (2016). Introduction to Machine Learning. Machine Learning.",
+      "ieee": "Unknown Author, \"Introduction to Machine Learning,\" Machine Learning, 2016.",
+      "mla": "Unknown Author. \"Introduction to Machine Learning.\" Machine Learning, 2016.",
+      "custom_format": "\\bibitem{Unknown16} Unknown Author, Introduction to machine learning, Machine Learning \\textbf{1}(1) (2016) 1--10. https://doi.org/10.1201/9781315371658-9",
+      "paper_url": "https://doi.org/10.1201/9781315371658-9",
+      "journal_name": "Machine Learning",
+      "year": 2016
+    },
+    {
+      "paper_id": "10_1007_978_0_387_30164_8_452",
+      "bibtex": "@article{10_1007_978_0_387_30164_8_452,\n  title={Learning Curves in Machine Learning},\n  author={Claudia Perlich},\n  journal={Encyclopedia of Machine Learning},\n  year={2011},\n  doi={10.1007/978-0-387-30164-8_452},\n  url={https://doi.org/10.1007/978-0-387-30164-8_452}\n}",
+      "apa": "Perlich, C. (2011). Learning Curves in Machine Learning. Encyclopedia of Machine Learning.",
+      "ieee": "Claudia Perlich, \"Learning Curves in Machine Learning,\" Encyclopedia of Machine Learning, 2011.",
+      "mla": "Perlich, C.. \"Learning Curves in Machine Learning.\" Encyclopedia of Machine Learning, 2011.",
+      "custom_format": "\\bibitem{Pe11} C. Perlich, Learning curves in machine learning, Encyclopedia of Machine Learning \\textbf{1}(1) (2011) 1--10. https://doi.org/10.1007/978-0-387-30164-8_452",
+      "paper_url": "https://doi.org/10.1007/978-0-387-30164-8_452",
+      "journal_name": "Encyclopedia of Machine Learning",
+      "year": 2011
+    },
+    {
+      "paper_id": "10_1023_a_1007601113994",
+      "bibtex": "@article{10_1023_a_1007601113994,\n  title={Machine Learning for Information Extraction in Informal Domains},\n  author={Dayne Freitag},\n  journal={Machine Learning},\n  year={2000},\n  doi={10.1023/a:1007601113994},\n  url={https://doi.org/10.1023/a:1007601113994}\n}",
+      "apa": "Freitag, D. (2000). Machine Learning for Information Extraction in Informal Domains. Machine Learning.",
+      "ieee": "Dayne Freitag, \"Machine Learning for Information Extraction in Informal Domains,\" Machine Learning, 2000.",
+      "mla": "Freitag, D.. \"Machine Learning for Information Extraction in Informal Domains.\" Machine Learning, 2000.",
+      "custom_format": "\\bibitem{Fr00} D. Freitag, Machine learning for information extraction in informal domains, Machine Learning \\textbf{1}(1) (2000) 1--10. https://doi.org/10.1023/a:1007601113994",
+      "paper_url": "https://doi.org/10.1023/a:1007601113994",
+      "journal_name": "Machine Learning",
+      "year": 2000
+    },
+    {
+      "paper_id": "10_1016_b978_0_08_050930_3_50018_x",
+      "bibtex": "@article{10_1016_b978_0_08_050930_3_50018_x,\n  title={Machine Learning in Context},\n  author={},\n  journal={Introduction to Machine Learning},\n  year={1988},\n  doi={10.1016/b978-0-08-050930-3.50018-x},\n  url={https://doi.org/10.1016/b978-0-08-050930-3.50018-x}\n}",
+      "apa": "Unknown Author (1988). Machine Learning in Context. Introduction to Machine Learning.",
+      "ieee": "Unknown Author, \"Machine Learning in Context,\" Introduction to Machine Learning, 1988.",
+      "mla": "Unknown Author. \"Machine Learning in Context.\" Introduction to Machine Learning, 1988.",
+      "custom_format": "\\bibitem{Unknown88} Unknown Author, Machine learning in context, Introduction to Machine Learning \\textbf{1}(1) (1988) 1--10. https://doi.org/10.1016/b978-0-08-050930-3.50018-x",
+      "paper_url": "https://doi.org/10.1016/b978-0-08-050930-3.50018-x",
+      "journal_name": "Introduction to Machine Learning",
+      "year": 1988
+    },
+    {
+      "paper_id": "10_1023_a_1022602019183",
+      "bibtex": "@article{10_1023_a_1022602019183,\n  title={Genetic Algorithms and Machine Learning},\n  author={David E. Goldberg and John H. Holland},\n  journal={Machine Learning},\n  year={1988},\n  doi={10.1023/a:1022602019183},\n  url={https://doi.org/10.1023/a:1022602019183}\n}",
+      "apa": "Goldberg, D. E. & Holland, J. H. (1988). Genetic Algorithms and Machine Learning. Machine Learning.",
+      "ieee": "David E. Goldberg, John H. Holland, \"Genetic Algorithms and Machine Learning,\" Machine Learning, 1988.",
+      "mla": "Goldberg, D. E., and John H. Holland. \"Genetic Algorithms and Machine Learning.\" Machine Learning, 1988.",
+      "custom_format": "\\bibitem{GoHo88} D.E. Goldberg, J.H. Holland, Genetic algorithms and machine learning, Machine Learning \\textbf{1}(1) (1988) 1--10. https://doi.org/10.1023/a:1022602019183",
+      "paper_url": "https://doi.org/10.1023/a:1022602019183",
+      "journal_name": "Machine Learning",
+      "year": 1988
+    },
+    {
+      "paper_id": "arxiv_1609_05518",
+      "bibtex": "@article{arxiv_1609_05518,\n  title={Towards Deep Symbolic Reinforcement Learning},\n  author={Marta Garnelo and Kai Arulkumaran and Murray Shanahan},\n  journal={arXiv preprint arXiv:1609.05518},\n  year={2016},\n  url={http://arxiv.org/abs/1609.05518v2}\n}",
+      "apa": "Garnelo, M., Arulkumaran, K., & Shanahan, M. (2016). Towards Deep Symbolic Reinforcement Learning. arXiv preprint arXiv:1609.05518.",
+      "ieee": "Marta Garnelo, Kai Arulkumaran, Murray Shanahan, \"Towards Deep Symbolic Reinforcement Learning,\" arXiv preprint arXiv:1609.05518, 2016.",
+      "mla": "Garnelo, M., et al.. \"Towards Deep Symbolic Reinforcement Learning.\" arXiv, 1609.05518, 2016.",
+      "custom_format": "\\bibitem{GaArSh16} M. Garnelo, K. Arulkumaran, M. Shanahan, Towards deep symbolic reinforcement learning, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1609.05518v2",
+      "paper_url": "http://arxiv.org/abs/1609.05518v2",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_1710_10776",
+      "bibtex": "@article{arxiv_1710_10776,\n  title={Transfer Learning to Learn with Multitask Neural Model Search},\n  author={Catherine Wong and Andrea Gesmundo},\n  journal={arXiv preprint arXiv:1710.10776},\n  year={2017},\n  url={http://arxiv.org/abs/1710.10776v1}\n}",
+      "apa": "Wong, C. & Gesmundo, A. (2017). Transfer Learning to Learn with Multitask Neural Model Search. arXiv preprint arXiv:1710.10776.",
+      "ieee": "Catherine Wong, Andrea Gesmundo, \"Transfer Learning to Learn with Multitask Neural Model Search,\" arXiv preprint arXiv:1710.10776, 2017.",
+      "mla": "Wong, C., and Andrea Gesmundo. \"Transfer Learning to Learn with Multitask Neural Model Search.\" arXiv, 1710.10776, 2017.",
+      "custom_format": "\\bibitem{WoGe17} C. Wong, A. Gesmundo, Transfer learning to learn with multitask neural model search, arXiv \\textbf{1}(1) (2017) 1--10. http://arxiv.org/abs/1710.10776v1",
+      "paper_url": "http://arxiv.org/abs/1710.10776v1",
+      "journal_name": "arXiv",
+      "year": 2017
+    },
+    {
+      "paper_id": "arxiv_2002_11045",
+      "bibtex": "@article{arxiv_2002_11045,\n  title={Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks},\n  author={Changyang She and Rui Dong and Zhouyou Gu and Zhanwei Hou and Yonghui Li and Wibowo Hardjawana and Chenyang Yang and Lingyang Song and Branka Vucetic},\n  journal={arXiv preprint arXiv:2002.11045},\n  year={2020},\n  url={http://arxiv.org/abs/2002.11045v1}\n}",
+      "apa": "She, C., Dong, R., Gu, Z., Hou, Z., Li, Y., Hardjawana, W., Yang, C., Song, L., & Vucetic, B. (2020). Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks. arXiv preprint arXiv:2002.11045.",
+      "ieee": "Changyang She et al., \"Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks,\" arXiv preprint arXiv:2002.11045, 2020.",
+      "mla": "She, C., et al.. \"Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks.\" arXiv, 2002.11045, 2020.",
+      "custom_format": "\\bibitem{ShDoGu20} C. She, R. Dong, Z. Gu, Z. Hou, Y. Li, W. Hardjawana, C. Yang, L. Song, B. Vucetic, Deep learning for ultra-reliable and low-latency communications in 6g networks, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2002.11045v1",
+      "paper_url": "http://arxiv.org/abs/2002.11045v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_2108_04359",
+      "bibtex": "@article{arxiv_2108_04359,\n  title={Adaptable image quality assessment using meta-reinforcement learning of task amenability},\n  author={Shaheer U. Saeed and Yunguan Fu and Vasilis Stavrinides and Zachary M. C. Baum and Qianye Yang and Mirabela Rusu and Richard E. Fan and Geoffrey A. Sonn and J. Alison Noble and Dean C. Barratt and Yipeng Hu},\n  journal={arXiv preprint arXiv:2108.04359},\n  year={2021},\n  url={http://arxiv.org/abs/2108.04359v1}\n}",
+      "apa": "Saeed, S. U., Fu, Y., Stavrinides, V., Baum, Z. M. C., Yang, Q., Rusu, M., Fan, R. E., Sonn, G. A., Noble, J. A., Barratt, D. C., & Hu, Y. (2021). Adaptable image quality assessment using meta-reinforcement learning of task amenability. arXiv preprint arXiv:2108.04359.",
+      "ieee": "Shaheer U. Saeed et al., \"Adaptable image quality assessment using meta-reinforcement learning of task amenability,\" arXiv preprint arXiv:2108.04359, 2021.",
+      "mla": "Saeed, S. U., et al.. \"Adaptable image quality assessment using meta-reinforcement learning of task amenability.\" arXiv, 2108.04359, 2021.",
+      "custom_format": "\\bibitem{SaFuSt21} S.U. Saeed, Y. Fu, V. Stavrinides, Z.M.C. Baum, Q. Yang, M. Rusu, R.E. Fan, G.A. Sonn, J.A. Noble, D.C. Barratt, Y. Hu, Adaptable image quality assessment using meta-reinforcement learning of task amenability, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2108.04359v1",
+      "paper_url": "http://arxiv.org/abs/2108.04359v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2004_05439",
+      "bibtex": "@article{arxiv_2004_05439,\n  title={Meta-Learning in Neural Networks: A Survey},\n  author={Timothy Hospedales and Antreas Antoniou and Paul Micaelli and Amos Storkey},\n  journal={arXiv preprint arXiv:2004.05439},\n  year={2020},\n  url={http://arxiv.org/abs/2004.05439v2}\n}",
+      "apa": "Hospedales, T., Antoniou, A., Micaelli, P., & Storkey, A. (2020). Meta-Learning in Neural Networks: A Survey. arXiv preprint arXiv:2004.05439.",
+      "ieee": "Timothy Hospedales et al., \"Meta-Learning in Neural Networks: A Survey,\" arXiv preprint arXiv:2004.05439, 2020.",
+      "mla": "Hospedales, T., et al.. \"Meta-Learning in Neural Networks: A Survey.\" arXiv, 2004.05439, 2020.",
+      "custom_format": "\\bibitem{HoAnMi20} T. Hospedales, A. Antoniou, P. Micaelli, A. Storkey, Meta-learning in neural networks: a survey, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2004.05439v2",
+      "paper_url": "http://arxiv.org/abs/2004.05439v2",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1093_oso_9780198828044_003_0010",
+      "bibtex": "@article{10_1093_oso_9780198828044_003_0010,\n  title={Reinforcement learning},\n  author={Thomas P. Trappenberg},\n  journal={Fundamentals of Machine Learning},\n  year={2019},\n  doi={10.1093/oso/9780198828044.003.0010},\n  url={https://doi.org/10.1093/oso/9780198828044.003.0010}\n}",
+      "apa": "Trappenberg, T. P. (2019). Reinforcement learning. Fundamentals of Machine Learning.",
+      "ieee": "Thomas P. Trappenberg, \"Reinforcement learning,\" Fundamentals of Machine Learning, 2019.",
+      "mla": "Trappenberg, T. P.. \"Reinforcement learning.\" Fundamentals of Machine Learning, 2019.",
+      "custom_format": "\\bibitem{Tr19} T.P. Trappenberg, Reinforcement learning, Fundamentals of Machine Learning \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1093/oso/9780198828044.003.0010",
+      "paper_url": "https://doi.org/10.1093/oso/9780198828044.003.0010",
+      "journal_name": "Fundamentals of Machine Learning",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_2512_23558",
+      "bibtex": "@article{arxiv_2512_23558,\n  title={A NEAT Approach to Evolving Neural-Network-based Optimization of Chiral Photonic Metasurfaces: Application of a Neuro-Evolution Pipeline},\n  author={Davide Filippozzi and Arash Rahimi-Iman},\n  journal={arXiv preprint arXiv:2512.23558},\n  year={2025},\n  url={http://arxiv.org/abs/2512.23558v1}\n}",
+      "apa": "Filippozzi, D. & Rahimi-Iman, A. (2025). A NEAT Approach to Evolving Neural-Network-based Optimization of Chiral Photonic Metasurfaces: Application of a Neuro-Evolution Pipeline. arXiv preprint arXiv:2512.23558.",
+      "ieee": "Davide Filippozzi, Arash Rahimi-Iman, \"A NEAT Approach to Evolving Neural-Network-based Optimization of Chiral Photonic Metasurfaces: Application of a Neuro-Evolution Pipeline,\" arXiv preprint arXiv:2512.23558, 2025.",
+      "mla": "Filippozzi, D., and Arash Rahimi-Iman. \"A NEAT Approach to Evolving Neural-Network-based Optimization of Chiral Photonic Metasurfaces: Application of a Neuro-Evolution Pipeline.\" arXiv, 2512.23558, 2025.",
+      "custom_format": "\\bibitem{FiRa25} D. Filippozzi, A. Rahimi-Iman, A neat approach to evolving neural-network-based optimization of chiral photonic metasurfaces: application of a neuro-evolution pipeline, arXiv \\textbf{1}(1) (2025) 1--10. http://arxiv.org/abs/2512.23558v1",
+      "paper_url": "http://arxiv.org/abs/2512.23558v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582841_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582841_2023,\n  title={PubMed Paper 41582841},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582841/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582841. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582841,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582841.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582841, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582841/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582841/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582806_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582806_2023,\n  title={PubMed Paper 41582806},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582806/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582806. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582806,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582806.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582806, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582806/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582806/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582779_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582779_2023,\n  title={PubMed Paper 41582779},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582779/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582779. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582779,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582779.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582779, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582779/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582779/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582682_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582682_2023,\n  title={PubMed Paper 41582682},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582682/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582682. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582682,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582682.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582682, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582682/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582682/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582622_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582622_2023,\n  title={PubMed Paper 41582622},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582622/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582622. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582622,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582622.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582622, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582622/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582622/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582602_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582602_2023,\n  title={PubMed Paper 41582602},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582602/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582602. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582602,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582602.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582602, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582602/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582602/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582574_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582574_2023,\n  title={PubMed Paper 41582574},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582574/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582574. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582574,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582574.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582574, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582574/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582574/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582521_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582521_2023,\n  title={PubMed Paper 41582521},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582521/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582521. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582521,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582521.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582521, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582521/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582521/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582467_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582467_2023,\n  title={PubMed Paper 41582467},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582467/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582467. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582467,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582467.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582467, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582467/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582467/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41582390_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41582390_2023,\n  title={PubMed Paper 41582390},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41582390/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41582390. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41582390,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41582390.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41582390, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41582390/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41582390/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1002_9781119902881_fmatter",
+      "bibtex": "@article{10_1002_9781119902881_fmatter,\n  title={Front Matter},\n  author={},\n  journal={Optimization and Machine Learning},\n  year={2022},\n  doi={10.1002/9781119902881.fmatter},\n  url={https://doi.org/10.1002/9781119902881.fmatter}\n}",
+      "apa": "Unknown Author (2022). Front Matter. Optimization and Machine Learning.",
+      "ieee": "Unknown Author, \"Front Matter,\" Optimization and Machine Learning, 2022.",
+      "mla": "Unknown Author. \"Front Matter.\" Optimization and Machine Learning, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, Front matter, Optimization and Machine Learning \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1002/9781119902881.fmatter",
+      "paper_url": "https://doi.org/10.1002/9781119902881.fmatter",
+      "journal_name": "Optimization and Machine Learning",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1002_9781119902881_index",
+      "bibtex": "@article{10_1002_9781119902881_index,\n  title={Index},\n  author={},\n  journal={Optimization and Machine Learning},\n  year={2022},\n  doi={10.1002/9781119902881.index},\n  url={https://doi.org/10.1002/9781119902881.index}\n}",
+      "apa": "Unknown Author (2022). Index. Optimization and Machine Learning.",
+      "ieee": "Unknown Author, \"Index,\" Optimization and Machine Learning, 2022.",
+      "mla": "Unknown Author. \"Index.\" Optimization and Machine Learning, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, Index, Optimization and Machine Learning \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1002/9781119902881.index",
+      "paper_url": "https://doi.org/10.1002/9781119902881.index",
+      "journal_name": "Optimization and Machine Learning",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1002_9781119902881_contrib",
+      "bibtex": "@article{10_1002_9781119902881_contrib,\n  title={List of Authors},\n  author={},\n  journal={Optimization and Machine Learning},\n  year={2022},\n  doi={10.1002/9781119902881.contrib},\n  url={https://doi.org/10.1002/9781119902881.contrib}\n}",
+      "apa": "Unknown Author (2022). List of Authors. Optimization and Machine Learning.",
+      "ieee": "Unknown Author, \"List of Authors,\" Optimization and Machine Learning, 2022.",
+      "mla": "Unknown Author. \"List of Authors.\" Optimization and Machine Learning, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, List of authors, Optimization and Machine Learning \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1002/9781119902881.contrib",
+      "paper_url": "https://doi.org/10.1002/9781119902881.contrib",
+      "journal_name": "Optimization and Machine Learning",
+      "year": 2022
+    }
+  ]
+}

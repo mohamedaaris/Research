@@ -1,0 +1,2602 @@
+{
+  "topic": "edge metric basis",
+  "generated_at": "2026-01-27T21:01:55.034978",
+  "summary": {
+    "papers_analyzed": 91,
+    "claims_extracted": 8,
+    "contradictions_found": 0,
+    "research_gaps_identified": 12
+  },
+  "topic_map": {
+    "main_topic": "edge metric basis",
+    "subtopics": [],
+    "methods": [],
+    "keywords": [
+      "basis",
+      "edge",
+      "metric"
+    ],
+    "datasets": []
+  },
+  "papers": [
+    {
+      "title": "Computing the edge metric dimension of convex polytopes related graphs",
+      "authors": [
+        "M. Ahsan",
+        "Zohaib Zahid",
+        "Sohail Zafar",
+        "A. Rafiq",
+        "M. Sindhu",
+        "M. Umar"
+      ],
+      "year": 2020,
+      "venue": "Journal of Mathematics and Computer Science",
+      "relevance_score": 0.95,
+      "abstract": "Let G = ( V ( G ) , E ( G )) be a connected graph and d ( f , y ) denotes the distance between edge f and vertex y , which is de\ufb01ned as d ( f , y ) = min { d ( p , y ) , d ( q , y ) } , where f = pq . A subset W E \u2286 V ( G ) is called an edge metric generator for graph G if for every two distinct edg...",
+      "doi": "10.22436/jmcs.022.02.08",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/4c96a6ca83f5a2ec2f078090051efa1c027d24b2"
+    },
+    {
+      "title": "Fault-tolerant edge metric dimension of certain families of graphs",
+      "authors": [
+        "Xiaogang Liu",
+        "M. Ahsan",
+        "Zohaib Zahid",
+        "Shuili Ren"
+      ],
+      "year": 2021,
+      "venue": "AIMS Mathematics",
+      "relevance_score": 0.77,
+      "abstract": "Let $W_E=\\{w_1,w_2, \\ldots,w_k\\}$ be an ordered set of vertices of graph $G$ and let $e$ be an edge of $G$. Suppose $d(x,e)$ denotes distance between edge $e$ and vertex $x$ of $G$, defined as $d(e,x) = d(x,e) = \\min \\{d(x,a),d(x,b)\\}$, where $e=ab$. A vertex $x$ distinguishes two edges $e_1$ and $e...",
+      "doi": "10.3934/math.2021069",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/86c2bdab5729d698c60db8e6a1a0f1202406179f"
+    },
+    {
+      "title": "Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks",
+      "authors": [
+        "Karnika Sharma",
+        "V. K. Bhat",
+        "S. Sharma"
+      ],
+      "year": 2022,
+      "venue": "IEEE Access",
+      "relevance_score": 0.7600000000000002,
+      "abstract": "A molecular (chemical) graph is a simple connected graph, where the vertices represent the compound\u2019s atoms and the edges represent bonds between the atoms, and the degree (valence) of every vertex (atom) is not more than four. In this paper, we determine the edge metric basis and edge metric dimens...",
+      "doi": "10.1109/ACCESS.2022.3158982",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/a2c8c9f3a5e8d036afcf0e5d93b17db83813d23b"
+    },
+    {
+      "title": "Edge metric basis and its fault tolerance over certain interconnection networks",
+      "authors": [
+        "S. Prabhu",
+        "T. J. Janany",
+        "M. Arulperumjothi",
+        "I.G. Yero"
+      ],
+      "year": 2025,
+      "venue": "J. Parallel Distributed Comput.",
+      "relevance_score": 0.74,
+      "abstract": "",
+      "doi": "10.1016/j.jpdc.2025.105141",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/09ae949612b61e8d0b0880faeb3ce87278bf3da9"
+    },
+    {
+      "title": "Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone",
+      "authors": [
+        "S. Sharma",
+        "H. Raza",
+        "V. K. Bhat"
+      ],
+      "year": 2021,
+      "venue": "Frontiers of Physics",
+      "relevance_score": 0.7300000000000001,
+      "abstract": "Minimum resolving sets (edge or vertex) have become an integral part of molecular topology and combinatorial chemistry. Resolving sets for a specific network provide crucial information required for the identification of each item contained in the network, uniquely. The distance between an edge e = ...",
+      "doi": "10.3389/fphy.2021.749166",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/25d60388ef4bccaea373ab6885eac941a5670fb2"
+    },
+    {
+      "title": "COVID antiviral drug structures and their edge metric dimension",
+      "authors": [
+        "Ibtisam Masmali",
+        "Muhammad Tanzeel Ali Kanwal",
+        "Muhammad Kamran Jamil",
+        "Ali Ahmad",
+        "M. Azeem",
+        "Ali N. A. Koam"
+      ],
+      "year": 2023,
+      "venue": "Molecular Physics",
+      "relevance_score": 0.6700000000000002,
+      "abstract": "The study of the characteristics and topologies of networks, including social, computer and biological networks, is known as graph theory. Numerous disciplines, such as epidemiology, which is the study of the transmission and management of infectious diseases like Covid-19, can benefit from the stud...",
+      "doi": "10.1080/00268976.2023.2259508",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/a8193db0c9b7c3076d717f9ab044e98854bd3b44"
+    },
+    {
+      "title": "Fault-tolerant metric dimension of two-fold heptagonal-nonagonal circular ladder",
+      "authors": [
+        "S. Sharma",
+        "V. K. Bhat"
+      ],
+      "year": 2021,
+      "venue": "Discret. Math. Algorithms Appl.",
+      "relevance_score": 0.67,
+      "abstract": "The problem of characterizing the classes of plane graphs with the bounded metric dimension, edge metric dimension, and fault-tolerant metric dimension is of great interest nowadays. In this paper, we study the metric dimension, the fault-tolerant metric dimension, and the edge metric dimension of a...",
+      "doi": "10.1142/S1793830921501329",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/d2340629e49db997e91f2cc855c30bfba85e8867"
+    },
+    {
+      "title": "Investigating Metric and Edge Metric Resolvability in Molecular Structures of Breast Cancer Therapeutics",
+      "authors": [
+        "E. Pandeeswari",
+        "J. Ravi Sankar"
+      ],
+      "year": 2025,
+      "venue": "Malaysian Journal of Mathematical Sciences",
+      "relevance_score": 0.6500000000000001,
+      "abstract": "<jats:p>Using graph theory as a conceptual framework, chemical graph theory investigates chemical structures and phenomena. Chemical graphs, with edges and vertices representing bonds and atoms, respectively, are used in chemical graph theory to represent molecular structures. The investigation of v...",
+      "doi": "10.47836/mjms.19.3.16",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.47836/mjms.19.3.16"
+    },
+    {
+      "title": "Edge metric dimension of some classes of circulant graphs",
+      "authors": [
+        "M. Ahsan",
+        "Zohaib Zahid",
+        "Sohail Zafar"
+      ],
+      "year": 2020,
+      "venue": "",
+      "relevance_score": 0.64,
+      "abstract": "Abstract Let G = (V (G), E(G)) be a connected graph and x, y \u2208 V (G), d(x, y) = min{ length of x \u2212 y path } and for e \u2208 E(G), d(x, e) = min{d(x, a), d(x, b)}, where e = ab. A vertex x distinguishes two edges e1 and e2, if d(e1, x) \u2260 d(e2, x). Let WE = {w1, w2, . . ., wk} be an ordered set in V (G) a...",
+      "doi": "10.2478/auom-2020-0032",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/cdcc0acd614a3f7756cd6d37a4546e8e0f05ca13"
+    },
+    {
+      "title": "On Symmetrical Convex Polytopes and their Edge Resolvability",
+      "authors": [
+        "S. Sharma"
+      ],
+      "year": 2024,
+      "venue": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+      "relevance_score": 0.63,
+      "abstract": "The \\textit{metric dimension} of a graph \u0393 = ( V , E ) , denoted by dim ( \u0393 ) , is the least cardinality of a set of vertices in \u0393 such that each vertex in \u0393 is determined uniquely by its vector of distances to the vertices of the chosen set. The topological distance between an edge \u03b5 = y z \u2208 E and ...",
+      "doi": "10.61091/jcmcc122-19",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/775a7e88e4a9916934406bb81a37aff83fe0805b"
+    },
+    {
+      "title": "The dominant edge metric dimension of graphs",
+      "authors": [
+        "M. Tavakoli",
+        "M. Korivand",
+        "A. Erfanian",
+        "Gholamreza Abrishami",
+        "E. Baskoro"
+      ],
+      "year": 2023,
+      "venue": "Electronic Journal of Graph Theory and Applications",
+      "relevance_score": 0.6200000000000001,
+      "abstract": "For an ordered subset S = { v 1 , . . . , v k } of vertices in a connected graph G and an edge e \u2032 of G , the edge metric S -representation of e \u2032 = ab is the vector r eG ( e \u2032 | S ) = ( d G ( e \u2032 , v 1 ) , . . . , d G ( e \u2032 , v k )) , where d G ( e \u2032 , v i ) = min { d G ( a, v i ) , d G ( b, v i ) ...",
+      "doi": "10.5614/ejgta.2023.11.1.16",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/12b9184b6000235ed015342cd8c4ac4e163f6e4f"
+    },
+    {
+      "title": "Edge metric dimensions of neighbourhood corona graph containing dominant vertices",
+      "authors": [
+        "N. M. Rosyidah",
+        "Rinurwati"
+      ],
+      "year": 2021,
+      "venue": "",
+      "relevance_score": 0.5900000000000001,
+      "abstract": "Connected graph G = (V(G), E(G)) with V(G) = {\u03c51, \u03c52,..\u03c5 n } and a graph H and an ordered set Z = {z 1,z 2,\u2026,z k} \u00a3 V( G) are given. The set Z, for which the representations of every two distinct edges e1, e2\u00a3E (G) with respect to Z are distinct, is called edge resolving set. The edge resolving set ...",
+      "doi": "10.1088/1742-6596/1821/1/012017",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/0d69dc8a67eb4d2951efce04984c497e529988d9"
+    },
+    {
+      "title": "Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene",
+      "authors": [
+        "Sunny Kumar Sharma",
+        "Vijay Kumar Bhat",
+        "Hassan Raza",
+        "Karnika Sharma"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.5700000000000001,
+      "abstract": "Let $\u0393=(V,E)$ be a simple connected graph. $d(\u03b1,\u03b5)=min\\{d(\u03b1, w), d(\u03b1, d\\}$ computes the distance between a vertex $\u03b1\\in V(\u0393)$ and an edge $\u03b5=wd\\in E(\u0393)$. A single vertex $\u03b1$ is said to recognize (resolve) two different edges $\u03b5_{1}$ and $\u03b5_{2}$ from $E(\u0393)$ if $d(\u03b1, \u03b5_{2})\\neq d(\u03b1, \u03b5_{1}\\}$. A subset...",
+      "doi": null,
+      "arxiv_id": "2107.14484",
+      "url": "http://arxiv.org/abs/2107.14484v1"
+    },
+    {
+      "title": "The Nonlocal Metric Dimension of Some Convex Polytopes",
+      "authors": [
+        "Jinxia Liang",
+        "Chenxu Yang",
+        "Guixian Liu",
+        "Hongluan Zhao"
+      ],
+      "year": 2025,
+      "venue": "International Journal of Foundations of Computer Science",
+      "relevance_score": 0.55,
+      "abstract": "Let [Formula: see text] be a graph with the vertex set [Formula: see text] and the edge set [Formula: see text]. A vertex subset [Formula: see text] is called a nonlocal resolving set if and only if [Formula: see text] for [Formula: see text] and any [Formula: see text]. The nonlocal metric basis of...",
+      "doi": "10.1142/s0129054125500285",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/79cef35c416eb9028b3a2ea09749a69654207960"
+    },
+    {
+      "title": "Neural basis of topographical disorientation in the primate posterior cingulate gyrus based on a labeled graph",
+      "authors": [
+        "Yang Yu",
+        "Tsuyoshi Setogawa",
+        "Jumpei Matsumoto",
+        "Hiroshi Nishimaru",
+        "H. Nishijo"
+      ],
+      "year": 2022,
+      "venue": "AIMS Neuroscience",
+      "relevance_score": 0.5,
+      "abstract": "Patients with lesions in the posterior cingulate gyrus (PCG), including the retrosplenial cortex (RSC) and posterior cingulate cortex (PCC), cannot navigate in familiar environments, nor draw routes on a 2D map of the familiar environments. This suggests that the topographical knowledge of the envir...",
+      "doi": "10.3934/neuroscience.2022021",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/ae153721b12c77fe94fdb1c01aad2188429d1f81"
+    },
+    {
+      "title": "Bi-Edge Metric Dimension of Graphs",
+      "authors": [
+        "Rinurwati Rinurwati",
+        "Fadillah Dian Maharani"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Computing Science and Applied Mathematics",
+      "relevance_score": 0.48000000000000004,
+      "abstract": "",
+      "doi": "10.12962/j24775401.v10i1.20267",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.12962/j24775401.v10i1.20267"
+    },
+    {
+      "title": "Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid",
+      "authors": [
+        "Jia-bao Liu",
+        "S. Sharma",
+        "V. K. Bhat",
+        "H. Raza"
+      ],
+      "year": 2021,
+      "venue": "Polycyclic aromatic compounds (Print)",
+      "relevance_score": 0.46,
+      "abstract": "Abstract Let be a simple connected graph. A vertex a is said to recognize (resolve) two different elements b 1 and b 2 from if A subset of distinct ordered vertices is said to be a mixed metric generator for \u0393 if each pair of distinct elements from are recognized by some element of UM . The mixed me...",
+      "doi": "10.1080/10406638.2021.2019066",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/0817cedef534d9cf73a0077dd5849f087f334485"
+    },
+    {
+      "title": "Computing a metric basis of a bipartite distance-hereditary graph",
+      "authors": [
+        "Marina Moscarini"
+      ],
+      "year": 2022,
+      "venue": "Theoretical Computer Science",
+      "relevance_score": 0.44000000000000006,
+      "abstract": "",
+      "doi": "10.1016/j.tcs.2021.11.015",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.tcs.2021.11.015"
+    },
+    {
+      "title": "Adaptive Edge and Defect Detection as a basis for Automated Lumber Classification and Optimisation",
+      "authors": [
+        "Roman Louban"
+      ],
+      "year": 2009,
+      "venue": "Springer Series in Materials Science",
+      "relevance_score": 0.4,
+      "abstract": "",
+      "doi": "10.1007/978-3-642-00683-8_7",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/978-3-642-00683-8_7"
+    },
+    {
+      "title": "Kolmogorov\u2013Smirnov-Based Edge Centrality Measure for Metric Graphs",
+      "authors": [
+        "Christina Dur\u00f3n",
+        "Hannah Kravitz",
+        "Moysey Brio"
+      ],
+      "year": 2025,
+      "venue": "Dynamics",
+      "relevance_score": 0.4,
+      "abstract": "<jats:p>In this work, we introduce an edge centrality measure for the Helmholtz equation on metric graphs, a particular flow network, based on spectral edge energy density. This measure identifies influential edges whose removal significantly changes the energy flow on the network, as indicated by s...",
+      "doi": "10.3390/dynamics5020016",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3390/dynamics5020016"
+    },
+    {
+      "title": "ON METRIC DIMENSION OF EDGE-CORONA GRAPHS",
+      "authors": [
+        "Rinurwati",
+        "Herry Suprajitno",
+        "Slamin"
+      ],
+      "year": 2017,
+      "venue": "Far East Journal of Mathematical Sciences (FJMS)",
+      "relevance_score": 0.4,
+      "abstract": "",
+      "doi": "10.17654/ms102050965",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.17654/ms102050965"
+    },
+    {
+      "title": "Metric and edge-metric dimensions of bobble-neighbourhood-corona graphs",
+      "authors": [
+        "Rinurwati",
+        "R. Nabila"
+      ],
+      "year": 2021,
+      "venue": "",
+      "relevance_score": 0.39000000000000007,
+      "abstract": "Resolving set in a graphG =(V(G), E(G)) is an ordered subset W of V(G) such that every vertex in V(G) has distinct representation with respect to W. Resolving set of G of minimum cardinality is called basis of G.Cardinality of basis of G is called metric dimension of G, dim(G). An ordered set W is c...",
+      "doi": "10.1088/1742-6596/1836/1/012010",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/8dc3cf4ebf677a7cc33aa0d8f5acb5f149562627"
+    },
+    {
+      "title": "Mathematical analysis of the structure of one-heptagonal carbon nanocone in terms of its basis and dimension",
+      "authors": [
+        "Yousef Al-Qudah",
+        "Ali Jaradat",
+        "S. Sharma",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2024,
+      "venue": "Physica Scripta",
+      "relevance_score": 0.39,
+      "abstract": "For an undirected connected graph G = G(V, E) with vertex set V(G) and edge set E(G), a subset R of V is said to be a resolving in G, if each pair of vertices (say a and b; a \u2260 b) in G satisfy the relation d(a, k) \u2260 d(b, k), for at least one member k in R. The minimum set R with this resolving prope...",
+      "doi": "10.1088/1402-4896/ad3add",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/384bd123aed81a2bedf83f55d7f64527980cc399"
+    },
+    {
+      "title": "Constant Time Calculation of the Metric Dimension of the Join of Path Graphs",
+      "authors": [
+        "Chuanjun Zhang",
+        "Ghulam Haidar",
+        "Murad-ul-Islam Khan",
+        "Faisal Yousafzai",
+        "K. Hila",
+        "A. Khan"
+      ],
+      "year": 2023,
+      "venue": "Symmetry",
+      "relevance_score": 0.39,
+      "abstract": "The distance between two vertices of a simple connected graph G, denoted as d(u,v), is the length of the shortest path from u to v and is always symmetrical. An ordered subset W=w1,w2,w3,\u22ef,wk of V(G) is a resolving set for G, if for \u2200u,v\u2208V(G), there exists wi\u2208W \u220b d(u,wi)\u2260d(v,wi). A resolving set wit...",
+      "doi": "10.3390/sym15030708",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/8d48400f3faa28fbb61dccdd4cdd37f58faf1d94"
+    },
+    {
+      "title": "Explainable and Energy-Efficient Selective Ensemble Learning in Mobile Edge Computing Systems",
+      "authors": [
+        "Lei Feng",
+        "Chaorui Liao",
+        "Yingji Shi",
+        "F. Zhou"
+      ],
+      "year": 2025,
+      "venue": "IEEE Transactions on Network and Service Management",
+      "relevance_score": 0.38999999999999996,
+      "abstract": "Explainable ensemble learning combines explainable artificial intelligence (XAI) and ensemble learning (EL) to solve the closed-box problem of EL and provide a clear and transparent explanation of the decision-making process in the model. As a distributed machine learning architecture, EL deploys ba...",
+      "doi": "10.1109/TNSM.2025.3539830",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/3a56be071dd958ffec0a1450cde88ac3f58825a1"
+    },
+    {
+      "title": "The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2)",
+      "authors": [
+        "Junya Lv",
+        "Xiao-Yan Lv",
+        "R. Nasir",
+        "Zohaib Zahids"
+      ],
+      "year": 2021,
+      "venue": "IEEE Access",
+      "relevance_score": 0.38000000000000006,
+      "abstract": "Graph theory is widely used to analyze the structure models in chemistry, biology, computer science, operations research and sociology. Molecular bonds, species movement between regions, development of computer algorithms, shortest spanning trees in weighted graphs, aircraft scheduling and explorati...",
+      "doi": "10.1109/ACCESS.2021.3083182",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/c6be28559aa0f6ddbfbe7d08e9b754ee9efc98ee"
+    },
+    {
+      "title": "The local metric dimension of generalized broken fan graph and edge corona product of star graph and path graph",
+      "authors": [
+        "Silfiatul Khoiriah",
+        "Tri Atmojo Kusmayadi"
+      ],
+      "year": 2019,
+      "venue": "Journal of Physics: Conference Series",
+      "relevance_score": 0.38,
+      "abstract": "Let G be a connected nontrivial graph. The distance between two vertices u and v in G is the length of the shortest u-v path, denoted by d(u, v). For an ordered set W = {w1, w2, \u2026, wn} of n vertices on G, the representation of a vertex v with respect to W is ordered pair r(v|W ) = (d(v, w1), d(v, w2...",
+      "doi": "10.1088/1742-6596/1306/1/012015",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/e254b51aae76fc9a7d522ce16af5ca2610def123"
+    },
+    {
+      "title": "Metric basis and metric dimension of some infinite planar graphs",
+      "authors": [
+        "S. Vidya",
+        "Sunny Kumar Sharma",
+        "Prasanna Poojary",
+        "G. R. Vadiraja Bhatta"
+      ],
+      "year": 2024,
+      "venue": "Discrete Mathematics, Algorithms and Applications",
+      "relevance_score": 0.38,
+      "abstract": "<jats:p> Let [Formula: see text] be a nontrivial connected simple graph and [Formula: see text] be the distance between the vertices [Formula: see text] and [Formula: see text] in [Formula: see text]. The metric dimension of a graph [Formula: see text], denoted by dim([Formula: see text]), refers to...",
+      "doi": "10.1142/s1793830924500769",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s1793830924500769"
+    },
+    {
+      "title": "Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes",
+      "authors": [
+        "Waseem Abbas",
+        "Faryal Chudhary",
+        "Umar Farooq",
+        "Muhammad Azeem",
+        "Yilun Shang"
+      ],
+      "year": 2024,
+      "venue": "European Journal of Pure and Applied Mathematics",
+      "relevance_score": 0.38,
+      "abstract": "<jats:p>When there is a difference in the distance between two vertices in a simple linked graph, then a vertex $x$ resolves both $u$ and $v$. If at least one vertex in $S$ distinguishes each pair of distinct vertices in $G$, then a set $S$ of vertices in $G$ is referred to as a resolving set. $G$'s...",
+      "doi": "10.29020/nybg.ejpam.v17i3.5295",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.29020/nybg.ejpam.v17i3.5295"
+    },
+    {
+      "title": "Reaction-diffusion equations on metric graphs with edge noise",
+      "authors": [
+        "E. Sikolya"
+      ],
+      "year": 2024,
+      "venue": "Analysis Mathematica",
+      "relevance_score": 0.38,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>We investigate stochastic reaction-diffusion equations on finite metric graphs. On each edge in the graph a multiplicative cylindrical Gaussian noise driven reaction-diffusion equation is given.  The vertex conditions are the standard continuity and generaliz...",
+      "doi": "10.1007/s10476-024-00006-z",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s10476-024-00006-z"
+    },
+    {
+      "title": "Edge version of metric dimension for the families of grid graphs and generalized prism graphs",
+      "authors": [
+        "R. Nasir",
+        "Zohaib Zahid",
+        "Sohail Zafar"
+      ],
+      "year": 2020,
+      "venue": "Discret. Math. Algorithms Appl.",
+      "relevance_score": 0.37000000000000005,
+      "abstract": "The minimum edge version of metric basis is the smallest set [Formula: see text] of edges in a connected graph [Formula: see text] such that for every pair of edges [Formula: see text] [Formula: see text][Formula: see text] there exists an edge [Formula: see text] [Formula: see text][Formula: see te...",
+      "doi": "10.1142/s1793830920500378",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/2c6fbbb925f32463abd59b61c1bd0ee441d2cbd4"
+    },
+    {
+      "title": "Load balance -aware dynamic cloud-edge-end collaborative offloading strategy",
+      "authors": [
+        "Yueqi Fan"
+      ],
+      "year": 2024,
+      "venue": "PLoS ONE",
+      "relevance_score": 0.37,
+      "abstract": "Cloud-edge-end (CEE) computing is a hybrid computing paradigm that converges the principles of edge and cloud computing. In the design of CEE systems, a crucial challenge is to develop efficient offloading strategies to achieve the collaboration of edge and cloud offloading. Although CEE offloading ...",
+      "doi": "10.1371/journal.pone.0296897",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/dc6f0a92cd5613ec139e670066c82c9eeaa7cfb2"
+    },
+    {
+      "title": "On the strong metric dimension of crossed prism graph and edge corona of cycle with path graph",
+      "authors": [
+        "Astri Yunitasari",
+        "Tri Atmojo Kusmayadi"
+      ],
+      "year": 2019,
+      "venue": "Journal of Physics: Conference Series",
+      "relevance_score": 0.36000000000000004,
+      "abstract": "Let G be a connected graph with vertex set V(G) and edge set E(G). The interval I[u, v] between u and v is defined as the collection of all vertices that belong to some shortest u \u2212 v path. A vertex s \u2208 V(G) strongly resolves two vertices u and v if u belongs to a shortest v \u2212s path, denoted by u \u2208 ...",
+      "doi": "10.1088/1742-6596/1306/1/012018",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/c67656d6c56094aae463beaf967c67f39f011cad"
+    },
+    {
+      "title": "Multi-Source Peak Age of Information Optimization in Mobile Edge Computing Systems",
+      "authors": [
+        "Jianhang Zhu",
+        "Jie Gong"
+      ],
+      "year": 2025,
+      "venue": "IEEE Transactions on Networking",
+      "relevance_score": 0.36,
+      "abstract": "Age of Information (AoI) is emerging as a novel metric for measuring information freshness in real-time monitoring systems. For computation-intensive status data, the information is not revealed until being processed. We consider a status update problem in a multi-source single-server system where t...",
+      "doi": "10.1109/TON.2025.3601104",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/82f5d11dd5b8b71525ab0c493dbf1f7969999f68"
+    },
+    {
+      "title": "Dominant Mixed Metric Dimension of Graph",
+      "authors": [
+        "R. Alfarisi",
+        "S. Husain",
+        "L. Susilowati",
+        "A. I. Kristiana"
+      ],
+      "year": 2024,
+      "venue": "Statistics, Optimization &amp; Information Computing",
+      "relevance_score": 0.36,
+      "abstract": "For $k-$ordered set $W=\\{s_1, s_2,\\dots, s_k \\}$ of vertex set $G$, the representation of a vertex or edge $a$ of $G$ with respect to $W$ is $r(a|W)=(d(a,s_1), d(a,s_2),\\dots, d(a,s_k))$ where $a$ is vertex so that $d(a,s_i)$ is a distance between of the vertex $v$ and the vertices in $W$ and $a=uv$...",
+      "doi": "10.19139/soic-2310-5070-1925",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/bba5b0885d9a66ff41ea3abaf4a5f4a563f43356"
+    },
+    {
+      "title": "Linear Simple Cycle Reservoirs at the edge of stability perform Fourier decomposition of the input driving signals",
+      "authors": [
+        "Robert Simon Fong",
+        "Boyu Li",
+        "Peter Tino"
+      ],
+      "year": 2024,
+      "venue": "Chaos",
+      "relevance_score": 0.36,
+      "abstract": "This paper explores the representational structure of linear Simple Cycle Reservoirs (SCRs) operating at the edge of stability. We view SCR as providing in their state-space feature representations of the input-driving time series. By endowing the state space with the canonical dot-product, we \"reve...",
+      "doi": "10.48550/arXiv.2412.00295",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/ffeae8282b2a5cdf952712ac6705a22756e353ea"
+    },
+    {
+      "title": "Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene",
+      "authors": [
+        "Umar Farooq",
+        "Faryal Chudhary",
+        "Deeba Afzal",
+        "Waseem Abbas"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>The application of graph invariants serves as a valuable tool for analyzing the complex structures of molecular graphs, attracting researchers across various fields. Graph theory has played a pivotal role in explaining chemical structures and finding...",
+      "doi": "10.21203/rs.3.rs-3783303/v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-3783303/v1"
+    },
+    {
+      "title": "The local metric dimension of edge corona and corona product of cycle graph and path graph",
+      "authors": [
+        "Elis Dyah Wulancar",
+        "Tri Atmojo Kusmayadi"
+      ],
+      "year": 2019,
+      "venue": "",
+      "relevance_score": 0.35000000000000003,
+      "abstract": "Let G be a nontrivial connected graph with vertex set V(G). For an ordered set W = {w1, w2, \u2026, wn} of n distinct vertices in G, the representation of a vertex v \u2208 V(G) with respect to W is an ordered value of distance between v and every vertex of W . The set W is a local metric set of G if the repr...",
+      "doi": "10.1088/1742-6596/1306/1/012014",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/09bb0e3a7c56ab57716bf7a0bd49b5ca5bca5161"
+    },
+    {
+      "title": "On the metric dimension of generalized broken fan graph and edge corona product of path with star graph",
+      "authors": [
+        "Makarima Sabila",
+        "Tri Atmojo Kusmayadi"
+      ],
+      "year": 2019,
+      "venue": "Journal of Physics: Conference Series",
+      "relevance_score": 0.35000000000000003,
+      "abstract": "Let G be a connected nontrivial graph with vertex set V(G) and edge set E(G). The distance d(u, v) between two vertices u, v\u2208V (G) is shortest path from u to v. For an ordered set W = {w1, w2, \u2026, wk}, the representation r(v | W ) of v with respect to W is ordered pair r(v | W ) = (d(v, w1), d(v, w2)...",
+      "doi": "10.1088/1742-6596/1306/1/012017",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/2bf02a88650fd702b1baa8c6b8b68a99323a2506"
+    },
+    {
+      "title": "Metric based resolvability of cycle related graphs",
+      "authors": [
+        "Ali N. A. Koam"
+      ],
+      "year": 2024,
+      "venue": "AIMS Mathematics",
+      "relevance_score": 0.35000000000000003,
+      "abstract": "If a subset of vertices of a graph, designed in such a way that the remaining vertices have unique identification (usually called representations) with respect to the selected subset, then this subset is named as a metric basis (or resolving set). The minimum count of the elements of this subset is ...",
+      "doi": "10.3934/math.2024485",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/59d1f8d37b2c132e57f7f73b1517acce9d261ce9"
+    },
+    {
+      "title": "Deep Learning Model Compression Techniques Performance on Edge Devices",
+      "authors": [
+        "Rakandhiya D. Rachmanto",
+        "Ahmad N. L. Nabhaan",
+        "Arief Setyanto"
+      ],
+      "year": 2024,
+      "venue": "Matrik",
+      "relevance_score": 0.35000000000000003,
+      "abstract": "Artificial intelligence at the edge can help solve complex tasks faced by various sectors such as automotive, healthcare and surveillance. However, challenged by the lack of computational power from the edge devices, artificial intelligence models are forced to adapt. Many have developed and quantif...",
+      "doi": "10.30812/matrik.v23i3.3961",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/cfa4477b85bd9a48cad2181d6044745d187e698d"
+    },
+    {
+      "title": "Improved Edge Folding Algorithm for 3D Building Models Taking into Account the Visual Features",
+      "authors": [
+        "Haoyuan Bai",
+        "Tao Shen",
+        "Liang Huo",
+        "Xiaoyu Wang",
+        "Xinyu Liu"
+      ],
+      "year": 2023,
+      "venue": "Buildings",
+      "relevance_score": 0.35,
+      "abstract": "Simplifying 3D building models, effectively reducing model complexity and improving mapping efficiency, is an important part of 3D GIS. In order to address the problem that the simplification basis considered by most 3D building model data compression algorithms is mainly based on geometric features...",
+      "doi": "10.3390/buildings13112739",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/7edc9c1ab0da199c274c24b51cfd6dacd2172033"
+    },
+    {
+      "title": "Partition dimension and strong metric dimension of chain cycle",
+      "authors": [
+        "Talmeez U. R. Rehman",
+        "N. Mehreen"
+      ],
+      "year": 2020,
+      "venue": "",
+      "relevance_score": 0.35,
+      "abstract": "Let $G$ be a connected graph with vertex set $V(G)$ and edge set $E(G)$. For an ordered $k$-partition $\\Pi=\\{Q_1,\\ldots,Q_k\\}$ of $V(G)$, the representation of a vertex $v \\in V(G)$ with respect to $\\Pi$ is the $k$-vectors $r(v|\\Pi)=(d(v,Q_1),\\ldots,d(v,Q_k))$, where $d(v,Q_i)$ is the distance betwe...",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/d0ac6764614f6f9b3235e5859199576954fecd33"
+    },
+    {
+      "title": "The metric basis for assessing corporate sustainability",
+      "authors": [
+        "Sergei V. PETROV"
+      ],
+      "year": 2025,
+      "venue": "Economic Analysis: Theory and Practice",
+      "relevance_score": 0.35,
+      "abstract": "<jats:p>Subject. The article addresses corporate sustainability assessment.\nObjectives. The purpose is to propose a system of indicators of company's activity, enabling to identify the degree of its environmental, social, and economic sustainability.\nMethods. The study rests on modeling various metr...",
+      "doi": "10.24891/ea.24.1.172",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.24891/ea.24.1.172"
+    },
+    {
+      "title": "General results of local metric dimensions of edge-corona of graphs",
+      "authors": [
+        "Rinurwati",
+        "Slamin",
+        "H. Suprajitno"
+      ],
+      "year": 2016,
+      "venue": "",
+      "relevance_score": 0.34,
+      "abstract": "",
+      "doi": "10.12988/IMF.2016.67102",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/c53391a49a76596a59a9878d48f7fb36c6fe9022"
+    },
+    {
+      "title": "Edge dependent fault-tolerance in certain carbon-based crystal structures",
+      "authors": [
+        "Malkesh Singh",
+        "Sohan Lal",
+        "S. Sharma",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2024,
+      "venue": "Physica Scripta",
+      "relevance_score": 0.34,
+      "abstract": "The field of chemical graph theory encompasses interdisciplinary studies that utilize mathematical methods in exploring the attributes and arrangement of chemical compounds. Chemical graphs, in which atoms are vertices and bonds are edges, offer influential mathematical representations for portrayin...",
+      "doi": "10.1088/1402-4896/ad5fcb",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/5f3da012d63151c240b1c4488f99de89d8a11a0d"
+    },
+    {
+      "title": "Vertex-Edge Partition Resolvability for Certain Carbon Nanocones",
+      "authors": [
+        "S. Sharma",
+        "Malkesh Singh",
+        "V. K. Bhat"
+      ],
+      "year": 2023,
+      "venue": "Polycyclic aromatic compounds (Print)",
+      "relevance_score": 0.33999999999999997,
+      "abstract": "Abstract Chemical graph theory is an extension of mathematical chemistry that explores chemical phenomena and entities using the conceptual frameworks of graph theory. In particular, chemical graphs are used to represent molecular structures in chemical graph theory. Edges and vertices in this chemi...",
+      "doi": "10.1080/10406638.2023.2206142",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/751c99ccacc02fe077a7d9649a01b28bb18a8924"
+    },
+    {
+      "title": "Local Metric Dimension of the Line Graph of a Generalized Petersen Graph",
+      "authors": [
+        "Nur Fahri Tadjuddin"
+      ],
+      "year": 2024,
+      "venue": "Proximal",
+      "relevance_score": 0.33,
+      "abstract": "Let G be a graph that has a vertex set V(G) and an edge set E(G). Let W={w_1,w_2,\u2026w_k} be a subset of V(G). The representation of a vertex v\u2208V(G) with respect to W, denoted by r(v|W), is defined as k-vector (d(v,w_1 ),d(v,w_2 ), \u2026, d(v,w_k )). A set W is called a local resolving set of G if r(u\u2502W)\u2260r...",
+      "doi": "10.30605/proximal.v8i1.4707",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/1bf766aaede756fcc33ea0851c7e48ac609f8847"
+    },
+    {
+      "title": "On Vertex-Edge Resolvability for the Web Graph and Prism Related Graph",
+      "authors": [
+        "S. Sharma",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2023,
+      "venue": "Ars Comb.",
+      "relevance_score": 0.32,
+      "abstract": "Let E ( H ) and V ( H ) denote the edge set and the vertex set of the simple connected graph H , respectively. The mixed metric dimension of the graph H is the graph invariant, which is the mixture of two important graph parameters, the edge metric dimension and the metric dimension. In this article...",
+      "doi": "10.61091/ars157-10",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/c760d73148a8ebb5725019acbf7267ed9618a8a1"
+    },
+    {
+      "title": "Edge Wasserstein Distance Loss for Oriented Object Detection",
+      "authors": [
+        "Yuke Zhu",
+        "Yumeng Ruan",
+        "Zihua Xiong",
+        "Sheng Guo"
+      ],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "relevance_score": 0.32,
+      "abstract": "Regression loss design is an essential topic for oriented object detection. Due to the periodicity of the angle and the ambiguity of width and height definition, traditional L1-distance loss and its variants have been suffered from the metric discontinuity and the square-like problem. As a solution,...",
+      "doi": "10.48550/arXiv.2312.07048",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/96eedf259c85ee793648d362bcbeda017549267f"
+    },
+    {
+      "title": "Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid",
+      "authors": [
+        "Ali N. A. Koam",
+        "Ali Ahmad",
+        "Muhammad Ibrahim",
+        "Muhammad Azeem"
+      ],
+      "year": 2021,
+      "venue": "Mathematics",
+      "relevance_score": 0.32,
+      "abstract": "<jats:p>Geometric arrangements of hexagons into six sides of benzenoids are known as coronoid systems. They are organic chemical structures by definition. Hollow coronoids are divided into two types: primitive and catacondensed coronoids. Polycyclic conjugated hydrocarbon is another name for them. C...",
+      "doi": "10.3390/math9121405",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3390/math9121405"
+    },
+    {
+      "title": "Metric dimension of vertex shackle operation result graph on wheel and star graphs",
+      "authors": [
+        "Ilham Saifudin",
+        "R. Umilasari",
+        "Abdul Jalil"
+      ],
+      "year": 2022,
+      "venue": "Journal of Physics: Conference Series",
+      "relevance_score": 0.31,
+      "abstract": "The ordered set W = (w1, w2, w3,\u2026, wk } of vertex set on graph G and a vertex v in G the it form k-vector ordered r(v|W) = (d(v, w1 ), d(v, w2 ),\u2026, (v, wk )) is set of metric coordinate by v to W. W can be said as resolving set of G if every coordinate of W are not same. The number of resolving set ...",
+      "doi": "10.1088/1742-6596/2279/1/012010",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/b30251c52b7c28038fa5a29d5b550f2f7e7a803c"
+    },
+    {
+      "title": "The Alternative of Sensor Placement in Multi-Story Buildings through the Metric Dimension Approach: A Representation of Generalized Petersen Graphs",
+      "authors": [
+        "A. Asmiati",
+        "A. Junaidi",
+        "A. Aldino",
+        "Ari S. Munandar"
+      ],
+      "year": 2022,
+      "venue": "ComTech",
+      "relevance_score": 0.31,
+      "abstract": "In a public facility or private office where many people can get together, a fire detection device is a mandatory tool as an emergency alarm in the facility. However, the expense of the installation of the device is a troublesome matter. So, optimization is needed to minimize the number of these dev...",
+      "doi": "10.21512/comtech.v13i2.7268",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/450a8b671eee43b094c4136b60b4e44055d0aaa1"
+    },
+    {
+      "title": "Redefining the Diamond Cutting Edge: A Technique that Complements Nano-Metric Surface Generation",
+      "authors": [
+        "K. Ramesh",
+        "W. Lewis",
+        "S. Veldhuis",
+        "A. Yui"
+      ],
+      "year": 2005,
+      "venue": "",
+      "relevance_score": 0.31,
+      "abstract": "",
+      "doi": "10.1081/AMP-200060407",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/8e5ce7be829df8310f1f388e3e07adf743d97f10"
+    },
+    {
+      "title": "Investigating The Metric Basis And Metric Dimension Of Graphene",
+      "authors": [
+        "Wasim Abbas",
+        "Faryal Chaudhry",
+        "Deeba Afzal",
+        "Umar Farooq"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.31,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>This article explores the metric dimension of graphene, atwo-dimensional carbon allotrope, examining how a minimal set of carbon atoms can uniquely determine the distances between all atoms in thegraphene lattice. We investigate the implications of m...",
+      "doi": "10.21203/rs.3.rs-3800695/v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-3800695/v1"
+    },
+    {
+      "title": "A Physical Basis for the Symmetries in the Friedmann-Robertson-Walker Metric",
+      "authors": [
+        "Fulvio Melia"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.31,
+      "abstract": "<p>Modern cosmological theory is based on the Friedmann-Robertson-Walker (FRW) metric. Oftenwritten in terms of co-moving coordinates, this well-known solution to Einstein's equationsowes its elegant and highly practical formulation to the Cosmological principle and Weyl'spostulate, upon which it is...",
+      "doi": "10.31219/osf.io/m6rdh",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.31219/osf.io/m6rdh"
+    },
+    {
+      "title": "Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting",
+      "authors": [
+        "Anuj Kumar",
+        "H. Saravanan",
+        "Shivam Dwivedi",
+        "P. Arjunan"
+      ],
+      "year": 2025,
+      "venue": "Energy-Efficient Computing and Networking",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "Short-term load forecasting (STLF) is crucial for energy management and integrating renewables, but traditional models often fail to generalize across diverse buildings. While Time Series Foundation Models (TSFM) offer potential, most are transformer-based, making them computationally heavy and unsu...",
+      "doi": "10.1145/3679240.3734632",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/65af78beb9b61bbc8e83b01f332c30425c3d3c17"
+    },
+    {
+      "title": "Edge Metric and Edge Metric Topology on Graph",
+      "authors": [
+        "Roy John",
+        "Athira Chandran",
+        "G. Suresh Singh"
+      ],
+      "year": 2025,
+      "venue": "Mathematics and Statistics",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.13189/ms.2025.130302",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.13189/ms.2025.130302"
+    },
+    {
+      "title": "Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications",
+      "authors": [
+        "Sakander Hayat",
+        "Rishi Naeem",
+        "Hafiz Muhammad Afzal Siddiqui",
+        "Amina Riaz",
+        "Muhammad Imran",
+        "Melaku Berhe Belay",
+        "Zeineb Klai"
+      ],
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.1038/s41598-025-24939-z",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1038/s41598-025-24939-z"
+    },
+    {
+      "title": "Computing Metric Dimension and Metric Basis of 2D Lattice of Alpha-Boron Nanotubes",
+      "authors": [
+        "Zafar Hussain",
+        "Mobeen Munir",
+        "Maqbool Chaudhary",
+        "Shin Min Kang"
+      ],
+      "year": 2018,
+      "venue": "Symmetry",
+      "relevance_score": 0.3,
+      "abstract": "<jats:p>Concepts of resolving set and metric basis has enjoyed a lot of success because of multi-purpose applications both in computer and mathematical sciences. For a connected graph G(V,E) a subset W of V(G) is a resolving set for G if every two vertices of G have distinct representations with res...",
+      "doi": "10.3390/sym10080300",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3390/sym10080300"
+    },
+    {
+      "title": "Metric basis and metric dimension of 1-pentagonal carbon nanocone networks",
+      "authors": [
+        "Zafar Hussain",
+        "Mobeen Munir",
+        "Ashfaq Ahmad",
+        "Maqbool Chaudhary",
+        "Junaid Alam Khan",
+        "Imtiaz Ahmed"
+      ],
+      "year": 2020,
+      "venue": "Scientific Reports",
+      "relevance_score": 0.3,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Resolving set and metric basis has become an integral part in combinatorial chemistry and molecular topology. It has a lot of applications in computer, chemistry, pharmacy and mathematical disciplines. A subset S of the vertex set V of a connected graph G res...",
+      "doi": "10.1038/s41598-020-76516-1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1038/s41598-020-76516-1"
+    },
+    {
+      "title": "Computing edge version of metric and double metric dimensions of Kayak paddle graphs",
+      "authors": [
+        "Muhammad Ahmad",
+        "Naeem Ameen",
+        "Zohaib Zahid",
+        "Sohail Zafar"
+      ],
+      "year": 2020,
+      "venue": "Discrete Mathematics, Algorithms and Applications",
+      "relevance_score": 0.3,
+      "abstract": "<jats:p> Locating the source of diffusion in complex networks is an exciting but challenging task. It is critical for preventing and controlling the epidemic risks. Source localization has been studied under many feasible models. In this paper, we discuss the localization problem in Kayak paddle gra...",
+      "doi": "10.1142/s1793830920500706",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s1793830920500706"
+    },
+    {
+      "title": "METRIC SURVEY DOCUMENTATION AS A BASIS FOR UNDERSTANDING THE DEVELOPMENT OF RURAL ARCHITECTURE",
+      "authors": [
+        "Zden\u011bk Poloprutsk\u00fd"
+      ],
+      "year": 2018,
+      "venue": "Stavebn\u00ed obzor - Civil Engineering Journal",
+      "relevance_score": 0.3,
+      "abstract": "<jats:p>The paper deals with the use of metric survey documentation as a basis for Artistic and Historical Research of rural architecture. The Artistic and Historical Research focuses on a specific part, an element or a type of surveyed buildings in the selected time period. Its results can be furth...",
+      "doi": "10.14311/cej.2018.01.0005",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.14311/cej.2018.01.0005"
+    },
+    {
+      "title": "Computing Basis and Dimension of Chloroquine and Hydroxychloroquine by Using Chemical Graph Theory",
+      "authors": [
+        "Yogesh Singh",
+        "H. Raza",
+        "S. Sharma",
+        "V. K. Bhat"
+      ],
+      "year": 2022,
+      "venue": "Polycyclic aromatic compounds (Print)",
+      "relevance_score": 0.28,
+      "abstract": "Abstract Discovering a vaccine with reliable and effective treatment for the new corona virus disease 2019 (COVID-19) is indeed a long way off, and there seems to be a critical need to research additional viable medications that could save countless lives in the event of the COVID-19 pandemic. Scien...",
+      "doi": "10.1080/10406638.2022.2086269",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/7ae5be424b85590e86ba41737e1af388740e457b"
+    },
+    {
+      "title": "Strong Edge Metric Dimension of Graphs",
+      "authors": [
+        "Mojgan Afkhami"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.2139/ssrn.4769772",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.4769772"
+    },
+    {
+      "title": "\u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs",
+      "authors": [
+        "Zeinab Shahmiri",
+        "Darko Dimitrov",
+        "Mostafa Tavakoli"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.2139/ssrn.4953611",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.4953611"
+    },
+    {
+      "title": "No-reference sharpness metric based on local edge kurtosis",
+      "authors": [
+        "J. Caviedes",
+        "S. Gurbuz"
+      ],
+      "year": 2023,
+      "venue": "Proceedings. International Conference on Image Processing",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.1109/icip.2002.1038901",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/icip.2002.1038901"
+    },
+    {
+      "title": "Physics Basis, Optimization, and Control for Integrated 3D Edge Long-pulse Tokamak Scenarios",
+      "authors": [
+        "Zhihong Lin"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.2172/1995426",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2172/1995426"
+    },
+    {
+      "title": "METRIC DIMENSION VULNERABILITY IN TREES UNDER EDGE CONTRACTION",
+      "authors": [
+        "L. Saha",
+        "Rupen Lama",
+        "Kalishankar Tiwary"
+      ],
+      "year": 2022,
+      "venue": "",
+      "relevance_score": 0.24000000000000002,
+      "abstract": "",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/b04f4e1aab96fbecb99747a3af8c9fdb06e55a3e"
+    },
+    {
+      "title": "The effect of vertex and edge deletion on the edge metric dimension of graphs",
+      "authors": [
+        "Meiqin Wei",
+        "Jun Yue",
+        "Lily Chen"
+      ],
+      "year": 2022,
+      "venue": "Journal of Combinatorial Optimization",
+      "relevance_score": 0.24000000000000002,
+      "abstract": "",
+      "doi": "10.1007/s10878-021-00838-7",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s10878-021-00838-7"
+    },
+    {
+      "title": "On the edge metric dimension and Wiener index of the blow up of graphs",
+      "authors": [
+        "M. Afkhami"
+      ],
+      "year": 2021,
+      "venue": "",
+      "relevance_score": 0.22,
+      "abstract": "",
+      "doi": "10.1285/I15900932V40N2P99",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/5c03119dc8dd3d507e4ab9e543600d39c6c1441e"
+    },
+    {
+      "title": "Metric dimension and edge metric dimension of windmill graphs",
+      "authors": [
+        "Pradeep Singh",
+        "Sahil Sharma",
+        "Sunny Kumar Sharma",
+        "Vijay Kumar Bhat"
+      ],
+      "year": 2021,
+      "venue": "AIMS Mathematics",
+      "relevance_score": 0.22,
+      "abstract": "",
+      "doi": "10.3934/math.2021531",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3934/math.2021531"
+    },
+    {
+      "title": "A perceived sharpness metric based on the luminance slope and overshoot of the motion\u2010induced edge\u2010blur profile",
+      "authors": [
+        "Yuan Cui",
+        "Wen Song",
+        "Xiaohua Li"
+      ],
+      "year": 2012,
+      "venue": "",
+      "relevance_score": 0.21000000000000002,
+      "abstract": "",
+      "doi": "10.1002/jsid.132",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/e6179220929e24425b670bf9d5889afe3a0c5545"
+    },
+    {
+      "title": "Method and apparatus for deriving the edge composite ties metric between nodes of a telecommunications call graph",
+      "authors": [
+        "\u30d3\u30fc\uff0e \u30e1\u30f3\u30c7\u30a3\u30e9\u30c3\u30bf\uff0c\u30f4\u30a3\u30fc\u30ca",
+        "\u30c9\u30e9\u30f3\uff0c\u30c7\u30ec\u30af",
+        "\u30d5\u30a1\u30af\uff0c\u30b7\u30c8\u30e9",
+        "\u30a6\u30ba\u30ca\u30a4\u30aa\u30b0\u30ea\u30e5\u30fc\uff0c\u30d5\u30bb\u30a4\u30f3",
+        "\u30af\u30b7\u30e5\u30cb\u30fc\u30eb\uff0c\u30c0\u30f3"
+      ],
+      "year": 2012,
+      "venue": "",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/6cff34c555d1465ebeb9bbb25ad4269c01865925"
+    },
+    {
+      "title": "Basis Vector Fields and the Metric Tensor",
+      "authors": [],
+      "year": 2007,
+      "venue": "Einstein's General Theory of Relativity",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1007/978-0-387-69200-5_4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/978-0-387-69200-5_4"
+    },
+    {
+      "title": "Adaptable edge quality metric",
+      "authors": [
+        "Robin N. Strickland"
+      ],
+      "year": 1993,
+      "venue": "Optical Engineering",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1117/12.130263",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1117/12.130263"
+    },
+    {
+      "title": "New metric describes edge noise in bilevel images",
+      "authors": [
+        "Elisa Barney Smith"
+      ],
+      "year": 2009,
+      "venue": "SPIE Newsroom",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1117/2.1200910.1829",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1117/2.1200910.1829"
+    },
+    {
+      "title": "Improvised Canny Edge Detector &amp; Performance Metric of Edge Detector Using WPR (White Pixel Ratio)",
+      "authors": [
+        "Naveen Singh Dagar"
+      ],
+      "year": 2013,
+      "venue": "IOSR Journal of Engineering",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.9790/03752431",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.9790/03752431"
+    },
+    {
+      "title": "Edge\u2009quality\u2009metric\u2009for\u2009arbitrary\u2009two\u2010dimensional\u2009edges",
+      "authors": [
+        "Paul V. Khvorostov"
+      ],
+      "year": 1996,
+      "venue": "Optical Engineering",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1117/1.601060",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1117/1.601060"
+    },
+    {
+      "title": "The money-metric as a basis for calculation of social welfare functions",
+      "authors": [],
+      "year": 1983,
+      "venue": "Measuring Economic Welfare",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1017/cbo9780511571770.009",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9780511571770.009"
+    },
+    {
+      "title": "A NOVEL PERFORMANCE METRIC FOR GREY-SCALE EDGE DETECTION",
+      "authors": [],
+      "year": 2010,
+      "venue": "Proceedings of the International Conference on Computer Vision Theory and Applications",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.5220/0002821700910097",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5220/0002821700910097"
+    },
+    {
+      "title": "Metric tensor for multicomponent edge detection",
+      "authors": [
+        "Sylvain Rousseau",
+        "David Helbert",
+        "Philippe Carre",
+        "Jacques Blanc-Talon"
+      ],
+      "year": 2010,
+      "venue": "2010 IEEE International Conference on Image Processing",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1109/icip.2010.5653763",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/icip.2010.5653763"
+    },
+    {
+      "title": "An image quality assessment metric based on Non-shift Edge",
+      "authors": [
+        "Wufeng Xue",
+        "Xuanqin Mou"
+      ],
+      "year": 2011,
+      "venue": "2011 18th IEEE International Conference on Image Processing",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1109/icip.2011.6116379",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/icip.2011.6116379"
+    },
+    {
+      "title": "The Metric Bridge Partition Problem: Partitioning of a Metric Space into Two Subspaces Linked by an Edge in Any Optimal Realization",
+      "authors": [
+        "Alain Hertz",
+        "Sacha Varone"
+      ],
+      "year": 2007,
+      "venue": "Journal of Classification",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1007/s00357-007-0011-0",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s00357-007-0011-0"
+    },
+    {
+      "title": "PARA(NOIA)METRIC: ARCHITECTURE BEYOND THE EDGE OF RATIONALITY",
+      "authors": [
+        "Marwan Halabi"
+      ],
+      "year": 2020,
+      "venue": "Architecture and Planning Journal (APJ)",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.54729/2789-8547.1036",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.54729/2789-8547.1036"
+    },
+    {
+      "title": "Computing the dilation of edge-augmented graphs in metric spaces",
+      "authors": [
+        "Christian Wulff-Nilsen"
+      ],
+      "year": 2010,
+      "venue": "Computational Geometry",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1016/j.comgeo.2009.03.008",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.comgeo.2009.03.008"
+    },
+    {
+      "title": "A metric basis characterization of Euclidean space",
+      "authors": [
+        "Grattan Murphy"
+      ],
+      "year": 1975,
+      "venue": "Pacific Journal of Mathematics",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.2140/pjm.1975.60.159",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2140/pjm.1975.60.159"
+    },
+    {
+      "title": "Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension",
+      "authors": [
+        "Ali N. A. Koam",
+        "Ali Ahmad"
+      ],
+      "year": 2020,
+      "venue": "IEEE Access",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1109/access.2020.2990109",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/access.2020.2990109"
+    },
+    {
+      "title": "Edge resolvability of generalized honeycomb rhombic torus",
+      "authors": [
+        "Ayesha Andalib Kiran",
+        "Hani Shaker",
+        "S. Saputro"
+      ],
+      "year": 2024,
+      "venue": "Journal of Applied Mathematics and Computation",
+      "relevance_score": 0.19,
+      "abstract": "",
+      "doi": "10.1007/s12190-024-02231-z",
+      "arxiv_id": null,
+      "url": "https://www.semanticscholar.org/paper/feab18d3362a5b75c9bcfd4e63b2fb37e78bf36b"
+    },
+    {
+      "title": "6Chapter Energy Medicine: Cutting Edge Modalities",
+      "authors": [],
+      "year": 2009,
+      "venue": "The Scientific Basis of Integrative Medicine",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.1201/b10166-14",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1201/b10166-14"
+    },
+    {
+      "title": "",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "",
+      "doi": "10.1117/12.2304701.5783316325001",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1117/12.2304701.5783316325001"
+    }
+  ],
+  "claims": [
+    {
+      "statement": "Like, the first case of COVID-19 (Coronavirus) was reported in November of 2019; by the third week of April, 1,116,643 verified positive cases had been reported, with around 59,158 fatalities",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "around 59",
+        "a chosen subset from the vertex set",
+        "and management of infectious diseases like Covid-19",
+        "will be invariant due to the symmetry of the graphs"
+      ]
+    },
+    {
+      "statement": "The model is a generalization of the problem in \n[14] where polynomials with much more restrictive assumptions are considered and no first order differential operator is involved",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "possibly stochastic coefficients and negative leading term",
+        "sample paths in the space of continuous functions on the graph",
+        "equations on finite metric graphs",
+        "term on each edge is assumed to be an odd degree polynomial",
+        "each edge",
+        "the graph"
+      ]
+    },
+    {
+      "statement": "First, we propose a load evolution model to characterize the influences of offloading strategies on the system load dynamics and, on this basis, establish a latency model as a performance metric of different offloading strategies",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "various backgrounds and methodologies",
+        "of edge and cloud offloading",
+        "of edge resources",
+        "model to characterize the influences of offloading strategies on the system load dynamics and",
+        "this basis",
+        "the framework of genetic algorithm"
+      ]
+    },
+    {
+      "statement": "Age of Information (AoI) is emerging as a novel metric for measuring information freshness in real-time monitoring systems",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "both random transmission time and process time are considered",
+        "the single-source system",
+        "is not revealed until being processed",
+        "time and process time are considered",
+        "of source scheduling and status sampling on the basis of transmission-computation balancing",
+        "the scheduling result and its structure remains consistent with the single-source system",
+        "optimization algorithm to solve it"
+      ]
+    },
+    {
+      "statement": "We concluded that knowledge distillation is the best, with potential of up to 11",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "the added metric",
+        "potential of up to 11",
+        "moderate loss of accura-cy and compression time",
+        "approaches over the years to tackle this problem",
+        "can take a considerable amount of time",
+        "the efficiency of model compression on the edge",
+        "ways of model compression: post-training quantization",
+        "on the basis of accuracy",
+        "is the best",
+        "time"
+      ]
+    },
+    {
+      "statement": "Differing from exploited the Gaussian distribution to get analytical form of distance measure, we propose a novel oriented regression loss, Wasserstein Distance(EWD) loss, to alleviate the square-like problem",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "loss design is an essential topic for oriented object detection",
+        "based methods show significant advantages by representing oriented boxes as distributions",
+        "to get analytical form of distance measure",
+        "loss",
+        "whose probability density function is only nonzero over the edges",
+        "this basis",
+        "the edge representation of OBox",
+        "scenarios",
+        "multiple popular datasets and different detectors show the effectiveness of the proposed method"
+      ]
+    },
+    {
+      "statement": "We compare Mix-BEATS against state-of-the-art TSFMs such as Lag-Llama, Moirai, Chronos, and Tiny Time Mixers in zero-shot and fine-tuned settings, as well as generic models including Autoformer, N-BEATS, TS-Mixer, etc",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "domain-specific training and testing",
+        "pure MLP blocks for patchwise and spatial mixing",
+        "the NRMSE metric",
+        "Models (TSFM) offer potential",
+        "tasks using pure MLP blocks for patchwise and spatial mixing",
+        "hourly smart-meter data from 38",
+        "a held-out set of 1",
+        "and efficiency for real-world STLF tasks"
+      ]
+    },
+    {
+      "statement": "A NOVEL PERFORMANCE METRIC FOR GREY-SCALE EDGE DETECTION",
+      "confidence": 0.6,
+      "metrics": {},
+      "datasets": [],
+      "conditions": []
+    }
+  ],
+  "contradictions": [],
+  "research_gaps": [
+    {
+      "description": "Limited use of cross-validation in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper cross-validation?",
+        "What are the best practices for cross-validation in this domain?",
+        "Why is cross-validation not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of ablation study in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper ablation study?",
+        "What are the best practices for ablation study in this domain?",
+        "Why is ablation study not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of statistical significance in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper statistical significance?",
+        "What are the best practices for statistical significance in this domain?",
+        "Why is statistical significance not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of baseline comparison in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper baseline comparison?",
+        "What are the best practices for baseline comparison in this domain?",
+        "Why is baseline comparison not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of error analysis in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper error analysis?",
+        "What are the best practices for error analysis in this domain?",
+        "Why is error analysis not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of hyperparameter tuning in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper hyperparameter tuning?",
+        "What are the best practices for hyperparameter tuning in this domain?",
+        "Why is hyperparameter tuning not commonly used?"
+      ]
+    },
+    {
+      "description": "Lack of real-world evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in real-world evaluation?",
+        "What are the challenges of conducting real-world evaluation?",
+        "What metrics are appropriate for real-world evaluation?"
+      ]
+    },
+    {
+      "description": "Lack of user study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in user study?",
+        "What are the challenges of conducting user study?",
+        "What metrics are appropriate for user study?"
+      ]
+    },
+    {
+      "description": "Lack of clinical trial in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in clinical trial?",
+        "What are the challenges of conducting clinical trial?",
+        "What metrics are appropriate for clinical trial?"
+      ]
+    },
+    {
+      "description": "Lack of longitudinal study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in longitudinal study?",
+        "What are the challenges of conducting longitudinal study?",
+        "What metrics are appropriate for longitudinal study?"
+      ]
+    },
+    {
+      "description": "Lack of multi-domain evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in multi-domain evaluation?",
+        "What are the challenges of conducting multi-domain evaluation?",
+        "What metrics are appropriate for multi-domain evaluation?"
+      ]
+    },
+    {
+      "description": "Need for recent comparative studies",
+      "type": "temporal_gap",
+      "priority": 0.5,
+      "potential_questions": [
+        "How do recent methods compare to established ones?",
+        "What are the latest trends and developments?",
+        "Which recent approaches show the most promise?"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "paper_id": "10_22436_jmcs_022_02_08",
+      "bibtex": "@article{10_22436_jmcs_022_02_08,\n  title={Computing the edge metric dimension of convex polytopes related graphs},\n  author={M. Ahsan and Zohaib Zahid and Sohail Zafar and A. Rafiq and M. Sindhu and M. Umar},\n  journal={Journal of Mathematics and Computer Science},\n  year={2020},\n  doi={10.22436/jmcs.022.02.08},\n  url={https://www.semanticscholar.org/paper/4c96a6ca83f5a2ec2f078090051efa1c027d24b2}\n}",
+      "apa": "Ahsan, M., Zahid, Z., Zafar, S., Rafiq, A., Sindhu, M., & Umar, M. (2020). Computing the edge metric dimension of convex polytopes related graphs. Journal of Mathematics and Computer Science.",
+      "ieee": "M. Ahsan et al., \"Computing the edge metric dimension of convex polytopes related graphs,\" Journal of Mathematics and Computer Science, 2020.",
+      "mla": "Ahsan, M., et al.. \"Computing the edge metric dimension of convex polytopes related graphs.\" Journal of Mathematics and Computer Science, 2020.",
+      "custom_format": "\\bibitem{AhZaZa20} M. Ahsan, Z. Zahid, S. Zafar, A. Rafiq, M. Sindhu, M. Umar, Computing the edge metric dimension of convex polytopes related graphs, Journal of Mathematics and Computer Science \\textbf{1}(1) (2020) 1--10. https://doi.org/10.22436/jmcs.022.02.08",
+      "paper_url": "https://doi.org/10.22436/jmcs.022.02.08",
+      "journal_name": "Journal of Mathematics and Computer Science",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_3934_math_2021069",
+      "bibtex": "@article{10_3934_math_2021069,\n  title={Fault-tolerant edge metric dimension of certain families of graphs},\n  author={Xiaogang Liu and M. Ahsan and Zohaib Zahid and Shuili Ren},\n  journal={AIMS Mathematics},\n  year={2021},\n  doi={10.3934/math.2021069},\n  url={https://www.semanticscholar.org/paper/86c2bdab5729d698c60db8e6a1a0f1202406179f}\n}",
+      "apa": "Liu, X., Ahsan, M., Zahid, Z., & Ren, S. (2021). Fault-tolerant edge metric dimension of certain families of graphs. AIMS Mathematics.",
+      "ieee": "Xiaogang Liu et al., \"Fault-tolerant edge metric dimension of certain families of graphs,\" AIMS Mathematics, 2021.",
+      "mla": "Liu, X., et al.. \"Fault-tolerant edge metric dimension of certain families of graphs.\" AIMS Mathematics, 2021.",
+      "custom_format": "\\bibitem{LiAhZa21} X. Liu, M. Ahsan, Z. Zahid, S. Ren, Fault-tolerant edge metric dimension of certain families of graphs, AIMS Mathematics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.3934/math.2021069",
+      "paper_url": "https://doi.org/10.3934/math.2021069",
+      "journal_name": "AIMS Mathematics",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1109_ACCESS_2022_3158982",
+      "bibtex": "@article{10_1109_ACCESS_2022_3158982,\n  title={Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks},\n  author={Karnika Sharma and V. K. Bhat and S. Sharma},\n  journal={IEEE Access},\n  year={2022},\n  doi={10.1109/ACCESS.2022.3158982},\n  url={https://www.semanticscholar.org/paper/a2c8c9f3a5e8d036afcf0e5d93b17db83813d23b}\n}",
+      "apa": "Sharma, K., Bhat, V. K., & Sharma, S. (2022). Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks. IEEE Access.",
+      "ieee": "Karnika Sharma, V. K. Bhat, S. Sharma, \"Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks,\" IEEE Access, 2022.",
+      "mla": "Sharma, K., et al.. \"Edge Metric Dimension and Edge Basis of One-Heptagonal Carbon Nanocone Networks.\" IEEE Access, 2022.",
+      "custom_format": "\\bibitem{ShBhSh22} K. Sharma, V.K. Bhat, S. Sharma, Edge metric dimension and edge basis of one-heptagonal carbon nanocone networks, IEEE Access \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1109/ACCESS.2022.3158982",
+      "paper_url": "https://doi.org/10.1109/ACCESS.2022.3158982",
+      "journal_name": "IEEE Access",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1016_j_jpdc_2025_105141",
+      "bibtex": "@article{10_1016_j_jpdc_2025_105141,\n  title={Edge metric basis and its fault tolerance over certain interconnection networks},\n  author={S. Prabhu and T. J. Janany and M. Arulperumjothi and I.G. Yero},\n  journal={J. Parallel Distributed Comput.},\n  year={2025},\n  doi={10.1016/j.jpdc.2025.105141},\n  url={https://www.semanticscholar.org/paper/09ae949612b61e8d0b0880faeb3ce87278bf3da9}\n}",
+      "apa": "Prabhu, S., Janany, T. J., Arulperumjothi, M., & Yero, I. (2025). Edge metric basis and its fault tolerance over certain interconnection networks. J. Parallel Distributed Comput..",
+      "ieee": "S. Prabhu et al., \"Edge metric basis and its fault tolerance over certain interconnection networks,\" J. Parallel Distributed Comput., 2025.",
+      "mla": "Prabhu, S., et al.. \"Edge metric basis and its fault tolerance over certain interconnection networks.\" J. Parallel Distributed Comput., 2025.",
+      "custom_format": "\\bibitem{PrJaAr25} S. Prabhu, T.J. Janany, M. Arulperumjothi, I.G. Yero, Edge metric basis and its fault tolerance over certain interconnection networks, J. Parallel Distributed Comput. \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1016/j.jpdc.2025.105141",
+      "paper_url": "https://doi.org/10.1016/j.jpdc.2025.105141",
+      "journal_name": "J. Parallel Distributed Comput.",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_3389_fphy_2021_749166",
+      "bibtex": "@article{10_3389_fphy_2021_749166,\n  title={Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone},\n  author={S. Sharma and H. Raza and V. K. Bhat},\n  journal={Frontiers of Physics},\n  year={2021},\n  doi={10.3389/fphy.2021.749166},\n  url={https://www.semanticscholar.org/paper/25d60388ef4bccaea373ab6885eac941a5670fb2}\n}",
+      "apa": "Sharma, S., Raza, H., & Bhat, V. K. (2021). Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone. Frontiers of Physics.",
+      "ieee": "S. Sharma, H. Raza, V. K. Bhat, \"Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone,\" Frontiers of Physics, 2021.",
+      "mla": "Sharma, S., et al.. \"Computing Edge Metric Dimension of One-Pentagonal Carbon Nanocone.\" Frontiers of Physics, 2021.",
+      "custom_format": "\\bibitem{ShRaBh21} S. Sharma, H. Raza, V.K. Bhat, Computing edge metric dimension of one-pentagonal carbon nanocone, Frontiers of Physics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.3389/fphy.2021.749166",
+      "paper_url": "https://doi.org/10.3389/fphy.2021.749166",
+      "journal_name": "Frontiers of Physics",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1080_00268976_2023_2259508",
+      "bibtex": "@article{10_1080_00268976_2023_2259508,\n  title={COVID antiviral drug structures and their edge metric dimension},\n  author={Ibtisam Masmali and Muhammad Tanzeel Ali Kanwal and Muhammad Kamran Jamil and Ali Ahmad and M. Azeem and Ali N. A. Koam},\n  journal={Molecular Physics},\n  year={2023},\n  doi={10.1080/00268976.2023.2259508},\n  url={https://www.semanticscholar.org/paper/a8193db0c9b7c3076d717f9ab044e98854bd3b44}\n}",
+      "apa": "Masmali, I., Kanwal, M. T. A., Jamil, M. K., Ahmad, A., Azeem, M., & Koam, A. N. A. (2023). COVID antiviral drug structures and their edge metric dimension. Molecular Physics.",
+      "ieee": "Ibtisam Masmali et al., \"COVID antiviral drug structures and their edge metric dimension,\" Molecular Physics, 2023.",
+      "mla": "Masmali, I., et al.. \"COVID antiviral drug structures and their edge metric dimension.\" Molecular Physics, 2023.",
+      "custom_format": "\\bibitem{MaKaJa23} I. Masmali, M.T.A. Kanwal, M.K. Jamil, A. Ahmad, M. Azeem, A.N.A. Koam, Covid antiviral drug structures and their edge metric dimension, Molecular Physics \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1080/00268976.2023.2259508",
+      "paper_url": "https://doi.org/10.1080/00268976.2023.2259508",
+      "journal_name": "Molecular Physics",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1142_S1793830921501329",
+      "bibtex": "@article{10_1142_S1793830921501329,\n  title={Fault-tolerant metric dimension of two-fold heptagonal-nonagonal circular ladder},\n  author={S. Sharma and V. K. Bhat},\n  journal={Discret. Math. Algorithms Appl.},\n  year={2021},\n  doi={10.1142/S1793830921501329},\n  url={https://www.semanticscholar.org/paper/d2340629e49db997e91f2cc855c30bfba85e8867}\n}",
+      "apa": "Sharma, S. & Bhat, V. K. (2021). Fault-tolerant metric dimension of two-fold heptagonal-nonagonal circular ladder. Discret. Math. Algorithms Appl..",
+      "ieee": "S. Sharma, V. K. Bhat, \"Fault-tolerant metric dimension of two-fold heptagonal-nonagonal circular ladder,\" Discret. Math. Algorithms Appl., 2021.",
+      "mla": "Sharma, S., and V. K. Bhat. \"Fault-tolerant metric dimension of two-fold heptagonal-nonagonal circular ladder.\" Discret. Math. Algorithms Appl., 2021.",
+      "custom_format": "\\bibitem{ShBh21} S. Sharma, V.K. Bhat, Fault-tolerant metric dimension of two-fold heptagonal-nonagonal circular ladder, Discret. Math. Algorithms Appl. \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1142/S1793830921501329",
+      "paper_url": "https://doi.org/10.1142/S1793830921501329",
+      "journal_name": "Discret. Math. Algorithms Appl.",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_47836_mjms_19_3_16",
+      "bibtex": "@article{10_47836_mjms_19_3_16,\n  title={Investigating Metric and Edge Metric Resolvability in Molecular Structures of Breast Cancer Therapeutics},\n  author={E. Pandeeswari and J. Ravi Sankar},\n  journal={Malaysian Journal of Mathematical Sciences},\n  year={2025},\n  doi={10.47836/mjms.19.3.16},\n  url={https://doi.org/10.47836/mjms.19.3.16}\n}",
+      "apa": "Pandeeswari, E. & Sankar, J. R. (2025). Investigating Metric and Edge Metric Resolvability in Molecular Structures of Breast Cancer Therapeutics. Malaysian Journal of Mathematical Sciences.",
+      "ieee": "E. Pandeeswari, J. Ravi Sankar, \"Investigating Metric and Edge Metric Resolvability in Molecular Structures of Breast Cancer Therapeutics,\" Malaysian Journal of Mathematical Sciences, 2025.",
+      "mla": "Pandeeswari, E., and J. Ravi Sankar. \"Investigating Metric and Edge Metric Resolvability in Molecular Structures of Breast Cancer Therapeutics.\" Malaysian Journal of Mathematical Sciences, 2025.",
+      "custom_format": "\\bibitem{PaSa25} E. Pandeeswari, J.R. Sankar, Investigating metric and edge metric resolvability in molecular structures of breast cancer therapeutics, Malaysian Journal of Mathematical Sciences \\textbf{1}(1) (2025) 1--10. https://doi.org/10.47836/mjms.19.3.16",
+      "paper_url": "https://doi.org/10.47836/mjms.19.3.16",
+      "journal_name": "Malaysian Journal of Mathematical Sciences",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_2478_auom_2020_0032",
+      "bibtex": "@article{10_2478_auom_2020_0032,\n  title={Edge metric dimension of some classes of circulant graphs},\n  author={M. Ahsan and Zohaib Zahid and Sohail Zafar},\n  journal={},\n  year={2020},\n  doi={10.2478/auom-2020-0032},\n  url={https://www.semanticscholar.org/paper/cdcc0acd614a3f7756cd6d37a4546e8e0f05ca13}\n}",
+      "apa": "Ahsan, M., Zahid, Z., & Zafar, S. (2020). Edge metric dimension of some classes of circulant graphs. .",
+      "ieee": "M. Ahsan, Zohaib Zahid, Sohail Zafar, \"Edge metric dimension of some classes of circulant graphs,\" , 2020.",
+      "mla": "Ahsan, M., et al.. \"Edge metric dimension of some classes of circulant graphs.\" , 2020.",
+      "custom_format": "\\bibitem{AhZaZa20} M. Ahsan, Z. Zahid, S. Zafar, Edge metric dimension of some classes of circulant graphs,  \\textbf{1}(1) (2020) 1--10. https://doi.org/10.2478/auom-2020-0032",
+      "paper_url": "https://doi.org/10.2478/auom-2020-0032",
+      "journal_name": "",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_61091_jcmcc122_19",
+      "bibtex": "@article{10_61091_jcmcc122_19,\n  title={On Symmetrical Convex Polytopes and their Edge Resolvability},\n  author={S. Sharma},\n  journal={Journal of Combinatorial Mathematics and Combinatorial Computing},\n  year={2024},\n  doi={10.61091/jcmcc122-19},\n  url={https://www.semanticscholar.org/paper/775a7e88e4a9916934406bb81a37aff83fe0805b}\n}",
+      "apa": "Sharma, S. (2024). On Symmetrical Convex Polytopes and their Edge Resolvability. Journal of Combinatorial Mathematics and Combinatorial Computing.",
+      "ieee": "S. Sharma, \"On Symmetrical Convex Polytopes and their Edge Resolvability,\" Journal of Combinatorial Mathematics and Combinatorial Computing, 2024.",
+      "mla": "Sharma, S.. \"On Symmetrical Convex Polytopes and their Edge Resolvability.\" Journal of Combinatorial Mathematics and Combinatorial Computing, 2024.",
+      "custom_format": "\\bibitem{Sh24} S. Sharma, On symmetrical convex polytopes and their edge resolvability, Journal of Combinatorial Mathematics and Combinatorial Computing \\textbf{1}(1) (2024) 1--10. https://doi.org/10.61091/jcmcc122-19",
+      "paper_url": "https://doi.org/10.61091/jcmcc122-19",
+      "journal_name": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_5614_ejgta_2023_11_1_16",
+      "bibtex": "@article{10_5614_ejgta_2023_11_1_16,\n  title={The dominant edge metric dimension of graphs},\n  author={M. Tavakoli and M. Korivand and A. Erfanian and Gholamreza Abrishami and E. Baskoro},\n  journal={Electronic Journal of Graph Theory and Applications},\n  year={2023},\n  doi={10.5614/ejgta.2023.11.1.16},\n  url={https://www.semanticscholar.org/paper/12b9184b6000235ed015342cd8c4ac4e163f6e4f}\n}",
+      "apa": "Tavakoli, M., Korivand, M., Erfanian, A., Abrishami, G., & Baskoro, E. (2023). The dominant edge metric dimension of graphs. Electronic Journal of Graph Theory and Applications.",
+      "ieee": "M. Tavakoli et al., \"The dominant edge metric dimension of graphs,\" Electronic Journal of Graph Theory and Applications, 2023.",
+      "mla": "Tavakoli, M., et al.. \"The dominant edge metric dimension of graphs.\" Electronic Journal of Graph Theory and Applications, 2023.",
+      "custom_format": "\\bibitem{TaKoEr23} M. Tavakoli, M. Korivand, A. Erfanian, G. Abrishami, E. Baskoro, The dominant edge metric dimension of graphs, Electronic Journal of Graph Theory and Applications \\textbf{1}(1) (2023) 1--10. https://doi.org/10.5614/ejgta.2023.11.1.16",
+      "paper_url": "https://doi.org/10.5614/ejgta.2023.11.1.16",
+      "journal_name": "Electronic Journal of Graph Theory and Applications",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1088_1742_6596_1821_1_012017",
+      "bibtex": "@article{10_1088_1742_6596_1821_1_012017,\n  title={Edge metric dimensions of neighbourhood corona graph containing dominant vertices},\n  author={N. M. Rosyidah and Rinurwati},\n  journal={},\n  year={2021},\n  doi={10.1088/1742-6596/1821/1/012017},\n  url={https://www.semanticscholar.org/paper/0d69dc8a67eb4d2951efce04984c497e529988d9}\n}",
+      "apa": "Rosyidah, N. M. & Rinurwati (2021). Edge metric dimensions of neighbourhood corona graph containing dominant vertices. .",
+      "ieee": "N. M. Rosyidah, Rinurwati, \"Edge metric dimensions of neighbourhood corona graph containing dominant vertices,\" , 2021.",
+      "mla": "Rosyidah, N. M., and Rinurwati. \"Edge metric dimensions of neighbourhood corona graph containing dominant vertices.\" , 2021.",
+      "custom_format": "\\bibitem{RoRi21} N.M. Rosyidah, Rinurwati, Edge metric dimensions of neighbourhood corona graph containing dominant vertices,  \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1088/1742-6596/1821/1/012017",
+      "paper_url": "https://doi.org/10.1088/1742-6596/1821/1/012017",
+      "journal_name": "",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2107_14484",
+      "bibtex": "@article{arxiv_2107_14484,\n  title={Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene},\n  author={Sunny Kumar Sharma and Vijay Kumar Bhat and Hassan Raza and Karnika Sharma},\n  journal={arXiv preprint arXiv:2107.14484},\n  year={2021},\n  url={http://arxiv.org/abs/2107.14484v1}\n}",
+      "apa": "Sharma, S. K., Bhat, V. K., Raza, H., & Sharma, K. (2021). Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene. arXiv preprint arXiv:2107.14484.",
+      "ieee": "Sunny Kumar Sharma et al., \"Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene,\" arXiv preprint arXiv:2107.14484, 2021.",
+      "mla": "Sharma, S. K., et al.. \"Metric and Edge Metric Dimension of Zigzag Edge Coronoid Fused with Starphene.\" arXiv, 2107.14484, 2021.",
+      "custom_format": "\\bibitem{ShBhRa21} S.K. Sharma, V.K. Bhat, H. Raza, K. Sharma, Metric and edge metric dimension of zigzag edge coronoid fused with starphene, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2107.14484v1",
+      "paper_url": "http://arxiv.org/abs/2107.14484v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1142_s0129054125500285",
+      "bibtex": "@article{10_1142_s0129054125500285,\n  title={The Nonlocal Metric Dimension of Some Convex Polytopes},\n  author={Jinxia Liang and Chenxu Yang and Guixian Liu and Hongluan Zhao},\n  journal={International Journal of Foundations of Computer Science},\n  year={2025},\n  doi={10.1142/s0129054125500285},\n  url={https://www.semanticscholar.org/paper/79cef35c416eb9028b3a2ea09749a69654207960}\n}",
+      "apa": "Liang, J., Yang, C., Liu, G., & Zhao, H. (2025). The Nonlocal Metric Dimension of Some Convex Polytopes. International Journal of Foundations of Computer Science.",
+      "ieee": "Jinxia Liang et al., \"The Nonlocal Metric Dimension of Some Convex Polytopes,\" International Journal of Foundations of Computer Science, 2025.",
+      "mla": "Liang, J., et al.. \"The Nonlocal Metric Dimension of Some Convex Polytopes.\" International Journal of Foundations of Computer Science, 2025.",
+      "custom_format": "\\bibitem{LiYaLi25} J. Liang, C. Yang, G. Liu, H. Zhao, The nonlocal metric dimension of some convex polytopes, International Journal of Foundations of Computer Science \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1142/s0129054125500285",
+      "paper_url": "https://doi.org/10.1142/s0129054125500285",
+      "journal_name": "International Journal of Foundations of Computer Science",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_3934_neuroscience_2022021",
+      "bibtex": "@article{10_3934_neuroscience_2022021,\n  title={Neural basis of topographical disorientation in the primate posterior cingulate gyrus based on a labeled graph},\n  author={Yang Yu and Tsuyoshi Setogawa and Jumpei Matsumoto and Hiroshi Nishimaru and H. Nishijo},\n  journal={AIMS Neuroscience},\n  year={2022},\n  doi={10.3934/neuroscience.2022021},\n  url={https://www.semanticscholar.org/paper/ae153721b12c77fe94fdb1c01aad2188429d1f81}\n}",
+      "apa": "Yu, Y., Setogawa, T., Matsumoto, J., Nishimaru, H., & Nishijo, H. (2022). Neural basis of topographical disorientation in the primate posterior cingulate gyrus based on a labeled graph. AIMS Neuroscience.",
+      "ieee": "Yang Yu et al., \"Neural basis of topographical disorientation in the primate posterior cingulate gyrus based on a labeled graph,\" AIMS Neuroscience, 2022.",
+      "mla": "Yu, Y., et al.. \"Neural basis of topographical disorientation in the primate posterior cingulate gyrus based on a labeled graph.\" AIMS Neuroscience, 2022.",
+      "custom_format": "\\bibitem{YuSeMa22} Y. Yu, T. Setogawa, J. Matsumoto, H. Nishimaru, H. Nishijo, Neural basis of topographical disorientation in the primate posterior cingulate gyrus based on a labeled graph, AIMS Neuroscience \\textbf{1}(1) (2022) 1--10. https://doi.org/10.3934/neuroscience.2022021",
+      "paper_url": "https://doi.org/10.3934/neuroscience.2022021",
+      "journal_name": "AIMS Neuroscience",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_12962_j24775401_v10i1_20267",
+      "bibtex": "@article{10_12962_j24775401_v10i1_20267,\n  title={Bi-Edge Metric Dimension of Graphs},\n  author={Rinurwati Rinurwati and Fadillah Dian Maharani},\n  journal={International Journal of Computing Science and Applied Mathematics},\n  year={2024},\n  doi={10.12962/j24775401.v10i1.20267},\n  url={https://doi.org/10.12962/j24775401.v10i1.20267}\n}",
+      "apa": "Rinurwati, R. & Maharani, F. D. (2024). Bi-Edge Metric Dimension of Graphs. International Journal of Computing Science and Applied Mathematics.",
+      "ieee": "Rinurwati Rinurwati, Fadillah Dian Maharani, \"Bi-Edge Metric Dimension of Graphs,\" International Journal of Computing Science and Applied Mathematics, 2024.",
+      "mla": "Rinurwati, R., and Fadillah Dian Maharani. \"Bi-Edge Metric Dimension of Graphs.\" International Journal of Computing Science and Applied Mathematics, 2024.",
+      "custom_format": "\\bibitem{RiMa24} R. Rinurwati, F.D. Maharani, Bi-edge metric dimension of graphs, International Journal of Computing Science and Applied Mathematics \\textbf{1}(1) (2024) 1--10. https://doi.org/10.12962/j24775401.v10i1.20267",
+      "paper_url": "https://doi.org/10.12962/j24775401.v10i1.20267",
+      "journal_name": "International Journal of Computing Science and Applied Mathematics",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1080_10406638_2021_2019066",
+      "bibtex": "@article{10_1080_10406638_2021_2019066,\n  title={Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid},\n  author={Jia-bao Liu and S. Sharma and V. K. Bhat and H. Raza},\n  journal={Polycyclic aromatic compounds (Print)},\n  year={2021},\n  doi={10.1080/10406638.2021.2019066},\n  url={https://www.semanticscholar.org/paper/0817cedef534d9cf73a0077dd5849f087f334485}\n}",
+      "apa": "Liu, J., Sharma, S., Bhat, V. K., & Raza, H. (2021). Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid. Polycyclic aromatic compounds (Print).",
+      "ieee": "Jia-bao Liu et al., \"Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid,\" Polycyclic aromatic compounds (Print), 2021.",
+      "mla": "Liu, J., et al.. \"Multiset and Mixed Metric Dimension for Starphene and Zigzag-Edge Coronoid.\" Polycyclic aromatic compounds (Print), 2021.",
+      "custom_format": "\\bibitem{LiShBh21} J. Liu, S. Sharma, V.K. Bhat, H. Raza, Multiset and mixed metric dimension for starphene and zigzag-edge coronoid, Polycyclic aromatic compounds (Print) \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1080/10406638.2021.2019066",
+      "paper_url": "https://doi.org/10.1080/10406638.2021.2019066",
+      "journal_name": "Polycyclic aromatic compounds (Print)",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1016_j_tcs_2021_11_015",
+      "bibtex": "@article{10_1016_j_tcs_2021_11_015,\n  title={Computing a metric basis of a bipartite distance-hereditary graph},\n  author={Marina Moscarini},\n  journal={Theoretical Computer Science},\n  year={2022},\n  doi={10.1016/j.tcs.2021.11.015},\n  url={https://doi.org/10.1016/j.tcs.2021.11.015}\n}",
+      "apa": "Moscarini, M. (2022). Computing a metric basis of a bipartite distance-hereditary graph. Theoretical Computer Science.",
+      "ieee": "Marina Moscarini, \"Computing a metric basis of a bipartite distance-hereditary graph,\" Theoretical Computer Science, 2022.",
+      "mla": "Moscarini, M.. \"Computing a metric basis of a bipartite distance-hereditary graph.\" Theoretical Computer Science, 2022.",
+      "custom_format": "\\bibitem{Mo22} M. Moscarini, Computing a metric basis of a bipartite distance-hereditary graph, Theoretical Computer Science \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1016/j.tcs.2021.11.015",
+      "paper_url": "https://doi.org/10.1016/j.tcs.2021.11.015",
+      "journal_name": "Theoretical Computer Science",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1007_978_3_642_00683_8_7",
+      "bibtex": "@article{10_1007_978_3_642_00683_8_7,\n  title={Adaptive Edge and Defect Detection as a basis for Automated Lumber Classification and Optimisation},\n  author={Roman Louban},\n  journal={Springer Series in Materials Science},\n  year={2009},\n  doi={10.1007/978-3-642-00683-8_7},\n  url={https://doi.org/10.1007/978-3-642-00683-8_7}\n}",
+      "apa": "Louban, R. (2009). Adaptive Edge and Defect Detection as a basis for Automated Lumber Classification and Optimisation. Springer Series in Materials Science.",
+      "ieee": "Roman Louban, \"Adaptive Edge and Defect Detection as a basis for Automated Lumber Classification and Optimisation,\" Springer Series in Materials Science, 2009.",
+      "mla": "Louban, R.. \"Adaptive Edge and Defect Detection as a basis for Automated Lumber Classification and Optimisation.\" Springer Series in Materials Science, 2009.",
+      "custom_format": "\\bibitem{Lo09} R. Louban, Adaptive edge and defect detection as a basis for automated lumber classification and optimisation, Springer Series in Materials Science \\textbf{1}(1) (2009) 1--10. https://doi.org/10.1007/978-3-642-00683-8_7",
+      "paper_url": "https://doi.org/10.1007/978-3-642-00683-8_7",
+      "journal_name": "Springer Series in Materials Science",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_3390_dynamics5020016",
+      "bibtex": "@article{10_3390_dynamics5020016,\n  title={Kolmogorov\u2013Smirnov-Based Edge Centrality Measure for Metric Graphs},\n  author={Christina Dur\u00f3n and Hannah Kravitz and Moysey Brio},\n  journal={Dynamics},\n  year={2025},\n  doi={10.3390/dynamics5020016},\n  url={https://doi.org/10.3390/dynamics5020016}\n}",
+      "apa": "Dur\u00f3n, C., Kravitz, H., & Brio, M. (2025). Kolmogorov\u2013Smirnov-Based Edge Centrality Measure for Metric Graphs. Dynamics.",
+      "ieee": "Christina Dur\u00f3n, Hannah Kravitz, Moysey Brio, \"Kolmogorov\u2013Smirnov-Based Edge Centrality Measure for Metric Graphs,\" Dynamics, 2025.",
+      "mla": "Dur\u00f3n, C., et al.. \"Kolmogorov\u2013Smirnov-Based Edge Centrality Measure for Metric Graphs.\" Dynamics, 2025.",
+      "custom_format": "\\bibitem{DuKrBr25} C. Dur\u00f3n, H. Kravitz, M. Brio, Kolmogorov\u2013smirnov-based edge centrality measure for metric graphs, Dynamics \\textbf{1}(1) (2025) 1--10. https://doi.org/10.3390/dynamics5020016",
+      "paper_url": "https://doi.org/10.3390/dynamics5020016",
+      "journal_name": "Dynamics",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_17654_ms102050965",
+      "bibtex": "@article{10_17654_ms102050965,\n  title={ON METRIC DIMENSION OF EDGE-CORONA GRAPHS},\n  author={Rinurwati and Herry Suprajitno and Slamin},\n  journal={Far East Journal of Mathematical Sciences (FJMS)},\n  year={2017},\n  doi={10.17654/ms102050965},\n  url={https://doi.org/10.17654/ms102050965}\n}",
+      "apa": "Rinurwati, Suprajitno, H., & Slamin (2017). ON METRIC DIMENSION OF EDGE-CORONA GRAPHS. Far East Journal of Mathematical Sciences (FJMS).",
+      "ieee": "Rinurwati, Herry Suprajitno, Slamin, \"ON METRIC DIMENSION OF EDGE-CORONA GRAPHS,\" Far East Journal of Mathematical Sciences (FJMS), 2017.",
+      "mla": "Rinurwati, et al.. \"ON METRIC DIMENSION OF EDGE-CORONA GRAPHS.\" Far East Journal of Mathematical Sciences (FJMS), 2017.",
+      "custom_format": "\\bibitem{RiSuSl17} Rinurwati, H. Suprajitno, Slamin, On metric dimension of edge-corona graphs, Far East Journal of Mathematical Sciences (FJMS) \\textbf{1}(1) (2017) 1--10. https://doi.org/10.17654/ms102050965",
+      "paper_url": "https://doi.org/10.17654/ms102050965",
+      "journal_name": "Far East Journal of Mathematical Sciences (FJMS)",
+      "year": 2017
+    },
+    {
+      "paper_id": "10_1088_1742_6596_1836_1_012010",
+      "bibtex": "@article{10_1088_1742_6596_1836_1_012010,\n  title={Metric and edge-metric dimensions of bobble-neighbourhood-corona graphs},\n  author={Rinurwati and R. Nabila},\n  journal={},\n  year={2021},\n  doi={10.1088/1742-6596/1836/1/012010},\n  url={https://www.semanticscholar.org/paper/8dc3cf4ebf677a7cc33aa0d8f5acb5f149562627}\n}",
+      "apa": "Rinurwati & Nabila, R. (2021). Metric and edge-metric dimensions of bobble-neighbourhood-corona graphs. .",
+      "ieee": "Rinurwati, R. Nabila, \"Metric and edge-metric dimensions of bobble-neighbourhood-corona graphs,\" , 2021.",
+      "mla": "Rinurwati, and R. Nabila. \"Metric and edge-metric dimensions of bobble-neighbourhood-corona graphs.\" , 2021.",
+      "custom_format": "\\bibitem{RiNa21} Rinurwati, R. Nabila, Metric and edge-metric dimensions of bobble-neighbourhood-corona graphs,  \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1088/1742-6596/1836/1/012010",
+      "paper_url": "https://doi.org/10.1088/1742-6596/1836/1/012010",
+      "journal_name": "",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1088_1402_4896_ad3add",
+      "bibtex": "@article{10_1088_1402_4896_ad3add,\n  title={Mathematical analysis of the structure of one-heptagonal carbon nanocone in terms of its basis and dimension},\n  author={Yousef Al-Qudah and Ali Jaradat and S. Sharma and Vijay Kumar Bhat},\n  journal={Physica Scripta},\n  year={2024},\n  doi={10.1088/1402-4896/ad3add},\n  url={https://www.semanticscholar.org/paper/384bd123aed81a2bedf83f55d7f64527980cc399}\n}",
+      "apa": "Al-Qudah, Y., Jaradat, A., Sharma, S., & Bhat, V. K. (2024). Mathematical analysis of the structure of one-heptagonal carbon nanocone in terms of its basis and dimension. Physica Scripta.",
+      "ieee": "Yousef Al-Qudah et al., \"Mathematical analysis of the structure of one-heptagonal carbon nanocone in terms of its basis and dimension,\" Physica Scripta, 2024.",
+      "mla": "Al-Qudah, Y., et al.. \"Mathematical analysis of the structure of one-heptagonal carbon nanocone in terms of its basis and dimension.\" Physica Scripta, 2024.",
+      "custom_format": "\\bibitem{AlJaSh24} Y. Al-Qudah, A. Jaradat, S. Sharma, V.K. Bhat, Mathematical analysis of the structure of one-heptagonal carbon nanocone in terms of its basis and dimension, Physica Scripta \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1088/1402-4896/ad3add",
+      "paper_url": "https://doi.org/10.1088/1402-4896/ad3add",
+      "journal_name": "Physica Scripta",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_3390_sym15030708",
+      "bibtex": "@article{10_3390_sym15030708,\n  title={Constant Time Calculation of the Metric Dimension of the Join of Path Graphs},\n  author={Chuanjun Zhang and Ghulam Haidar and Murad-ul-Islam Khan and Faisal Yousafzai and K. Hila and A. Khan},\n  journal={Symmetry},\n  year={2023},\n  doi={10.3390/sym15030708},\n  url={https://www.semanticscholar.org/paper/8d48400f3faa28fbb61dccdd4cdd37f58faf1d94}\n}",
+      "apa": "Zhang, C., Haidar, G., Khan, M., Yousafzai, F., Hila, K., & Khan, A. (2023). Constant Time Calculation of the Metric Dimension of the Join of Path Graphs. Symmetry.",
+      "ieee": "Chuanjun Zhang et al., \"Constant Time Calculation of the Metric Dimension of the Join of Path Graphs,\" Symmetry, 2023.",
+      "mla": "Zhang, C., et al.. \"Constant Time Calculation of the Metric Dimension of the Join of Path Graphs.\" Symmetry, 2023.",
+      "custom_format": "\\bibitem{ZhHaKh23} C. Zhang, G. Haidar, M. Khan, F. Yousafzai, K. Hila, A. Khan, Constant time calculation of the metric dimension of the join of path graphs, Symmetry \\textbf{1}(1) (2023) 1--10. https://doi.org/10.3390/sym15030708",
+      "paper_url": "https://doi.org/10.3390/sym15030708",
+      "journal_name": "Symmetry",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1109_TNSM_2025_3539830",
+      "bibtex": "@article{10_1109_TNSM_2025_3539830,\n  title={Explainable and Energy-Efficient Selective Ensemble Learning in Mobile Edge Computing Systems},\n  author={Lei Feng and Chaorui Liao and Yingji Shi and F. Zhou},\n  journal={IEEE Transactions on Network and Service Management},\n  year={2025},\n  doi={10.1109/TNSM.2025.3539830},\n  url={https://www.semanticscholar.org/paper/3a56be071dd958ffec0a1450cde88ac3f58825a1}\n}",
+      "apa": "Feng, L., Liao, C., Shi, Y., & Zhou, F. (2025). Explainable and Energy-Efficient Selective Ensemble Learning in Mobile Edge Computing Systems. IEEE Transactions on Network and Service Management.",
+      "ieee": "Lei Feng et al., \"Explainable and Energy-Efficient Selective Ensemble Learning in Mobile Edge Computing Systems,\" IEEE Transactions on Network and Service Management, 2025.",
+      "mla": "Feng, L., et al.. \"Explainable and Energy-Efficient Selective Ensemble Learning in Mobile Edge Computing Systems.\" IEEE Transactions on Network and Service Management, 2025.",
+      "custom_format": "\\bibitem{FeLiSh25} L. Feng, C. Liao, Y. Shi, F. Zhou, Explainable and energy-efficient selective ensemble learning in mobile edge computing systems, IEEE Transactions on Network and Service Management \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1109/TNSM.2025.3539830",
+      "paper_url": "https://doi.org/10.1109/TNSM.2025.3539830",
+      "journal_name": "IEEE Transactions on Network and Service Management",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1109_ACCESS_2021_3083182",
+      "bibtex": "@article{10_1109_ACCESS_2021_3083182,\n  title={The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2)},\n  author={Junya Lv and Xiao-Yan Lv and R. Nasir and Zohaib Zahids},\n  journal={IEEE Access},\n  year={2021},\n  doi={10.1109/ACCESS.2021.3083182},\n  url={https://www.semanticscholar.org/paper/c6be28559aa0f6ddbfbe7d08e9b754ee9efc98ee}\n}",
+      "apa": "Lv, J., Lv, X., Nasir, R., & Zahids, Z. (2021). The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2). IEEE Access.",
+      "ieee": "Junya Lv et al., \"The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2),\" IEEE Access, 2021.",
+      "mla": "Lv, J., et al.. \"The Edge Version of Metric Dimension for the Family of Circulant Graphs C\u2099(1, 2).\" IEEE Access, 2021.",
+      "custom_format": "\\bibitem{LvLvNa21} J. Lv, X. Lv, R. Nasir, Z. Zahids, The edge version of metric dimension for the family of circulant graphs c\u2099(1, 2), IEEE Access \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1109/ACCESS.2021.3083182",
+      "paper_url": "https://doi.org/10.1109/ACCESS.2021.3083182",
+      "journal_name": "IEEE Access",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1088_1742_6596_1306_1_012015",
+      "bibtex": "@inproceedings{10_1088_1742_6596_1306_1_012015,\n  title={The local metric dimension of generalized broken fan graph and edge corona product of star graph and path graph},\n  author={Silfiatul Khoiriah and Tri Atmojo Kusmayadi},\n  booktitle={Journal of Physics: Conference Series},\n  year={2019},\n  doi={10.1088/1742-6596/1306/1/012015},\n  url={https://www.semanticscholar.org/paper/e254b51aae76fc9a7d522ce16af5ca2610def123}\n}",
+      "apa": "Khoiriah, S. & Kusmayadi, T. A. (2019). The local metric dimension of generalized broken fan graph and edge corona product of star graph and path graph. In Journal of Physics: Conference Series.",
+      "ieee": "Silfiatul Khoiriah, Tri Atmojo Kusmayadi, \"The local metric dimension of generalized broken fan graph and edge corona product of star graph and path graph,\" in Journal of Physics: Conference Series, 2019.",
+      "mla": "Khoiriah, S., and Tri Atmojo Kusmayadi. \"The local metric dimension of generalized broken fan graph and edge corona product of star graph and path graph.\" Journal of Physics: Conference Series, 2019.",
+      "custom_format": "\\bibitem{KhKu19} S. Khoiriah, T.A. Kusmayadi, The local metric dimension of generalized broken fan graph and edge corona product of star graph and path graph, Journal of Physics: Conference Series \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1088/1742-6596/1306/1/012015",
+      "paper_url": "https://doi.org/10.1088/1742-6596/1306/1/012015",
+      "journal_name": "Journal of Physics: Conference Series",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_1142_s1793830924500769",
+      "bibtex": "@article{10_1142_s1793830924500769,\n  title={Metric basis and metric dimension of some infinite planar graphs},\n  author={S. Vidya and Sunny Kumar Sharma and Prasanna Poojary and G. R. Vadiraja Bhatta},\n  journal={Discrete Mathematics, Algorithms and Applications},\n  year={2024},\n  doi={10.1142/s1793830924500769},\n  url={https://doi.org/10.1142/s1793830924500769}\n}",
+      "apa": "Vidya, S., Sharma, S. K., Poojary, P., & Bhatta, G. R. V. (2024). Metric basis and metric dimension of some infinite planar graphs. Discrete Mathematics, Algorithms and Applications.",
+      "ieee": "S. Vidya et al., \"Metric basis and metric dimension of some infinite planar graphs,\" Discrete Mathematics, Algorithms and Applications, 2024.",
+      "mla": "Vidya, S., et al.. \"Metric basis and metric dimension of some infinite planar graphs.\" Discrete Mathematics, Algorithms and Applications, 2024.",
+      "custom_format": "\\bibitem{ViShPo24} S. Vidya, S.K. Sharma, P. Poojary, G.R.V. Bhatta, Metric basis and metric dimension of some infinite planar graphs, Discrete Mathematics, Algorithms and Applications \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1142/s1793830924500769",
+      "paper_url": "https://doi.org/10.1142/s1793830924500769",
+      "journal_name": "Discrete Mathematics, Algorithms and Applications",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_29020_nybg_ejpam_v17i3_5295",
+      "bibtex": "@article{10_29020_nybg_ejpam_v17i3_5295,\n  title={Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes},\n  author={Waseem Abbas and Faryal Chudhary and Umar Farooq and Muhammad Azeem and Yilun Shang},\n  journal={European Journal of Pure and Applied Mathematics},\n  year={2024},\n  doi={10.29020/nybg.ejpam.v17i3.5295},\n  url={https://doi.org/10.29020/nybg.ejpam.v17i3.5295}\n}",
+      "apa": "Abbas, W., Chudhary, F., Farooq, U., Azeem, M., & Shang, Y. (2024). Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes. European Journal of Pure and Applied Mathematics.",
+      "ieee": "Waseem Abbas et al., \"Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes,\" European Journal of Pure and Applied Mathematics, 2024.",
+      "mla": "Abbas, W., et al.. \"Investigating Metric Dimension and Edge Metric Dimension of Hexagonal Boron Nitride and Carbon Nanotubes.\" European Journal of Pure and Applied Mathematics, 2024.",
+      "custom_format": "\\bibitem{AbChFa24} W. Abbas, F. Chudhary, U. Farooq, M. Azeem, Y. Shang, Investigating metric dimension and edge metric dimension of hexagonal boron nitride and carbon nanotubes, European Journal of Pure and Applied Mathematics \\textbf{1}(1) (2024) 1--10. https://doi.org/10.29020/nybg.ejpam.v17i3.5295",
+      "paper_url": "https://doi.org/10.29020/nybg.ejpam.v17i3.5295",
+      "journal_name": "European Journal of Pure and Applied Mathematics",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1007_s10476_024_00006_z",
+      "bibtex": "@article{10_1007_s10476_024_00006_z,\n  title={Reaction-diffusion equations on metric graphs with edge noise},\n  author={E. Sikolya},\n  journal={Analysis Mathematica},\n  year={2024},\n  doi={10.1007/s10476-024-00006-z},\n  url={https://doi.org/10.1007/s10476-024-00006-z}\n}",
+      "apa": "Sikolya, E. (2024). Reaction-diffusion equations on metric graphs with edge noise. Analysis Mathematica.",
+      "ieee": "E. Sikolya, \"Reaction-diffusion equations on metric graphs with edge noise,\" Analysis Mathematica, 2024.",
+      "mla": "Sikolya, E.. \"Reaction-diffusion equations on metric graphs with edge noise.\" Analysis Mathematica, 2024.",
+      "custom_format": "\\bibitem{Si24} E. Sikolya, Reaction-diffusion equations on metric graphs with edge noise, Analysis Mathematica \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1007/s10476-024-00006-z",
+      "paper_url": "https://doi.org/10.1007/s10476-024-00006-z",
+      "journal_name": "Analysis Mathematica",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1142_s1793830920500378",
+      "bibtex": "@article{10_1142_s1793830920500378,\n  title={Edge version of metric dimension for the families of grid graphs and generalized prism graphs},\n  author={R. Nasir and Zohaib Zahid and Sohail Zafar},\n  journal={Discret. Math. Algorithms Appl.},\n  year={2020},\n  doi={10.1142/s1793830920500378},\n  url={https://www.semanticscholar.org/paper/2c6fbbb925f32463abd59b61c1bd0ee441d2cbd4}\n}",
+      "apa": "Nasir, R., Zahid, Z., & Zafar, S. (2020). Edge version of metric dimension for the families of grid graphs and generalized prism graphs. Discret. Math. Algorithms Appl..",
+      "ieee": "R. Nasir, Zohaib Zahid, Sohail Zafar, \"Edge version of metric dimension for the families of grid graphs and generalized prism graphs,\" Discret. Math. Algorithms Appl., 2020.",
+      "mla": "Nasir, R., et al.. \"Edge version of metric dimension for the families of grid graphs and generalized prism graphs.\" Discret. Math. Algorithms Appl., 2020.",
+      "custom_format": "\\bibitem{NaZaZa20} R. Nasir, Z. Zahid, S. Zafar, Edge version of metric dimension for the families of grid graphs and generalized prism graphs, Discret. Math. Algorithms Appl. \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1142/s1793830920500378",
+      "paper_url": "https://doi.org/10.1142/s1793830920500378",
+      "journal_name": "Discret. Math. Algorithms Appl.",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1371_journal_pone_0296897",
+      "bibtex": "@article{10_1371_journal_pone_0296897,\n  title={Load balance -aware dynamic cloud-edge-end collaborative offloading strategy},\n  author={Yueqi Fan},\n  journal={PLoS ONE},\n  year={2024},\n  doi={10.1371/journal.pone.0296897},\n  url={https://www.semanticscholar.org/paper/dc6f0a92cd5613ec139e670066c82c9eeaa7cfb2}\n}",
+      "apa": "Fan, Y. (2024). Load balance -aware dynamic cloud-edge-end collaborative offloading strategy. PLoS ONE.",
+      "ieee": "Yueqi Fan, \"Load balance -aware dynamic cloud-edge-end collaborative offloading strategy,\" PLoS ONE, 2024.",
+      "mla": "Fan, Y.. \"Load balance -aware dynamic cloud-edge-end collaborative offloading strategy.\" PLoS ONE, 2024.",
+      "custom_format": "\\bibitem{Fa24} Y. Fan, Load balance -aware dynamic cloud-edge-end collaborative offloading strategy, PLoS ONE \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1371/journal.pone.0296897",
+      "paper_url": "https://doi.org/10.1371/journal.pone.0296897",
+      "journal_name": "PLoS ONE",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1088_1742_6596_1306_1_012018",
+      "bibtex": "@inproceedings{10_1088_1742_6596_1306_1_012018,\n  title={On the strong metric dimension of crossed prism graph and edge corona of cycle with path graph},\n  author={Astri Yunitasari and Tri Atmojo Kusmayadi},\n  booktitle={Journal of Physics: Conference Series},\n  year={2019},\n  doi={10.1088/1742-6596/1306/1/012018},\n  url={https://www.semanticscholar.org/paper/c67656d6c56094aae463beaf967c67f39f011cad}\n}",
+      "apa": "Yunitasari, A. & Kusmayadi, T. A. (2019). On the strong metric dimension of crossed prism graph and edge corona of cycle with path graph. In Journal of Physics: Conference Series.",
+      "ieee": "Astri Yunitasari, Tri Atmojo Kusmayadi, \"On the strong metric dimension of crossed prism graph and edge corona of cycle with path graph,\" in Journal of Physics: Conference Series, 2019.",
+      "mla": "Yunitasari, A., and Tri Atmojo Kusmayadi. \"On the strong metric dimension of crossed prism graph and edge corona of cycle with path graph.\" Journal of Physics: Conference Series, 2019.",
+      "custom_format": "\\bibitem{YuKu19} A. Yunitasari, T.A. Kusmayadi, On the strong metric dimension of crossed prism graph and edge corona of cycle with path graph, Journal of Physics: Conference Series \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1088/1742-6596/1306/1/012018",
+      "paper_url": "https://doi.org/10.1088/1742-6596/1306/1/012018",
+      "journal_name": "Journal of Physics: Conference Series",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_1109_TON_2025_3601104",
+      "bibtex": "@article{10_1109_TON_2025_3601104,\n  title={Multi-Source Peak Age of Information Optimization in Mobile Edge Computing Systems},\n  author={Jianhang Zhu and Jie Gong},\n  journal={IEEE Transactions on Networking},\n  year={2025},\n  doi={10.1109/TON.2025.3601104},\n  url={https://www.semanticscholar.org/paper/82f5d11dd5b8b71525ab0c493dbf1f7969999f68}\n}",
+      "apa": "Zhu, J. & Gong, J. (2025). Multi-Source Peak Age of Information Optimization in Mobile Edge Computing Systems. IEEE Transactions on Networking.",
+      "ieee": "Jianhang Zhu, Jie Gong, \"Multi-Source Peak Age of Information Optimization in Mobile Edge Computing Systems,\" IEEE Transactions on Networking, 2025.",
+      "mla": "Zhu, J., and Jie Gong. \"Multi-Source Peak Age of Information Optimization in Mobile Edge Computing Systems.\" IEEE Transactions on Networking, 2025.",
+      "custom_format": "\\bibitem{ZhGo25} J. Zhu, J. Gong, Multi-source peak age of information optimization in mobile edge computing systems, IEEE Transactions on Networking \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1109/TON.2025.3601104",
+      "paper_url": "https://doi.org/10.1109/TON.2025.3601104",
+      "journal_name": "IEEE Transactions on Networking",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_19139_soic_2310_5070_1925",
+      "bibtex": "@article{10_19139_soic_2310_5070_1925,\n  title={Dominant Mixed Metric Dimension of Graph},\n  author={R. Alfarisi and S. Husain and L. Susilowati and A. I. Kristiana},\n  journal={Statistics, Optimization &amp; Information Computing},\n  year={2024},\n  doi={10.19139/soic-2310-5070-1925},\n  url={https://www.semanticscholar.org/paper/bba5b0885d9a66ff41ea3abaf4a5f4a563f43356}\n}",
+      "apa": "Alfarisi, R., Husain, S., Susilowati, L., & Kristiana, A. I. (2024). Dominant Mixed Metric Dimension of Graph. Statistics, Optimization &amp; Information Computing.",
+      "ieee": "R. Alfarisi et al., \"Dominant Mixed Metric Dimension of Graph,\" Statistics, Optimization &amp; Information Computing, 2024.",
+      "mla": "Alfarisi, R., et al.. \"Dominant Mixed Metric Dimension of Graph.\" Statistics, Optimization &amp; Information Computing, 2024.",
+      "custom_format": "\\bibitem{AlHuSu24} R. Alfarisi, S. Husain, L. Susilowati, A.I. Kristiana, Dominant mixed metric dimension of graph, Statistics, Optimization &amp; Information Computing \\textbf{1}(1) (2024) 1--10. https://doi.org/10.19139/soic-2310-5070-1925",
+      "paper_url": "https://doi.org/10.19139/soic-2310-5070-1925",
+      "journal_name": "Statistics, Optimization &amp; Information Computing",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_48550_arXiv_2412_00295",
+      "bibtex": "@article{10_48550_arXiv_2412_00295,\n  title={Linear Simple Cycle Reservoirs at the edge of stability perform Fourier decomposition of the input driving signals},\n  author={Robert Simon Fong and Boyu Li and Peter Tino},\n  journal={Chaos},\n  year={2024},\n  doi={10.48550/arXiv.2412.00295},\n  url={https://www.semanticscholar.org/paper/ffeae8282b2a5cdf952712ac6705a22756e353ea}\n}",
+      "apa": "Fong, R. S., Li, B., & Tino, P. (2024). Linear Simple Cycle Reservoirs at the edge of stability perform Fourier decomposition of the input driving signals. Chaos.",
+      "ieee": "Robert Simon Fong, Boyu Li, Peter Tino, \"Linear Simple Cycle Reservoirs at the edge of stability perform Fourier decomposition of the input driving signals,\" Chaos, 2024.",
+      "mla": "Fong, R. S., et al.. \"Linear Simple Cycle Reservoirs at the edge of stability perform Fourier decomposition of the input driving signals.\" Chaos, 2024.",
+      "custom_format": "\\bibitem{FoLiTi24} R.S. Fong, B. Li, P. Tino, Linear simple cycle reservoirs at the edge of stability perform Fourier decomposition of the input driving signals, Chaos \\textbf{1}(1) (2024) 1--10. https://doi.org/10.48550/arXiv.2412.00295",
+      "paper_url": "https://doi.org/10.48550/arXiv.2412.00295",
+      "journal_name": "Chaos",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_21203_rs_3_rs_3783303_v1",
+      "bibtex": "@article{10_21203_rs_3_rs_3783303_v1,\n  title={Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene},\n  author={Umar Farooq and Faryal Chudhary and Deeba Afzal and Waseem Abbas},\n  journal={},\n  year={2023},\n  doi={10.21203/rs.3.rs-3783303/v1},\n  url={https://doi.org/10.21203/rs.3.rs-3783303/v1}\n}",
+      "apa": "Farooq, U., Chudhary, F., Afzal, D., & Abbas, W. (2023). Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene. .",
+      "ieee": "Umar Farooq et al., \"Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene,\" , 2023.",
+      "mla": "Farooq, U., et al.. \"Fault-Tolerant Metric Dimension (FTMD) of M-polynomial of Zigzag Edge Coronoid Fused by Starphene.\" , 2023.",
+      "custom_format": "\\bibitem{FaChAf23} U. Farooq, F. Chudhary, D. Afzal, W. Abbas, Fault-tolerant metric dimension (ftmd) of m-polynomial of zigzag edge coronoid fused by starphene,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.21203/rs.3.rs-3783303/v1",
+      "paper_url": "https://doi.org/10.21203/rs.3.rs-3783303/v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1088_1742_6596_1306_1_012014",
+      "bibtex": "@article{10_1088_1742_6596_1306_1_012014,\n  title={The local metric dimension of edge corona and corona product of cycle graph and path graph},\n  author={Elis Dyah Wulancar and Tri Atmojo Kusmayadi},\n  journal={},\n  year={2019},\n  doi={10.1088/1742-6596/1306/1/012014},\n  url={https://www.semanticscholar.org/paper/09bb0e3a7c56ab57716bf7a0bd49b5ca5bca5161}\n}",
+      "apa": "Wulancar, E. D. & Kusmayadi, T. A. (2019). The local metric dimension of edge corona and corona product of cycle graph and path graph. .",
+      "ieee": "Elis Dyah Wulancar, Tri Atmojo Kusmayadi, \"The local metric dimension of edge corona and corona product of cycle graph and path graph,\" , 2019.",
+      "mla": "Wulancar, E. D., and Tri Atmojo Kusmayadi. \"The local metric dimension of edge corona and corona product of cycle graph and path graph.\" , 2019.",
+      "custom_format": "\\bibitem{WuKu19} E.D. Wulancar, T.A. Kusmayadi, The local metric dimension of edge corona and corona product of cycle graph and path graph,  \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1088/1742-6596/1306/1/012014",
+      "paper_url": "https://doi.org/10.1088/1742-6596/1306/1/012014",
+      "journal_name": "",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_1088_1742_6596_1306_1_012017",
+      "bibtex": "@inproceedings{10_1088_1742_6596_1306_1_012017,\n  title={On the metric dimension of generalized broken fan graph and edge corona product of path with star graph},\n  author={Makarima Sabila and Tri Atmojo Kusmayadi},\n  booktitle={Journal of Physics: Conference Series},\n  year={2019},\n  doi={10.1088/1742-6596/1306/1/012017},\n  url={https://www.semanticscholar.org/paper/2bf02a88650fd702b1baa8c6b8b68a99323a2506}\n}",
+      "apa": "Sabila, M. & Kusmayadi, T. A. (2019). On the metric dimension of generalized broken fan graph and edge corona product of path with star graph. In Journal of Physics: Conference Series.",
+      "ieee": "Makarima Sabila, Tri Atmojo Kusmayadi, \"On the metric dimension of generalized broken fan graph and edge corona product of path with star graph,\" in Journal of Physics: Conference Series, 2019.",
+      "mla": "Sabila, M., and Tri Atmojo Kusmayadi. \"On the metric dimension of generalized broken fan graph and edge corona product of path with star graph.\" Journal of Physics: Conference Series, 2019.",
+      "custom_format": "\\bibitem{SaKu19} M. Sabila, T.A. Kusmayadi, On the metric dimension of generalized broken fan graph and edge corona product of path with star graph, Journal of Physics: Conference Series \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1088/1742-6596/1306/1/012017",
+      "paper_url": "https://doi.org/10.1088/1742-6596/1306/1/012017",
+      "journal_name": "Journal of Physics: Conference Series",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_3934_math_2024485",
+      "bibtex": "@article{10_3934_math_2024485,\n  title={Metric based resolvability of cycle related graphs},\n  author={Ali N. A. Koam},\n  journal={AIMS Mathematics},\n  year={2024},\n  doi={10.3934/math.2024485},\n  url={https://www.semanticscholar.org/paper/59d1f8d37b2c132e57f7f73b1517acce9d261ce9}\n}",
+      "apa": "Koam, A. N. A. (2024). Metric based resolvability of cycle related graphs. AIMS Mathematics.",
+      "ieee": "Ali N. A. Koam, \"Metric based resolvability of cycle related graphs,\" AIMS Mathematics, 2024.",
+      "mla": "Koam, A. N. A.. \"Metric based resolvability of cycle related graphs.\" AIMS Mathematics, 2024.",
+      "custom_format": "\\bibitem{Ko24} A.N.A. Koam, Metric based resolvability of cycle related graphs, AIMS Mathematics \\textbf{1}(1) (2024) 1--10. https://doi.org/10.3934/math.2024485",
+      "paper_url": "https://doi.org/10.3934/math.2024485",
+      "journal_name": "AIMS Mathematics",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_30812_matrik_v23i3_3961",
+      "bibtex": "@article{10_30812_matrik_v23i3_3961,\n  title={Deep Learning Model Compression Techniques Performance on Edge Devices},\n  author={Rakandhiya D. Rachmanto and Ahmad N. L. Nabhaan and Arief Setyanto},\n  journal={Matrik},\n  year={2024},\n  doi={10.30812/matrik.v23i3.3961},\n  url={https://www.semanticscholar.org/paper/cfa4477b85bd9a48cad2181d6044745d187e698d}\n}",
+      "apa": "Rachmanto, R. D., Nabhaan, A. N. L., & Setyanto, A. (2024). Deep Learning Model Compression Techniques Performance on Edge Devices. Matrik.",
+      "ieee": "Rakandhiya D. Rachmanto, Ahmad N. L. Nabhaan, Arief Setyanto, \"Deep Learning Model Compression Techniques Performance on Edge Devices,\" Matrik, 2024.",
+      "mla": "Rachmanto, R. D., et al.. \"Deep Learning Model Compression Techniques Performance on Edge Devices.\" Matrik, 2024.",
+      "custom_format": "\\bibitem{RaNaSe24} R.D. Rachmanto, A.N.L. Nabhaan, A. Setyanto, Deep learning model compression techniques performance on edge devices, Matrik \\textbf{1}(1) (2024) 1--10. https://doi.org/10.30812/matrik.v23i3.3961",
+      "paper_url": "https://doi.org/10.30812/matrik.v23i3.3961",
+      "journal_name": "Matrik",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_3390_buildings13112739",
+      "bibtex": "@article{10_3390_buildings13112739,\n  title={Improved Edge Folding Algorithm for 3D Building Models Taking into Account the Visual Features},\n  author={Haoyuan Bai and Tao Shen and Liang Huo and Xiaoyu Wang and Xinyu Liu},\n  journal={Buildings},\n  year={2023},\n  doi={10.3390/buildings13112739},\n  url={https://www.semanticscholar.org/paper/7edc9c1ab0da199c274c24b51cfd6dacd2172033}\n}",
+      "apa": "Bai, H., Shen, T., Huo, L., Wang, X., & Liu, X. (2023). Improved Edge Folding Algorithm for 3D Building Models Taking into Account the Visual Features. Buildings.",
+      "ieee": "Haoyuan Bai et al., \"Improved Edge Folding Algorithm for 3D Building Models Taking into Account the Visual Features,\" Buildings, 2023.",
+      "mla": "Bai, H., et al.. \"Improved Edge Folding Algorithm for 3D Building Models Taking into Account the Visual Features.\" Buildings, 2023.",
+      "custom_format": "\\bibitem{BaShHu23} H. Bai, T. Shen, L. Huo, X. Wang, X. Liu, Improved edge folding algorithm for 3d building models taking into account the visual features, Buildings \\textbf{1}(1) (2023) 1--10. https://doi.org/10.3390/buildings13112739",
+      "paper_url": "https://doi.org/10.3390/buildings13112739",
+      "journal_name": "Buildings",
+      "year": 2023
+    },
+    {
+      "paper_id": "rehman_partition_dimension_and_2020",
+      "bibtex": "@article{rehman_partition_dimension_and_2020,\n  title={Partition dimension and strong metric dimension of chain cycle},\n  author={Talmeez U. R. Rehman and N. Mehreen},\n  journal={},\n  year={2020},\n  url={https://www.semanticscholar.org/paper/d0ac6764614f6f9b3235e5859199576954fecd33}\n}",
+      "apa": "Rehman, T. U. R. & Mehreen, N. (2020). Partition dimension and strong metric dimension of chain cycle. .",
+      "ieee": "Talmeez U. R. Rehman, N. Mehreen, \"Partition dimension and strong metric dimension of chain cycle,\" , 2020.",
+      "mla": "Rehman, T. U. R., and N. Mehreen. \"Partition dimension and strong metric dimension of chain cycle.\" , 2020.",
+      "custom_format": "\\bibitem{ReMe20} T.U.R. Rehman, N. Mehreen, Partition dimension and strong metric dimension of chain cycle,  \\textbf{1}(1) (2020) 1--10. https://www.semanticscholar.org/paper/d0ac6764614f6f9b3235e5859199576954fecd33",
+      "paper_url": "https://www.semanticscholar.org/paper/d0ac6764614f6f9b3235e5859199576954fecd33",
+      "journal_name": "",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_24891_ea_24_1_172",
+      "bibtex": "@article{10_24891_ea_24_1_172,\n  title={The metric basis for assessing corporate sustainability},\n  author={Sergei V. PETROV},\n  journal={Economic Analysis: Theory and Practice},\n  year={2025},\n  doi={10.24891/ea.24.1.172},\n  url={https://doi.org/10.24891/ea.24.1.172}\n}",
+      "apa": "PETROV, S. V. (2025). The metric basis for assessing corporate sustainability. Economic Analysis: Theory and Practice.",
+      "ieee": "Sergei V. PETROV, \"The metric basis for assessing corporate sustainability,\" Economic Analysis: Theory and Practice, 2025.",
+      "mla": "PETROV, S. V.. \"The metric basis for assessing corporate sustainability.\" Economic Analysis: Theory and Practice, 2025.",
+      "custom_format": "\\bibitem{Pe25} S.V. PETROV, The metric basis for assessing corporate sustainability, Economic Analysis: Theory and Practice \\textbf{1}(1) (2025) 1--10. https://doi.org/10.24891/ea.24.1.172",
+      "paper_url": "https://doi.org/10.24891/ea.24.1.172",
+      "journal_name": "Economic Analysis: Theory and Practice",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_12988_IMF_2016_67102",
+      "bibtex": "@article{10_12988_IMF_2016_67102,\n  title={General results of local metric dimensions of edge-corona of graphs},\n  author={Rinurwati and Slamin and H. Suprajitno},\n  journal={},\n  year={2016},\n  doi={10.12988/IMF.2016.67102},\n  url={https://www.semanticscholar.org/paper/c53391a49a76596a59a9878d48f7fb36c6fe9022}\n}",
+      "apa": "Rinurwati, Slamin, & Suprajitno, H. (2016). General results of local metric dimensions of edge-corona of graphs. .",
+      "ieee": "Rinurwati, Slamin, H. Suprajitno, \"General results of local metric dimensions of edge-corona of graphs,\" , 2016.",
+      "mla": "Rinurwati, et al.. \"General results of local metric dimensions of edge-corona of graphs.\" , 2016.",
+      "custom_format": "\\bibitem{RiSlSu16} Rinurwati, Slamin, H. Suprajitno, General results of local metric dimensions of edge-corona of graphs,  \\textbf{1}(1) (2016) 1--10. https://doi.org/10.12988/IMF.2016.67102",
+      "paper_url": "https://doi.org/10.12988/IMF.2016.67102",
+      "journal_name": "",
+      "year": 2016
+    },
+    {
+      "paper_id": "10_1088_1402_4896_ad5fcb",
+      "bibtex": "@article{10_1088_1402_4896_ad5fcb,\n  title={Edge dependent fault-tolerance in certain carbon-based crystal structures},\n  author={Malkesh Singh and Sohan Lal and S. Sharma and Vijay Kumar Bhat},\n  journal={Physica Scripta},\n  year={2024},\n  doi={10.1088/1402-4896/ad5fcb},\n  url={https://www.semanticscholar.org/paper/5f3da012d63151c240b1c4488f99de89d8a11a0d}\n}",
+      "apa": "Singh, M., Lal, S., Sharma, S., & Bhat, V. K. (2024). Edge dependent fault-tolerance in certain carbon-based crystal structures. Physica Scripta.",
+      "ieee": "Malkesh Singh et al., \"Edge dependent fault-tolerance in certain carbon-based crystal structures,\" Physica Scripta, 2024.",
+      "mla": "Singh, M., et al.. \"Edge dependent fault-tolerance in certain carbon-based crystal structures.\" Physica Scripta, 2024.",
+      "custom_format": "\\bibitem{SiLaSh24} M. Singh, S. Lal, S. Sharma, V.K. Bhat, Edge dependent fault-tolerance in certain carbon-based crystal structures, Physica Scripta \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1088/1402-4896/ad5fcb",
+      "paper_url": "https://doi.org/10.1088/1402-4896/ad5fcb",
+      "journal_name": "Physica Scripta",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1080_10406638_2023_2206142",
+      "bibtex": "@article{10_1080_10406638_2023_2206142,\n  title={Vertex-Edge Partition Resolvability for Certain Carbon Nanocones},\n  author={S. Sharma and Malkesh Singh and V. K. Bhat},\n  journal={Polycyclic aromatic compounds (Print)},\n  year={2023},\n  doi={10.1080/10406638.2023.2206142},\n  url={https://www.semanticscholar.org/paper/751c99ccacc02fe077a7d9649a01b28bb18a8924}\n}",
+      "apa": "Sharma, S., Singh, M., & Bhat, V. K. (2023). Vertex-Edge Partition Resolvability for Certain Carbon Nanocones. Polycyclic aromatic compounds (Print).",
+      "ieee": "S. Sharma, Malkesh Singh, V. K. Bhat, \"Vertex-Edge Partition Resolvability for Certain Carbon Nanocones,\" Polycyclic aromatic compounds (Print), 2023.",
+      "mla": "Sharma, S., et al.. \"Vertex-Edge Partition Resolvability for Certain Carbon Nanocones.\" Polycyclic aromatic compounds (Print), 2023.",
+      "custom_format": "\\bibitem{ShSiBh23} S. Sharma, M. Singh, V.K. Bhat, Vertex-edge partition resolvability for certain carbon nanocones, Polycyclic aromatic compounds (Print) \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1080/10406638.2023.2206142",
+      "paper_url": "https://doi.org/10.1080/10406638.2023.2206142",
+      "journal_name": "Polycyclic aromatic compounds (Print)",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_30605_proximal_v8i1_4707",
+      "bibtex": "@article{10_30605_proximal_v8i1_4707,\n  title={Local Metric Dimension of the Line Graph of a Generalized Petersen Graph},\n  author={Nur Fahri Tadjuddin},\n  journal={Proximal},\n  year={2024},\n  doi={10.30605/proximal.v8i1.4707},\n  url={https://www.semanticscholar.org/paper/1bf766aaede756fcc33ea0851c7e48ac609f8847}\n}",
+      "apa": "Tadjuddin, N. F. (2024). Local Metric Dimension of the Line Graph of a Generalized Petersen Graph. Proximal.",
+      "ieee": "Nur Fahri Tadjuddin, \"Local Metric Dimension of the Line Graph of a Generalized Petersen Graph,\" Proximal, 2024.",
+      "mla": "Tadjuddin, N. F.. \"Local Metric Dimension of the Line Graph of a Generalized Petersen Graph.\" Proximal, 2024.",
+      "custom_format": "\\bibitem{Ta24} N.F. Tadjuddin, Local metric dimension of the line graph of a generalized petersen graph, Proximal \\textbf{1}(1) (2024) 1--10. https://doi.org/10.30605/proximal.v8i1.4707",
+      "paper_url": "https://doi.org/10.30605/proximal.v8i1.4707",
+      "journal_name": "Proximal",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_61091_ars157_10",
+      "bibtex": "@article{10_61091_ars157_10,\n  title={On Vertex-Edge Resolvability for the Web Graph and Prism Related Graph},\n  author={S. Sharma and Vijay Kumar Bhat},\n  journal={Ars Comb.},\n  year={2023},\n  doi={10.61091/ars157-10},\n  url={https://www.semanticscholar.org/paper/c760d73148a8ebb5725019acbf7267ed9618a8a1}\n}",
+      "apa": "Sharma, S. & Bhat, V. K. (2023). On Vertex-Edge Resolvability for the Web Graph and Prism Related Graph. Ars Comb..",
+      "ieee": "S. Sharma, Vijay Kumar Bhat, \"On Vertex-Edge Resolvability for the Web Graph and Prism Related Graph,\" Ars Comb., 2023.",
+      "mla": "Sharma, S., and Vijay Kumar Bhat. \"On Vertex-Edge Resolvability for the Web Graph and Prism Related Graph.\" Ars Comb., 2023.",
+      "custom_format": "\\bibitem{ShBh23} S. Sharma, V.K. Bhat, On vertex-edge resolvability for the web graph and prism related graph, Ars Comb. \\textbf{1}(1) (2023) 1--10. https://doi.org/10.61091/ars157-10",
+      "paper_url": "https://doi.org/10.61091/ars157-10",
+      "journal_name": "Ars Comb.",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_48550_arXiv_2312_07048",
+      "bibtex": "@article{10_48550_arXiv_2312_07048,\n  title={Edge Wasserstein Distance Loss for Oriented Object Detection},\n  author={Yuke Zhu and Yumeng Ruan and Zihua Xiong and Sheng Guo},\n  journal={arXiv.org},\n  year={2023},\n  doi={10.48550/arXiv.2312.07048},\n  url={https://www.semanticscholar.org/paper/96eedf259c85ee793648d362bcbeda017549267f}\n}",
+      "apa": "Zhu, Y., Ruan, Y., Xiong, Z., & Guo, S. (2023). Edge Wasserstein Distance Loss for Oriented Object Detection. arXiv.org.",
+      "ieee": "Yuke Zhu et al., \"Edge Wasserstein Distance Loss for Oriented Object Detection,\" arXiv.org, 2023.",
+      "mla": "Zhu, Y., et al.. \"Edge Wasserstein Distance Loss for Oriented Object Detection.\" arXiv.org, 2023.",
+      "custom_format": "\\bibitem{ZhRuXi23} Y. Zhu, Y. Ruan, Z. Xiong, S. Guo, Edge wasserstein distance loss for oriented object detection, arXiv.org \\textbf{1}(1) (2023) 1--10. https://doi.org/10.48550/arXiv.2312.07048",
+      "paper_url": "https://doi.org/10.48550/arXiv.2312.07048",
+      "journal_name": "arXiv.org",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_3390_math9121405",
+      "bibtex": "@article{10_3390_math9121405,\n  title={Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid},\n  author={Ali N. A. Koam and Ali Ahmad and Muhammad Ibrahim and Muhammad Azeem},\n  journal={Mathematics},\n  year={2021},\n  doi={10.3390/math9121405},\n  url={https://doi.org/10.3390/math9121405}\n}",
+      "apa": "Koam, A. N. A., Ahmad, A., Ibrahim, M., & Azeem, M. (2021). Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid. Mathematics.",
+      "ieee": "Ali N. A. Koam et al., \"Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid,\" Mathematics, 2021.",
+      "mla": "Koam, A. N. A., et al.. \"Edge Metric and Fault-Tolerant Edge Metric Dimension of Hollow Coronoid.\" Mathematics, 2021.",
+      "custom_format": "\\bibitem{KoAhIb21} A.N.A. Koam, A. Ahmad, M. Ibrahim, M. Azeem, Edge metric and fault-tolerant edge metric dimension of hollow coronoid, Mathematics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.3390/math9121405",
+      "paper_url": "https://doi.org/10.3390/math9121405",
+      "journal_name": "Mathematics",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1088_1742_6596_2279_1_012010",
+      "bibtex": "@inproceedings{10_1088_1742_6596_2279_1_012010,\n  title={Metric dimension of vertex shackle operation result graph on wheel and star graphs},\n  author={Ilham Saifudin and R. Umilasari and Abdul Jalil},\n  booktitle={Journal of Physics: Conference Series},\n  year={2022},\n  doi={10.1088/1742-6596/2279/1/012010},\n  url={https://www.semanticscholar.org/paper/b30251c52b7c28038fa5a29d5b550f2f7e7a803c}\n}",
+      "apa": "Saifudin, I., Umilasari, R., & Jalil, A. (2022). Metric dimension of vertex shackle operation result graph on wheel and star graphs. In Journal of Physics: Conference Series.",
+      "ieee": "Ilham Saifudin, R. Umilasari, Abdul Jalil, \"Metric dimension of vertex shackle operation result graph on wheel and star graphs,\" in Journal of Physics: Conference Series, 2022.",
+      "mla": "Saifudin, I., et al.. \"Metric dimension of vertex shackle operation result graph on wheel and star graphs.\" Journal of Physics: Conference Series, 2022.",
+      "custom_format": "\\bibitem{SaUmJa22} I. Saifudin, R. Umilasari, A. Jalil, Metric dimension of vertex shackle operation result graph on wheel and star graphs, Journal of Physics: Conference Series \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1088/1742-6596/2279/1/012010",
+      "paper_url": "https://doi.org/10.1088/1742-6596/2279/1/012010",
+      "journal_name": "Journal of Physics: Conference Series",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_21512_comtech_v13i2_7268",
+      "bibtex": "@article{10_21512_comtech_v13i2_7268,\n  title={The Alternative of Sensor Placement in Multi-Story Buildings through the Metric Dimension Approach: A Representation of Generalized Petersen Graphs},\n  author={A. Asmiati and A. Junaidi and A. Aldino and Ari S. Munandar},\n  journal={ComTech},\n  year={2022},\n  doi={10.21512/comtech.v13i2.7268},\n  url={https://www.semanticscholar.org/paper/450a8b671eee43b094c4136b60b4e44055d0aaa1}\n}",
+      "apa": "Asmiati, A., Junaidi, A., Aldino, A., & Munandar, A. S. (2022). The Alternative of Sensor Placement in Multi-Story Buildings through the Metric Dimension Approach: A Representation of Generalized Petersen Graphs. ComTech.",
+      "ieee": "A. Asmiati et al., \"The Alternative of Sensor Placement in Multi-Story Buildings through the Metric Dimension Approach: A Representation of Generalized Petersen Graphs,\" ComTech, 2022.",
+      "mla": "Asmiati, A., et al.. \"The Alternative of Sensor Placement in Multi-Story Buildings through the Metric Dimension Approach: A Representation of Generalized Petersen Graphs.\" ComTech, 2022.",
+      "custom_format": "\\bibitem{AsJuAl22} A. Asmiati, A. Junaidi, A. Aldino, A.S. Munandar, The alternative of sensor placement in multi-story buildings through the metric dimension approach: a representation of generalized petersen graphs, ComTech \\textbf{1}(1) (2022) 1--10. https://doi.org/10.21512/comtech.v13i2.7268",
+      "paper_url": "https://doi.org/10.21512/comtech.v13i2.7268",
+      "journal_name": "ComTech",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1081_AMP_200060407",
+      "bibtex": "@article{10_1081_AMP_200060407,\n  title={Redefining the Diamond Cutting Edge: A Technique that Complements Nano-Metric Surface Generation},\n  author={K. Ramesh and W. Lewis and S. Veldhuis and A. Yui},\n  journal={},\n  year={2005},\n  doi={10.1081/AMP-200060407},\n  url={https://www.semanticscholar.org/paper/8e5ce7be829df8310f1f388e3e07adf743d97f10}\n}",
+      "apa": "Ramesh, K., Lewis, W., Veldhuis, S., & Yui, A. (2005). Redefining the Diamond Cutting Edge: A Technique that Complements Nano-Metric Surface Generation. .",
+      "ieee": "K. Ramesh et al., \"Redefining the Diamond Cutting Edge: A Technique that Complements Nano-Metric Surface Generation,\" , 2005.",
+      "mla": "Ramesh, K., et al.. \"Redefining the Diamond Cutting Edge: A Technique that Complements Nano-Metric Surface Generation.\" , 2005.",
+      "custom_format": "\\bibitem{RaLeVe05} K. Ramesh, W. Lewis, S. Veldhuis, A. Yui, Redefining the diamond cutting edge: a technique that complements nano-metric surface generation,  \\textbf{1}(1) (2005) 1--10. https://doi.org/10.1081/AMP-200060407",
+      "paper_url": "https://doi.org/10.1081/AMP-200060407",
+      "journal_name": "",
+      "year": 2005
+    },
+    {
+      "paper_id": "10_21203_rs_3_rs_3800695_v1",
+      "bibtex": "@article{10_21203_rs_3_rs_3800695_v1,\n  title={Investigating The Metric Basis And Metric Dimension Of Graphene},\n  author={Wasim Abbas and Faryal Chaudhry and Deeba Afzal and Umar Farooq},\n  journal={},\n  year={2023},\n  doi={10.21203/rs.3.rs-3800695/v1},\n  url={https://doi.org/10.21203/rs.3.rs-3800695/v1}\n}",
+      "apa": "Abbas, W., Chaudhry, F., Afzal, D., & Farooq, U. (2023). Investigating The Metric Basis And Metric Dimension Of Graphene. .",
+      "ieee": "Wasim Abbas et al., \"Investigating The Metric Basis And Metric Dimension Of Graphene,\" , 2023.",
+      "mla": "Abbas, W., et al.. \"Investigating The Metric Basis And Metric Dimension Of Graphene.\" , 2023.",
+      "custom_format": "\\bibitem{AbChAf23} W. Abbas, F. Chaudhry, D. Afzal, U. Farooq, Investigating the metric basis and metric dimension of graphene,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.21203/rs.3.rs-3800695/v1",
+      "paper_url": "https://doi.org/10.21203/rs.3.rs-3800695/v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_31219_osf_io_m6rdh",
+      "bibtex": "@article{10_31219_osf_io_m6rdh,\n  title={A Physical Basis for the Symmetries in the Friedmann-Robertson-Walker Metric},\n  author={Fulvio Melia},\n  journal={},\n  year={2023},\n  doi={10.31219/osf.io/m6rdh},\n  url={https://doi.org/10.31219/osf.io/m6rdh}\n}",
+      "apa": "Melia, F. (2023). A Physical Basis for the Symmetries in the Friedmann-Robertson-Walker Metric. .",
+      "ieee": "Fulvio Melia, \"A Physical Basis for the Symmetries in the Friedmann-Robertson-Walker Metric,\" , 2023.",
+      "mla": "Melia, F.. \"A Physical Basis for the Symmetries in the Friedmann-Robertson-Walker Metric.\" , 2023.",
+      "custom_format": "\\bibitem{Me23} F. Melia, A physical basis for the symmetries in the friedmann-robertson-walker metric,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.31219/osf.io/m6rdh",
+      "paper_url": "https://doi.org/10.31219/osf.io/m6rdh",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1145_3679240_3734632",
+      "bibtex": "@article{10_1145_3679240_3734632,\n  title={Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting},\n  author={Anuj Kumar and H. Saravanan and Shivam Dwivedi and P. Arjunan},\n  journal={Energy-Efficient Computing and Networking},\n  year={2025},\n  doi={10.1145/3679240.3734632},\n  url={https://www.semanticscholar.org/paper/65af78beb9b61bbc8e83b01f332c30425c3d3c17}\n}",
+      "apa": "Kumar, A., Saravanan, H., Dwivedi, S., & Arjunan, P. (2025). Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting. Energy-Efficient Computing and Networking.",
+      "ieee": "Anuj Kumar et al., \"Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting,\" Energy-Efficient Computing and Networking, 2025.",
+      "mla": "Kumar, A., et al.. \"Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting.\" Energy-Efficient Computing and Networking, 2025.",
+      "custom_format": "\\bibitem{KuSaDw25} A. Kumar, H. Saravanan, S. Dwivedi, P. Arjunan, Mix-beats: mixer-enhanced basis expansion analysis for load forecasting, Energy-Efficient Computing and Networking \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1145/3679240.3734632",
+      "paper_url": "https://doi.org/10.1145/3679240.3734632",
+      "journal_name": "Energy-Efficient Computing and Networking",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_13189_ms_2025_130302",
+      "bibtex": "@article{10_13189_ms_2025_130302,\n  title={Edge Metric and Edge Metric Topology on Graph},\n  author={Roy John and Athira Chandran and G. Suresh Singh},\n  journal={Mathematics and Statistics},\n  year={2025},\n  doi={10.13189/ms.2025.130302},\n  url={https://doi.org/10.13189/ms.2025.130302}\n}",
+      "apa": "John, R., Chandran, A., & Singh, G. S. (2025). Edge Metric and Edge Metric Topology on Graph. Mathematics and Statistics.",
+      "ieee": "Roy John, Athira Chandran, G. Suresh Singh, \"Edge Metric and Edge Metric Topology on Graph,\" Mathematics and Statistics, 2025.",
+      "mla": "John, R., et al.. \"Edge Metric and Edge Metric Topology on Graph.\" Mathematics and Statistics, 2025.",
+      "custom_format": "\\bibitem{JoChSi25} R. John, A. Chandran, G.S. Singh, Edge metric and edge metric topology on graph, Mathematics and Statistics \\textbf{1}(1) (2025) 1--10. https://doi.org/10.13189/ms.2025.130302",
+      "paper_url": "https://doi.org/10.13189/ms.2025.130302",
+      "journal_name": "Mathematics and Statistics",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1038_s41598_025_24939_z",
+      "bibtex": "@article{10_1038_s41598_025_24939_z,\n  title={Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications},\n  author={Sakander Hayat and Rishi Naeem and Hafiz Muhammad Afzal Siddiqui and Amina Riaz and Muhammad Imran and Melaku Berhe Belay and Zeineb Klai},\n  journal={Scientific Reports},\n  year={2025},\n  doi={10.1038/s41598-025-24939-z},\n  url={https://doi.org/10.1038/s41598-025-24939-z}\n}",
+      "apa": "Hayat, S., Naeem, R., Siddiqui, H. M. A., Riaz, A., Imran, M., Belay, M. B., & Klai, Z. (2025). Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications. Scientific Reports.",
+      "ieee": "Sakander Hayat et al., \"Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications,\" Scientific Reports, 2025.",
+      "mla": "Hayat, S., et al.. \"Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications.\" Scientific Reports, 2025.",
+      "custom_format": "\\bibitem{HaNaSi25} S. Hayat, R. Naeem, H.M.A. Siddiqui, A. Riaz, M. Imran, M.B. Belay, Z. Klai, Metric, edge-metric, mixed-metric, and fault-tolerant metric dimensions of geometric networks with potential applications, Scientific Reports \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1038/s41598-025-24939-z",
+      "paper_url": "https://doi.org/10.1038/s41598-025-24939-z",
+      "journal_name": "Scientific Reports",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_3390_sym10080300",
+      "bibtex": "@article{10_3390_sym10080300,\n  title={Computing Metric Dimension and Metric Basis of 2D Lattice of Alpha-Boron Nanotubes},\n  author={Zafar Hussain and Mobeen Munir and Maqbool Chaudhary and Shin Min Kang},\n  journal={Symmetry},\n  year={2018},\n  doi={10.3390/sym10080300},\n  url={https://doi.org/10.3390/sym10080300}\n}",
+      "apa": "Hussain, Z., Munir, M., Chaudhary, M., & Kang, S. M. (2018). Computing Metric Dimension and Metric Basis of 2D Lattice of Alpha-Boron Nanotubes. Symmetry.",
+      "ieee": "Zafar Hussain et al., \"Computing Metric Dimension and Metric Basis of 2D Lattice of Alpha-Boron Nanotubes,\" Symmetry, 2018.",
+      "mla": "Hussain, Z., et al.. \"Computing Metric Dimension and Metric Basis of 2D Lattice of Alpha-Boron Nanotubes.\" Symmetry, 2018.",
+      "custom_format": "\\bibitem{HuMuCh18} Z. Hussain, M. Munir, M. Chaudhary, S.M. Kang, Computing metric dimension and metric basis of 2d lattice of alpha-boron nanotubes, Symmetry \\textbf{1}(1) (2018) 1--10. https://doi.org/10.3390/sym10080300",
+      "paper_url": "https://doi.org/10.3390/sym10080300",
+      "journal_name": "Symmetry",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_1038_s41598_020_76516_1",
+      "bibtex": "@article{10_1038_s41598_020_76516_1,\n  title={Metric basis and metric dimension of 1-pentagonal carbon nanocone networks},\n  author={Zafar Hussain and Mobeen Munir and Ashfaq Ahmad and Maqbool Chaudhary and Junaid Alam Khan and Imtiaz Ahmed},\n  journal={Scientific Reports},\n  year={2020},\n  doi={10.1038/s41598-020-76516-1},\n  url={https://doi.org/10.1038/s41598-020-76516-1}\n}",
+      "apa": "Hussain, Z., Munir, M., Ahmad, A., Chaudhary, M., Khan, J. A., & Ahmed, I. (2020). Metric basis and metric dimension of 1-pentagonal carbon nanocone networks. Scientific Reports.",
+      "ieee": "Zafar Hussain et al., \"Metric basis and metric dimension of 1-pentagonal carbon nanocone networks,\" Scientific Reports, 2020.",
+      "mla": "Hussain, Z., et al.. \"Metric basis and metric dimension of 1-pentagonal carbon nanocone networks.\" Scientific Reports, 2020.",
+      "custom_format": "\\bibitem{HuMuAh20} Z. Hussain, M. Munir, A. Ahmad, M. Chaudhary, J.A. Khan, I. Ahmed, Metric basis and metric dimension of 1-pentagonal carbon nanocone networks, Scientific Reports \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1038/s41598-020-76516-1",
+      "paper_url": "https://doi.org/10.1038/s41598-020-76516-1",
+      "journal_name": "Scientific Reports",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1142_s1793830920500706",
+      "bibtex": "@article{10_1142_s1793830920500706,\n  title={Computing edge version of metric and double metric dimensions of Kayak paddle graphs},\n  author={Muhammad Ahmad and Naeem Ameen and Zohaib Zahid and Sohail Zafar},\n  journal={Discrete Mathematics, Algorithms and Applications},\n  year={2020},\n  doi={10.1142/s1793830920500706},\n  url={https://doi.org/10.1142/s1793830920500706}\n}",
+      "apa": "Ahmad, M., Ameen, N., Zahid, Z., & Zafar, S. (2020). Computing edge version of metric and double metric dimensions of Kayak paddle graphs. Discrete Mathematics, Algorithms and Applications.",
+      "ieee": "Muhammad Ahmad et al., \"Computing edge version of metric and double metric dimensions of Kayak paddle graphs,\" Discrete Mathematics, Algorithms and Applications, 2020.",
+      "mla": "Ahmad, M., et al.. \"Computing edge version of metric and double metric dimensions of Kayak paddle graphs.\" Discrete Mathematics, Algorithms and Applications, 2020.",
+      "custom_format": "\\bibitem{AhAmZa20} M. Ahmad, N. Ameen, Z. Zahid, S. Zafar, Computing edge version of metric and double metric dimensions of kayak paddle graphs, Discrete Mathematics, Algorithms and Applications \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1142/s1793830920500706",
+      "paper_url": "https://doi.org/10.1142/s1793830920500706",
+      "journal_name": "Discrete Mathematics, Algorithms and Applications",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_14311_cej_2018_01_0005",
+      "bibtex": "@article{10_14311_cej_2018_01_0005,\n  title={METRIC SURVEY DOCUMENTATION AS A BASIS FOR UNDERSTANDING THE DEVELOPMENT OF RURAL ARCHITECTURE},\n  author={Zden\u011bk Poloprutsk\u00fd},\n  journal={Stavebn\u00ed obzor - Civil Engineering Journal},\n  year={2018},\n  doi={10.14311/cej.2018.01.0005},\n  url={https://doi.org/10.14311/cej.2018.01.0005}\n}",
+      "apa": "Poloprutsk\u00fd, Z. (2018). METRIC SURVEY DOCUMENTATION AS A BASIS FOR UNDERSTANDING THE DEVELOPMENT OF RURAL ARCHITECTURE. Stavebn\u00ed obzor - Civil Engineering Journal.",
+      "ieee": "Zden\u011bk Poloprutsk\u00fd, \"METRIC SURVEY DOCUMENTATION AS A BASIS FOR UNDERSTANDING THE DEVELOPMENT OF RURAL ARCHITECTURE,\" Stavebn\u00ed obzor - Civil Engineering Journal, 2018.",
+      "mla": "Poloprutsk\u00fd, Z.. \"METRIC SURVEY DOCUMENTATION AS A BASIS FOR UNDERSTANDING THE DEVELOPMENT OF RURAL ARCHITECTURE.\" Stavebn\u00ed obzor - Civil Engineering Journal, 2018.",
+      "custom_format": "\\bibitem{Po18} Z. Poloprutsk\u00fd, Metric survey documentation as a basis for understanding the development of rural architecture, Stavebn\u00ed obzor - Civil Engineering Journal \\textbf{1}(1) (2018) 1--10. https://doi.org/10.14311/cej.2018.01.0005",
+      "paper_url": "https://doi.org/10.14311/cej.2018.01.0005",
+      "journal_name": "Stavebn\u00ed obzor - Civil Engineering Journal",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_1080_10406638_2022_2086269",
+      "bibtex": "@article{10_1080_10406638_2022_2086269,\n  title={Computing Basis and Dimension of Chloroquine and Hydroxychloroquine by Using Chemical Graph Theory},\n  author={Yogesh Singh and H. Raza and S. Sharma and V. K. Bhat},\n  journal={Polycyclic aromatic compounds (Print)},\n  year={2022},\n  doi={10.1080/10406638.2022.2086269},\n  url={https://www.semanticscholar.org/paper/7ae5be424b85590e86ba41737e1af388740e457b}\n}",
+      "apa": "Singh, Y., Raza, H., Sharma, S., & Bhat, V. K. (2022). Computing Basis and Dimension of Chloroquine and Hydroxychloroquine by Using Chemical Graph Theory. Polycyclic aromatic compounds (Print).",
+      "ieee": "Yogesh Singh et al., \"Computing Basis and Dimension of Chloroquine and Hydroxychloroquine by Using Chemical Graph Theory,\" Polycyclic aromatic compounds (Print), 2022.",
+      "mla": "Singh, Y., et al.. \"Computing Basis and Dimension of Chloroquine and Hydroxychloroquine by Using Chemical Graph Theory.\" Polycyclic aromatic compounds (Print), 2022.",
+      "custom_format": "\\bibitem{SiRaSh22} Y. Singh, H. Raza, S. Sharma, V.K. Bhat, Computing basis and dimension of chloroquine and hydroxychloroquine by using chemical graph theory, Polycyclic aromatic compounds (Print) \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1080/10406638.2022.2086269",
+      "paper_url": "https://doi.org/10.1080/10406638.2022.2086269",
+      "journal_name": "Polycyclic aromatic compounds (Print)",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_2139_ssrn_4769772",
+      "bibtex": "@article{10_2139_ssrn_4769772,\n  title={Strong Edge Metric Dimension of Graphs},\n  author={Mojgan Afkhami},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.4769772},\n  url={https://doi.org/10.2139/ssrn.4769772}\n}",
+      "apa": "Afkhami, M. (2023). Strong Edge Metric Dimension of Graphs. .",
+      "ieee": "Mojgan Afkhami, \"Strong Edge Metric Dimension of Graphs,\" , 2023.",
+      "mla": "Afkhami, M.. \"Strong Edge Metric Dimension of Graphs.\" , 2023.",
+      "custom_format": "\\bibitem{Af23} M. Afkhami, Strong edge metric dimension of graphs,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.4769772",
+      "paper_url": "https://doi.org/10.2139/ssrn.4769772",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_2139_ssrn_4953611",
+      "bibtex": "@article{10_2139_ssrn_4953611,\n  title={\u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs},\n  author={Zeinab Shahmiri and Darko Dimitrov and Mostafa Tavakoli},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.4953611},\n  url={https://doi.org/10.2139/ssrn.4953611}\n}",
+      "apa": "Shahmiri, Z., Dimitrov, D., & Tavakoli, M. (2023). \u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs. .",
+      "ieee": "Zeinab Shahmiri, Darko Dimitrov, Mostafa Tavakoli, \"\u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs,\" , 2023.",
+      "mla": "Shahmiri, Z., et al.. \"\u200eFractional $K$-Clique Metric Dimension of (Edge) Corona Products of Graphs.\" , 2023.",
+      "custom_format": "\\bibitem{ShDiTa23} Z. Shahmiri, D. Dimitrov, M. Tavakoli, \u200efractional $k$-clique metric dimension of (edge) corona products of graphs,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.4953611",
+      "paper_url": "https://doi.org/10.2139/ssrn.4953611",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1109_icip_2002_1038901",
+      "bibtex": "@inproceedings{10_1109_icip_2002_1038901,\n  title={No-reference sharpness metric based on local edge kurtosis},\n  author={J. Caviedes and S. Gurbuz},\n  booktitle={Proceedings. International Conference on Image Processing},\n  year={2023},\n  doi={10.1109/icip.2002.1038901},\n  url={https://doi.org/10.1109/icip.2002.1038901}\n}",
+      "apa": "Caviedes, J. & Gurbuz, S. (2023). No-reference sharpness metric based on local edge kurtosis. In Proceedings. International Conference on Image Processing.",
+      "ieee": "J. Caviedes, S. Gurbuz, \"No-reference sharpness metric based on local edge kurtosis,\" in Proceedings. International Conference on Image Processing, 2023.",
+      "mla": "Caviedes, J., and S. Gurbuz. \"No-reference sharpness metric based on local edge kurtosis.\" Proceedings. International Conference on Image Processing, 2023.",
+      "custom_format": "\\bibitem{CaGu23} J. Caviedes, S. Gurbuz, No-reference sharpness metric based on local edge kurtosis, Proceedings. International Conference on Image Processing \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1109/icip.2002.1038901",
+      "paper_url": "https://doi.org/10.1109/icip.2002.1038901",
+      "journal_name": "Proceedings. International Conference on Image Processing",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_2172_1995426",
+      "bibtex": "@article{10_2172_1995426,\n  title={Physics Basis, Optimization, and Control for Integrated 3D Edge Long-pulse Tokamak Scenarios},\n  author={Zhihong Lin},\n  journal={},\n  year={2023},\n  doi={10.2172/1995426},\n  url={https://doi.org/10.2172/1995426}\n}",
+      "apa": "Lin, Z. (2023). Physics Basis, Optimization, and Control for Integrated 3D Edge Long-pulse Tokamak Scenarios. .",
+      "ieee": "Zhihong Lin, \"Physics Basis, Optimization, and Control for Integrated 3D Edge Long-pulse Tokamak Scenarios,\" , 2023.",
+      "mla": "Lin, Z.. \"Physics Basis, Optimization, and Control for Integrated 3D Edge Long-pulse Tokamak Scenarios.\" , 2023.",
+      "custom_format": "\\bibitem{Li23} Z. Lin, Physics basis, optimization, and control for integrated 3d edge long-pulse tokamak scenarios,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2172/1995426",
+      "paper_url": "https://doi.org/10.2172/1995426",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "saha_metric_dimension_vulnerability_2022",
+      "bibtex": "@article{saha_metric_dimension_vulnerability_2022,\n  title={METRIC DIMENSION VULNERABILITY IN TREES UNDER EDGE CONTRACTION},\n  author={L. Saha and Rupen Lama and Kalishankar Tiwary},\n  journal={},\n  year={2022},\n  url={https://www.semanticscholar.org/paper/b04f4e1aab96fbecb99747a3af8c9fdb06e55a3e}\n}",
+      "apa": "Saha, L., Lama, R., & Tiwary, K. (2022). METRIC DIMENSION VULNERABILITY IN TREES UNDER EDGE CONTRACTION. .",
+      "ieee": "L. Saha, Rupen Lama, Kalishankar Tiwary, \"METRIC DIMENSION VULNERABILITY IN TREES UNDER EDGE CONTRACTION,\" , 2022.",
+      "mla": "Saha, L., et al.. \"METRIC DIMENSION VULNERABILITY IN TREES UNDER EDGE CONTRACTION.\" , 2022.",
+      "custom_format": "\\bibitem{SaLaTi22} L. Saha, R. Lama, K. Tiwary, Metric dimension vulnerability in trees under edge contraction,  \\textbf{1}(1) (2022) 1--10. https://www.semanticscholar.org/paper/b04f4e1aab96fbecb99747a3af8c9fdb06e55a3e",
+      "paper_url": "https://www.semanticscholar.org/paper/b04f4e1aab96fbecb99747a3af8c9fdb06e55a3e",
+      "journal_name": "",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1007_s10878_021_00838_7",
+      "bibtex": "@article{10_1007_s10878_021_00838_7,\n  title={The effect of vertex and edge deletion on the edge metric dimension of graphs},\n  author={Meiqin Wei and Jun Yue and Lily Chen},\n  journal={Journal of Combinatorial Optimization},\n  year={2022},\n  doi={10.1007/s10878-021-00838-7},\n  url={https://doi.org/10.1007/s10878-021-00838-7}\n}",
+      "apa": "Wei, M., Yue, J., & Chen, L. (2022). The effect of vertex and edge deletion on the edge metric dimension of graphs. Journal of Combinatorial Optimization.",
+      "ieee": "Meiqin Wei, Jun Yue, Lily Chen, \"The effect of vertex and edge deletion on the edge metric dimension of graphs,\" Journal of Combinatorial Optimization, 2022.",
+      "mla": "Wei, M., et al.. \"The effect of vertex and edge deletion on the edge metric dimension of graphs.\" Journal of Combinatorial Optimization, 2022.",
+      "custom_format": "\\bibitem{WeYuCh22} M. Wei, J. Yue, L. Chen, The effect of vertex and edge deletion on the edge metric dimension of graphs, Journal of Combinatorial Optimization \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1007/s10878-021-00838-7",
+      "paper_url": "https://doi.org/10.1007/s10878-021-00838-7",
+      "journal_name": "Journal of Combinatorial Optimization",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1285_I15900932V40N2P99",
+      "bibtex": "@article{10_1285_I15900932V40N2P99,\n  title={On the edge metric dimension and Wiener index of the blow up of graphs},\n  author={M. Afkhami},\n  journal={},\n  year={2021},\n  doi={10.1285/I15900932V40N2P99},\n  url={https://www.semanticscholar.org/paper/5c03119dc8dd3d507e4ab9e543600d39c6c1441e}\n}",
+      "apa": "Afkhami, M. (2021). On the edge metric dimension and Wiener index of the blow up of graphs. .",
+      "ieee": "M. Afkhami, \"On the edge metric dimension and Wiener index of the blow up of graphs,\" , 2021.",
+      "mla": "Afkhami, M.. \"On the edge metric dimension and Wiener index of the blow up of graphs.\" , 2021.",
+      "custom_format": "\\bibitem{Af21} M. Afkhami, On the edge metric dimension and Wiener index of the blow up of graphs,  \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1285/I15900932V40N2P99",
+      "paper_url": "https://doi.org/10.1285/I15900932V40N2P99",
+      "journal_name": "",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_3934_math_2021531",
+      "bibtex": "@article{10_3934_math_2021531,\n  title={Metric dimension and edge metric dimension of windmill graphs},\n  author={Pradeep Singh and Sahil Sharma and Sunny Kumar Sharma and Vijay Kumar Bhat},\n  journal={AIMS Mathematics},\n  year={2021},\n  doi={10.3934/math.2021531},\n  url={https://doi.org/10.3934/math.2021531}\n}",
+      "apa": "Singh, P., Sharma, S., Sharma, S. K., & Bhat, V. K. (2021). Metric dimension and edge metric dimension of windmill graphs. AIMS Mathematics.",
+      "ieee": "Pradeep Singh et al., \"Metric dimension and edge metric dimension of windmill graphs,\" AIMS Mathematics, 2021.",
+      "mla": "Singh, P., et al.. \"Metric dimension and edge metric dimension of windmill graphs.\" AIMS Mathematics, 2021.",
+      "custom_format": "\\bibitem{SiShSh21} P. Singh, S. Sharma, S.K. Sharma, V.K. Bhat, Metric dimension and edge metric dimension of windmill graphs, AIMS Mathematics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.3934/math.2021531",
+      "paper_url": "https://doi.org/10.3934/math.2021531",
+      "journal_name": "AIMS Mathematics",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1002_jsid_132",
+      "bibtex": "@article{10_1002_jsid_132,\n  title={A perceived sharpness metric based on the luminance slope and overshoot of the motion\u2010induced edge\u2010blur profile},\n  author={Yuan Cui and Wen Song and Xiaohua Li},\n  journal={},\n  year={2012},\n  doi={10.1002/jsid.132},\n  url={https://www.semanticscholar.org/paper/e6179220929e24425b670bf9d5889afe3a0c5545}\n}",
+      "apa": "Cui, Y., Song, W., & Li, X. (2012). A perceived sharpness metric based on the luminance slope and overshoot of the motion\u2010induced edge\u2010blur profile. .",
+      "ieee": "Yuan Cui, Wen Song, Xiaohua Li, \"A perceived sharpness metric based on the luminance slope and overshoot of the motion\u2010induced edge\u2010blur profile,\" , 2012.",
+      "mla": "Cui, Y., et al.. \"A perceived sharpness metric based on the luminance slope and overshoot of the motion\u2010induced edge\u2010blur profile.\" , 2012.",
+      "custom_format": "\\bibitem{CuSoLi12} Y. Cui, W. Song, X. Li, A perceived sharpness metric based on the luminance slope and overshoot of the motion\u2010induced edge\u2010blur profile,  \\textbf{1}(1) (2012) 1--10. https://doi.org/10.1002/jsid.132",
+      "paper_url": "https://doi.org/10.1002/jsid.132",
+      "journal_name": "",
+      "year": 2012
+    },
+    {
+      "paper_id": "\u30e1\u30f3\u30c7\u30a3\u30e9\u30c3\u30bf\u30f4\u30a3\u30fc\u30ca_method_and_apparatus_2012",
+      "bibtex": "@article{\u30e1\u30f3\u30c7\u30a3\u30e9\u30c3\u30bf\u30f4\u30a3\u30fc\u30ca_method_and_apparatus_2012,\n  title={Method and apparatus for deriving the edge composite ties metric between nodes of a telecommunications call graph},\n  author={\u30d3\u30fc\uff0e \u30e1\u30f3\u30c7\u30a3\u30e9\u30c3\u30bf\uff0c\u30f4\u30a3\u30fc\u30ca and \u30c9\u30e9\u30f3\uff0c\u30c7\u30ec\u30af and \u30d5\u30a1\u30af\uff0c\u30b7\u30c8\u30e9 and \u30a6\u30ba\u30ca\u30a4\u30aa\u30b0\u30ea\u30e5\u30fc\uff0c\u30d5\u30bb\u30a4\u30f3 and \u30af\u30b7\u30e5\u30cb\u30fc\u30eb\uff0c\u30c0\u30f3},\n  journal={},\n  year={2012},\n  url={https://www.semanticscholar.org/paper/6cff34c555d1465ebeb9bbb25ad4269c01865925}\n}",
+      "apa": "\u30e1\u30f3\u30c7\u30a3\u30e9\u30c3\u30bf\uff0c\u30f4\u30a3\u30fc\u30ca, \u30d3., \u30c9\u30e9\u30f3\uff0c\u30c7\u30ec\u30af, \u30d5\u30a1\u30af\uff0c\u30b7\u30c8\u30e9, \u30a6\u30ba\u30ca\u30a4\u30aa\u30b0\u30ea\u30e5\u30fc\uff0c\u30d5\u30bb\u30a4\u30f3, & \u30af\u30b7\u30e5\u30cb\u30fc\u30eb\uff0c\u30c0\u30f3 (2012). Method and apparatus for deriving the edge composite ties metric between nodes of a telecommunications call graph. .",
+      "ieee": "\u30d3\u30fc\uff0e \u30e1\u30f3\u30c7\u30a3\u30e9\u30c3\u30bf\uff0c\u30f4\u30a3\u30fc\u30ca et al., \"Method and apparatus for deriving the edge composite ties metric between nodes of a telecommunications call graph,\" , 2012.",
+      "mla": "\u30e1\u30f3\u30c7\u30a3\u30e9\u30c3\u30bf\uff0c\u30f4\u30a3\u30fc\u30ca, \u30d3., et al.. \"Method and apparatus for deriving the edge composite ties metric between nodes of a telecommunications call graph.\" , 2012.",
+      "custom_format": "\\bibitem{\u30e1\u30f3\u30c9\u30e9\u30d5\u30a112} \u30d3. \u30e1\u30f3\u30c7\u30a3\u30e9\u30c3\u30bf\uff0c\u30f4\u30a3\u30fc\u30ca, \u30c9\u30e9\u30f3\uff0c\u30c7\u30ec\u30af, \u30d5\u30a1\u30af\uff0c\u30b7\u30c8\u30e9, \u30a6\u30ba\u30ca\u30a4\u30aa\u30b0\u30ea\u30e5\u30fc\uff0c\u30d5\u30bb\u30a4\u30f3, \u30af\u30b7\u30e5\u30cb\u30fc\u30eb\uff0c\u30c0\u30f3, Method and apparatus for deriving the edge composite ties metric between nodes of a telecommunications call graph,  \\textbf{1}(1) (2012) 1--10. https://www.semanticscholar.org/paper/6cff34c555d1465ebeb9bbb25ad4269c01865925",
+      "paper_url": "https://www.semanticscholar.org/paper/6cff34c555d1465ebeb9bbb25ad4269c01865925",
+      "journal_name": "",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_1007_978_0_387_69200_5_4",
+      "bibtex": "@article{10_1007_978_0_387_69200_5_4,\n  title={Basis Vector Fields and the Metric Tensor},\n  author={},\n  journal={Einstein's General Theory of Relativity},\n  year={2007},\n  doi={10.1007/978-0-387-69200-5_4},\n  url={https://doi.org/10.1007/978-0-387-69200-5_4}\n}",
+      "apa": "Unknown Author (2007). Basis Vector Fields and the Metric Tensor. Einstein's General Theory of Relativity.",
+      "ieee": "Unknown Author, \"Basis Vector Fields and the Metric Tensor,\" Einstein's General Theory of Relativity, 2007.",
+      "mla": "Unknown Author. \"Basis Vector Fields and the Metric Tensor.\" Einstein's General Theory of Relativity, 2007.",
+      "custom_format": "\\bibitem{Unknown07} Unknown Author, Basis vector fields and the metric tensor, Einstein's General Theory of Relativity \\textbf{1}(1) (2007) 1--10. https://doi.org/10.1007/978-0-387-69200-5_4",
+      "paper_url": "https://doi.org/10.1007/978-0-387-69200-5_4",
+      "journal_name": "Einstein's General Theory of Relativity",
+      "year": 2007
+    },
+    {
+      "paper_id": "10_1117_12_130263",
+      "bibtex": "@article{10_1117_12_130263,\n  title={Adaptable edge quality metric},\n  author={Robin N. Strickland},\n  journal={Optical Engineering},\n  year={1993},\n  doi={10.1117/12.130263},\n  url={https://doi.org/10.1117/12.130263}\n}",
+      "apa": "Strickland, R. N. (1993). Adaptable edge quality metric. Optical Engineering.",
+      "ieee": "Robin N. Strickland, \"Adaptable edge quality metric,\" Optical Engineering, 1993.",
+      "mla": "Strickland, R. N.. \"Adaptable edge quality metric.\" Optical Engineering, 1993.",
+      "custom_format": "\\bibitem{St93} R.N. Strickland, Adaptable edge quality metric, Optical Engineering \\textbf{1}(1) (1993) 1--10. https://doi.org/10.1117/12.130263",
+      "paper_url": "https://doi.org/10.1117/12.130263",
+      "journal_name": "Optical Engineering",
+      "year": 1993
+    },
+    {
+      "paper_id": "10_1117_2_1200910_1829",
+      "bibtex": "@article{10_1117_2_1200910_1829,\n  title={New metric describes edge noise in bilevel images},\n  author={Elisa Barney Smith},\n  journal={SPIE Newsroom},\n  year={2009},\n  doi={10.1117/2.1200910.1829},\n  url={https://doi.org/10.1117/2.1200910.1829}\n}",
+      "apa": "Smith, E. B. (2009). New metric describes edge noise in bilevel images. SPIE Newsroom.",
+      "ieee": "Elisa Barney Smith, \"New metric describes edge noise in bilevel images,\" SPIE Newsroom, 2009.",
+      "mla": "Smith, E. B.. \"New metric describes edge noise in bilevel images.\" SPIE Newsroom, 2009.",
+      "custom_format": "\\bibitem{Sm09} E.B. Smith, New metric describes edge noise in bilevel images, SPIE Newsroom \\textbf{1}(1) (2009) 1--10. https://doi.org/10.1117/2.1200910.1829",
+      "paper_url": "https://doi.org/10.1117/2.1200910.1829",
+      "journal_name": "SPIE Newsroom",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_9790_03752431",
+      "bibtex": "@article{10_9790_03752431,\n  title={Improvised Canny Edge Detector &amp; Performance Metric of Edge Detector Using WPR (White Pixel Ratio)},\n  author={Naveen Singh Dagar},\n  journal={IOSR Journal of Engineering},\n  year={2013},\n  doi={10.9790/03752431},\n  url={https://doi.org/10.9790/03752431}\n}",
+      "apa": "Dagar, N. S. (2013). Improvised Canny Edge Detector &amp; Performance Metric of Edge Detector Using WPR (White Pixel Ratio). IOSR Journal of Engineering.",
+      "ieee": "Naveen Singh Dagar, \"Improvised Canny Edge Detector &amp; Performance Metric of Edge Detector Using WPR (White Pixel Ratio),\" IOSR Journal of Engineering, 2013.",
+      "mla": "Dagar, N. S.. \"Improvised Canny Edge Detector &amp; Performance Metric of Edge Detector Using WPR (White Pixel Ratio).\" IOSR Journal of Engineering, 2013.",
+      "custom_format": "\\bibitem{Da13} N.S. Dagar, Improvised canny edge detector &amp; performance metric of edge detector using wpr (white pixel ratio), IOSR Journal of Engineering \\textbf{1}(1) (2013) 1--10. https://doi.org/10.9790/03752431",
+      "paper_url": "https://doi.org/10.9790/03752431",
+      "journal_name": "IOSR Journal of Engineering",
+      "year": 2013
+    },
+    {
+      "paper_id": "10_1117_1_601060",
+      "bibtex": "@article{10_1117_1_601060,\n  title={Edge\u2009quality\u2009metric\u2009for\u2009arbitrary\u2009two\u2010dimensional\u2009edges},\n  author={Paul V. Khvorostov},\n  journal={Optical Engineering},\n  year={1996},\n  doi={10.1117/1.601060},\n  url={https://doi.org/10.1117/1.601060}\n}",
+      "apa": "Khvorostov, P. V. (1996). Edge\u2009quality\u2009metric\u2009for\u2009arbitrary\u2009two\u2010dimensional\u2009edges. Optical Engineering.",
+      "ieee": "Paul V. Khvorostov, \"Edge\u2009quality\u2009metric\u2009for\u2009arbitrary\u2009two\u2010dimensional\u2009edges,\" Optical Engineering, 1996.",
+      "mla": "Khvorostov, P. V.. \"Edge\u2009quality\u2009metric\u2009for\u2009arbitrary\u2009two\u2010dimensional\u2009edges.\" Optical Engineering, 1996.",
+      "custom_format": "\\bibitem{Kh96} P.V. Khvorostov, Edge\u2009quality\u2009metric\u2009for\u2009arbitrary\u2009two\u2010dimensional\u2009edges, Optical Engineering \\textbf{1}(1) (1996) 1--10. https://doi.org/10.1117/1.601060",
+      "paper_url": "https://doi.org/10.1117/1.601060",
+      "journal_name": "Optical Engineering",
+      "year": 1996
+    },
+    {
+      "paper_id": "10_1017_cbo9780511571770_009",
+      "bibtex": "@article{10_1017_cbo9780511571770_009,\n  title={The money-metric as a basis for calculation of social welfare functions},\n  author={},\n  journal={Measuring Economic Welfare},\n  year={1983},\n  doi={10.1017/cbo9780511571770.009},\n  url={https://doi.org/10.1017/cbo9780511571770.009}\n}",
+      "apa": "Unknown Author (1983). The money-metric as a basis for calculation of social welfare functions. Measuring Economic Welfare.",
+      "ieee": "Unknown Author, \"The money-metric as a basis for calculation of social welfare functions,\" Measuring Economic Welfare, 1983.",
+      "mla": "Unknown Author. \"The money-metric as a basis for calculation of social welfare functions.\" Measuring Economic Welfare, 1983.",
+      "custom_format": "\\bibitem{Unknown83} Unknown Author, The money-metric as a basis for calculation of social welfare functions, Measuring Economic Welfare \\textbf{1}(1) (1983) 1--10. https://doi.org/10.1017/cbo9780511571770.009",
+      "paper_url": "https://doi.org/10.1017/cbo9780511571770.009",
+      "journal_name": "Measuring Economic Welfare",
+      "year": 1983
+    },
+    {
+      "paper_id": "10_5220_0002821700910097",
+      "bibtex": "@inproceedings{10_5220_0002821700910097,\n  title={A NOVEL PERFORMANCE METRIC FOR GREY-SCALE EDGE DETECTION},\n  author={},\n  booktitle={Proceedings of the International Conference on Computer Vision Theory and Applications},\n  year={2010},\n  doi={10.5220/0002821700910097},\n  url={https://doi.org/10.5220/0002821700910097}\n}",
+      "apa": "Unknown Author (2010). A NOVEL PERFORMANCE METRIC FOR GREY-SCALE EDGE DETECTION. In Proceedings of the International Conference on Computer Vision Theory and Applications.",
+      "ieee": "Unknown Author, \"A NOVEL PERFORMANCE METRIC FOR GREY-SCALE EDGE DETECTION,\" in Proceedings of the International Conference on Computer Vision Theory and Applications, 2010.",
+      "mla": "Unknown Author. \"A NOVEL PERFORMANCE METRIC FOR GREY-SCALE EDGE DETECTION.\" Proceedings of the International Conference on Computer Vision Theory and Applications, 2010.",
+      "custom_format": "\\bibitem{Unknown10} Unknown Author, A novel performance metric for grey-scale edge detection, Proceedings of the International Conference on Computer Vision Theory and Applications \\textbf{1}(1) (2010) 1--10. https://doi.org/10.5220/0002821700910097",
+      "paper_url": "https://doi.org/10.5220/0002821700910097",
+      "journal_name": "Proceedings of the International Conference on Computer Vision Theory and Applications",
+      "year": 2010
+    },
+    {
+      "paper_id": "10_1109_icip_2010_5653763",
+      "bibtex": "@inproceedings{10_1109_icip_2010_5653763,\n  title={Metric tensor for multicomponent edge detection},\n  author={Sylvain Rousseau and David Helbert and Philippe Carre and Jacques Blanc-Talon},\n  booktitle={2010 IEEE International Conference on Image Processing},\n  year={2010},\n  doi={10.1109/icip.2010.5653763},\n  url={https://doi.org/10.1109/icip.2010.5653763}\n}",
+      "apa": "Rousseau, S., Helbert, D., Carre, P., & Blanc-Talon, J. (2010). Metric tensor for multicomponent edge detection. In 2010 IEEE International Conference on Image Processing.",
+      "ieee": "Sylvain Rousseau et al., \"Metric tensor for multicomponent edge detection,\" in 2010 IEEE International Conference on Image Processing, 2010.",
+      "mla": "Rousseau, S., et al.. \"Metric tensor for multicomponent edge detection.\" 2010 IEEE International Conference on Image Processing, 2010.",
+      "custom_format": "\\bibitem{RoHeCa10} S. Rousseau, D. Helbert, P. Carre, J. Blanc-Talon, Metric tensor for multicomponent edge detection, 2010 IEEE International Conference on Image Processing \\textbf{1}(1) (2010) 1--10. https://doi.org/10.1109/icip.2010.5653763",
+      "paper_url": "https://doi.org/10.1109/icip.2010.5653763",
+      "journal_name": "2010 IEEE International Conference on Image Processing",
+      "year": 2010
+    },
+    {
+      "paper_id": "10_1109_icip_2011_6116379",
+      "bibtex": "@inproceedings{10_1109_icip_2011_6116379,\n  title={An image quality assessment metric based on Non-shift Edge},\n  author={Wufeng Xue and Xuanqin Mou},\n  booktitle={2011 18th IEEE International Conference on Image Processing},\n  year={2011},\n  doi={10.1109/icip.2011.6116379},\n  url={https://doi.org/10.1109/icip.2011.6116379}\n}",
+      "apa": "Xue, W. & Mou, X. (2011). An image quality assessment metric based on Non-shift Edge. In 2011 18th IEEE International Conference on Image Processing.",
+      "ieee": "Wufeng Xue, Xuanqin Mou, \"An image quality assessment metric based on Non-shift Edge,\" in 2011 18th IEEE International Conference on Image Processing, 2011.",
+      "mla": "Xue, W., and Xuanqin Mou. \"An image quality assessment metric based on Non-shift Edge.\" 2011 18th IEEE International Conference on Image Processing, 2011.",
+      "custom_format": "\\bibitem{XuMo11} W. Xue, X. Mou, An image quality assessment metric based on non-shift edge, 2011 18th IEEE International Conference on Image Processing \\textbf{1}(1) (2011) 1--10. https://doi.org/10.1109/icip.2011.6116379",
+      "paper_url": "https://doi.org/10.1109/icip.2011.6116379",
+      "journal_name": "2011 18th IEEE International Conference on Image Processing",
+      "year": 2011
+    },
+    {
+      "paper_id": "10_1007_s00357_007_0011_0",
+      "bibtex": "@article{10_1007_s00357_007_0011_0,\n  title={The Metric Bridge Partition Problem: Partitioning of a Metric Space into Two Subspaces Linked by an Edge in Any Optimal Realization},\n  author={Alain Hertz and Sacha Varone},\n  journal={Journal of Classification},\n  year={2007},\n  doi={10.1007/s00357-007-0011-0},\n  url={https://doi.org/10.1007/s00357-007-0011-0}\n}",
+      "apa": "Hertz, A. & Varone, S. (2007). The Metric Bridge Partition Problem: Partitioning of a Metric Space into Two Subspaces Linked by an Edge in Any Optimal Realization. Journal of Classification.",
+      "ieee": "Alain Hertz, Sacha Varone, \"The Metric Bridge Partition Problem: Partitioning of a Metric Space into Two Subspaces Linked by an Edge in Any Optimal Realization,\" Journal of Classification, 2007.",
+      "mla": "Hertz, A., and Sacha Varone. \"The Metric Bridge Partition Problem: Partitioning of a Metric Space into Two Subspaces Linked by an Edge in Any Optimal Realization.\" Journal of Classification, 2007.",
+      "custom_format": "\\bibitem{HeVa07} A. Hertz, S. Varone, The metric bridge partition problem: partitioning of a metric space into two subspaces linked by an edge in any optimal realization, Journal of Classification \\textbf{1}(1) (2007) 1--10. https://doi.org/10.1007/s00357-007-0011-0",
+      "paper_url": "https://doi.org/10.1007/s00357-007-0011-0",
+      "journal_name": "Journal of Classification",
+      "year": 2007
+    },
+    {
+      "paper_id": "10_54729_2789_8547_1036",
+      "bibtex": "@article{10_54729_2789_8547_1036,\n  title={PARA(NOIA)METRIC: ARCHITECTURE BEYOND THE EDGE OF RATIONALITY},\n  author={Marwan Halabi},\n  journal={Architecture and Planning Journal (APJ)},\n  year={2020},\n  doi={10.54729/2789-8547.1036},\n  url={https://doi.org/10.54729/2789-8547.1036}\n}",
+      "apa": "Halabi, M. (2020). PARA(NOIA)METRIC: ARCHITECTURE BEYOND THE EDGE OF RATIONALITY. Architecture and Planning Journal (APJ).",
+      "ieee": "Marwan Halabi, \"PARA(NOIA)METRIC: ARCHITECTURE BEYOND THE EDGE OF RATIONALITY,\" Architecture and Planning Journal (APJ), 2020.",
+      "mla": "Halabi, M.. \"PARA(NOIA)METRIC: ARCHITECTURE BEYOND THE EDGE OF RATIONALITY.\" Architecture and Planning Journal (APJ), 2020.",
+      "custom_format": "\\bibitem{Ha20} M. Halabi, Para(noia)metric: architecture beyond the edge of rationality, Architecture and Planning Journal (APJ) \\textbf{1}(1) (2020) 1--10. https://doi.org/10.54729/2789-8547.1036",
+      "paper_url": "https://doi.org/10.54729/2789-8547.1036",
+      "journal_name": "Architecture and Planning Journal (APJ)",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1016_j_comgeo_2009_03_008",
+      "bibtex": "@article{10_1016_j_comgeo_2009_03_008,\n  title={Computing the dilation of edge-augmented graphs in metric spaces},\n  author={Christian Wulff-Nilsen},\n  journal={Computational Geometry},\n  year={2010},\n  doi={10.1016/j.comgeo.2009.03.008},\n  url={https://doi.org/10.1016/j.comgeo.2009.03.008}\n}",
+      "apa": "Wulff-Nilsen, C. (2010). Computing the dilation of edge-augmented graphs in metric spaces. Computational Geometry.",
+      "ieee": "Christian Wulff-Nilsen, \"Computing the dilation of edge-augmented graphs in metric spaces,\" Computational Geometry, 2010.",
+      "mla": "Wulff-Nilsen, C.. \"Computing the dilation of edge-augmented graphs in metric spaces.\" Computational Geometry, 2010.",
+      "custom_format": "\\bibitem{Wu10} C. Wulff-Nilsen, Computing the dilation of edge-augmented graphs in metric spaces, Computational Geometry \\textbf{1}(1) (2010) 1--10. https://doi.org/10.1016/j.comgeo.2009.03.008",
+      "paper_url": "https://doi.org/10.1016/j.comgeo.2009.03.008",
+      "journal_name": "Computational Geometry",
+      "year": 2010
+    },
+    {
+      "paper_id": "10_2140_pjm_1975_60_159",
+      "bibtex": "@article{10_2140_pjm_1975_60_159,\n  title={A metric basis characterization of Euclidean space},\n  author={Grattan Murphy},\n  journal={Pacific Journal of Mathematics},\n  year={1975},\n  doi={10.2140/pjm.1975.60.159},\n  url={https://doi.org/10.2140/pjm.1975.60.159}\n}",
+      "apa": "Murphy, G. (1975). A metric basis characterization of Euclidean space. Pacific Journal of Mathematics.",
+      "ieee": "Grattan Murphy, \"A metric basis characterization of Euclidean space,\" Pacific Journal of Mathematics, 1975.",
+      "mla": "Murphy, G.. \"A metric basis characterization of Euclidean space.\" Pacific Journal of Mathematics, 1975.",
+      "custom_format": "\\bibitem{Mu75} G. Murphy, A metric basis characterization of euclidean space, Pacific Journal of Mathematics \\textbf{1}(1) (1975) 1--10. https://doi.org/10.2140/pjm.1975.60.159",
+      "paper_url": "https://doi.org/10.2140/pjm.1975.60.159",
+      "journal_name": "Pacific Journal of Mathematics",
+      "year": 1975
+    },
+    {
+      "paper_id": "10_1109_access_2020_2990109",
+      "bibtex": "@article{10_1109_access_2020_2990109,\n  title={Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension},\n  author={Ali N. A. Koam and Ali Ahmad},\n  journal={IEEE Access},\n  year={2020},\n  doi={10.1109/access.2020.2990109},\n  url={https://doi.org/10.1109/access.2020.2990109}\n}",
+      "apa": "Koam, A. N. A. & Ahmad, A. (2020). Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension. IEEE Access.",
+      "ieee": "Ali N. A. Koam, Ali Ahmad, \"Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension,\" IEEE Access, 2020.",
+      "mla": "Koam, A. N. A., and Ali Ahmad. \"Barycentric Subdivision of Cayley Graphs With Constant Edge Metric Dimension.\" IEEE Access, 2020.",
+      "custom_format": "\\bibitem{KoAh20} A.N.A. Koam, A. Ahmad, Barycentric subdivision of cayley graphs with constant edge metric dimension, IEEE Access \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1109/access.2020.2990109",
+      "paper_url": "https://doi.org/10.1109/access.2020.2990109",
+      "journal_name": "IEEE Access",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1007_s12190_024_02231_z",
+      "bibtex": "@article{10_1007_s12190_024_02231_z,\n  title={Edge resolvability of generalized honeycomb rhombic torus},\n  author={Ayesha Andalib Kiran and Hani Shaker and S. Saputro},\n  journal={Journal of Applied Mathematics and Computation},\n  year={2024},\n  doi={10.1007/s12190-024-02231-z},\n  url={https://www.semanticscholar.org/paper/feab18d3362a5b75c9bcfd4e63b2fb37e78bf36b}\n}",
+      "apa": "Kiran, A. A., Shaker, H., & Saputro, S. (2024). Edge resolvability of generalized honeycomb rhombic torus. Journal of Applied Mathematics and Computation.",
+      "ieee": "Ayesha Andalib Kiran, Hani Shaker, S. Saputro, \"Edge resolvability of generalized honeycomb rhombic torus,\" Journal of Applied Mathematics and Computation, 2024.",
+      "mla": "Kiran, A. A., et al.. \"Edge resolvability of generalized honeycomb rhombic torus.\" Journal of Applied Mathematics and Computation, 2024.",
+      "custom_format": "\\bibitem{KiShSa24} A.A. Kiran, H. Shaker, S. Saputro, Edge resolvability of generalized honeycomb rhombic torus, Journal of Applied Mathematics and Computation \\textbf{1}(1) (2024) 1--10. https://doi.org/10.1007/s12190-024-02231-z",
+      "paper_url": "https://doi.org/10.1007/s12190-024-02231-z",
+      "journal_name": "Journal of Applied Mathematics and Computation",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1201_b10166_14",
+      "bibtex": "@article{10_1201_b10166_14,\n  title={6Chapter Energy Medicine: Cutting Edge Modalities},\n  author={},\n  journal={The Scientific Basis of Integrative Medicine},\n  year={2009},\n  doi={10.1201/b10166-14},\n  url={https://doi.org/10.1201/b10166-14}\n}",
+      "apa": "Unknown Author (2009). 6Chapter Energy Medicine: Cutting Edge Modalities. The Scientific Basis of Integrative Medicine.",
+      "ieee": "Unknown Author, \"6Chapter Energy Medicine: Cutting Edge Modalities,\" The Scientific Basis of Integrative Medicine, 2009.",
+      "mla": "Unknown Author. \"6Chapter Energy Medicine: Cutting Edge Modalities.\" The Scientific Basis of Integrative Medicine, 2009.",
+      "custom_format": "\\bibitem{Unknown09} Unknown Author, 6chapter energy medicine: cutting edge modalities, The Scientific Basis of Integrative Medicine \\textbf{1}(1) (2009) 1--10. https://doi.org/10.1201/b10166-14",
+      "paper_url": "https://doi.org/10.1201/b10166-14",
+      "journal_name": "The Scientific Basis of Integrative Medicine",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_1117_12_2304701_5783316325001",
+      "bibtex": "@article{10_1117_12_2304701_5783316325001,\n  title={},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.1117/12.2304701.5783316325001},\n  url={https://doi.org/10.1117/12.2304701.5783316325001}\n}",
+      "apa": "Unknown Author (2023). . .",
+      "ieee": "Unknown Author, \",\" , 2023.",
+      "mla": "Unknown Author. \".\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, ,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1117/12.2304701.5783316325001",
+      "paper_url": "https://doi.org/10.1117/12.2304701.5783316325001",
+      "journal_name": "",
+      "year": 2023
+    }
+  ]
+}

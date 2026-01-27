@@ -418,6 +418,16 @@ def run_citation_generation(topic):
         
     finally:
         loop.close()
+
+
+@app.route('/debug')
+def debug_form():
+    """Debug form page."""
+    return send_file('debug_form.html')
+
+
+@app.route('/test')
+def test():
     """Test endpoint to verify the system works."""
     try:
         system = get_system()
@@ -443,31 +453,3 @@ if __name__ == '__main__':
     print("📖 Citations page: http://localhost:5000/citations")
     
     app.run(debug=True, host='0.0.0.0', port=5000, threaded=True)
-
-
-def run_citation_generation(topic):
-    """Run citation generation in a separate thread."""
-    loop = asyncio.new_event_loop()
-    asyncio.set_event_loop(loop)
-    
-    try:
-        # Get research system and run research
-        system = get_system()
-        results = loop.run_until_complete(system.research(topic))
-        
-        # Generate custom citations
-        formatter = CustomCitationFormatter()
-        custom_citations = loop.run_until_complete(formatter.process(results.papers))
-        
-        # Get statistics
-        stats = formatter.get_citation_stats(custom_citations)
-        
-        return {
-            'topic': topic,
-            'citations': custom_citations,
-            'stats': stats,
-            'total_papers': len(results.papers)
-        }
-        
-    finally:
-        loop.close()

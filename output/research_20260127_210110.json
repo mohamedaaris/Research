@@ -1,0 +1,1378 @@
+{
+  "topic": "cyclic bipartite graph",
+  "generated_at": "2026-01-27T21:01:10.338614",
+  "summary": {
+    "papers_analyzed": 47,
+    "claims_extracted": 1,
+    "contradictions_found": 0,
+    "research_gaps_identified": 20
+  },
+  "topic_map": {
+    "main_topic": "cyclic bipartite graph",
+    "subtopics": [],
+    "methods": [
+      "Network Analysis",
+      "Graph Theory"
+    ],
+    "keywords": [
+      "node classification",
+      "cyclic",
+      "graph convolution",
+      "graph attention",
+      "link prediction",
+      "bipartite",
+      "graph pooling",
+      "graph",
+      "message passing"
+    ],
+    "datasets": [
+      "Reddit",
+      "PubMed",
+      "OGB",
+      "Cora",
+      "CiteSeer"
+    ]
+  },
+  "papers": [
+    {
+      "title": "Partitioning the vertex set of a bipartite graph into complete bipartite subgraphs",
+      "authors": [
+        "Oleg Duginov"
+      ],
+      "year": 2014,
+      "venue": "Discrete Mathematics &amp; Theoretical Computer Science",
+      "relevance_score": 0.5,
+      "abstract": "<jats:p>Graph Theory</jats:p>\n          <jats:p xml:lang=\"en\">Given a graph and a positive integer k, the biclique vertex-partition problem asks whether the vertex set of the graph can be partitioned into at most k bicliques (connected complete bipartite subgraphs). It is known that this problem is ...",
+      "doi": "10.46298/dmtcs.2090",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.46298/dmtcs.2090"
+    },
+    {
+      "title": "A Bipartite Heterogeneous Graph Recommendation Model based on Graph Neural Network",
+      "authors": [
+        "Matilda Norton",
+        "Silas Donovan",
+        "John Beckett",
+        "Dashiell Hawthorne"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.41000000000000003,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>Nowadays, big data and information technology have become mainstream, and the rapid growth of information volume has greatly met people's needs. However, the surge in data volume has also brought a negative impact on people, the most prominent proble...",
+      "doi": "10.21203/rs.3.rs-2937461/v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-2937461/v1"
+    },
+    {
+      "title": "Algorithm 1: Extended bipartite graph convolutional network algorithm.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36000000000000004,
+      "abstract": "",
+      "doi": "10.7717/peerj-cs.1858/table-9",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj-cs.1858/table-9"
+    },
+    {
+      "title": "Bipartite, Acyclic, and Eulerian Graphs",
+      "authors": [],
+      "year": 2023,
+      "venue": "Applied Graph Theory",
+      "relevance_score": 0.36000000000000004,
+      "abstract": "",
+      "doi": "10.1142/9789811273117_0004",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/9789811273117_0004"
+    },
+    {
+      "title": "Label Propagation Based on Bipartite Graph",
+      "authors": [
+        "Yaoxing Li",
+        "Liang Bai"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>Label propagation is a popular graph-based semi-supervised learning framework. Its effectiveness depends on the distribution of prior labels. If there are no objects with prior labels in parts of classes, the label propagation has a very bad performa...",
+      "doi": "10.21203/rs.3.rs-2144863/v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-2144863/v1"
+    },
+    {
+      "title": "Exact Weight Perfect Matching of Bipartite Graph Problem Simplified",
+      "authors": [
+        "Thinh D. Nguyen"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36,
+      "abstract": "<p>The study of perebor dates back to the Soviet-era mathematics, especially in the 1980s [1]. Post-Soviet mathematicians has been working on many problems in combinatorial optimization. One of them is Exact Weight Perfect Matching of Bipartite Graph (EWPM). This particular problem has been thorough...",
+      "doi": "10.31219/osf.io/fv9jz",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.31219/osf.io/fv9jz"
+    },
+    {
+      "title": "Note on cyclic decompositions of complete bipartite graphs into cubes",
+      "authors": [
+        "Dalibor Fron\u010dek"
+      ],
+      "year": 1999,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.7151/dmgt.1096",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.1096"
+    },
+    {
+      "title": "Double dominating sequences in bipartite  and co-bipartite graphs",
+      "authors": [
+        "Gopika Sharma",
+        "Arti Pandey"
+      ],
+      "year": 2025,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.7151/dmgt.2548",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.2548"
+    },
+    {
+      "title": "Graph Convolutional Matrix Completion for Bipartite Edge Prediction",
+      "authors": [
+        "Yuexin Wu",
+        "Hanxiao Liu",
+        "Yiming Yang"
+      ],
+      "year": 2018,
+      "venue": "Proceedings of the 10th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.5220/0006900000510060",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5220/0006900000510060"
+    },
+    {
+      "title": "The Connectivity of a Bipartite Graph and Its Bipartite Complementary Graph",
+      "authors": [
+        "Yingzhi Tian",
+        "Huaping Ma",
+        "Liyun Wu"
+      ],
+      "year": 2020,
+      "venue": "Parallel Processing Letters",
+      "relevance_score": 0.3,
+      "abstract": "<jats:p> In 1956, Nordhaus and Gaddum gave lower and upper bounds on the sum and the product of the chromatic number of a graph and its complement, in terms of the order of the graph. Since then, any bound on the sum and/or the product of an invariant in a graph [Formula: see text] and the same inva...",
+      "doi": "10.1142/s0129626420400058",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s0129626420400058"
+    },
+    {
+      "title": "Excluding a bipartite circle graph from line graphs",
+      "authors": [
+        "Sang\u2010il Oum"
+      ],
+      "year": 2009,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.3,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>We prove that, for a fixed bipartite circle graph <jats:italic>H</jats:italic>, all line graphs with sufficiently large rank\u2010width (or clique\u2010width) must have a pivot\u2010minor isomorphic to <jats:italic>H</jats:italic>. To prove this, we introduce graphic delta\u2010...",
+      "doi": "10.1002/jgt.20353",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/jgt.20353"
+    },
+    {
+      "title": "b-CHROMATIC NUMBER OF CORONA PRODUCT OF CROWN GRAPH AND COMPLETE BIPARTITE GRAPH WITH PATH GRAPH",
+      "authors": [
+        "Vijayalakshmi D",
+        "Mohanappriya G"
+      ],
+      "year": 2015,
+      "venue": "Kongunadu Research Journal",
+      "relevance_score": 0.3,
+      "abstract": "<jats:p>A b-coloring of a graph is a proper coloring where each color admits at least one node (called dominating node) adjacent to every other used color. The maximum number of colors needed to b-color a graph G is called the b-chromatic number and is denoted by \u03c6(G). In this paper, we find the b-c...",
+      "doi": "10.26524/krj311",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.26524/krj311"
+    },
+    {
+      "title": "Soft Bipartite Graph: A New Bipartite Graph in the Horizon",
+      "authors": [],
+      "year": 2024,
+      "venue": "Journal of Information Systems Engineering and Management",
+      "relevance_score": 0.28,
+      "abstract": "",
+      "doi": "10.52783/jisem.v9i4.86",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.52783/jisem.v9i4.86"
+    },
+    {
+      "title": "BIPARTITE GRAPH",
+      "authors": [],
+      "year": 2023,
+      "venue": "SpringerReference",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.1007/springerreference_5278",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/springerreference_5278"
+    },
+    {
+      "title": "Figure 1: Rating matrix and bipartite graph.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.7717/peerj-cs.1335/fig-1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj-cs.1335/fig-1"
+    },
+    {
+      "title": "Supplemental Information 2: Main dataset for bipartite graph",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.7717/peerj-cs.1644/supp-2",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj-cs.1644/supp-2"
+    },
+    {
+      "title": "Information ratio of graph based and bipartite access structures",
+      "authors": [
+        "M\u00e1t\u00e9 Gyarmati"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.15476/elte.2022.227",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.15476/elte.2022.227"
+    },
+    {
+      "title": "Figure 1: Representation of a metabolic network as a bipartite graph.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.7717/peerj.3860/fig-1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.3860/fig-1"
+    },
+    {
+      "title": "Figure 2: Bipartite graph constructed from the 12-node network in Fig. 1.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.7717/peerj.2568/fig-2",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.2568/fig-2"
+    },
+    {
+      "title": "Mutualism, Parasitism and Bipartite Graphs",
+      "authors": [],
+      "year": 2023,
+      "venue": "Applying Graph Theory in Ecological Research",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.1017/9781316105450.008",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/9781316105450.008"
+    },
+    {
+      "title": "Stable community detection in signed bipartite graph : a bitruss-based model",
+      "authors": [
+        "Kai Hiu Chung"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.14711/thesis-991013248659303412",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.14711/thesis-991013248659303412"
+    },
+    {
+      "title": "Proteomic Parsimony through Bipartite Graph Analysis Improves Accuracy and Transparency",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.1021/pr070230d.s001",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1021/pr070230d.s001"
+    },
+    {
+      "title": "Enhancing Missing Data Imputation Through Combined Bipartite Graph and Complete Directed Graph",
+      "authors": [
+        "Zhaoyang Zhang",
+        "Hongtu Zhu",
+        "Yingjie Zhang",
+        "Hai Shu",
+        "Ziqi Chen"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.2139/ssrn.5148045",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.5148045"
+    },
+    {
+      "title": "Check if a Graph is Bipartite or not &amp;#x26; Bipartite Graph Coloring using Java",
+      "authors": [
+        "Raja Marappan",
+        "Sarveshvara Raja",
+        "Shakthigaa Raja",
+        "Saraswatikaniga Raja"
+      ],
+      "year": 2022,
+      "venue": "International Journal of Mathematical, Engineering, Biological and Applied Computing",
+      "relevance_score": 0.24000000000000002,
+      "abstract": "",
+      "doi": "10.31586/ijmebac.2022.448",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.31586/ijmebac.2022.448"
+    },
+    {
+      "title": "Bipartite incidence graph sampling and weighting",
+      "authors": [
+        "Li-Chun Zhang"
+      ],
+      "year": 2021,
+      "venue": "Graph Sampling",
+      "relevance_score": 0.22,
+      "abstract": "",
+      "doi": "10.1201/9781003203490-2",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1201/9781003203490-2"
+    },
+    {
+      "title": "Packing two bipartite graphs into a complete bipartite graph",
+      "authors": [
+        "Hong Wang"
+      ],
+      "year": 1997,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1002/(sici)1097-0118(199710)26:2<95::aid-jgt4>3.0.co;2-a",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/(sici)1097-0118(199710)26:2<95::aid-jgt4>3.0.co;2-a"
+    },
+    {
+      "title": "The bipartite-splittance of a bipartite graph",
+      "authors": [
+        "Jing-Xin Guan",
+        "Jian-Hua Yin"
+      ],
+      "year": 2019,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.7151/dmgt.2057",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.2057"
+    },
+    {
+      "title": "Bipartite Edge Correlation Clustering: Finding an Edge Biclique Partition from a Bipartite Graph with Minimum Disagreement",
+      "authors": [
+        "Mikio Mizukami",
+        "Kouich Hirata",
+        "Tetsuji Kuboyama"
+      ],
+      "year": 2019,
+      "venue": "Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.5220/0007471506990706",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5220/0007471506990706"
+    },
+    {
+      "title": "Bichromaticity and domatic number of a bipartite graph",
+      "authors": [
+        "Bohdan Zelinka"
+      ],
+      "year": 1985,
+      "venue": "\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.21136/cpm.1985.108591",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21136/cpm.1985.108591"
+    },
+    {
+      "title": "Mapping Distance Graph Kernels using Bipartite Matching",
+      "authors": [
+        "Tetsuya Kataoka",
+        "Eimi Shiotsuki",
+        "Akihiro Inokuchi"
+      ],
+      "year": 2017,
+      "venue": "Proceedings of the 6th International Conference on Pattern Recognition Applications and Methods",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.5220/0006112900610070",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5220/0006112900610070"
+    },
+    {
+      "title": "Decomposition of an infinite complete graph into complete bipartite subgraphs",
+      "authors": [
+        "Bohdan Zelinka"
+      ],
+      "year": 1984,
+      "venue": "\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.21136/cpm.1984.108429",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21136/cpm.1984.108429"
+    },
+    {
+      "title": "The permanent of the Laplacian matrix of a bipartite graph",
+      "authors": [
+        "Anton\u00edn Vrba"
+      ],
+      "year": 1986,
+      "venue": "Czechoslovak Mathematical Journal",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.21136/cmj.1986.102059",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21136/cmj.1986.102059"
+    },
+    {
+      "title": "Packing two forests into a bipartite graph",
+      "authors": [
+        "Hong Wang"
+      ],
+      "year": 1996,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1002/(sici)1097-0118(199610)23:2<209::aid-jgt12>3.0.co;2-b",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/(sici)1097-0118(199610)23:2<209::aid-jgt12>3.0.co;2-b"
+    },
+    {
+      "title": "On 2-factors of a bipartite graph",
+      "authors": [
+        "Hong Wang"
+      ],
+      "year": 1999,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1002/(sici)1097-0118(199906)31:2<101::aid-jgt3>3.0.co;2-5",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/(sici)1097-0118(199906)31:2<101::aid-jgt3>3.0.co;2-5"
+    },
+    {
+      "title": "Software Modularity Coupling Resolution by the Laplacian of a Bipartite Dependency Graph",
+      "authors": [
+        "Iaakov Exman",
+        "Netanel Ohayon"
+      ],
+      "year": 2019,
+      "venue": "Proceedings of the 14th International Conference on Software Technologies",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.5220/0007955802980305",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5220/0007955802980305"
+    },
+    {
+      "title": "Proof of a conjecture on cycles in a bipartite graph",
+      "authors": [
+        "Hong Wang"
+      ],
+      "year": 1999,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1002/(sici)1097-0118(199908)31:4<333::aid-jgt8>3.3.co;2-w",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/(sici)1097-0118(199908)31:4<333::aid-jgt8>3.3.co;2-w"
+    },
+    {
+      "title": "Bipartite Graph Analysis",
+      "authors": [],
+      "year": 2016,
+      "venue": "Algorithms and Models for Network Data and Link Analysis",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1017/cbo9781316418321.010",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1017/cbo9781316418321.010"
+    },
+    {
+      "title": "Chordal bipartite graphs",
+      "authors": [],
+      "year": 2003,
+      "venue": "Fields Institute Monographs",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1090/fim/019/10",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1090/fim/019/10"
+    },
+    {
+      "title": "Spanning Trees of the Complete Bipartite Graph",
+      "authors": [
+        "N. Hartsfield",
+        "J. S. Werth"
+      ],
+      "year": 1990,
+      "venue": "Topics in Combinatorics and Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1007/978-3-642-46908-4_38",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/978-3-642-46908-4_38"
+    },
+    {
+      "title": "Bipartite Graphs and Trees",
+      "authors": [],
+      "year": 2015,
+      "venue": "Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1142/9789814641609_0003",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/9789814641609_0003"
+    },
+    {
+      "title": "Magic and supermagic dense bipartite graphs",
+      "authors": [
+        "Jaroslav Ivan\u010do"
+      ],
+      "year": 2007,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.7151/dmgt.1384",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.1384"
+    },
+    {
+      "title": "C. Bipartite Graphs",
+      "authors": [],
+      "year": 2020,
+      "venue": "AMS/MAA Textbooks",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1090/text/053/04",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1090/text/053/04"
+    },
+    {
+      "title": "On Vertex-Disjoint Complete Bipartite Subgraphs in a Bipartite Graph",
+      "authors": [
+        "Hong Wang"
+      ],
+      "year": 1999,
+      "venue": "Graphs and Combinatorics",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1007/s003730050069",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s003730050069"
+    },
+    {
+      "title": "Packing trees in complete bipartite graphs",
+      "authors": [
+        "Jieyan Wang"
+      ],
+      "year": 2019,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.7151/dmgt.2252",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.2252"
+    },
+    {
+      "title": "Bipartite graphs and their endomorphism monoids",
+      "authors": [
+        "Suohai Fan"
+      ],
+      "year": 1996,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1002/(sici)1097-0118(199609)23:1<49::aid-jgt5>3.0.co;2-k",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/(sici)1097-0118(199609)23:1<49::aid-jgt5>3.0.co;2-k"
+    },
+    {
+      "title": "maxmatching: Maximum Matching for General Weighted Graph",
+      "authors": [],
+      "year": 2017,
+      "venue": "CRAN: Contributed Packages",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.32614/cran.package.maxmatching",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.32614/cran.package.maxmatching"
+    },
+    {
+      "title": "Cycle-pancyclism in bipartite tournaments I",
+      "authors": [
+        "Hortensia Galeana-S\u00e1nchez"
+      ],
+      "year": 2004,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.7151/dmgt.1231",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.1231"
+    }
+  ],
+  "claims": [
+    {
+      "statement": "Furthermore, we prove that these inequalities are best possible",
+      "confidence": 0.6,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "bipartition ([Formula: see text])",
+        "[Formula: see text] and [Formula: see text] and [Formula: see text]",
+        "the sum and the product of the chromatic number of a graph and its complement"
+      ]
+    }
+  ],
+  "contradictions": [],
+  "research_gaps": [
+    {
+      "description": "Insufficient evaluation of Network Analysis",
+      "type": "underrepresented_method",
+      "priority": 1.0,
+      "potential_questions": [
+        "How effective is Network Analysis compared to alternatives?",
+        "What are the computational requirements of Network Analysis?",
+        "In which scenarios does Network Analysis perform best?"
+      ]
+    },
+    {
+      "description": "Insufficient evaluation of Graph Theory",
+      "type": "underrepresented_method",
+      "priority": 1.0,
+      "potential_questions": [
+        "How effective is Graph Theory compared to alternatives?",
+        "What are the computational requirements of Graph Theory?",
+        "In which scenarios does Graph Theory perform best?"
+      ]
+    },
+    {
+      "description": "Limited use of cross-validation in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper cross-validation?",
+        "What are the best practices for cross-validation in this domain?",
+        "Why is cross-validation not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of ablation study in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper ablation study?",
+        "What are the best practices for ablation study in this domain?",
+        "Why is ablation study not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of statistical significance in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper statistical significance?",
+        "What are the best practices for statistical significance in this domain?",
+        "Why is statistical significance not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of baseline comparison in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper baseline comparison?",
+        "What are the best practices for baseline comparison in this domain?",
+        "Why is baseline comparison not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of error analysis in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper error analysis?",
+        "What are the best practices for error analysis in this domain?",
+        "Why is error analysis not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of hyperparameter tuning in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper hyperparameter tuning?",
+        "What are the best practices for hyperparameter tuning in this domain?",
+        "Why is hyperparameter tuning not commonly used?"
+      ]
+    },
+    {
+      "description": "No research found using Reddit dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on Reddit?",
+        "Is Reddit suitable for current approaches?",
+        "What challenges does Reddit present?"
+      ]
+    },
+    {
+      "description": "No research found using CiteSeer dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on CiteSeer?",
+        "Is CiteSeer suitable for current approaches?",
+        "What challenges does CiteSeer present?"
+      ]
+    },
+    {
+      "description": "No research found using Cora dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on Cora?",
+        "Is Cora suitable for current approaches?",
+        "What challenges does Cora present?"
+      ]
+    },
+    {
+      "description": "No research found using PubMed dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on PubMed?",
+        "Is PubMed suitable for current approaches?",
+        "What challenges does PubMed present?"
+      ]
+    },
+    {
+      "description": "No research found using OGB dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on OGB?",
+        "Is OGB suitable for current approaches?",
+        "What challenges does OGB present?"
+      ]
+    },
+    {
+      "description": "Lack of real-world evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in real-world evaluation?",
+        "What are the challenges of conducting real-world evaluation?",
+        "What metrics are appropriate for real-world evaluation?"
+      ]
+    },
+    {
+      "description": "Lack of user study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in user study?",
+        "What are the challenges of conducting user study?",
+        "What metrics are appropriate for user study?"
+      ]
+    },
+    {
+      "description": "Lack of clinical trial in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in clinical trial?",
+        "What are the challenges of conducting clinical trial?",
+        "What metrics are appropriate for clinical trial?"
+      ]
+    },
+    {
+      "description": "Lack of longitudinal study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in longitudinal study?",
+        "What are the challenges of conducting longitudinal study?",
+        "What metrics are appropriate for longitudinal study?"
+      ]
+    },
+    {
+      "description": "Lack of multi-domain evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in multi-domain evaluation?",
+        "What are the challenges of conducting multi-domain evaluation?",
+        "What metrics are appropriate for multi-domain evaluation?"
+      ]
+    },
+    {
+      "description": "Limited dataset diversity in evaluation",
+      "type": "evaluation_limitation",
+      "priority": 0.6,
+      "potential_questions": [
+        "How do methods generalize across different datasets?",
+        "What are the domain-specific challenges?",
+        "Which datasets are most representative?"
+      ]
+    },
+    {
+      "description": "Need for recent comparative studies",
+      "type": "temporal_gap",
+      "priority": 0.5,
+      "potential_questions": [
+        "How do recent methods compare to established ones?",
+        "What are the latest trends and developments?",
+        "Which recent approaches show the most promise?"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "paper_id": "10_46298_dmtcs_2090",
+      "bibtex": "@article{10_46298_dmtcs_2090,\n  title={Partitioning the vertex set of a bipartite graph into complete bipartite subgraphs},\n  author={Oleg Duginov},\n  journal={Discrete Mathematics &amp; Theoretical Computer Science},\n  year={2014},\n  doi={10.46298/dmtcs.2090},\n  url={https://doi.org/10.46298/dmtcs.2090}\n}",
+      "apa": "Duginov, O. (2014). Partitioning the vertex set of a bipartite graph into complete bipartite subgraphs. Discrete Mathematics &amp; Theoretical Computer Science.",
+      "ieee": "Oleg Duginov, \"Partitioning the vertex set of a bipartite graph into complete bipartite subgraphs,\" Discrete Mathematics &amp; Theoretical Computer Science, 2014.",
+      "mla": "Duginov, O.. \"Partitioning the vertex set of a bipartite graph into complete bipartite subgraphs.\" Discrete Mathematics &amp; Theoretical Computer Science, 2014.",
+      "custom_format": "\\bibitem{Du14} O. Duginov, Partitioning the vertex set of a bipartite graph into complete bipartite subgraphs, Discrete Mathematics &amp; Theoretical Computer Science \\textbf{1}(1) (2014) 1--10. https://doi.org/10.46298/dmtcs.2090",
+      "paper_url": "https://doi.org/10.46298/dmtcs.2090",
+      "journal_name": "Discrete Mathematics &amp; Theoretical Computer Science",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_21203_rs_3_rs_2937461_v1",
+      "bibtex": "@article{10_21203_rs_3_rs_2937461_v1,\n  title={A Bipartite Heterogeneous Graph Recommendation Model based on Graph Neural Network},\n  author={Matilda Norton and Silas Donovan and John Beckett and Dashiell Hawthorne},\n  journal={},\n  year={2023},\n  doi={10.21203/rs.3.rs-2937461/v1},\n  url={https://doi.org/10.21203/rs.3.rs-2937461/v1}\n}",
+      "apa": "Norton, M., Donovan, S., Beckett, J., & Hawthorne, D. (2023). A Bipartite Heterogeneous Graph Recommendation Model based on Graph Neural Network. .",
+      "ieee": "Matilda Norton et al., \"A Bipartite Heterogeneous Graph Recommendation Model based on Graph Neural Network,\" , 2023.",
+      "mla": "Norton, M., et al.. \"A Bipartite Heterogeneous Graph Recommendation Model based on Graph Neural Network.\" , 2023.",
+      "custom_format": "\\bibitem{NoDoBe23} M. Norton, S. Donovan, J. Beckett, D. Hawthorne, A bipartite heterogeneous graph recommendation model based on graph neural network,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.21203/rs.3.rs-2937461/v1",
+      "paper_url": "https://doi.org/10.21203/rs.3.rs-2937461/v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_cs_1858_table_9",
+      "bibtex": "@article{10_7717_peerj_cs_1858_table_9,\n  title={Algorithm 1: Extended bipartite graph convolutional network algorithm.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj-cs.1858/table-9},\n  url={https://doi.org/10.7717/peerj-cs.1858/table-9}\n}",
+      "apa": "Unknown Author (2023). Algorithm 1: Extended bipartite graph convolutional network algorithm.. .",
+      "ieee": "Unknown Author, \"Algorithm 1: Extended bipartite graph convolutional network algorithm.,\" , 2023.",
+      "mla": "Unknown Author. \"Algorithm 1: Extended bipartite graph convolutional network algorithm..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Algorithm 1: extended bipartite graph convolutional network algorithm,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj-cs.1858/table-9",
+      "paper_url": "https://doi.org/10.7717/peerj-cs.1858/table-9",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1142_9789811273117_0004",
+      "bibtex": "@article{10_1142_9789811273117_0004,\n  title={Bipartite, Acyclic, and Eulerian Graphs},\n  author={},\n  journal={Applied Graph Theory},\n  year={2023},\n  doi={10.1142/9789811273117_0004},\n  url={https://doi.org/10.1142/9789811273117_0004}\n}",
+      "apa": "Unknown Author (2023). Bipartite, Acyclic, and Eulerian Graphs. Applied Graph Theory.",
+      "ieee": "Unknown Author, \"Bipartite, Acyclic, and Eulerian Graphs,\" Applied Graph Theory, 2023.",
+      "mla": "Unknown Author. \"Bipartite, Acyclic, and Eulerian Graphs.\" Applied Graph Theory, 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Bipartite, acyclic, and eulerian graphs, Applied Graph Theory \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1142/9789811273117_0004",
+      "paper_url": "https://doi.org/10.1142/9789811273117_0004",
+      "journal_name": "Applied Graph Theory",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_21203_rs_3_rs_2144863_v1",
+      "bibtex": "@article{10_21203_rs_3_rs_2144863_v1,\n  title={Label Propagation Based on Bipartite Graph},\n  author={Yaoxing Li and Liang Bai},\n  journal={},\n  year={2023},\n  doi={10.21203/rs.3.rs-2144863/v1},\n  url={https://doi.org/10.21203/rs.3.rs-2144863/v1}\n}",
+      "apa": "Li, Y. & Bai, L. (2023). Label Propagation Based on Bipartite Graph. .",
+      "ieee": "Yaoxing Li, Liang Bai, \"Label Propagation Based on Bipartite Graph,\" , 2023.",
+      "mla": "Li, Y., and Liang Bai. \"Label Propagation Based on Bipartite Graph.\" , 2023.",
+      "custom_format": "\\bibitem{LiBa23} Y. Li, L. Bai, Label propagation based on bipartite graph,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.21203/rs.3.rs-2144863/v1",
+      "paper_url": "https://doi.org/10.21203/rs.3.rs-2144863/v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_31219_osf_io_fv9jz",
+      "bibtex": "@article{10_31219_osf_io_fv9jz,\n  title={Exact Weight Perfect Matching of Bipartite Graph Problem Simplified},\n  author={Thinh D. Nguyen},\n  journal={},\n  year={2023},\n  doi={10.31219/osf.io/fv9jz},\n  url={https://doi.org/10.31219/osf.io/fv9jz}\n}",
+      "apa": "Nguyen, T. D. (2023). Exact Weight Perfect Matching of Bipartite Graph Problem Simplified. .",
+      "ieee": "Thinh D. Nguyen, \"Exact Weight Perfect Matching of Bipartite Graph Problem Simplified,\" , 2023.",
+      "mla": "Nguyen, T. D.. \"Exact Weight Perfect Matching of Bipartite Graph Problem Simplified.\" , 2023.",
+      "custom_format": "\\bibitem{Ng23} T.D. Nguyen, Exact weight perfect matching of bipartite graph problem simplified,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.31219/osf.io/fv9jz",
+      "paper_url": "https://doi.org/10.31219/osf.io/fv9jz",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7151_dmgt_1096",
+      "bibtex": "@article{10_7151_dmgt_1096,\n  title={Note on cyclic decompositions of complete bipartite graphs into cubes},\n  author={Dalibor Fron\u010dek},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={1999},\n  doi={10.7151/dmgt.1096},\n  url={https://doi.org/10.7151/dmgt.1096}\n}",
+      "apa": "Fron\u010dek, D. (1999). Note on cyclic decompositions of complete bipartite graphs into cubes. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Dalibor Fron\u010dek, \"Note on cyclic decompositions of complete bipartite graphs into cubes,\" Discussiones Mathematicae Graph Theory, 1999.",
+      "mla": "Fron\u010dek, D.. \"Note on cyclic decompositions of complete bipartite graphs into cubes.\" Discussiones Mathematicae Graph Theory, 1999.",
+      "custom_format": "\\bibitem{Fr99} D. Fron\u010dek, Note on cyclic decompositions of complete bipartite graphs into cubes, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (1999) 1--10. https://doi.org/10.7151/dmgt.1096",
+      "paper_url": "https://doi.org/10.7151/dmgt.1096",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 1999
+    },
+    {
+      "paper_id": "10_7151_dmgt_2548",
+      "bibtex": "@article{10_7151_dmgt_2548,\n  title={Double dominating sequences in bipartite  and co-bipartite graphs},\n  author={Gopika Sharma and Arti Pandey},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2025},\n  doi={10.7151/dmgt.2548},\n  url={https://doi.org/10.7151/dmgt.2548}\n}",
+      "apa": "Sharma, G. & Pandey, A. (2025). Double dominating sequences in bipartite  and co-bipartite graphs. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Gopika Sharma, Arti Pandey, \"Double dominating sequences in bipartite  and co-bipartite graphs,\" Discussiones Mathematicae Graph Theory, 2025.",
+      "mla": "Sharma, G., and Arti Pandey. \"Double dominating sequences in bipartite  and co-bipartite graphs.\" Discussiones Mathematicae Graph Theory, 2025.",
+      "custom_format": "\\bibitem{ShPa25} G. Sharma, A. Pandey, Double dominating sequences in bipartite  and co-bipartite graphs, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2025) 1--10. https://doi.org/10.7151/dmgt.2548",
+      "paper_url": "https://doi.org/10.7151/dmgt.2548",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_5220_0006900000510060",
+      "bibtex": "@inproceedings{10_5220_0006900000510060,\n  title={Graph Convolutional Matrix Completion for Bipartite Edge Prediction},\n  author={Yuexin Wu and Hanxiao Liu and Yiming Yang},\n  booktitle={Proceedings of the 10th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management},\n  year={2018},\n  doi={10.5220/0006900000510060},\n  url={https://doi.org/10.5220/0006900000510060}\n}",
+      "apa": "Wu, Y., Liu, H., & Yang, Y. (2018). Graph Convolutional Matrix Completion for Bipartite Edge Prediction. In Proceedings of the 10th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management.",
+      "ieee": "Yuexin Wu, Hanxiao Liu, Yiming Yang, \"Graph Convolutional Matrix Completion for Bipartite Edge Prediction,\" in Proceedings of the 10th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management, 2018.",
+      "mla": "Wu, Y., et al.. \"Graph Convolutional Matrix Completion for Bipartite Edge Prediction.\" Proceedings of the 10th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management, 2018.",
+      "custom_format": "\\bibitem{WuLiYa18} Y. Wu, H. Liu, Y. Yang, Graph convolutional matrix completion for bipartite edge prediction, Proceedings of the 10th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management \\textbf{1}(1) (2018) 1--10. https://doi.org/10.5220/0006900000510060",
+      "paper_url": "https://doi.org/10.5220/0006900000510060",
+      "journal_name": "Proceedings of the 10th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_1142_s0129626420400058",
+      "bibtex": "@article{10_1142_s0129626420400058,\n  title={The Connectivity of a Bipartite Graph and Its Bipartite Complementary Graph},\n  author={Yingzhi Tian and Huaping Ma and Liyun Wu},\n  journal={Parallel Processing Letters},\n  year={2020},\n  doi={10.1142/s0129626420400058},\n  url={https://doi.org/10.1142/s0129626420400058}\n}",
+      "apa": "Tian, Y., Ma, H., & Wu, L. (2020). The Connectivity of a Bipartite Graph and Its Bipartite Complementary Graph. Parallel Processing Letters.",
+      "ieee": "Yingzhi Tian, Huaping Ma, Liyun Wu, \"The Connectivity of a Bipartite Graph and Its Bipartite Complementary Graph,\" Parallel Processing Letters, 2020.",
+      "mla": "Tian, Y., et al.. \"The Connectivity of a Bipartite Graph and Its Bipartite Complementary Graph.\" Parallel Processing Letters, 2020.",
+      "custom_format": "\\bibitem{TiMaWu20} Y. Tian, H. Ma, L. Wu, The connectivity of a bipartite graph and its bipartite complementary graph, Parallel Processing Letters \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1142/s0129626420400058",
+      "paper_url": "https://doi.org/10.1142/s0129626420400058",
+      "journal_name": "Parallel Processing Letters",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1002_jgt_20353",
+      "bibtex": "@article{10_1002_jgt_20353,\n  title={Excluding a bipartite circle graph from line graphs},\n  author={Sang\u2010il Oum},\n  journal={Journal of Graph Theory},\n  year={2009},\n  doi={10.1002/jgt.20353},\n  url={https://doi.org/10.1002/jgt.20353}\n}",
+      "apa": "Oum, S. (2009). Excluding a bipartite circle graph from line graphs. Journal of Graph Theory.",
+      "ieee": "Sang\u2010il Oum, \"Excluding a bipartite circle graph from line graphs,\" Journal of Graph Theory, 2009.",
+      "mla": "Oum, S.. \"Excluding a bipartite circle graph from line graphs.\" Journal of Graph Theory, 2009.",
+      "custom_format": "\\bibitem{Ou09} S. Oum, Excluding a bipartite circle graph from line graphs, Journal of Graph Theory \\textbf{1}(1) (2009) 1--10. https://doi.org/10.1002/jgt.20353",
+      "paper_url": "https://doi.org/10.1002/jgt.20353",
+      "journal_name": "Journal of Graph Theory",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_26524_krj311",
+      "bibtex": "@article{10_26524_krj311,\n  title={b-CHROMATIC NUMBER OF CORONA PRODUCT OF CROWN GRAPH AND COMPLETE BIPARTITE GRAPH WITH PATH GRAPH},\n  author={Vijayalakshmi D and Mohanappriya G},\n  journal={Kongunadu Research Journal},\n  year={2015},\n  doi={10.26524/krj311},\n  url={https://doi.org/10.26524/krj311}\n}",
+      "apa": "D, V. & G, M. (2015). b-CHROMATIC NUMBER OF CORONA PRODUCT OF CROWN GRAPH AND COMPLETE BIPARTITE GRAPH WITH PATH GRAPH. Kongunadu Research Journal.",
+      "ieee": "Vijayalakshmi D, Mohanappriya G, \"b-CHROMATIC NUMBER OF CORONA PRODUCT OF CROWN GRAPH AND COMPLETE BIPARTITE GRAPH WITH PATH GRAPH,\" Kongunadu Research Journal, 2015.",
+      "mla": "D, V., and Mohanappriya G. \"b-CHROMATIC NUMBER OF CORONA PRODUCT OF CROWN GRAPH AND COMPLETE BIPARTITE GRAPH WITH PATH GRAPH.\" Kongunadu Research Journal, 2015.",
+      "custom_format": "\\bibitem{DG15} V. D, M. G, B-chromatic number of corona product of crown graph and complete bipartite graph with path graph, Kongunadu Research Journal \\textbf{1}(1) (2015) 1--10. https://doi.org/10.26524/krj311",
+      "paper_url": "https://doi.org/10.26524/krj311",
+      "journal_name": "Kongunadu Research Journal",
+      "year": 2015
+    },
+    {
+      "paper_id": "10_52783_jisem_v9i4_86",
+      "bibtex": "@article{10_52783_jisem_v9i4_86,\n  title={Soft Bipartite Graph: A New Bipartite Graph in the Horizon},\n  author={},\n  journal={Journal of Information Systems Engineering and Management},\n  year={2024},\n  doi={10.52783/jisem.v9i4.86},\n  url={https://doi.org/10.52783/jisem.v9i4.86}\n}",
+      "apa": "Unknown Author (2024). Soft Bipartite Graph: A New Bipartite Graph in the Horizon. Journal of Information Systems Engineering and Management.",
+      "ieee": "Unknown Author, \"Soft Bipartite Graph: A New Bipartite Graph in the Horizon,\" Journal of Information Systems Engineering and Management, 2024.",
+      "mla": "Unknown Author. \"Soft Bipartite Graph: A New Bipartite Graph in the Horizon.\" Journal of Information Systems Engineering and Management, 2024.",
+      "custom_format": "\\bibitem{Unknown24} Unknown Author, Soft bipartite graph: a new bipartite graph in the horizon, Journal of Information Systems Engineering and Management \\textbf{1}(1) (2024) 1--10. https://doi.org/10.52783/jisem.v9i4.86",
+      "paper_url": "https://doi.org/10.52783/jisem.v9i4.86",
+      "journal_name": "Journal of Information Systems Engineering and Management",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_1007_springerreference_5278",
+      "bibtex": "@article{10_1007_springerreference_5278,\n  title={BIPARTITE GRAPH},\n  author={},\n  journal={SpringerReference},\n  year={2023},\n  doi={10.1007/springerreference_5278},\n  url={https://doi.org/10.1007/springerreference_5278}\n}",
+      "apa": "Unknown Author (2023). BIPARTITE GRAPH. SpringerReference.",
+      "ieee": "Unknown Author, \"BIPARTITE GRAPH,\" SpringerReference, 2023.",
+      "mla": "Unknown Author. \"BIPARTITE GRAPH.\" SpringerReference, 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Bipartite graph, SpringerReference \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1007/springerreference_5278",
+      "paper_url": "https://doi.org/10.1007/springerreference_5278",
+      "journal_name": "SpringerReference",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_cs_1335_fig_1",
+      "bibtex": "@article{10_7717_peerj_cs_1335_fig_1,\n  title={Figure 1: Rating matrix and bipartite graph.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj-cs.1335/fig-1},\n  url={https://doi.org/10.7717/peerj-cs.1335/fig-1}\n}",
+      "apa": "Unknown Author (2023). Figure 1: Rating matrix and bipartite graph.. .",
+      "ieee": "Unknown Author, \"Figure 1: Rating matrix and bipartite graph.,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 1: Rating matrix and bipartite graph..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 1: rating matrix and bipartite graph,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj-cs.1335/fig-1",
+      "paper_url": "https://doi.org/10.7717/peerj-cs.1335/fig-1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_cs_1644_supp_2",
+      "bibtex": "@article{10_7717_peerj_cs_1644_supp_2,\n  title={Supplemental Information 2: Main dataset for bipartite graph},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj-cs.1644/supp-2},\n  url={https://doi.org/10.7717/peerj-cs.1644/supp-2}\n}",
+      "apa": "Unknown Author (2023). Supplemental Information 2: Main dataset for bipartite graph. .",
+      "ieee": "Unknown Author, \"Supplemental Information 2: Main dataset for bipartite graph,\" , 2023.",
+      "mla": "Unknown Author. \"Supplemental Information 2: Main dataset for bipartite graph.\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Supplemental information 2: main dataset for bipartite graph,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj-cs.1644/supp-2",
+      "paper_url": "https://doi.org/10.7717/peerj-cs.1644/supp-2",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_15476_elte_2022_227",
+      "bibtex": "@article{10_15476_elte_2022_227,\n  title={Information ratio of graph based and bipartite access structures},\n  author={M\u00e1t\u00e9 Gyarmati},\n  journal={},\n  year={2023},\n  doi={10.15476/elte.2022.227},\n  url={https://doi.org/10.15476/elte.2022.227}\n}",
+      "apa": "Gyarmati, M. (2023). Information ratio of graph based and bipartite access structures. .",
+      "ieee": "M\u00e1t\u00e9 Gyarmati, \"Information ratio of graph based and bipartite access structures,\" , 2023.",
+      "mla": "Gyarmati, M.. \"Information ratio of graph based and bipartite access structures.\" , 2023.",
+      "custom_format": "\\bibitem{Gy23} M. Gyarmati, Information ratio of graph based and bipartite access structures,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.15476/elte.2022.227",
+      "paper_url": "https://doi.org/10.15476/elte.2022.227",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_3860_fig_1",
+      "bibtex": "@article{10_7717_peerj_3860_fig_1,\n  title={Figure 1: Representation of a metabolic network as a bipartite graph.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.3860/fig-1},\n  url={https://doi.org/10.7717/peerj.3860/fig-1}\n}",
+      "apa": "Unknown Author (2023). Figure 1: Representation of a metabolic network as a bipartite graph.. .",
+      "ieee": "Unknown Author, \"Figure 1: Representation of a metabolic network as a bipartite graph.,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 1: Representation of a metabolic network as a bipartite graph..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 1: representation of a metabolic network as a bipartite graph,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.3860/fig-1",
+      "paper_url": "https://doi.org/10.7717/peerj.3860/fig-1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_2568_fig_2",
+      "bibtex": "@article{10_7717_peerj_2568_fig_2,\n  title={Figure 2: Bipartite graph constructed from the 12-node network in Fig. 1.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.2568/fig-2},\n  url={https://doi.org/10.7717/peerj.2568/fig-2}\n}",
+      "apa": "Unknown Author (2023). Figure 2: Bipartite graph constructed from the 12-node network in Fig. 1.. .",
+      "ieee": "Unknown Author, \"Figure 2: Bipartite graph constructed from the 12-node network in Fig. 1.,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 2: Bipartite graph constructed from the 12-node network in Fig. 1..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 2: bipartite graph constructed from the 12-node network in fig. 1,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.2568/fig-2",
+      "paper_url": "https://doi.org/10.7717/peerj.2568/fig-2",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1017_9781316105450_008",
+      "bibtex": "@article{10_1017_9781316105450_008,\n  title={Mutualism, Parasitism and Bipartite Graphs},\n  author={},\n  journal={Applying Graph Theory in Ecological Research},\n  year={2023},\n  doi={10.1017/9781316105450.008},\n  url={https://doi.org/10.1017/9781316105450.008}\n}",
+      "apa": "Unknown Author (2023). Mutualism, Parasitism and Bipartite Graphs. Applying Graph Theory in Ecological Research.",
+      "ieee": "Unknown Author, \"Mutualism, Parasitism and Bipartite Graphs,\" Applying Graph Theory in Ecological Research, 2023.",
+      "mla": "Unknown Author. \"Mutualism, Parasitism and Bipartite Graphs.\" Applying Graph Theory in Ecological Research, 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Mutualism, parasitism and bipartite graphs, Applying Graph Theory in Ecological Research \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1017/9781316105450.008",
+      "paper_url": "https://doi.org/10.1017/9781316105450.008",
+      "journal_name": "Applying Graph Theory in Ecological Research",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_14711_thesis_991013248659303412",
+      "bibtex": "@article{10_14711_thesis_991013248659303412,\n  title={Stable community detection in signed bipartite graph : a bitruss-based model},\n  author={Kai Hiu Chung},\n  journal={},\n  year={2023},\n  doi={10.14711/thesis-991013248659303412},\n  url={https://doi.org/10.14711/thesis-991013248659303412}\n}",
+      "apa": "Chung, K. H. (2023). Stable community detection in signed bipartite graph : a bitruss-based model. .",
+      "ieee": "Kai Hiu Chung, \"Stable community detection in signed bipartite graph : a bitruss-based model,\" , 2023.",
+      "mla": "Chung, K. H.. \"Stable community detection in signed bipartite graph : a bitruss-based model.\" , 2023.",
+      "custom_format": "\\bibitem{Ch23} K.H. Chung, Stable community detection in signed bipartite graph : a bitruss-based model,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.14711/thesis-991013248659303412",
+      "paper_url": "https://doi.org/10.14711/thesis-991013248659303412",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1021_pr070230d_s001",
+      "bibtex": "@article{10_1021_pr070230d_s001,\n  title={Proteomic Parsimony through Bipartite Graph Analysis Improves Accuracy and Transparency},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.1021/pr070230d.s001},\n  url={https://doi.org/10.1021/pr070230d.s001}\n}",
+      "apa": "Unknown Author (2023). Proteomic Parsimony through Bipartite Graph Analysis Improves Accuracy and Transparency. .",
+      "ieee": "Unknown Author, \"Proteomic Parsimony through Bipartite Graph Analysis Improves Accuracy and Transparency,\" , 2023.",
+      "mla": "Unknown Author. \"Proteomic Parsimony through Bipartite Graph Analysis Improves Accuracy and Transparency.\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Proteomic parsimony through bipartite graph analysis improves accuracy and transparency,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1021/pr070230d.s001",
+      "paper_url": "https://doi.org/10.1021/pr070230d.s001",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_2139_ssrn_5148045",
+      "bibtex": "@article{10_2139_ssrn_5148045,\n  title={Enhancing Missing Data Imputation Through Combined Bipartite Graph and Complete Directed Graph},\n  author={Zhaoyang Zhang and Hongtu Zhu and Yingjie Zhang and Hai Shu and Ziqi Chen},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.5148045},\n  url={https://doi.org/10.2139/ssrn.5148045}\n}",
+      "apa": "Zhang, Z., Zhu, H., Zhang, Y., Shu, H., & Chen, Z. (2023). Enhancing Missing Data Imputation Through Combined Bipartite Graph and Complete Directed Graph. .",
+      "ieee": "Zhaoyang Zhang et al., \"Enhancing Missing Data Imputation Through Combined Bipartite Graph and Complete Directed Graph,\" , 2023.",
+      "mla": "Zhang, Z., et al.. \"Enhancing Missing Data Imputation Through Combined Bipartite Graph and Complete Directed Graph.\" , 2023.",
+      "custom_format": "\\bibitem{ZhZhZh23} Z. Zhang, H. Zhu, Y. Zhang, H. Shu, Z. Chen, Enhancing missing data imputation through combined bipartite graph and complete directed graph,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.5148045",
+      "paper_url": "https://doi.org/10.2139/ssrn.5148045",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_31586_ijmebac_2022_448",
+      "bibtex": "@article{10_31586_ijmebac_2022_448,\n  title={Check if a Graph is Bipartite or not &amp;#x26; Bipartite Graph Coloring using Java},\n  author={Raja Marappan and Sarveshvara Raja and Shakthigaa Raja and Saraswatikaniga Raja},\n  journal={International Journal of Mathematical, Engineering, Biological and Applied Computing},\n  year={2022},\n  doi={10.31586/ijmebac.2022.448},\n  url={https://doi.org/10.31586/ijmebac.2022.448}\n}",
+      "apa": "Marappan, R., Raja, S., Raja, S., & Raja, S. (2022). Check if a Graph is Bipartite or not &amp;#x26; Bipartite Graph Coloring using Java. International Journal of Mathematical, Engineering, Biological and Applied Computing.",
+      "ieee": "Raja Marappan et al., \"Check if a Graph is Bipartite or not &amp;#x26; Bipartite Graph Coloring using Java,\" International Journal of Mathematical, Engineering, Biological and Applied Computing, 2022.",
+      "mla": "Marappan, R., et al.. \"Check if a Graph is Bipartite or not &amp;#x26; Bipartite Graph Coloring using Java.\" International Journal of Mathematical, Engineering, Biological and Applied Computing, 2022.",
+      "custom_format": "\\bibitem{MaRaRa22} R. Marappan, S. Raja, S. Raja, S. Raja, Check if a graph is bipartite or not &amp;#x26; bipartite graph coloring using java, International Journal of Mathematical, Engineering, Biological and Applied Computing \\textbf{1}(1) (2022) 1--10. https://doi.org/10.31586/ijmebac.2022.448",
+      "paper_url": "https://doi.org/10.31586/ijmebac.2022.448",
+      "journal_name": "International Journal of Mathematical, Engineering, Biological and Applied Computing",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1201_9781003203490_2",
+      "bibtex": "@article{10_1201_9781003203490_2,\n  title={Bipartite incidence graph sampling and weighting},\n  author={Li-Chun Zhang},\n  journal={Graph Sampling},\n  year={2021},\n  doi={10.1201/9781003203490-2},\n  url={https://doi.org/10.1201/9781003203490-2}\n}",
+      "apa": "Zhang, L. (2021). Bipartite incidence graph sampling and weighting. Graph Sampling.",
+      "ieee": "Li-Chun Zhang, \"Bipartite incidence graph sampling and weighting,\" Graph Sampling, 2021.",
+      "mla": "Zhang, L.. \"Bipartite incidence graph sampling and weighting.\" Graph Sampling, 2021.",
+      "custom_format": "\\bibitem{Zh21} L. Zhang, Bipartite incidence graph sampling and weighting, Graph Sampling \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1201/9781003203490-2",
+      "paper_url": "https://doi.org/10.1201/9781003203490-2",
+      "journal_name": "Graph Sampling",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1002__sici_1097_0118_199710_26_2_95__aid_jgt4_3_0_co_2_a",
+      "bibtex": "@article{10_1002__sici_1097_0118_199710_26_2_95__aid_jgt4_3_0_co_2_a,\n  title={Packing two bipartite graphs into a complete bipartite graph},\n  author={Hong Wang},\n  journal={Journal of Graph Theory},\n  year={1997},\n  doi={10.1002/(sici)1097-0118(199710)26:2<95::aid-jgt4>3.0.co;2-a},\n  url={https://doi.org/10.1002/(sici)1097-0118(199710)26:2<95::aid-jgt4>3.0.co;2-a}\n}",
+      "apa": "Wang, H. (1997). Packing two bipartite graphs into a complete bipartite graph. Journal of Graph Theory.",
+      "ieee": "Hong Wang, \"Packing two bipartite graphs into a complete bipartite graph,\" Journal of Graph Theory, 1997.",
+      "mla": "Wang, H.. \"Packing two bipartite graphs into a complete bipartite graph.\" Journal of Graph Theory, 1997.",
+      "custom_format": "\\bibitem{Wa97} H. Wang, Packing two bipartite graphs into a complete bipartite graph, Journal of Graph Theory \\textbf{1}(1) (1997) 1--10. https://doi.org/10.1002/(sici)1097-0118(199710)26:2<95::aid-jgt4>3.0.co;2-a",
+      "paper_url": "https://doi.org/10.1002/(sici)1097-0118(199710)26:2<95::aid-jgt4>3.0.co;2-a",
+      "journal_name": "Journal of Graph Theory",
+      "year": 1997
+    },
+    {
+      "paper_id": "10_7151_dmgt_2057",
+      "bibtex": "@article{10_7151_dmgt_2057,\n  title={The bipartite-splittance of a bipartite graph},\n  author={Jing-Xin Guan and Jian-Hua Yin},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2019},\n  doi={10.7151/dmgt.2057},\n  url={https://doi.org/10.7151/dmgt.2057}\n}",
+      "apa": "Guan, J. & Yin, J. (2019). The bipartite-splittance of a bipartite graph. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Jing-Xin Guan, Jian-Hua Yin, \"The bipartite-splittance of a bipartite graph,\" Discussiones Mathematicae Graph Theory, 2019.",
+      "mla": "Guan, J., and Jian-Hua Yin. \"The bipartite-splittance of a bipartite graph.\" Discussiones Mathematicae Graph Theory, 2019.",
+      "custom_format": "\\bibitem{GuYi19} J. Guan, J. Yin, The bipartite-splittance of a bipartite graph, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2019) 1--10. https://doi.org/10.7151/dmgt.2057",
+      "paper_url": "https://doi.org/10.7151/dmgt.2057",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_5220_0007471506990706",
+      "bibtex": "@inproceedings{10_5220_0007471506990706,\n  title={Bipartite Edge Correlation Clustering: Finding an Edge Biclique Partition from a Bipartite Graph with Minimum Disagreement},\n  author={Mikio Mizukami and Kouich Hirata and Tetsuji Kuboyama},\n  booktitle={Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods},\n  year={2019},\n  doi={10.5220/0007471506990706},\n  url={https://doi.org/10.5220/0007471506990706}\n}",
+      "apa": "Mizukami, M., Hirata, K., & Kuboyama, T. (2019). Bipartite Edge Correlation Clustering: Finding an Edge Biclique Partition from a Bipartite Graph with Minimum Disagreement. In Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods.",
+      "ieee": "Mikio Mizukami, Kouich Hirata, Tetsuji Kuboyama, \"Bipartite Edge Correlation Clustering: Finding an Edge Biclique Partition from a Bipartite Graph with Minimum Disagreement,\" in Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods, 2019.",
+      "mla": "Mizukami, M., et al.. \"Bipartite Edge Correlation Clustering: Finding an Edge Biclique Partition from a Bipartite Graph with Minimum Disagreement.\" Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods, 2019.",
+      "custom_format": "\\bibitem{MiHiKu19} M. Mizukami, K. Hirata, T. Kuboyama, Bipartite edge correlation clustering: finding an edge biclique partition from a bipartite graph with minimum disagreement, Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods \\textbf{1}(1) (2019) 1--10. https://doi.org/10.5220/0007471506990706",
+      "paper_url": "https://doi.org/10.5220/0007471506990706",
+      "journal_name": "Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_21136_cpm_1985_108591",
+      "bibtex": "@article{10_21136_cpm_1985_108591,\n  title={Bichromaticity and domatic number of a bipartite graph},\n  author={Bohdan Zelinka},\n  journal={\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky},\n  year={1985},\n  doi={10.21136/cpm.1985.108591},\n  url={https://doi.org/10.21136/cpm.1985.108591}\n}",
+      "apa": "Zelinka, B. (1985). Bichromaticity and domatic number of a bipartite graph. \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky.",
+      "ieee": "Bohdan Zelinka, \"Bichromaticity and domatic number of a bipartite graph,\" \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky, 1985.",
+      "mla": "Zelinka, B.. \"Bichromaticity and domatic number of a bipartite graph.\" \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky, 1985.",
+      "custom_format": "\\bibitem{Ze85} B. Zelinka, Bichromaticity and domatic number of a bipartite graph, \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky \\textbf{1}(1) (1985) 1--10. https://doi.org/10.21136/cpm.1985.108591",
+      "paper_url": "https://doi.org/10.21136/cpm.1985.108591",
+      "journal_name": "\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky",
+      "year": 1985
+    },
+    {
+      "paper_id": "10_5220_0006112900610070",
+      "bibtex": "@inproceedings{10_5220_0006112900610070,\n  title={Mapping Distance Graph Kernels using Bipartite Matching},\n  author={Tetsuya Kataoka and Eimi Shiotsuki and Akihiro Inokuchi},\n  booktitle={Proceedings of the 6th International Conference on Pattern Recognition Applications and Methods},\n  year={2017},\n  doi={10.5220/0006112900610070},\n  url={https://doi.org/10.5220/0006112900610070}\n}",
+      "apa": "Kataoka, T., Shiotsuki, E., & Inokuchi, A. (2017). Mapping Distance Graph Kernels using Bipartite Matching. In Proceedings of the 6th International Conference on Pattern Recognition Applications and Methods.",
+      "ieee": "Tetsuya Kataoka, Eimi Shiotsuki, Akihiro Inokuchi, \"Mapping Distance Graph Kernels using Bipartite Matching,\" in Proceedings of the 6th International Conference on Pattern Recognition Applications and Methods, 2017.",
+      "mla": "Kataoka, T., et al.. \"Mapping Distance Graph Kernels using Bipartite Matching.\" Proceedings of the 6th International Conference on Pattern Recognition Applications and Methods, 2017.",
+      "custom_format": "\\bibitem{KaShIn17} T. Kataoka, E. Shiotsuki, A. Inokuchi, Mapping distance graph kernels using bipartite matching, Proceedings of the 6th International Conference on Pattern Recognition Applications and Methods \\textbf{1}(1) (2017) 1--10. https://doi.org/10.5220/0006112900610070",
+      "paper_url": "https://doi.org/10.5220/0006112900610070",
+      "journal_name": "Proceedings of the 6th International Conference on Pattern Recognition Applications and Methods",
+      "year": 2017
+    },
+    {
+      "paper_id": "10_21136_cpm_1984_108429",
+      "bibtex": "@article{10_21136_cpm_1984_108429,\n  title={Decomposition of an infinite complete graph into complete bipartite subgraphs},\n  author={Bohdan Zelinka},\n  journal={\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky},\n  year={1984},\n  doi={10.21136/cpm.1984.108429},\n  url={https://doi.org/10.21136/cpm.1984.108429}\n}",
+      "apa": "Zelinka, B. (1984). Decomposition of an infinite complete graph into complete bipartite subgraphs. \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky.",
+      "ieee": "Bohdan Zelinka, \"Decomposition of an infinite complete graph into complete bipartite subgraphs,\" \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky, 1984.",
+      "mla": "Zelinka, B.. \"Decomposition of an infinite complete graph into complete bipartite subgraphs.\" \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky, 1984.",
+      "custom_format": "\\bibitem{Ze84} B. Zelinka, Decomposition of an infinite complete graph into complete bipartite subgraphs, \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky \\textbf{1}(1) (1984) 1--10. https://doi.org/10.21136/cpm.1984.108429",
+      "paper_url": "https://doi.org/10.21136/cpm.1984.108429",
+      "journal_name": "\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky",
+      "year": 1984
+    },
+    {
+      "paper_id": "10_21136_cmj_1986_102059",
+      "bibtex": "@article{10_21136_cmj_1986_102059,\n  title={The permanent of the Laplacian matrix of a bipartite graph},\n  author={Anton\u00edn Vrba},\n  journal={Czechoslovak Mathematical Journal},\n  year={1986},\n  doi={10.21136/cmj.1986.102059},\n  url={https://doi.org/10.21136/cmj.1986.102059}\n}",
+      "apa": "Vrba, A. (1986). The permanent of the Laplacian matrix of a bipartite graph. Czechoslovak Mathematical Journal.",
+      "ieee": "Anton\u00edn Vrba, \"The permanent of the Laplacian matrix of a bipartite graph,\" Czechoslovak Mathematical Journal, 1986.",
+      "mla": "Vrba, A.. \"The permanent of the Laplacian matrix of a bipartite graph.\" Czechoslovak Mathematical Journal, 1986.",
+      "custom_format": "\\bibitem{Vr86} A. Vrba, The permanent of the laplacian matrix of a bipartite graph, Czechoslovak Mathematical Journal \\textbf{1}(1) (1986) 1--10. https://doi.org/10.21136/cmj.1986.102059",
+      "paper_url": "https://doi.org/10.21136/cmj.1986.102059",
+      "journal_name": "Czechoslovak Mathematical Journal",
+      "year": 1986
+    },
+    {
+      "paper_id": "10_1002__sici_1097_0118_199610_23_2_209__aid_jgt12_3_0_co_2_b",
+      "bibtex": "@article{10_1002__sici_1097_0118_199610_23_2_209__aid_jgt12_3_0_co_2_b,\n  title={Packing two forests into a bipartite graph},\n  author={Hong Wang},\n  journal={Journal of Graph Theory},\n  year={1996},\n  doi={10.1002/(sici)1097-0118(199610)23:2<209::aid-jgt12>3.0.co;2-b},\n  url={https://doi.org/10.1002/(sici)1097-0118(199610)23:2<209::aid-jgt12>3.0.co;2-b}\n}",
+      "apa": "Wang, H. (1996). Packing two forests into a bipartite graph. Journal of Graph Theory.",
+      "ieee": "Hong Wang, \"Packing two forests into a bipartite graph,\" Journal of Graph Theory, 1996.",
+      "mla": "Wang, H.. \"Packing two forests into a bipartite graph.\" Journal of Graph Theory, 1996.",
+      "custom_format": "\\bibitem{Wa96} H. Wang, Packing two forests into a bipartite graph, Journal of Graph Theory \\textbf{1}(1) (1996) 1--10. https://doi.org/10.1002/(sici)1097-0118(199610)23:2<209::aid-jgt12>3.0.co;2-b",
+      "paper_url": "https://doi.org/10.1002/(sici)1097-0118(199610)23:2<209::aid-jgt12>3.0.co;2-b",
+      "journal_name": "Journal of Graph Theory",
+      "year": 1996
+    },
+    {
+      "paper_id": "10_1002__sici_1097_0118_199906_31_2_101__aid_jgt3_3_0_co_2_5",
+      "bibtex": "@article{10_1002__sici_1097_0118_199906_31_2_101__aid_jgt3_3_0_co_2_5,\n  title={On 2-factors of a bipartite graph},\n  author={Hong Wang},\n  journal={Journal of Graph Theory},\n  year={1999},\n  doi={10.1002/(sici)1097-0118(199906)31:2<101::aid-jgt3>3.0.co;2-5},\n  url={https://doi.org/10.1002/(sici)1097-0118(199906)31:2<101::aid-jgt3>3.0.co;2-5}\n}",
+      "apa": "Wang, H. (1999). On 2-factors of a bipartite graph. Journal of Graph Theory.",
+      "ieee": "Hong Wang, \"On 2-factors of a bipartite graph,\" Journal of Graph Theory, 1999.",
+      "mla": "Wang, H.. \"On 2-factors of a bipartite graph.\" Journal of Graph Theory, 1999.",
+      "custom_format": "\\bibitem{Wa99} H. Wang, On 2-factors of a bipartite graph, Journal of Graph Theory \\textbf{1}(1) (1999) 1--10. https://doi.org/10.1002/(sici)1097-0118(199906)31:2<101::aid-jgt3>3.0.co;2-5",
+      "paper_url": "https://doi.org/10.1002/(sici)1097-0118(199906)31:2<101::aid-jgt3>3.0.co;2-5",
+      "journal_name": "Journal of Graph Theory",
+      "year": 1999
+    },
+    {
+      "paper_id": "10_5220_0007955802980305",
+      "bibtex": "@inproceedings{10_5220_0007955802980305,\n  title={Software Modularity Coupling Resolution by the Laplacian of a Bipartite Dependency Graph},\n  author={Iaakov Exman and Netanel Ohayon},\n  booktitle={Proceedings of the 14th International Conference on Software Technologies},\n  year={2019},\n  doi={10.5220/0007955802980305},\n  url={https://doi.org/10.5220/0007955802980305}\n}",
+      "apa": "Exman, I. & Ohayon, N. (2019). Software Modularity Coupling Resolution by the Laplacian of a Bipartite Dependency Graph. In Proceedings of the 14th International Conference on Software Technologies.",
+      "ieee": "Iaakov Exman, Netanel Ohayon, \"Software Modularity Coupling Resolution by the Laplacian of a Bipartite Dependency Graph,\" in Proceedings of the 14th International Conference on Software Technologies, 2019.",
+      "mla": "Exman, I., and Netanel Ohayon. \"Software Modularity Coupling Resolution by the Laplacian of a Bipartite Dependency Graph.\" Proceedings of the 14th International Conference on Software Technologies, 2019.",
+      "custom_format": "\\bibitem{ExOh19} I. Exman, N. Ohayon, Software modularity coupling resolution by the laplacian of a bipartite dependency graph, Proceedings of the 14th International Conference on Software Technologies \\textbf{1}(1) (2019) 1--10. https://doi.org/10.5220/0007955802980305",
+      "paper_url": "https://doi.org/10.5220/0007955802980305",
+      "journal_name": "Proceedings of the 14th International Conference on Software Technologies",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_1002__sici_1097_0118_199908_31_4_333__aid_jgt8_3_3_co_2_w",
+      "bibtex": "@article{10_1002__sici_1097_0118_199908_31_4_333__aid_jgt8_3_3_co_2_w,\n  title={Proof of a conjecture on cycles in a bipartite graph},\n  author={Hong Wang},\n  journal={Journal of Graph Theory},\n  year={1999},\n  doi={10.1002/(sici)1097-0118(199908)31:4<333::aid-jgt8>3.3.co;2-w},\n  url={https://doi.org/10.1002/(sici)1097-0118(199908)31:4<333::aid-jgt8>3.3.co;2-w}\n}",
+      "apa": "Wang, H. (1999). Proof of a conjecture on cycles in a bipartite graph. Journal of Graph Theory.",
+      "ieee": "Hong Wang, \"Proof of a conjecture on cycles in a bipartite graph,\" Journal of Graph Theory, 1999.",
+      "mla": "Wang, H.. \"Proof of a conjecture on cycles in a bipartite graph.\" Journal of Graph Theory, 1999.",
+      "custom_format": "\\bibitem{Wa99} H. Wang, Proof of a conjecture on cycles in a bipartite graph, Journal of Graph Theory \\textbf{1}(1) (1999) 1--10. https://doi.org/10.1002/(sici)1097-0118(199908)31:4<333::aid-jgt8>3.3.co;2-w",
+      "paper_url": "https://doi.org/10.1002/(sici)1097-0118(199908)31:4<333::aid-jgt8>3.3.co;2-w",
+      "journal_name": "Journal of Graph Theory",
+      "year": 1999
+    },
+    {
+      "paper_id": "10_1017_cbo9781316418321_010",
+      "bibtex": "@article{10_1017_cbo9781316418321_010,\n  title={Bipartite Graph Analysis},\n  author={},\n  journal={Algorithms and Models for Network Data and Link Analysis},\n  year={2016},\n  doi={10.1017/cbo9781316418321.010},\n  url={https://doi.org/10.1017/cbo9781316418321.010}\n}",
+      "apa": "Unknown Author (2016). Bipartite Graph Analysis. Algorithms and Models for Network Data and Link Analysis.",
+      "ieee": "Unknown Author, \"Bipartite Graph Analysis,\" Algorithms and Models for Network Data and Link Analysis, 2016.",
+      "mla": "Unknown Author. \"Bipartite Graph Analysis.\" Algorithms and Models for Network Data and Link Analysis, 2016.",
+      "custom_format": "\\bibitem{Unknown16} Unknown Author, Bipartite graph analysis, Algorithms and Models for Network Data and Link Analysis \\textbf{1}(1) (2016) 1--10. https://doi.org/10.1017/cbo9781316418321.010",
+      "paper_url": "https://doi.org/10.1017/cbo9781316418321.010",
+      "journal_name": "Algorithms and Models for Network Data and Link Analysis",
+      "year": 2016
+    },
+    {
+      "paper_id": "10_1090_fim_019_10",
+      "bibtex": "@article{10_1090_fim_019_10,\n  title={Chordal bipartite graphs},\n  author={},\n  journal={Fields Institute Monographs},\n  year={2003},\n  doi={10.1090/fim/019/10},\n  url={https://doi.org/10.1090/fim/019/10}\n}",
+      "apa": "Unknown Author (2003). Chordal bipartite graphs. Fields Institute Monographs.",
+      "ieee": "Unknown Author, \"Chordal bipartite graphs,\" Fields Institute Monographs, 2003.",
+      "mla": "Unknown Author. \"Chordal bipartite graphs.\" Fields Institute Monographs, 2003.",
+      "custom_format": "\\bibitem{Unknown03} Unknown Author, Chordal bipartite graphs, Fields Institute Monographs \\textbf{1}(1) (2003) 1--10. https://doi.org/10.1090/fim/019/10",
+      "paper_url": "https://doi.org/10.1090/fim/019/10",
+      "journal_name": "Fields Institute Monographs",
+      "year": 2003
+    },
+    {
+      "paper_id": "10_1007_978_3_642_46908_4_38",
+      "bibtex": "@article{10_1007_978_3_642_46908_4_38,\n  title={Spanning Trees of the Complete Bipartite Graph},\n  author={N. Hartsfield and J. S. Werth},\n  journal={Topics in Combinatorics and Graph Theory},\n  year={1990},\n  doi={10.1007/978-3-642-46908-4_38},\n  url={https://doi.org/10.1007/978-3-642-46908-4_38}\n}",
+      "apa": "Hartsfield, N. & Werth, J. S. (1990). Spanning Trees of the Complete Bipartite Graph. Topics in Combinatorics and Graph Theory.",
+      "ieee": "N. Hartsfield, J. S. Werth, \"Spanning Trees of the Complete Bipartite Graph,\" Topics in Combinatorics and Graph Theory, 1990.",
+      "mla": "Hartsfield, N., and J. S. Werth. \"Spanning Trees of the Complete Bipartite Graph.\" Topics in Combinatorics and Graph Theory, 1990.",
+      "custom_format": "\\bibitem{HaWe90} N. Hartsfield, J.S. Werth, Spanning trees of the complete bipartite graph, Topics in Combinatorics and Graph Theory \\textbf{1}(1) (1990) 1--10. https://doi.org/10.1007/978-3-642-46908-4_38",
+      "paper_url": "https://doi.org/10.1007/978-3-642-46908-4_38",
+      "journal_name": "Topics in Combinatorics and Graph Theory",
+      "year": 1990
+    },
+    {
+      "paper_id": "10_1142_9789814641609_0003",
+      "bibtex": "@article{10_1142_9789814641609_0003,\n  title={Bipartite Graphs and Trees},\n  author={},\n  journal={Graph Theory},\n  year={2015},\n  doi={10.1142/9789814641609_0003},\n  url={https://doi.org/10.1142/9789814641609_0003}\n}",
+      "apa": "Unknown Author (2015). Bipartite Graphs and Trees. Graph Theory.",
+      "ieee": "Unknown Author, \"Bipartite Graphs and Trees,\" Graph Theory, 2015.",
+      "mla": "Unknown Author. \"Bipartite Graphs and Trees.\" Graph Theory, 2015.",
+      "custom_format": "\\bibitem{Unknown15} Unknown Author, Bipartite graphs and trees, Graph Theory \\textbf{1}(1) (2015) 1--10. https://doi.org/10.1142/9789814641609_0003",
+      "paper_url": "https://doi.org/10.1142/9789814641609_0003",
+      "journal_name": "Graph Theory",
+      "year": 2015
+    },
+    {
+      "paper_id": "10_7151_dmgt_1384",
+      "bibtex": "@article{10_7151_dmgt_1384,\n  title={Magic and supermagic dense bipartite graphs},\n  author={Jaroslav Ivan\u010do},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2007},\n  doi={10.7151/dmgt.1384},\n  url={https://doi.org/10.7151/dmgt.1384}\n}",
+      "apa": "Ivan\u010do, J. (2007). Magic and supermagic dense bipartite graphs. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Jaroslav Ivan\u010do, \"Magic and supermagic dense bipartite graphs,\" Discussiones Mathematicae Graph Theory, 2007.",
+      "mla": "Ivan\u010do, J.. \"Magic and supermagic dense bipartite graphs.\" Discussiones Mathematicae Graph Theory, 2007.",
+      "custom_format": "\\bibitem{Iv07} J. Ivan\u010do, Magic and supermagic dense bipartite graphs, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2007) 1--10. https://doi.org/10.7151/dmgt.1384",
+      "paper_url": "https://doi.org/10.7151/dmgt.1384",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2007
+    },
+    {
+      "paper_id": "10_1090_text_053_04",
+      "bibtex": "@article{10_1090_text_053_04,\n  title={C. Bipartite Graphs},\n  author={},\n  journal={AMS/MAA Textbooks},\n  year={2020},\n  doi={10.1090/text/053/04},\n  url={https://doi.org/10.1090/text/053/04}\n}",
+      "apa": "Unknown Author (2020). C. Bipartite Graphs. AMS/MAA Textbooks.",
+      "ieee": "Unknown Author, \"C. Bipartite Graphs,\" AMS/MAA Textbooks, 2020.",
+      "mla": "Unknown Author. \"C. Bipartite Graphs.\" AMS/MAA Textbooks, 2020.",
+      "custom_format": "\\bibitem{Unknown20} Unknown Author, C. bipartite graphs, AMS/MAA Textbooks \\textbf{1}(1) (2020) 1--10. https://doi.org/10.1090/text/053/04",
+      "paper_url": "https://doi.org/10.1090/text/053/04",
+      "journal_name": "AMS/MAA Textbooks",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1007_s003730050069",
+      "bibtex": "@article{10_1007_s003730050069,\n  title={On Vertex-Disjoint Complete Bipartite Subgraphs in a Bipartite Graph},\n  author={Hong Wang},\n  journal={Graphs and Combinatorics},\n  year={1999},\n  doi={10.1007/s003730050069},\n  url={https://doi.org/10.1007/s003730050069}\n}",
+      "apa": "Wang, H. (1999). On Vertex-Disjoint Complete Bipartite Subgraphs in a Bipartite Graph. Graphs and Combinatorics.",
+      "ieee": "Hong Wang, \"On Vertex-Disjoint Complete Bipartite Subgraphs in a Bipartite Graph,\" Graphs and Combinatorics, 1999.",
+      "mla": "Wang, H.. \"On Vertex-Disjoint Complete Bipartite Subgraphs in a Bipartite Graph.\" Graphs and Combinatorics, 1999.",
+      "custom_format": "\\bibitem{Wa99} H. Wang, On vertex-disjoint complete bipartite subgraphs in a bipartite graph, Graphs and Combinatorics \\textbf{1}(1) (1999) 1--10. https://doi.org/10.1007/s003730050069",
+      "paper_url": "https://doi.org/10.1007/s003730050069",
+      "journal_name": "Graphs and Combinatorics",
+      "year": 1999
+    },
+    {
+      "paper_id": "10_7151_dmgt_2252",
+      "bibtex": "@article{10_7151_dmgt_2252,\n  title={Packing trees in complete bipartite graphs},\n  author={Jieyan Wang},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2019},\n  doi={10.7151/dmgt.2252},\n  url={https://doi.org/10.7151/dmgt.2252}\n}",
+      "apa": "Wang, J. (2019). Packing trees in complete bipartite graphs. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Jieyan Wang, \"Packing trees in complete bipartite graphs,\" Discussiones Mathematicae Graph Theory, 2019.",
+      "mla": "Wang, J.. \"Packing trees in complete bipartite graphs.\" Discussiones Mathematicae Graph Theory, 2019.",
+      "custom_format": "\\bibitem{Wa19} J. Wang, Packing trees in complete bipartite graphs, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2019) 1--10. https://doi.org/10.7151/dmgt.2252",
+      "paper_url": "https://doi.org/10.7151/dmgt.2252",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_1002__sici_1097_0118_199609_23_1_49__aid_jgt5_3_0_co_2_k",
+      "bibtex": "@article{10_1002__sici_1097_0118_199609_23_1_49__aid_jgt5_3_0_co_2_k,\n  title={Bipartite graphs and their endomorphism monoids},\n  author={Suohai Fan},\n  journal={Journal of Graph Theory},\n  year={1996},\n  doi={10.1002/(sici)1097-0118(199609)23:1<49::aid-jgt5>3.0.co;2-k},\n  url={https://doi.org/10.1002/(sici)1097-0118(199609)23:1<49::aid-jgt5>3.0.co;2-k}\n}",
+      "apa": "Fan, S. (1996). Bipartite graphs and their endomorphism monoids. Journal of Graph Theory.",
+      "ieee": "Suohai Fan, \"Bipartite graphs and their endomorphism monoids,\" Journal of Graph Theory, 1996.",
+      "mla": "Fan, S.. \"Bipartite graphs and their endomorphism monoids.\" Journal of Graph Theory, 1996.",
+      "custom_format": "\\bibitem{Fa96} S. Fan, Bipartite graphs and their endomorphism monoids, Journal of Graph Theory \\textbf{1}(1) (1996) 1--10. https://doi.org/10.1002/(sici)1097-0118(199609)23:1<49::aid-jgt5>3.0.co;2-k",
+      "paper_url": "https://doi.org/10.1002/(sici)1097-0118(199609)23:1<49::aid-jgt5>3.0.co;2-k",
+      "journal_name": "Journal of Graph Theory",
+      "year": 1996
+    },
+    {
+      "paper_id": "10_32614_cran_package_maxmatching",
+      "bibtex": "@article{10_32614_cran_package_maxmatching,\n  title={maxmatching: Maximum Matching for General Weighted Graph},\n  author={},\n  journal={CRAN: Contributed Packages},\n  year={2017},\n  doi={10.32614/cran.package.maxmatching},\n  url={https://doi.org/10.32614/cran.package.maxmatching}\n}",
+      "apa": "Unknown Author (2017). maxmatching: Maximum Matching for General Weighted Graph. CRAN: Contributed Packages.",
+      "ieee": "Unknown Author, \"maxmatching: Maximum Matching for General Weighted Graph,\" CRAN: Contributed Packages, 2017.",
+      "mla": "Unknown Author. \"maxmatching: Maximum Matching for General Weighted Graph.\" CRAN: Contributed Packages, 2017.",
+      "custom_format": "\\bibitem{Unknown17} Unknown Author, Maxmatching: maximum matching for general weighted graph, CRAN: Contributed Packages \\textbf{1}(1) (2017) 1--10. https://doi.org/10.32614/cran.package.maxmatching",
+      "paper_url": "https://doi.org/10.32614/cran.package.maxmatching",
+      "journal_name": "CRAN: Contributed Packages",
+      "year": 2017
+    },
+    {
+      "paper_id": "10_7151_dmgt_1231",
+      "bibtex": "@article{10_7151_dmgt_1231,\n  title={Cycle-pancyclism in bipartite tournaments I},\n  author={Hortensia Galeana-S\u00e1nchez},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2004},\n  doi={10.7151/dmgt.1231},\n  url={https://doi.org/10.7151/dmgt.1231}\n}",
+      "apa": "Galeana-S\u00e1nchez, H. (2004). Cycle-pancyclism in bipartite tournaments I. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Hortensia Galeana-S\u00e1nchez, \"Cycle-pancyclism in bipartite tournaments I,\" Discussiones Mathematicae Graph Theory, 2004.",
+      "mla": "Galeana-S\u00e1nchez, H.. \"Cycle-pancyclism in bipartite tournaments I.\" Discussiones Mathematicae Graph Theory, 2004.",
+      "custom_format": "\\bibitem{Ga04} H. Galeana-S\u00e1nchez, Cycle-pancyclism in bipartite tournaments i, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2004) 1--10. https://doi.org/10.7151/dmgt.1231",
+      "paper_url": "https://doi.org/10.7151/dmgt.1231",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2004
+    }
+  ]
+}
