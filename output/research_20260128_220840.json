@@ -1,0 +1,2847 @@
+{
+  "topic": "wiener index",
+  "generated_at": "2026-01-28T22:08:40.909847",
+  "quality_filters_applied": {
+    "q_rankings": [
+      "Q1",
+      "Q2"
+    ],
+    "include_sa_papers": true,
+    "include_regular_papers": true,
+    "min_year": 2020
+  },
+  "summary": {
+    "papers_analyzed": 98,
+    "claims_extracted": 6,
+    "contradictions_found": 0,
+    "research_gaps_identified": 12
+  },
+  "topic_map": {
+    "main_topic": "wiener index",
+    "subtopics": [],
+    "methods": [],
+    "keywords": [
+      "index",
+      "wiener"
+    ],
+    "datasets": []
+  },
+  "papers": [
+    {
+      "title": "COMPUTATION OF WIENER INDEX, RECIPROCAL WIENER INDEX AND PERIPHERAL WIENER INDEX USING ADJACENCY MATRIX",
+      "authors": [
+        "R. Rajendra",
+        "P. Siva Kota Reddy",
+        "M. Prabhavathi"
+      ],
+      "year": 2022,
+      "venue": "South East Asian J. of Mathematics and Mathematical Sciences",
+      "relevance_score": 1.0,
+      "abstract": "<jats:p>In this short paper, we establish formulae to compute Wiener index, reciprocal Wiener index and peripheral Wiener index of graphs using adjacency matrix. Further, we present algorithms for the same</jats:p>",
+      "doi": "10.56827/seajmms.2022.1803.23",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.56827/seajmms.2022.1803.23",
+      "q_ranking": "Q1",
+      "is_sa": false
+    },
+    {
+      "title": "Sufficient Conditions for Wiener Index, Hyper-Wiener Index and Harary Index of the Hamilton Graph",
+      "authors": [
+        "Jiangyi Liu"
+      ],
+      "year": 2025,
+      "venue": "Mathematics and Computer Science",
+      "relevance_score": 1.0,
+      "abstract": "<jats:p xml:lang=\"en\">The topological index can be used to depict the structural properties of graphs, and the Hamiltonian problem of graphs has always been a classical problem in graph theory. In this work, we use some known conditions to give some sufficient conditions for Hamilton graphs by the W...",
+      "doi": "10.11648/j.mcs.20251001.12",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.11648/j.mcs.20251001.12",
+      "q_ranking": "Q1",
+      "is_sa": false
+    },
+    {
+      "title": "The Wiener index of vertex colorings",
+      "authors": [
+        "Viktoriya Bardenova",
+        "Neal Bushaw",
+        "Brent Cody",
+        "Paul Fay",
+        "Maya Tennant"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.9,
+      "abstract": "The Wiener index of a vertex coloring of a graph is defined to be the sum of all pairwise geodesic distances between vertices of the same color. We provide characterizations of vertex colorings of paths and cycles whose Wiener index is as large as possible over various natural collections. Along the...",
+      "doi": null,
+      "arxiv_id": "2503.18920",
+      "url": "http://arxiv.org/abs/2503.18920v3",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Peripheral hyper-Wiener index of a graph",
+      "authors": [
+        "Andry N. Rabenantoandro"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.9,
+      "abstract": "In this note, we introduce a new topological index of a graph G that we term peripheral hyper-Wiener index, denoted PWW(G). It is a natural extension of the peripheral Wiener index PW(G) initiated in [NB17] and is to the peripheral Wiener index what the hyper-Wiener index is to the Wiener index. We ...",
+      "doi": null,
+      "arxiv_id": "2512.13468",
+      "url": "http://arxiv.org/abs/2512.13468v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Graphs with a given conditional diameter that maximize the Wiener index",
+      "authors": [
+        "Junfeng An",
+        "Yingzhi Tian"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "relevance_score": 0.88,
+      "abstract": "The Wiener index $W(G)$ of a graph $G$ is one of the most well-known topological indices, which is defined as the sum of distances between all pairs of vertices of $G$. The diameter $D(G)$ of $G$ is the maximum distance between all pairs of vertices of $G$; the conditional diameter $D(G;s)$ is the m...",
+      "doi": null,
+      "arxiv_id": "2402.15778",
+      "url": "http://arxiv.org/abs/2402.15778v2",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Selected topics on Wiener index",
+      "authors": [
+        "Martin Knor",
+        "Riste \u0160krekovski",
+        "Aleksandra Tepeh"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.8600000000000001,
+      "abstract": "The Wiener index is defined as the sum of distances between all unordered pairs of vertices in a graph. It is one of the most recognized and well-researched topological indices, which is on the other hand still a very active area of research. This work presents a natural continuation of the paper Ma...",
+      "doi": null,
+      "arxiv_id": "2303.11405",
+      "url": "http://arxiv.org/abs/2303.11405v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The maximum Wiener index of a uniform hypergraph",
+      "authors": [
+        "Stijn Cambie",
+        "Ervin Gy\u0151ri",
+        "Nika Salia",
+        "Casey Tompkins",
+        "James Tuite"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.8600000000000001,
+      "abstract": "The Wiener index of a (hyper)graph is calculated by summing up the distances between all pairs of vertices. We determine the maximum possible Wiener index of a connected $n$-vertex $k$-uniform hypergraph and characterize for every~$n$ all hypergraphs attaining the maximum Wiener index.",
+      "doi": null,
+      "arxiv_id": "2302.08686",
+      "url": "http://arxiv.org/abs/2302.08686v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Geometric Spanning Trees Minimizing the Wiener Index",
+      "authors": [
+        "A. Karim Abu-Affash",
+        "Paz Carmi",
+        "Ori Luwisch",
+        "Joseph S. B. Mitchell"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.8600000000000001,
+      "abstract": "The Wiener index of a network, introduced by the chemist Harry Wiener, is the sum of distances between all pairs of nodes in the network. This index, originally used in chemical graph representations of the non-hydrogen atoms of a molecule, is considered to be a fundamental and useful network descri...",
+      "doi": null,
+      "arxiv_id": "2303.01096",
+      "url": "http://arxiv.org/abs/2303.01096v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Wiener index and the Wiener Complexity of the zero-divisor graph of a ring",
+      "authors": [
+        "David Dol\u017ean"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.8600000000000001,
+      "abstract": "We calculate the Wiener index of the zero-divisor graph of a finite semisimple ring. We also calculate the Wiener complexity of the zero-divisor graph of a finite simple ring and find an upper bound for the Wiener complexity in the semisimple case.",
+      "doi": null,
+      "arxiv_id": "2305.07405",
+      "url": "http://arxiv.org/abs/2305.07405v2",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On the Wiener index and the hyper-Wiener index of the Kragujevac trees",
+      "authors": [
+        "Abbas Heydari"
+      ],
+      "year": 2023,
+      "venue": "Proyecciones (Antofagasta)",
+      "relevance_score": 0.8600000000000001,
+      "abstract": "<jats:p>In this paper, the Wiener index and the hyper-Wiener index of the Kragujevac trees is computed in term of its vertex degrees. As application, we obtain an upper bond and a lower bound for the Wiener index and the hyper-Wiener index of these trees.</jats:p>",
+      "doi": "10.22199/issn.0717-6279-4804",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.22199/issn.0717-6279-4804",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Revisiting a Classic Cheminformatics Paper: The Wiener Index",
+      "authors": [
+        "Jeremy Monat"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.8600000000000001,
+      "abstract": "<jats:p>Harry Wiener was \"a pioneer in cheminformatics and chemical graph theory\". In his 1947 &lt;em&gt; Journal of the American Chemical Society &lt;/em&gt; article \"Structural Determination of Paraffin Boiling Points\", he introduced the path number $\\omega$ \"as the sum of the distances between an...",
+      "doi": "10.59350/g3x38-6ja91",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.59350/g3x38-6ja91",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Computing the Kirchhoff index and the Wiener index of spiro para-hexagonal cylinder chain",
+      "authors": [
+        "Md Selim Reja",
+        "Sk. Md. Abu N"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.8600000000000001,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>Kirchhoff index of a graph is given by the sum of inverses of non-zero Laplacian eigenvalues multiplied with the number of vertices of the graph. It has been studied for several linear and cylinder chains of chemically important graphs, so far. In th...",
+      "doi": "10.21203/rs.3.rs-3038466/v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-3038466/v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On the Wiener Index of Orientations of Graphs",
+      "authors": [
+        "Peter Dankelmann"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.8400000000000001,
+      "abstract": "The Wiener index of a strong digraph $D$ is defined as the sum of the distances between all ordered pairs of vertices. This definition has been extended to digraphs that are not necessarily strong by defining the distance from a vertex $a$ to a vertex $b$ as $0$ if there is no path from $a$ to $b$ i...",
+      "doi": null,
+      "arxiv_id": "2209.08946",
+      "url": "http://arxiv.org/abs/2209.08946v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Disproof of a conjecture on the minimum Wiener index of signed trees",
+      "authors": [
+        "Songlin Guo",
+        "Wei Wang",
+        "Chuanming Wang"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.8400000000000001,
+      "abstract": "The Wiener index of a connected graph is the sum of distances between all unordered pairs of vertices. Sam Spiro [The Wiener index of signed graphs, Appl. Math. Comput., 416(2022)126755] recently introduced the Wiener index for a signed graph and conjectured that the path $P_n$ with alternating sign...",
+      "doi": null,
+      "arxiv_id": "2208.01984",
+      "url": "http://arxiv.org/abs/2208.01984v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On maximum Wiener index of directed grids",
+      "authors": [
+        "Martin Knor",
+        "Riste Skrekovski"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.8400000000000001,
+      "abstract": "This paper is devoted to Wiener index of directed graphs, more precisely of directed grids. The grid $G_{m,n}$ is the Cartesian product $P_m\\Box P_n$ of paths on $m$ and $n$ vertices, and in a particular case when $m=2$, it is a called the ladder graph $L_n$. Kraner \u0160umenjak et al. proved that the m...",
+      "doi": null,
+      "arxiv_id": "2201.11958",
+      "url": "http://arxiv.org/abs/2201.11958v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index of the Cozero-divisor graph of a finite commutative ring",
+      "authors": [
+        "Barkha Baloda",
+        "Praveen Mathil",
+        "Jitender Kumar",
+        "Aryan Barapatre"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.8400000000000001,
+      "abstract": "Let $R$ be a ring with unity. The cozero-divisor graph of a ring $R$, denoted by $\u0393'(R)$, is an undirected simple graph whose vertices are the set of all non-zero and non-unit elements of $R$, and two distinct vertices $x$ and $y$ are adjacent if and only if $x \\notin Ry$ and $y \\notin Rx$. In this ...",
+      "doi": null,
+      "arxiv_id": "2210.01570",
+      "url": "http://arxiv.org/abs/2210.01570v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Equiseparability on Terminal Wiener Index and Distances",
+      "authors": [
+        "Sulphikar A"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.8200000000000001,
+      "abstract": "Teminal Wiener index is one of the commonly used topological index in mathematical chemistry. If two or more chemical compounds have the same terminal Wiener index then they will have similar physico-chemical properties. In this work we propose a new method for constructing equiseparable trees w.r.t...",
+      "doi": null,
+      "arxiv_id": "2111.14716",
+      "url": "http://arxiv.org/abs/2111.14716v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Proof of a Conjecture on the Wiener Index of Eulerian Graphs",
+      "authors": [
+        "Peter Dankelmann"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.8200000000000001,
+      "abstract": "The Wiener index of a connected graph is the sum of the distances between all unordered pairs of vertices. A connected graph is Eulerian if its vertex degrees are all even. In [Gutman, Cruz, Rada, Wiener index of Eulerian Graphs, Discrete Applied Mathematics 132 (2014), 247-250] the authors proved t...",
+      "doi": null,
+      "arxiv_id": "2101.08342",
+      "url": "http://arxiv.org/abs/2101.08342v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Correction of a theorem in the Wiener index on fuzzy graphs",
+      "authors": [
+        "Masoud Ghods",
+        "Zahra Rostami"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.8200000000000001,
+      "abstract": "In an article entitled The Counterexample of a theorem in Wiener index of a fuzzy graph and application to illegal immigration networks, we have shown a few examples of incorrect proof of a theorem in the Wiener index. Now, in this article, we will prove it by correcting the desired theorem. We have...",
+      "doi": null,
+      "arxiv_id": "2103.15063",
+      "url": "http://arxiv.org/abs/2103.15063v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On the Relation Between Wiener Index and Eccentricity of a Graph",
+      "authors": [
+        "Hamid Darabi",
+        "Yaser Alizadeh",
+        "Sandi Klav\u017ear",
+        "Kinkar Chandra Das"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.8200000000000001,
+      "abstract": "The relation between the Wiener index $W(G)$ and the eccentricity $\\varepsilon(G)$ of a graph $G$ is studied. Lower and upper bounds on $W(G)$ in terms of $\\varepsilon(G)$ are proved and extremal graphs characterized. A Nordhaus-Gaddum type result on $W(G)$ involving $\\varepsilon(G)$ is given. A sha...",
+      "doi": null,
+      "arxiv_id": "2103.02307",
+      "url": "http://arxiv.org/abs/2103.02307v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index and Steiner 3-Wiener index of graphs",
+      "authors": [
+        "Matja\u017e Kov\u0161e",
+        "V. A. Rasila",
+        "Ambat Vijayakumar"
+      ],
+      "year": 2021,
+      "venue": "Asian-European Journal of Mathematics",
+      "relevance_score": 0.8200000000000001,
+      "abstract": "<jats:p> Let [Formula: see text] be a set of vertices of a connected graph [Formula: see text]. The Steiner distance of [Formula: see text] is the minimum size of a connected subgraph of [Formula: see text] containing all the vertices of [Formula: see text]. The sum of all Steiner distances on sets ...",
+      "doi": "10.1142/s1793557121501655",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s1793557121501655",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index and Steiner 3-Wiener index of a graph",
+      "authors": [
+        "Matja\u017e Kov\u0161e",
+        "Rasila V A",
+        "Ambat Vijayakumar"
+      ],
+      "year": 2018,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Let $S$ be a set of vertices of a connected graph $G$. The Steiner distance of $S$ is the minimum size of a connected subgraph of $G$ containing all the vertices of $S$. The sum of all Steiner distances on sets of size $k$ is called the Steiner $k$-Wiener index, hence for $k=2$ we get the Wiener ind...",
+      "doi": null,
+      "arxiv_id": "1809.10767",
+      "url": "http://arxiv.org/abs/1809.10767v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Edge-Wiener Index and the Edge-Hyper-Wiener Index of Phenylenes",
+      "authors": [
+        "Petra \u017digert Pleter\u0161ek"
+      ],
+      "year": 2017,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Besides the well known Wiener index, which sums up the distances between all the pairs of vertices, and the hyper-Wiener index, which includes also the squares of distances, the edge versions of both indices attracted a lot of attention in the recent years.   In this paper we consider the edge-Wiene...",
+      "doi": null,
+      "arxiv_id": "1712.06819",
+      "url": "http://arxiv.org/abs/1712.06819v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Generalizations of Wiener polarity index and terminal Wiener index",
+      "authors": [
+        "Aleksandar Ilic",
+        "Milovan Ilic"
+      ],
+      "year": 2011,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "In theoretical chemistry, distance-based molecular structure descriptors are used for modeling physical, pharmacologic, biological and other properties of chemical compounds. We introduce a generalized Wiener polarity index $W_k (G)$ as the number of unordered pairs of vertices ${u, v}$ of $G$ such ...",
+      "doi": null,
+      "arxiv_id": "1106.2986",
+      "url": "http://arxiv.org/abs/1106.2986v2",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On the Wiener complexity and the Wiener index of fullerene graphs",
+      "authors": [
+        "Andrey A. Dobrynin",
+        "Andrei Yu. Vesnin"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Fullerenes are molecules in the form of cage-like polyhedra, consisting solely of carbon atoms. Fullerene graphs are mathematical models of fullerene molecules. The transmission of a vertex $v$ of a graph is the sum of distances from $v$ to all the other vertices. The number of different vertex tran...",
+      "doi": null,
+      "arxiv_id": "1905.01699",
+      "url": "http://arxiv.org/abs/1905.01699v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On the Two Conjectures of the Wiener Index",
+      "authors": [
+        "Ya-Lei Jin",
+        "Xiao-Dong Zhang"
+      ],
+      "year": 2013,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index of a graph, which is the sum of the distances between all pairs of vertices, has been well studied. Recently, Sills and Wang in 2012 proposed two conjectures on the maximal Wiener index of trees with a given degree sequence. This note proves one of the two conjectures and disproves ...",
+      "doi": null,
+      "arxiv_id": "1304.0873",
+      "url": "http://arxiv.org/abs/1304.0873v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Properties of the Hyper-Wiener index as a local function",
+      "authors": [
+        "Ya-Hong Chen Hua Wang",
+        "Xiao-Dong Zhang"
+      ],
+      "year": 2017,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Hyper-Wiener index was introduced as one of the main generalizations of the well known Wiener index. Through the years properties of the Wiener index have been extensively studied in both Mathematics and Chemistry. The Hyper-Wiener index, although received much attention, is far from being thoroughl...",
+      "doi": null,
+      "arxiv_id": "1702.05303",
+      "url": "http://arxiv.org/abs/1702.05303v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener Index, Hyper-wiener Index, Harary Index and Hamiltonicity of graphs",
+      "authors": [
+        "Guidong Yu",
+        "Lifang Ren",
+        "Gaixiang Cai"
+      ],
+      "year": 2018,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "In this paper, we discuss the Hamiltonicity of graphs in terms of Wiener index, hyper-Wiener index and Harary index of their quasi-complement or complement. Firstly, we give some sufficient conditions for an balanced bipartite graph with given the minimum degree to be traceable and Hamiltonian, resp...",
+      "doi": null,
+      "arxiv_id": "1804.02648",
+      "url": "http://arxiv.org/abs/1804.02648v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Generalized cut method for computing the edge-Wiener index",
+      "authors": [
+        "Niko Tratnik"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The edge-Wiener index of a connected graph $G$ is defined as the Wiener index of the line graph of $G$. In this paper it is shown that the edge-Wiener index of an edge-weighted graph can be computed in terms of the Wiener index, the edge-Wiener index, and the vertex-edge-Wiener index of weighted quo...",
+      "doi": null,
+      "arxiv_id": "1902.03153",
+      "url": "http://arxiv.org/abs/1902.03153v2",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Complexity to Find Wiener Index of Some Graphs",
+      "authors": [
+        "Kalyani Das"
+      ],
+      "year": 2014,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index is one of the oldest graph parameter which is used to study molecular-graph-based structure. This parameter was first proposed by Harold Wiener in 1947 to determining the boiling point of paraffin. The Wiener index of a molecular graph measures the compactness of the underlying mole...",
+      "doi": null,
+      "arxiv_id": "1409.1987",
+      "url": "http://arxiv.org/abs/1409.1987v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Maximum Wiener Index of Trees with Given Degree Sequences",
+      "authors": [
+        "Xiao-Dong Zhang",
+        "Yong Liu",
+        "Min-Xian Han"
+      ],
+      "year": 2009,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index of a connected graph is the sum of topological distances between all pairs of vertices. Since Wang gave a mistake result on the maximum Wiener index for given tree degree sequence, in this paper, we investigate the maximum Wiener index of trees with given degree sequences and extrem...",
+      "doi": null,
+      "arxiv_id": "0907.3772",
+      "url": "http://arxiv.org/abs/0907.3772v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index and Harary index on pancyclic graphs",
+      "authors": [
+        "Huicai Jia",
+        "Hongye Song"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Wiener index and Harary index are two classic and well-known topological indices for the characterization of molecular graphs. Recently, Yu et al. \\cite{YYSX} established some sufficient conditions for a graph to be pancyclic in terms of the edge number, the spectral radius and the signless Laplacia...",
+      "doi": null,
+      "arxiv_id": "1906.06814",
+      "url": "http://arxiv.org/abs/1906.06814v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Maximum Wiener index of unicyclic graphs with given bipartition",
+      "authors": [
+        "Jan Bok",
+        "Nikola Jedli\u010dkov\u00e1",
+        "Jana Maxov\u00e1"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The \\emph{Wiener index} is a widely studied topological index of graphs. One of the main problems in the area is to determine which graphs of given properties attain the extremal values of Wiener index.   In this paper we resolve an open problem posed by Du in 2012. To this end we determine the unic...",
+      "doi": null,
+      "arxiv_id": "1902.10661",
+      "url": "http://arxiv.org/abs/1902.10661v3",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Minimum Wiener Index of Triangulations and Quadrangulations",
+      "authors": [
+        "\u00c9va Czabarka",
+        "Trevor Olsen",
+        "Stephen Smith",
+        "L\u00e1szl\u00f3 A. Sz\u00e9kely"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index of a connected graph is the sum of the distances between all unordered pairs of vertices. We provide formulae for the minimum Wiener index of simple triangulations and quadrangulations with connectivity at least $c$, and provide the extremal structures, which attain those values. Ou...",
+      "doi": null,
+      "arxiv_id": "2003.03873",
+      "url": "http://arxiv.org/abs/2003.03873v3",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Terminal Wiener Index of Trees with Diameter or Maximum Degree",
+      "authors": [
+        "Ya-Hong Chen",
+        "Xiao-Dong Zhang"
+      ],
+      "year": 2015,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The terminal Wiener index of a tree is the sum of distances for all pairs of pendent vertices, which recently arises in the study of phylogenetic tree reconstruction and the neighborhood of trees. This paper presents a sharp upper and lower bounds for the terminal Wiener index in terms of its order ...",
+      "doi": null,
+      "arxiv_id": "1510.03126",
+      "url": "http://arxiv.org/abs/1510.03126v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index of graphs with fixed number of pendant or cut vertices",
+      "authors": [
+        "Dinesh Pandey",
+        "Kamal Lochan Patra"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index of a connected graph is defined as the sum of the distances between all unordered pair of its vertices. In this paper, we characterize the graphs which extremize the Wiener index among all graphs on $n$ vertices with $k$ pendant vertices. We also characterize the graph which minimiz...",
+      "doi": null,
+      "arxiv_id": "1907.13481",
+      "url": "http://arxiv.org/abs/1907.13481v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index, number of subtrees, and tree eccentric sequence",
+      "authors": [
+        "Peter Dankelmann",
+        "Audace A. V. Dossou-Olory"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The eccentricity of a vertex $u$ in a connected graph $G$ is the distance between $u$ and a vertex farthest from it; the eccentric sequence of $G$ is the nondecreasing sequence of the eccentricities of $G$. In this paper, we determine the unique tree that minimises the Wiener index, i.e. the sum of ...",
+      "doi": null,
+      "arxiv_id": "2002.07092",
+      "url": "http://arxiv.org/abs/2002.07092v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The extremal values of the Wiener index of a tree with given degree sequence",
+      "authors": [
+        "Hua Wang"
+      ],
+      "year": 2007,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index of a graph is the sum of the distances between all pairs of vertices, it has been one of the main descriptors that correlate achemical compound's molecular graph with experimentally gathered data regarding the compound's characteristics. The tree that minimizes the Wiener index amon...",
+      "doi": null,
+      "arxiv_id": "0709.1679",
+      "url": "http://arxiv.org/abs/0709.1679v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On the difference between the Szeged and Wiener index",
+      "authors": [
+        "Marthe Bonamy",
+        "Martin Knor",
+        "Borut Lu\u017ear",
+        "Alexandre Pinlou",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "We prove a conjecture of Nadjafi-Arani, Khodashenas and Ashrafi on the difference between the Szeged and Wiener index of a graph. Namely, if $G$ is a 2-connected non-complete graph on $n$ vertices, then $Sz(G)-W(G)\\ge 2n-6$. Furthermore, the equality is obtained if and only if $G$ is the complete gr...",
+      "doi": null,
+      "arxiv_id": "1602.05184",
+      "url": "http://arxiv.org/abs/1602.05184v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index, Harary index and Hamiltonicity of graphs",
+      "authors": [
+        "Hongbo Hua",
+        "Bo Ning"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "In this paper, we prove tight sufficient conditions for traceability and Hamiltonicity of connected graphs with given minimum degree, in terms of Wiener index and Harary index. We also prove some result on Hamiltonicity of balanced bipartite graphs in the similar fashion. In two recent papers \\cite{...",
+      "doi": null,
+      "arxiv_id": "1609.00114",
+      "url": "http://arxiv.org/abs/1609.00114v2",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "An upper bound on the Wiener Index of a k-connected graph",
+      "authors": [
+        "Zhongyuan Che",
+        "Karen L. Collins"
+      ],
+      "year": 2018,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index of a connected graph is the summation of all distances between unordered pairs of vertices of the graph. In this paper, we give an upper bound on the Wiener index of a $k$-connected graph $G$ of order $n$ for integers $n-1>k \\ge 1$:   \\[W(G) \\le \\frac{1}{4} n \\lfloor \\frac{n+k-2}{k}...",
+      "doi": null,
+      "arxiv_id": "1811.02664",
+      "url": "http://arxiv.org/abs/1811.02664v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Wiener Index of Unicyclic Graphs with Girth and the Matching Number",
+      "authors": [
+        "Ya-Hong Chen",
+        "Xiao-Dong Zhang"
+      ],
+      "year": 2011,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "In this paper, we investigate how the Wiener index of unicyclic graphs varies with graph operations. These results are used to present a sharp lower bound for the Wiener index of unicyclic graphs of order $n$ with girth and the matching number $\u03b2\\ge \\frac{3g}{2}$. Moreover, we characterize all extre...",
+      "doi": null,
+      "arxiv_id": "1102.5409",
+      "url": "http://arxiv.org/abs/1102.5409v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Steiner Wiener index of block graphs",
+      "authors": [
+        "Matja\u017e Kov\u0161e",
+        "Rasila V A",
+        "Ambat Vijayakumar"
+      ],
+      "year": 2018,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Let $S$ be a set of vertices of a connected graph $G$. The Steiner distance of $S$ is the minimum size of a connected subgraph of $G$ containing all the vertices of $S$. The Steiner $k$-Wiener index is the sum of all Steiner distances on sets of $k$ vertices of $G$. Different simple methods for calc...",
+      "doi": null,
+      "arxiv_id": "1805.08143",
+      "url": "http://arxiv.org/abs/1805.08143v2",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Maximum Wiener Index of Maximal Planar Graphs",
+      "authors": [
+        "Debarun Ghosh",
+        "Ervin Gy\u0151ri",
+        "Addisu Paulos",
+        "Nika Salia",
+        "Oscar Zamora"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index of a connected graph is the sum of the distances between all pairs of vertices in the graph. It was conjectured that the Wiener index of an $n$-vertex maximal planar graph is at most $\\lfloor\\frac{1}{18}(n^3+3n^2)\\rfloor$. We prove this conjecture and for every $n$, $n \\geq 10$, det...",
+      "doi": null,
+      "arxiv_id": "1912.02846",
+      "url": "http://arxiv.org/abs/1912.02846v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Maximizing Wiener Index for Trees with Given Vertex Weight and Degree Sequences",
+      "authors": [
+        "Mikhail Goubko"
+      ],
+      "year": 2017,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index is maximized over the set of trees with the given vertex weight and degree sequences. This model covers the traditional \"unweighed\" Wiener index, the terminal Wiener index, and the vertex distance index. It is shown that there exists an optimal caterpillar. If weights of internal ve...",
+      "doi": null,
+      "arxiv_id": "1705.04291",
+      "url": "http://arxiv.org/abs/1705.04291v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The structure of graphs with given number of blocks and the maximum Wiener index",
+      "authors": [
+        "St\u00e9phane Bessy",
+        "Fran\u00e7ois Dross",
+        "Katar\u00edna Hri\u0148\u00e1kov\u00e1",
+        "Martin Knor",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index (the distance) of a connected graph is the sum of distances between all pairs of vertices. In this paper, we study the maximum possible value of this invariant among graphs on $n$ vertices with fixed number of blocks $p$. It is known that among graphs on $n$ vertices that have just ...",
+      "doi": null,
+      "arxiv_id": "1905.02633",
+      "url": "http://arxiv.org/abs/1905.02633v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index of binomial trees and Fibonacci trees",
+      "authors": [
+        "K. Viswanathan Iyer",
+        "K. R. Uday Kumar Reddy"
+      ],
+      "year": 2009,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "We obtain a closed-form expression for the Wiener index of binomial trees. We outline efficient algorithms for computing the Wiener indices of Fibonacci and binary Fibonacci trees.",
+      "doi": null,
+      "arxiv_id": "0910.4432",
+      "url": "http://arxiv.org/abs/0910.4432v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The quotients between the (revised) Szeged index and Wiener index of graphs",
+      "authors": [
+        "Huihui Zhang",
+        "Jing Chen",
+        "Shuchao Li"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Let $Sz(G),Sz^*(G)$ and $W(G)$ be the Szeged index, revised Szeged index and Wiener index of a graph $G.$ In this paper, the graphs with the fourth, fifth, sixth and seventh largest Wiener indices among all unicyclic graphs of order $n\\geqslant 10$ are characterized; as well the graphs with the firs...",
+      "doi": null,
+      "arxiv_id": "1606.05950",
+      "url": "http://arxiv.org/abs/1606.05950v3",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Computing the Wiener index in Sierpinski carpet graphs",
+      "authors": [
+        "Daniele D'Angeli",
+        "Alfredo Donno",
+        "Alessio Monti"
+      ],
+      "year": 2018,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "We describe an algorithm to compute the Wiener index of a sequence of finite graphs approximating the Sierpinski carpet.",
+      "doi": null,
+      "arxiv_id": "1802.09840",
+      "url": "http://arxiv.org/abs/1802.09840v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Steiner Wiener index of trees with a given segment sequence",
+      "authors": [
+        "Jie Zhang",
+        "Hua Wang",
+        "Xiao-Dong Zhang"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Steiner distance of vertices in a set $S$ is the minimum size of a connected subgraph that contain these vertices. The sum of the Steiner distances over all sets $S$ of cardinality $k$ is called the Steiner $k$-Wiener index and studied as the natural generalization of the famous Wiener index in ...",
+      "doi": null,
+      "arxiv_id": "2008.02019",
+      "url": "http://arxiv.org/abs/2008.02019v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Mathematical aspects of Wiener index",
+      "authors": [
+        "Martin Knor",
+        "Riste \u0160krekovski",
+        "Aleksandra Tepeh"
+      ],
+      "year": 2015,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index (i.e., the total distance or the transmission number), defined as the sum of distances between all unordered pairs of vertices in a graph, is one of the most popular molecular descriptors. In this article we summarize some results, conjectures and problems on this molecular descript...",
+      "doi": null,
+      "arxiv_id": "1510.00800",
+      "url": "http://arxiv.org/abs/1510.00800v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener Index and Remoteness in Triangulations and Quadrangulations",
+      "authors": [
+        "\u00c9va Czabarka",
+        "Peter Dankelmann",
+        "Trevor Olsen",
+        "L\u00e1szl\u00f3 A. Sz\u00e9kely"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Let $G$ be a a connected graph. The Wiener index of a connected graph is the sum of the distances between all unordered pairs of vertices. We provide asymptotic formulae for the maximum Wiener index of simple triangulations and quadrangulations with given connectivity, as the order increases, and ma...",
+      "doi": null,
+      "arxiv_id": "1905.06753",
+      "url": "http://arxiv.org/abs/1905.06753v4",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "A note on 'A New Approach To Compute Wiener Index'",
+      "authors": [
+        "Aleksandar Ilic"
+      ],
+      "year": 2013,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "In this note, we discuss the method explained in the recent paper [P. Manuel, I. Rajasingh, B. Rajan, R. Sundara Rajan, A New Approach To Compute Wiener Index, Journal of Computational and Theoretical Nanoscience 10, (2013) 1515-1521.] for computing the Wiener index of special chemical graphs. The m...",
+      "doi": null,
+      "arxiv_id": "1307.6502",
+      "url": "http://arxiv.org/abs/1307.6502v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index in graphs with given minimum degree and maximum degree",
+      "authors": [
+        "Peter Dankelmann",
+        "Alex Alochukwu"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "Let $G$ be a connected graph of order $n$.The Wiener index $W(G)$ of $G$ is the sum of the distances between all unordered pairs of vertices of $G$. In this paper we show that the well-known upper bound $\\big( \\frac{n}{\u03b4+1}+2\\big) {n \\choose 2}$ on the Wiener index of a graph of order $n$ and minimu...",
+      "doi": null,
+      "arxiv_id": "2011.13970",
+      "url": "http://arxiv.org/abs/2011.13970v3",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On the Wiener index, distance cospectrality and transmission regular graphs",
+      "authors": [
+        "Aida Abiad",
+        "Boris Brimkov",
+        "Aysel Erey",
+        "Lorinda Leshock",
+        "Xavier Mart\u00ednez-Rivera",
+        "Suil O",
+        "Sung-Yell Song",
+        "Jason Williford"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "In this paper, we investigate various algebraic and graph theoretic properties of the distance matrix of a graph. Two graphs are $D$-cospectral if their distance matrices have the same spectrum. We construct infinite pairs of $D$-cospectral graphs with different diameter and different Wiener index. ...",
+      "doi": null,
+      "arxiv_id": "1609.06911",
+      "url": "http://arxiv.org/abs/1609.06911v2",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Some Aspects of the Wiener Index for Sun Graphs",
+      "authors": [
+        "Mohamed Amine Boutiche"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "The Wiener index $W(G)$ is the sum of distances of all pairs of vertices of the graph $G$. The Wiener polarity index $W_{p}(G)$ of a graph $G$ is the number of unordered pairs of vertices $u$ and $v$ of $G$ such that the distance $d_{G}(u,v)$ between $u$ and $v$ is $3$. In this paper the Wiener and ...",
+      "doi": null,
+      "arxiv_id": "1603.06099",
+      "url": "http://arxiv.org/abs/1603.06099v1",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Hosoya polynomial, Wiener index, and Hyper-Wiener index of Jahangir Graph \\(J_{8,m}\\)",
+      "authors": [
+        "Ramy Shaheen"
+      ],
+      "year": 2020,
+      "venue": "Online Journal of Analytic Combinatorics",
+      "relevance_score": 0.8,
+      "abstract": "<jats:p>Let \\( G(V,E) \\) be a simple connected graph with vertex set \\( V \\) and edge set \\( E \\). The Wiener index in the graph is \\(W(G) = \\sum_{\\{u,v\\} \\subseteq V} d(u,v),\\) where \\( d(u,v) \\) is the distance between \\( u \\) and \\( v \\), and the Hosoya polynomial of \\( G \\) is \\(H(G, x) = \\sum_{...",
+      "doi": "10.61091/ojac-1515",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.61091/ojac-1515",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "On Wiener and terminal Wiener index of graphs",
+      "authors": [
+        "J. Baskar Babujee",
+        "J. Senbagamalar"
+      ],
+      "year": 2015,
+      "venue": "International Journal of Biomathematics",
+      "relevance_score": 0.8,
+      "abstract": "<jats:p> The Wiener index is a topological index defined as the sum of distances between all pairs of vertices in a graph. It was introduced as a structural descriptor for molecular graphs of alkanes, which are trees with vertex degrees of four at the most. The terminal Wiener index is defined as th...",
+      "doi": "10.1142/s1793524515500667",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1142/s1793524515500667",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener Index of Some Thorn Graphs",
+      "authors": [],
+      "year": 2015,
+      "venue": "International Journal of Science and Research (IJSR)",
+      "relevance_score": 0.7,
+      "abstract": "",
+      "doi": "10.21275/v4i11.nov151680",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21275/v4i11.nov151680",
+      "q_ranking": "Q1",
+      "is_sa": false
+    },
+    {
+      "title": "The Wiener index, the hyper-Wiener index and the degree distance index of the corona Cm.Cn",
+      "authors": [
+        "Mohamed Essalih",
+        "Mohamed El Marraki",
+        "Abd Errahmane Atmani"
+      ],
+      "year": 2014,
+      "venue": "Applied Mathematical Sciences",
+      "relevance_score": 0.7,
+      "abstract": "",
+      "doi": "10.12988/ams.2014.43202",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.12988/ams.2014.43202",
+      "q_ranking": "Q1",
+      "is_sa": false
+    },
+    {
+      "title": "Figure 6: Shannon\u2013Wiener index of river fauna diversity.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.7717/peerj.12224/fig-6",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.12224/fig-6",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Corrigendum on Wiener Index, Zagreb Indices and Harary Index of Eulerian Graphs",
+      "authors": [
+        "Stijn Cambie"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.2139/ssrn.4578445",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.4578445",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The Wiener Index and the Wiener Complexity of the Zero-Divisor Graph of a Finite Semisimple Ring",
+      "authors": [
+        "David Dolzan"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.2139/ssrn.4346337",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.4346337",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Figure 4: The Shannon-Wiener index (A) and the Simpson index of different repair types (B).",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.7717/peerj.19854/fig-4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.19854/fig-4",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Figure 5: Variations of Shannon\u2013Wiener index (\n                      <i>H</i>\n                      \u2032) and Palou\u2019s evenness index (\n                      <i>J</i>\n                      ).",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.7717/peerj.5670/fig-5",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.5670/fig-5",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Figure 7: Shannon\u2013Wiener index for individual taxa before and after dredging.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.7717/peerj.12224/fig-7",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.12224/fig-7",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Figure 4: Relationships among litters, biomass and the Shannon\u2013Wiener index of plant communities.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.7717/peerj.7239/fig-4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.7239/fig-4",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Supplemental Information 5: Difference in species richness, Shannon-Wiener index, Simpson index, and Pielou index between control (CK) and\n                      <i>S. chamaejasme</i>\n                      removal (SR) treatments.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.7717/peerj.9239/supp-5",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.9239/supp-5",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "An Extended Hypergraph Cut Method for the Wiener Index",
+      "authors": [
+        "Ga\u0161per  Domen Romih"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.56,
+      "abstract": "",
+      "doi": "10.2139/ssrn.5009079",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2139/ssrn.5009079",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener, edge-Wiener, and vertex-edge-Wiener index of Basilica graphs",
+      "authors": [
+        "Matteo Cavaleri",
+        "Daniele D\u2019Angeli",
+        "Alfredo Donno",
+        "Stefan Hammer"
+      ],
+      "year": 2022,
+      "venue": "Discrete Applied Mathematics",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.1016/j.dam.2021.09.025",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.dam.2021.09.025",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "A Relation Between Wiener Index and Mostar Index for Daisy Cubes",
+      "authors": [],
+      "year": 2022,
+      "venue": "Discrete Mathematics Letters",
+      "relevance_score": 0.54,
+      "abstract": "",
+      "doi": "10.47443/dml.2022.068",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.47443/dml.2022.068",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Hyper-Wiener Index vs. Wiener Index. Two Highly Correlated Structure-Descriptors",
+      "authors": [
+        "Ivan Gutman",
+        "Boris Furtula"
+      ],
+      "year": 2003,
+      "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1007/s00706-003-0003-7",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s00706-003-0003-7",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Computing Wiener Polynomial, Wiener Index and Hyper Wiener Index of C<sub>80</sub>Fullerene by GAP Program",
+      "authors": [
+        "Ali Iranmanesh",
+        "Y. Alizadeh",
+        "S. Mirzaie"
+      ],
+      "year": 2009,
+      "venue": "Fullerenes, Nanotubes and Carbon Nanostructures",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1080/15363830903133204",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1080/15363830903133204",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener Index, Hyper-Wiener Index, Harary Index and Hamiltonicity Properties of graphs",
+      "authors": [
+        "Gui-dong Yu",
+        "Li-fang Ren",
+        "Xing-xing Li"
+      ],
+      "year": 2019,
+      "venue": "Applied Mathematics-A Journal of Chinese Universities",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1007/s11766-019-3565-9",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s11766-019-3565-9",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "An inequality between the edge-Wiener index and the Wiener index of a graph",
+      "authors": [
+        "Martin Knor",
+        "Riste \u0160krekovski",
+        "Aleksandra Tepeh"
+      ],
+      "year": 2015,
+      "venue": "Applied Mathematics and Computation",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1016/j.amc.2015.07.050",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.amc.2015.07.050",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Relation between hyper-Wiener and Wiener index",
+      "authors": [
+        "Ivan Gutman"
+      ],
+      "year": 2002,
+      "venue": "Chemical Physics Letters",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1016/s0009-2614(02)01343-x",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/s0009-2614(02)01343-x",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Shannon\u2013Wiener Index",
+      "authors": [
+        "I.F. Spellerberg"
+      ],
+      "year": 2008,
+      "venue": "Encyclopedia of Ecology",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1016/b978-008045405-4.00132-4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/b978-008045405-4.00132-4",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Extension of the Wiener index and Wiener polynomial",
+      "authors": [
+        "Mehdi Eliasi",
+        "Bijan Taeri"
+      ],
+      "year": 2008,
+      "venue": "Applied Mathematics Letters",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1016/j.aml.2007.10.001",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.aml.2007.10.001",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "The edge wiener index of suspensions, bottlenecks, and thorny graphs",
+      "authors": [
+        "Yaser Alizadeh",
+        "Ali Iranmanesh",
+        "Tomislav Do\u0161li\u0107",
+        "Mahdieh Azari"
+      ],
+      "year": 2014,
+      "venue": "Glasnik Matematicki",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.3336/gm.49.1.01",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3336/gm.49.1.01",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Chemical Graphs and the Wiener Index",
+      "authors": [],
+      "year": 2011,
+      "venue": "Handbook of Product Graphs",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1201/b10959-26",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1201/b10959-26",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener index of some graphs",
+      "authors": [
+        "Javad Yazdani"
+      ],
+      "year": 2010,
+      "venue": "AIP Conference Proceedings",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1063/1.3525226",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1063/1.3525226",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Wiener Index of Line Graphs",
+      "authors": [],
+      "year": 2014,
+      "venue": "Quantitative Graph Theory",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1201/b17645-14",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1201/b17645-14",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Shannon\u2013Wiener diversity index",
+      "authors": [],
+      "year": 2025,
+      "venue": "The IUPAC Compendium of Chemical Terminology",
+      "relevance_score": 0.4,
+      "abstract": "<jats:p>Citation: 'Shannon\u2013Wiener diversity index' in the IUPAC Compendium of Chemical Terminology, 5th ed.; International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.15031 \u2022 License: The IUPAC Gold Book is licensed under Creative Commons Attribution-Share...",
+      "doi": "10.1351/goldbook.15031",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1351/goldbook.15031",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Figure 4: Shannon\u2013Wiener evenness index of\n                      <i>Pinus tabulaeformis</i>\n                      community in protected stands.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.7717/peerj.3764/fig-4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.3764/fig-4",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Table 4: Values of species richness (SR), Shannon\u2013Wiener diversity index (H\u2032) and Pielou\u2019s evenness index (J\u2032) for diatom assemblages of Auvergne and Sardinia.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.7717/peerj.7238/table-4",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj.7238/table-4",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "year": 2020,
+      "venue": "Jewish Thought Adrift",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.2307/j.ctvzpv4p8.14",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2307/j.ctvzpv4p8.14",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Index of Places",
+      "authors": [],
+      "year": 2012,
+      "venue": "Wiener Jahrbuch f\u00fcr Kunstgeschichte",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.7788/wjk-2012-0138",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7788/wjk-2012-0138",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "Index of Names",
+      "authors": [],
+      "year": 2012,
+      "venue": "Wiener Jahrbuch f\u00fcr Kunstgeschichte",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.7788/wjk-2012-0139",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7788/wjk-2012-0139",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41527561",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41527561/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41514921",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41514921/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41507301",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41507301/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41415676",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41415676/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41390559",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41390559/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41371031",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41371031/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41331308",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41331308/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41326812",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41326812/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41302886",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41302886/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    },
+    {
+      "title": "PubMed Paper 41298853",
+      "authors": [
+        "Unknown"
+      ],
+      "year": 2023,
+      "venue": "PubMed",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "Abstract would be fetched from additional API call",
+      "doi": null,
+      "arxiv_id": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41298853/",
+      "q_ranking": "Q3",
+      "is_sa": false
+    }
+  ],
+  "claims": [
+    {
+      "statement": "The first asserts that the difference $W(G) - \\varepsilon(G)$ does not increase after contracting an edge of $G$",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "between the Wiener index $W(G)$ and the eccentricity $\\varepsilon(G)$ of a graph $G$ is studied",
+        "$W(G)$ in terms of $\\varepsilon(G)$ are proved and extremal graphs characterized",
+        "$W(G)$ involving $\\varepsilon(G)$ is given",
+        "the Wiener index of a tree in terms of its eccentricity is proved",
+        "caterpillars",
+        "the eccentricity of a tree in terms of its radius is also given",
+        "paths"
+      ]
+    },
+    {
+      "statement": "Firstly, we give some sufficient conditions for an balanced bipartite graph with given the minimum degree to be traceable and Hamiltonian, respectively",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "given the minimum degree to be traceable and Hamiltonian",
+        "given the minimum degree to be traceable",
+        "given the minimum degree to be traceable and Hamiltonian"
+      ]
+    },
+    {
+      "statement": "This parameter was first proposed by Harold Wiener in 1947 to determining the boiling point of paraffin",
+      "confidence": 0.66,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "graphs"
+      ]
+    },
+    {
+      "statement": "All results in this paper are best possible",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "given minimum degree",
+        "Hamiltonicity of balanced bipartite graphs in the similar fashion",
+        "traceability of connected graphs in terms of Wiener index and Harary index"
+      ]
+    },
+    {
+      "statement": "$ In this paper, the graphs with the fourth, fifth, sixth and seventh largest Wiener indices among all unicyclic graphs of order $n\\geqslant 10$ are characterized; as well the graphs with the first, second, third, and fourth largest Wiener indices among all bicyclic graphs are identified",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "the fourth",
+        "the first",
+        "the second smallest value on $Sz^*(G)/W(G)$ is identified for $G$ containing at least one cycle",
+        "these results",
+        "on the quotients between the (revised) Szeged index and the Wiener index are studied",
+        "$Sz^*(G)/W(G)$ is identified for $G$ containing at least one cycle"
+      ]
+    },
+    {
+      "statement": "We prove a similar result for triangle-free graphs, and we determine a bound on the Wiener index of $C_4$-free graphs of given order, minimum and maximum degree and show that it is, in some sense, best possible",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "the Wiener index of a graph of order $n$ and minimum degree $\u03b4$ [M",
+        "the Wiener index of a graph $G$ of order $n$",
+        "the Wiener index of $C_4$-free graphs of given order"
+      ]
+    }
+  ],
+  "contradictions": [],
+  "research_gaps": [
+    {
+      "description": "Limited use of cross-validation in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper cross-validation?",
+        "What are the best practices for cross-validation in this domain?",
+        "Why is cross-validation not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of ablation study in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper ablation study?",
+        "What are the best practices for ablation study in this domain?",
+        "Why is ablation study not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of statistical significance in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper statistical significance?",
+        "What are the best practices for statistical significance in this domain?",
+        "Why is statistical significance not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of baseline comparison in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper baseline comparison?",
+        "What are the best practices for baseline comparison in this domain?",
+        "Why is baseline comparison not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of error analysis in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper error analysis?",
+        "What are the best practices for error analysis in this domain?",
+        "Why is error analysis not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of hyperparameter tuning in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper hyperparameter tuning?",
+        "What are the best practices for hyperparameter tuning in this domain?",
+        "Why is hyperparameter tuning not commonly used?"
+      ]
+    },
+    {
+      "description": "Lack of real-world evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in real-world evaluation?",
+        "What are the challenges of conducting real-world evaluation?",
+        "What metrics are appropriate for real-world evaluation?"
+      ]
+    },
+    {
+      "description": "Lack of user study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in user study?",
+        "What are the challenges of conducting user study?",
+        "What metrics are appropriate for user study?"
+      ]
+    },
+    {
+      "description": "Lack of clinical trial in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in clinical trial?",
+        "What are the challenges of conducting clinical trial?",
+        "What metrics are appropriate for clinical trial?"
+      ]
+    },
+    {
+      "description": "Lack of longitudinal study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in longitudinal study?",
+        "What are the challenges of conducting longitudinal study?",
+        "What metrics are appropriate for longitudinal study?"
+      ]
+    },
+    {
+      "description": "Lack of multi-domain evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in multi-domain evaluation?",
+        "What are the challenges of conducting multi-domain evaluation?",
+        "What metrics are appropriate for multi-domain evaluation?"
+      ]
+    },
+    {
+      "description": "Need for recent comparative studies",
+      "type": "temporal_gap",
+      "priority": 0.5,
+      "potential_questions": [
+        "How do recent methods compare to established ones?",
+        "What are the latest trends and developments?",
+        "Which recent approaches show the most promise?"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "paper_id": "10_56827_seajmms_2022_1803_23",
+      "bibtex": "@article{10_56827_seajmms_2022_1803_23,\n  title={COMPUTATION OF WIENER INDEX, RECIPROCAL WIENER INDEX AND PERIPHERAL WIENER INDEX USING ADJACENCY MATRIX},\n  author={R. Rajendra and P. Siva Kota Reddy and M. Prabhavathi},\n  journal={South East Asian J. of Mathematics and Mathematical Sciences},\n  year={2022},\n  doi={10.56827/seajmms.2022.1803.23},\n  url={https://doi.org/10.56827/seajmms.2022.1803.23}\n}",
+      "apa": "Rajendra, R., Reddy, P. S. K., & Prabhavathi, M. (2022). COMPUTATION OF WIENER INDEX, RECIPROCAL WIENER INDEX AND PERIPHERAL WIENER INDEX USING ADJACENCY MATRIX. South East Asian J. of Mathematics and Mathematical Sciences.",
+      "ieee": "R. Rajendra, P. Siva Kota Reddy, M. Prabhavathi, \"COMPUTATION OF WIENER INDEX, RECIPROCAL WIENER INDEX AND PERIPHERAL WIENER INDEX USING ADJACENCY MATRIX,\" South East Asian J. of Mathematics and Mathematical Sciences, 2022.",
+      "mla": "Rajendra, R., et al.. \"COMPUTATION OF WIENER INDEX, RECIPROCAL WIENER INDEX AND PERIPHERAL WIENER INDEX USING ADJACENCY MATRIX.\" South East Asian J. of Mathematics and Mathematical Sciences, 2022.",
+      "custom_format": "\\bibitem{RaRePr22} R. Rajendra, P.S.K. Reddy, M. Prabhavathi, Computation of Wiener index, reciprocal Wiener index and peripheral Wiener index using adjacency matrix, South East Asian J. of Mathematics and Mathematical Sciences \\textbf{1}(1) (2022) 1--10. https://doi.org/10.56827/seajmms.2022.1803.23",
+      "paper_url": "https://doi.org/10.56827/seajmms.2022.1803.23",
+      "journal_name": "South East Asian J. of Mathematics and Mathematical Sciences",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_11648_j_mcs_20251001_12",
+      "bibtex": "@article{10_11648_j_mcs_20251001_12,\n  title={Sufficient Conditions for Wiener Index, Hyper-Wiener Index and Harary Index of the Hamilton Graph},\n  author={Jiangyi Liu},\n  journal={Mathematics and Computer Science},\n  year={2025},\n  doi={10.11648/j.mcs.20251001.12},\n  url={https://doi.org/10.11648/j.mcs.20251001.12}\n}",
+      "apa": "Liu, J. (2025). Sufficient Conditions for Wiener Index, Hyper-Wiener Index and Harary Index of the Hamilton Graph. Mathematics and Computer Science.",
+      "ieee": "Jiangyi Liu, \"Sufficient Conditions for Wiener Index, Hyper-Wiener Index and Harary Index of the Hamilton Graph,\" Mathematics and Computer Science, 2025.",
+      "mla": "Liu, J.. \"Sufficient Conditions for Wiener Index, Hyper-Wiener Index and Harary Index of the Hamilton Graph.\" Mathematics and Computer Science, 2025.",
+      "custom_format": "\\bibitem{Li25} J. Liu, Sufficient conditions for Wiener index, hyper-Wiener index and harary index of the Hamilton graph, Mathematics and Computer Science \\textbf{1}(1) (2025) 1--10. https://doi.org/10.11648/j.mcs.20251001.12",
+      "paper_url": "https://doi.org/10.11648/j.mcs.20251001.12",
+      "journal_name": "Mathematics and Computer Science",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2503_18920",
+      "bibtex": "@article{arxiv_2503_18920,\n  title={The Wiener index of vertex colorings},\n  author={Viktoriya Bardenova and Neal Bushaw and Brent Cody and Paul Fay and Maya Tennant},\n  journal={arXiv preprint arXiv:2503.18920},\n  year={2025},\n  url={http://arxiv.org/abs/2503.18920v3}\n}",
+      "apa": "Bardenova, V., Bushaw, N., Cody, B., Fay, P., & Tennant, M. (2025). The Wiener index of vertex colorings. arXiv preprint arXiv:2503.18920.",
+      "ieee": "Viktoriya Bardenova et al., \"The Wiener index of vertex colorings,\" arXiv preprint arXiv:2503.18920, 2025.",
+      "mla": "Bardenova, V., et al.. \"The Wiener index of vertex colorings.\" arXiv, 2503.18920, 2025.",
+      "custom_format": "\\bibitem{BaBuCo25} V. Bardenova, N. Bushaw, B. Cody, P. Fay, M. Tennant, The Wiener index of vertex colorings, arXiv \\textbf{1}(1) (2025) 1--10. http://arxiv.org/abs/2503.18920v3",
+      "paper_url": "http://arxiv.org/abs/2503.18920v3",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2512_13468",
+      "bibtex": "@article{arxiv_2512_13468,\n  title={Peripheral hyper-Wiener index of a graph},\n  author={Andry N. Rabenantoandro},\n  journal={arXiv preprint arXiv:2512.13468},\n  year={2025},\n  url={http://arxiv.org/abs/2512.13468v1}\n}",
+      "apa": "Rabenantoandro, A. N. (2025). Peripheral hyper-Wiener index of a graph. arXiv preprint arXiv:2512.13468.",
+      "ieee": "Andry N. Rabenantoandro, \"Peripheral hyper-Wiener index of a graph,\" arXiv preprint arXiv:2512.13468, 2025.",
+      "mla": "Rabenantoandro, A. N.. \"Peripheral hyper-Wiener index of a graph.\" arXiv, 2512.13468, 2025.",
+      "custom_format": "\\bibitem{Ra25} A.N. Rabenantoandro, Peripheral hyper-Wiener index of a graph, arXiv \\textbf{1}(1) (2025) 1--10. http://arxiv.org/abs/2512.13468v1",
+      "paper_url": "http://arxiv.org/abs/2512.13468v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2402_15778",
+      "bibtex": "@article{arxiv_2402_15778,\n  title={Graphs with a given conditional diameter that maximize the Wiener index},\n  author={Junfeng An and Yingzhi Tian},\n  journal={arXiv preprint arXiv:2402.15778},\n  year={2024},\n  url={http://arxiv.org/abs/2402.15778v2}\n}",
+      "apa": "An, J. & Tian, Y. (2024). Graphs with a given conditional diameter that maximize the Wiener index. arXiv preprint arXiv:2402.15778.",
+      "ieee": "Junfeng An, Yingzhi Tian, \"Graphs with a given conditional diameter that maximize the Wiener index,\" arXiv preprint arXiv:2402.15778, 2024.",
+      "mla": "An, J., and Yingzhi Tian. \"Graphs with a given conditional diameter that maximize the Wiener index.\" arXiv, 2402.15778, 2024.",
+      "custom_format": "\\bibitem{AnTi24} J. An, Y. Tian, Graphs with a given conditional diameter that maximize the Wiener index, arXiv \\textbf{1}(1) (2024) 1--10. http://arxiv.org/abs/2402.15778v2",
+      "paper_url": "http://arxiv.org/abs/2402.15778v2",
+      "journal_name": "arXiv",
+      "year": 2024
+    },
+    {
+      "paper_id": "arxiv_2303_11405",
+      "bibtex": "@article{arxiv_2303_11405,\n  title={Selected topics on Wiener index},\n  author={Martin Knor and Riste \u0160krekovski and Aleksandra Tepeh},\n  journal={arXiv preprint arXiv:2303.11405},\n  year={2023},\n  url={http://arxiv.org/abs/2303.11405v1}\n}",
+      "apa": "Knor, M., \u0160krekovski, R., & Tepeh, A. (2023). Selected topics on Wiener index. arXiv preprint arXiv:2303.11405.",
+      "ieee": "Martin Knor, Riste \u0160krekovski, Aleksandra Tepeh, \"Selected topics on Wiener index,\" arXiv preprint arXiv:2303.11405, 2023.",
+      "mla": "Knor, M., et al.. \"Selected topics on Wiener index.\" arXiv, 2303.11405, 2023.",
+      "custom_format": "\\bibitem{Kn\u0160kTe23} M. Knor, R. \u0160krekovski, A. Tepeh, Selected topics on Wiener index, arXiv \\textbf{1}(1) (2023) 1--10. http://arxiv.org/abs/2303.11405v1",
+      "paper_url": "http://arxiv.org/abs/2303.11405v1",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2302_08686",
+      "bibtex": "@article{arxiv_2302_08686,\n  title={The maximum Wiener index of a uniform hypergraph},\n  author={Stijn Cambie and Ervin Gy\u0151ri and Nika Salia and Casey Tompkins and James Tuite},\n  journal={arXiv preprint arXiv:2302.08686},\n  year={2023},\n  url={http://arxiv.org/abs/2302.08686v1}\n}",
+      "apa": "Cambie, S., Gy\u0151ri, E., Salia, N., Tompkins, C., & Tuite, J. (2023). The maximum Wiener index of a uniform hypergraph. arXiv preprint arXiv:2302.08686.",
+      "ieee": "Stijn Cambie et al., \"The maximum Wiener index of a uniform hypergraph,\" arXiv preprint arXiv:2302.08686, 2023.",
+      "mla": "Cambie, S., et al.. \"The maximum Wiener index of a uniform hypergraph.\" arXiv, 2302.08686, 2023.",
+      "custom_format": "\\bibitem{CaGySa23} S. Cambie, E. Gy\u0151ri, N. Salia, C. Tompkins, J. Tuite, The maximum Wiener index of a uniform hypergraph, arXiv \\textbf{1}(1) (2023) 1--10. http://arxiv.org/abs/2302.08686v1",
+      "paper_url": "http://arxiv.org/abs/2302.08686v1",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2303_01096",
+      "bibtex": "@article{arxiv_2303_01096,\n  title={Geometric Spanning Trees Minimizing the Wiener Index},\n  author={A. Karim Abu-Affash and Paz Carmi and Ori Luwisch and Joseph S. B. Mitchell},\n  journal={arXiv preprint arXiv:2303.01096},\n  year={2023},\n  url={http://arxiv.org/abs/2303.01096v1}\n}",
+      "apa": "Abu-Affash, A. K., Carmi, P., Luwisch, O., & Mitchell, J. S. B. (2023). Geometric Spanning Trees Minimizing the Wiener Index. arXiv preprint arXiv:2303.01096.",
+      "ieee": "A. Karim Abu-Affash et al., \"Geometric Spanning Trees Minimizing the Wiener Index,\" arXiv preprint arXiv:2303.01096, 2023.",
+      "mla": "Abu-Affash, A. K., et al.. \"Geometric Spanning Trees Minimizing the Wiener Index.\" arXiv, 2303.01096, 2023.",
+      "custom_format": "\\bibitem{AbCaLu23} A.K. Abu-Affash, P. Carmi, O. Luwisch, J.S.B. Mitchell, Geometric spanning trees minimizing the Wiener index, arXiv \\textbf{1}(1) (2023) 1--10. http://arxiv.org/abs/2303.01096v1",
+      "paper_url": "http://arxiv.org/abs/2303.01096v1",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2305_07405",
+      "bibtex": "@article{arxiv_2305_07405,\n  title={The Wiener index and the Wiener Complexity of the zero-divisor graph of a ring},\n  author={David Dol\u017ean},\n  journal={arXiv preprint arXiv:2305.07405},\n  year={2023},\n  url={http://arxiv.org/abs/2305.07405v2}\n}",
+      "apa": "Dol\u017ean, D. (2023). The Wiener index and the Wiener Complexity of the zero-divisor graph of a ring. arXiv preprint arXiv:2305.07405.",
+      "ieee": "David Dol\u017ean, \"The Wiener index and the Wiener Complexity of the zero-divisor graph of a ring,\" arXiv preprint arXiv:2305.07405, 2023.",
+      "mla": "Dol\u017ean, D.. \"The Wiener index and the Wiener Complexity of the zero-divisor graph of a ring.\" arXiv, 2305.07405, 2023.",
+      "custom_format": "\\bibitem{Do23} D. Dol\u017ean, The Wiener index and the Wiener complexity of the zero-divisor graph of a ring, arXiv \\textbf{1}(1) (2023) 1--10. http://arxiv.org/abs/2305.07405v2",
+      "paper_url": "http://arxiv.org/abs/2305.07405v2",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_22199_issn_0717_6279_4804",
+      "bibtex": "@article{10_22199_issn_0717_6279_4804,\n  title={On the Wiener index and the hyper-Wiener index of the Kragujevac trees},\n  author={Abbas Heydari},\n  journal={Proyecciones (Antofagasta)},\n  year={2023},\n  doi={10.22199/issn.0717-6279-4804},\n  url={https://doi.org/10.22199/issn.0717-6279-4804}\n}",
+      "apa": "Heydari, A. (2023). On the Wiener index and the hyper-Wiener index of the Kragujevac trees. Proyecciones (Antofagasta).",
+      "ieee": "Abbas Heydari, \"On the Wiener index and the hyper-Wiener index of the Kragujevac trees,\" Proyecciones (Antofagasta), 2023.",
+      "mla": "Heydari, A.. \"On the Wiener index and the hyper-Wiener index of the Kragujevac trees.\" Proyecciones (Antofagasta), 2023.",
+      "custom_format": "\\bibitem{He23} A. Heydari, On the Wiener index and the hyper-Wiener index of the kragujevac trees, Proyecciones (Antofagasta) \\textbf{1}(1) (2023) 1--10. https://doi.org/10.22199/issn.0717-6279-4804",
+      "paper_url": "https://doi.org/10.22199/issn.0717-6279-4804",
+      "journal_name": "Proyecciones (Antofagasta)",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_59350_g3x38_6ja91",
+      "bibtex": "@article{10_59350_g3x38_6ja91,\n  title={Revisiting a Classic Cheminformatics Paper: The Wiener Index},\n  author={Jeremy Monat},\n  journal={},\n  year={2023},\n  doi={10.59350/g3x38-6ja91},\n  url={https://doi.org/10.59350/g3x38-6ja91}\n}",
+      "apa": "Monat, J. (2023). Revisiting a Classic Cheminformatics Paper: The Wiener Index. .",
+      "ieee": "Jeremy Monat, \"Revisiting a Classic Cheminformatics Paper: The Wiener Index,\" , 2023.",
+      "mla": "Monat, J.. \"Revisiting a Classic Cheminformatics Paper: The Wiener Index.\" , 2023.",
+      "custom_format": "\\bibitem{Mo23} J. Monat, Revisiting a classic cheminformatics paper: the Wiener index,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.59350/g3x38-6ja91",
+      "paper_url": "https://doi.org/10.59350/g3x38-6ja91",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_21203_rs_3_rs_3038466_v1",
+      "bibtex": "@article{10_21203_rs_3_rs_3038466_v1,\n  title={Computing the Kirchhoff index and the Wiener index of spiro para-hexagonal cylinder chain},\n  author={Md Selim Reja and Sk. Md. Abu N},\n  journal={},\n  year={2023},\n  doi={10.21203/rs.3.rs-3038466/v1},\n  url={https://doi.org/10.21203/rs.3.rs-3038466/v1}\n}",
+      "apa": "Reja, M. S. & N, S. M. A. (2023). Computing the Kirchhoff index and the Wiener index of spiro para-hexagonal cylinder chain. .",
+      "ieee": "Md Selim Reja, Sk. Md. Abu N, \"Computing the Kirchhoff index and the Wiener index of spiro para-hexagonal cylinder chain,\" , 2023.",
+      "mla": "Reja, M. S., and Sk. Md. Abu N. \"Computing the Kirchhoff index and the Wiener index of spiro para-hexagonal cylinder chain.\" , 2023.",
+      "custom_format": "\\bibitem{ReN23} M.S. Reja, Sk.Md.A. N, Computing the kirchhoff index and the Wiener index of spiro para-hexagonal cylinder chain,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.21203/rs.3.rs-3038466/v1",
+      "paper_url": "https://doi.org/10.21203/rs.3.rs-3038466/v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2209_08946",
+      "bibtex": "@article{arxiv_2209_08946,\n  title={On the Wiener Index of Orientations of Graphs},\n  author={Peter Dankelmann},\n  journal={arXiv preprint arXiv:2209.08946},\n  year={2022},\n  url={http://arxiv.org/abs/2209.08946v1}\n}",
+      "apa": "Dankelmann, P. (2022). On the Wiener Index of Orientations of Graphs. arXiv preprint arXiv:2209.08946.",
+      "ieee": "Peter Dankelmann, \"On the Wiener Index of Orientations of Graphs,\" arXiv preprint arXiv:2209.08946, 2022.",
+      "mla": "Dankelmann, P.. \"On the Wiener Index of Orientations of Graphs.\" arXiv, 2209.08946, 2022.",
+      "custom_format": "\\bibitem{Da22} P. Dankelmann, On the Wiener index of orientations of graphs, arXiv \\textbf{1}(1) (2022) 1--10. http://arxiv.org/abs/2209.08946v1",
+      "paper_url": "http://arxiv.org/abs/2209.08946v1",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2208_01984",
+      "bibtex": "@article{arxiv_2208_01984,\n  title={Disproof of a conjecture on the minimum Wiener index of signed trees},\n  author={Songlin Guo and Wei Wang and Chuanming Wang},\n  journal={arXiv preprint arXiv:2208.01984},\n  year={2022},\n  url={http://arxiv.org/abs/2208.01984v1}\n}",
+      "apa": "Guo, S., Wang, W., & Wang, C. (2022). Disproof of a conjecture on the minimum Wiener index of signed trees. arXiv preprint arXiv:2208.01984.",
+      "ieee": "Songlin Guo, Wei Wang, Chuanming Wang, \"Disproof of a conjecture on the minimum Wiener index of signed trees,\" arXiv preprint arXiv:2208.01984, 2022.",
+      "mla": "Guo, S., et al.. \"Disproof of a conjecture on the minimum Wiener index of signed trees.\" arXiv, 2208.01984, 2022.",
+      "custom_format": "\\bibitem{GuWaWa22} S. Guo, W. Wang, C. Wang, Disproof of a conjecture on the minimum Wiener index of signed trees, arXiv \\textbf{1}(1) (2022) 1--10. http://arxiv.org/abs/2208.01984v1",
+      "paper_url": "http://arxiv.org/abs/2208.01984v1",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2201_11958",
+      "bibtex": "@article{arxiv_2201_11958,\n  title={On maximum Wiener index of directed grids},\n  author={Martin Knor and Riste Skrekovski},\n  journal={arXiv preprint arXiv:2201.11958},\n  year={2022},\n  url={http://arxiv.org/abs/2201.11958v1}\n}",
+      "apa": "Knor, M. & Skrekovski, R. (2022). On maximum Wiener index of directed grids. arXiv preprint arXiv:2201.11958.",
+      "ieee": "Martin Knor, Riste Skrekovski, \"On maximum Wiener index of directed grids,\" arXiv preprint arXiv:2201.11958, 2022.",
+      "mla": "Knor, M., and Riste Skrekovski. \"On maximum Wiener index of directed grids.\" arXiv, 2201.11958, 2022.",
+      "custom_format": "\\bibitem{KnSk22} M. Knor, R. Skrekovski, On maximum Wiener index of directed grids, arXiv \\textbf{1}(1) (2022) 1--10. http://arxiv.org/abs/2201.11958v1",
+      "paper_url": "http://arxiv.org/abs/2201.11958v1",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2210_01570",
+      "bibtex": "@article{arxiv_2210_01570,\n  title={Wiener index of the Cozero-divisor graph of a finite commutative ring},\n  author={Barkha Baloda and Praveen Mathil and Jitender Kumar and Aryan Barapatre},\n  journal={arXiv preprint arXiv:2210.01570},\n  year={2022},\n  url={http://arxiv.org/abs/2210.01570v1}\n}",
+      "apa": "Baloda, B., Mathil, P., Kumar, J., & Barapatre, A. (2022). Wiener index of the Cozero-divisor graph of a finite commutative ring. arXiv preprint arXiv:2210.01570.",
+      "ieee": "Barkha Baloda et al., \"Wiener index of the Cozero-divisor graph of a finite commutative ring,\" arXiv preprint arXiv:2210.01570, 2022.",
+      "mla": "Baloda, B., et al.. \"Wiener index of the Cozero-divisor graph of a finite commutative ring.\" arXiv, 2210.01570, 2022.",
+      "custom_format": "\\bibitem{BaMaKu22} B. Baloda, P. Mathil, J. Kumar, A. Barapatre, Wiener index of the cozero-divisor graph of a finite commutative ring, arXiv \\textbf{1}(1) (2022) 1--10. http://arxiv.org/abs/2210.01570v1",
+      "paper_url": "http://arxiv.org/abs/2210.01570v1",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2111_14716",
+      "bibtex": "@article{arxiv_2111_14716,\n  title={Equiseparability on Terminal Wiener Index and Distances},\n  author={Sulphikar A},\n  journal={arXiv preprint arXiv:2111.14716},\n  year={2021},\n  url={http://arxiv.org/abs/2111.14716v1}\n}",
+      "apa": "A, S. (2021). Equiseparability on Terminal Wiener Index and Distances. arXiv preprint arXiv:2111.14716.",
+      "ieee": "Sulphikar A, \"Equiseparability on Terminal Wiener Index and Distances,\" arXiv preprint arXiv:2111.14716, 2021.",
+      "mla": "A, S.. \"Equiseparability on Terminal Wiener Index and Distances.\" arXiv, 2111.14716, 2021.",
+      "custom_format": "\\bibitem{A21} S. A, Equiseparability on terminal Wiener index and distances, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2111.14716v1",
+      "paper_url": "http://arxiv.org/abs/2111.14716v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2101_08342",
+      "bibtex": "@article{arxiv_2101_08342,\n  title={Proof of a Conjecture on the Wiener Index of Eulerian Graphs},\n  author={Peter Dankelmann},\n  journal={arXiv preprint arXiv:2101.08342},\n  year={2021},\n  url={http://arxiv.org/abs/2101.08342v1}\n}",
+      "apa": "Dankelmann, P. (2021). Proof of a Conjecture on the Wiener Index of Eulerian Graphs. arXiv preprint arXiv:2101.08342.",
+      "ieee": "Peter Dankelmann, \"Proof of a Conjecture on the Wiener Index of Eulerian Graphs,\" arXiv preprint arXiv:2101.08342, 2021.",
+      "mla": "Dankelmann, P.. \"Proof of a Conjecture on the Wiener Index of Eulerian Graphs.\" arXiv, 2101.08342, 2021.",
+      "custom_format": "\\bibitem{Da21} P. Dankelmann, Proof of a conjecture on the Wiener index of eulerian graphs, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2101.08342v1",
+      "paper_url": "http://arxiv.org/abs/2101.08342v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2103_15063",
+      "bibtex": "@article{arxiv_2103_15063,\n  title={Correction of a theorem in the Wiener index on fuzzy graphs},\n  author={Masoud Ghods and Zahra Rostami},\n  journal={arXiv preprint arXiv:2103.15063},\n  year={2021},\n  url={http://arxiv.org/abs/2103.15063v1}\n}",
+      "apa": "Ghods, M. & Rostami, Z. (2021). Correction of a theorem in the Wiener index on fuzzy graphs. arXiv preprint arXiv:2103.15063.",
+      "ieee": "Masoud Ghods, Zahra Rostami, \"Correction of a theorem in the Wiener index on fuzzy graphs,\" arXiv preprint arXiv:2103.15063, 2021.",
+      "mla": "Ghods, M., and Zahra Rostami. \"Correction of a theorem in the Wiener index on fuzzy graphs.\" arXiv, 2103.15063, 2021.",
+      "custom_format": "\\bibitem{GhRo21} M. Ghods, Z. Rostami, Correction of a theorem in the Wiener index on fuzzy graphs, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2103.15063v1",
+      "paper_url": "http://arxiv.org/abs/2103.15063v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2103_02307",
+      "bibtex": "@article{arxiv_2103_02307,\n  title={On the Relation Between Wiener Index and Eccentricity of a Graph},\n  author={Hamid Darabi and Yaser Alizadeh and Sandi Klav\u017ear and Kinkar Chandra Das},\n  journal={arXiv preprint arXiv:2103.02307},\n  year={2021},\n  url={http://arxiv.org/abs/2103.02307v1}\n}",
+      "apa": "Darabi, H., Alizadeh, Y., Klav\u017ear, S., & Das, K. C. (2021). On the Relation Between Wiener Index and Eccentricity of a Graph. arXiv preprint arXiv:2103.02307.",
+      "ieee": "Hamid Darabi et al., \"On the Relation Between Wiener Index and Eccentricity of a Graph,\" arXiv preprint arXiv:2103.02307, 2021.",
+      "mla": "Darabi, H., et al.. \"On the Relation Between Wiener Index and Eccentricity of a Graph.\" arXiv, 2103.02307, 2021.",
+      "custom_format": "\\bibitem{DaAlKl21} H. Darabi, Y. Alizadeh, S. Klav\u017ear, K.C. Das, On the relation between Wiener index and eccentricity of a graph, arXiv \\textbf{1}(1) (2021) 1--10. http://arxiv.org/abs/2103.02307v1",
+      "paper_url": "http://arxiv.org/abs/2103.02307v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1142_s1793557121501655",
+      "bibtex": "@article{10_1142_s1793557121501655,\n  title={Wiener index and Steiner 3-Wiener index of graphs},\n  author={Matja\u017e Kov\u0161e and V. A. Rasila and Ambat Vijayakumar},\n  journal={Asian-European Journal of Mathematics},\n  year={2021},\n  doi={10.1142/s1793557121501655},\n  url={https://doi.org/10.1142/s1793557121501655}\n}",
+      "apa": "Kov\u0161e, M., Rasila, V. A., & Vijayakumar, A. (2021). Wiener index and Steiner 3-Wiener index of graphs. Asian-European Journal of Mathematics.",
+      "ieee": "Matja\u017e Kov\u0161e, V. A. Rasila, Ambat Vijayakumar, \"Wiener index and Steiner 3-Wiener index of graphs,\" Asian-European Journal of Mathematics, 2021.",
+      "mla": "Kov\u0161e, M., et al.. \"Wiener index and Steiner 3-Wiener index of graphs.\" Asian-European Journal of Mathematics, 2021.",
+      "custom_format": "\\bibitem{KoRaVi21} M. Kov\u0161e, V.A. Rasila, A. Vijayakumar, Wiener index and steiner 3-Wiener index of graphs, Asian-European Journal of Mathematics \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1142/s1793557121501655",
+      "paper_url": "https://doi.org/10.1142/s1793557121501655",
+      "journal_name": "Asian-European Journal of Mathematics",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_1809_10767",
+      "bibtex": "@article{arxiv_1809_10767,\n  title={Wiener index and Steiner 3-Wiener index of a graph},\n  author={Matja\u017e Kov\u0161e and Rasila V A and Ambat Vijayakumar},\n  journal={arXiv preprint arXiv:1809.10767},\n  year={2018},\n  url={http://arxiv.org/abs/1809.10767v1}\n}",
+      "apa": "Kov\u0161e, M., A, R. V., & Vijayakumar, A. (2018). Wiener index and Steiner 3-Wiener index of a graph. arXiv preprint arXiv:1809.10767.",
+      "ieee": "Matja\u017e Kov\u0161e, Rasila V A, Ambat Vijayakumar, \"Wiener index and Steiner 3-Wiener index of a graph,\" arXiv preprint arXiv:1809.10767, 2018.",
+      "mla": "Kov\u0161e, M., et al.. \"Wiener index and Steiner 3-Wiener index of a graph.\" arXiv, 1809.10767, 2018.",
+      "custom_format": "\\bibitem{KoAVi18} M. Kov\u0161e, R.V. A, A. Vijayakumar, Wiener index and steiner 3-Wiener index of a graph, arXiv \\textbf{1}(1) (2018) 1--10. http://arxiv.org/abs/1809.10767v1",
+      "paper_url": "http://arxiv.org/abs/1809.10767v1",
+      "journal_name": "arXiv",
+      "year": 2018
+    },
+    {
+      "paper_id": "arxiv_1712_06819",
+      "bibtex": "@article{arxiv_1712_06819,\n  title={The Edge-Wiener Index and the Edge-Hyper-Wiener Index of Phenylenes},\n  author={Petra \u017digert Pleter\u0161ek},\n  journal={arXiv preprint arXiv:1712.06819},\n  year={2017},\n  url={http://arxiv.org/abs/1712.06819v1}\n}",
+      "apa": "Pleter\u0161ek, P. \u017d. (2017). The Edge-Wiener Index and the Edge-Hyper-Wiener Index of Phenylenes. arXiv preprint arXiv:1712.06819.",
+      "ieee": "Petra \u017digert Pleter\u0161ek, \"The Edge-Wiener Index and the Edge-Hyper-Wiener Index of Phenylenes,\" arXiv preprint arXiv:1712.06819, 2017.",
+      "mla": "Pleter\u0161ek, P. \u017d.. \"The Edge-Wiener Index and the Edge-Hyper-Wiener Index of Phenylenes.\" arXiv, 1712.06819, 2017.",
+      "custom_format": "\\bibitem{Pl17} P.\u017d. Pleter\u0161ek, The edge-Wiener index and the edge-hyper-Wiener index of phenylenes, arXiv \\textbf{1}(1) (2017) 1--10. http://arxiv.org/abs/1712.06819v1",
+      "paper_url": "http://arxiv.org/abs/1712.06819v1",
+      "journal_name": "arXiv",
+      "year": 2017
+    },
+    {
+      "paper_id": "arxiv_1106_2986",
+      "bibtex": "@article{arxiv_1106_2986,\n  title={Generalizations of Wiener polarity index and terminal Wiener index},\n  author={Aleksandar Ilic and Milovan Ilic},\n  journal={arXiv preprint arXiv:1106.2986},\n  year={2011},\n  url={http://arxiv.org/abs/1106.2986v2}\n}",
+      "apa": "Ilic, A. & Ilic, M. (2011). Generalizations of Wiener polarity index and terminal Wiener index. arXiv preprint arXiv:1106.2986.",
+      "ieee": "Aleksandar Ilic, Milovan Ilic, \"Generalizations of Wiener polarity index and terminal Wiener index,\" arXiv preprint arXiv:1106.2986, 2011.",
+      "mla": "Ilic, A., and Milovan Ilic. \"Generalizations of Wiener polarity index and terminal Wiener index.\" arXiv, 1106.2986, 2011.",
+      "custom_format": "\\bibitem{IlIl11} A. Ilic, M. Ilic, Generalizations of Wiener polarity index and terminal Wiener index, arXiv \\textbf{1}(1) (2011) 1--10. http://arxiv.org/abs/1106.2986v2",
+      "paper_url": "http://arxiv.org/abs/1106.2986v2",
+      "journal_name": "arXiv",
+      "year": 2011
+    },
+    {
+      "paper_id": "arxiv_1905_01699",
+      "bibtex": "@article{arxiv_1905_01699,\n  title={On the Wiener complexity and the Wiener index of fullerene graphs},\n  author={Andrey A. Dobrynin and Andrei Yu. Vesnin},\n  journal={arXiv preprint arXiv:1905.01699},\n  year={2019},\n  url={http://arxiv.org/abs/1905.01699v1}\n}",
+      "apa": "Dobrynin, A. A. & Vesnin, A. Y. (2019). On the Wiener complexity and the Wiener index of fullerene graphs. arXiv preprint arXiv:1905.01699.",
+      "ieee": "Andrey A. Dobrynin, Andrei Yu. Vesnin, \"On the Wiener complexity and the Wiener index of fullerene graphs,\" arXiv preprint arXiv:1905.01699, 2019.",
+      "mla": "Dobrynin, A. A., and Andrei Yu. Vesnin. \"On the Wiener complexity and the Wiener index of fullerene graphs.\" arXiv, 1905.01699, 2019.",
+      "custom_format": "\\bibitem{DoVe19} A.A. Dobrynin, A.Yu. Vesnin, On the Wiener complexity and the Wiener index of fullerene graphs, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1905.01699v1",
+      "paper_url": "http://arxiv.org/abs/1905.01699v1",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_1304_0873",
+      "bibtex": "@article{arxiv_1304_0873,\n  title={On the Two Conjectures of the Wiener Index},\n  author={Ya-Lei Jin and Xiao-Dong Zhang},\n  journal={arXiv preprint arXiv:1304.0873},\n  year={2013},\n  url={http://arxiv.org/abs/1304.0873v1}\n}",
+      "apa": "Jin, Y. & Zhang, X. (2013). On the Two Conjectures of the Wiener Index. arXiv preprint arXiv:1304.0873.",
+      "ieee": "Ya-Lei Jin, Xiao-Dong Zhang, \"On the Two Conjectures of the Wiener Index,\" arXiv preprint arXiv:1304.0873, 2013.",
+      "mla": "Jin, Y., and Xiao-Dong Zhang. \"On the Two Conjectures of the Wiener Index.\" arXiv, 1304.0873, 2013.",
+      "custom_format": "\\bibitem{JiZh13} Y. Jin, X. Zhang, On the two conjectures of the Wiener index, arXiv \\textbf{1}(1) (2013) 1--10. http://arxiv.org/abs/1304.0873v1",
+      "paper_url": "http://arxiv.org/abs/1304.0873v1",
+      "journal_name": "arXiv",
+      "year": 2013
+    },
+    {
+      "paper_id": "arxiv_1702_05303",
+      "bibtex": "@article{arxiv_1702_05303,\n  title={Properties of the Hyper-Wiener index as a local function},\n  author={Ya-Hong Chen Hua Wang and Xiao-Dong Zhang},\n  journal={arXiv preprint arXiv:1702.05303},\n  year={2017},\n  url={http://arxiv.org/abs/1702.05303v1}\n}",
+      "apa": "Wang, Y. C. H. & Zhang, X. (2017). Properties of the Hyper-Wiener index as a local function. arXiv preprint arXiv:1702.05303.",
+      "ieee": "Ya-Hong Chen Hua Wang, Xiao-Dong Zhang, \"Properties of the Hyper-Wiener index as a local function,\" arXiv preprint arXiv:1702.05303, 2017.",
+      "mla": "Wang, Y. C. H., and Xiao-Dong Zhang. \"Properties of the Hyper-Wiener index as a local function.\" arXiv, 1702.05303, 2017.",
+      "custom_format": "\\bibitem{WaZh17} Y.C.H. Wang, X. Zhang, Properties of the hyper-Wiener index as a local function, arXiv \\textbf{1}(1) (2017) 1--10. http://arxiv.org/abs/1702.05303v1",
+      "paper_url": "http://arxiv.org/abs/1702.05303v1",
+      "journal_name": "arXiv",
+      "year": 2017
+    },
+    {
+      "paper_id": "arxiv_1804_02648",
+      "bibtex": "@article{arxiv_1804_02648,\n  title={Wiener Index, Hyper-wiener Index, Harary Index and Hamiltonicity of graphs},\n  author={Guidong Yu and Lifang Ren and Gaixiang Cai},\n  journal={arXiv preprint arXiv:1804.02648},\n  year={2018},\n  url={http://arxiv.org/abs/1804.02648v1}\n}",
+      "apa": "Yu, G., Ren, L., & Cai, G. (2018). Wiener Index, Hyper-wiener Index, Harary Index and Hamiltonicity of graphs. arXiv preprint arXiv:1804.02648.",
+      "ieee": "Guidong Yu, Lifang Ren, Gaixiang Cai, \"Wiener Index, Hyper-wiener Index, Harary Index and Hamiltonicity of graphs,\" arXiv preprint arXiv:1804.02648, 2018.",
+      "mla": "Yu, G., et al.. \"Wiener Index, Hyper-wiener Index, Harary Index and Hamiltonicity of graphs.\" arXiv, 1804.02648, 2018.",
+      "custom_format": "\\bibitem{YuReCa18} G. Yu, L. Ren, G. Cai, Wiener index, hyper-Wiener index, harary index and hamiltonicity of graphs, arXiv \\textbf{1}(1) (2018) 1--10. http://arxiv.org/abs/1804.02648v1",
+      "paper_url": "http://arxiv.org/abs/1804.02648v1",
+      "journal_name": "arXiv",
+      "year": 2018
+    },
+    {
+      "paper_id": "arxiv_1902_03153",
+      "bibtex": "@article{arxiv_1902_03153,\n  title={Generalized cut method for computing the edge-Wiener index},\n  author={Niko Tratnik},\n  journal={arXiv preprint arXiv:1902.03153},\n  year={2019},\n  url={http://arxiv.org/abs/1902.03153v2}\n}",
+      "apa": "Tratnik, N. (2019). Generalized cut method for computing the edge-Wiener index. arXiv preprint arXiv:1902.03153.",
+      "ieee": "Niko Tratnik, \"Generalized cut method for computing the edge-Wiener index,\" arXiv preprint arXiv:1902.03153, 2019.",
+      "mla": "Tratnik, N.. \"Generalized cut method for computing the edge-Wiener index.\" arXiv, 1902.03153, 2019.",
+      "custom_format": "\\bibitem{Tr19} N. Tratnik, Generalized cut method for computing the edge-Wiener index, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1902.03153v2",
+      "paper_url": "http://arxiv.org/abs/1902.03153v2",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_1409_1987",
+      "bibtex": "@article{arxiv_1409_1987,\n  title={Complexity to Find Wiener Index of Some Graphs},\n  author={Kalyani Das},\n  journal={arXiv preprint arXiv:1409.1987},\n  year={2014},\n  url={http://arxiv.org/abs/1409.1987v1}\n}",
+      "apa": "Das, K. (2014). Complexity to Find Wiener Index of Some Graphs. arXiv preprint arXiv:1409.1987.",
+      "ieee": "Kalyani Das, \"Complexity to Find Wiener Index of Some Graphs,\" arXiv preprint arXiv:1409.1987, 2014.",
+      "mla": "Das, K.. \"Complexity to Find Wiener Index of Some Graphs.\" arXiv, 1409.1987, 2014.",
+      "custom_format": "\\bibitem{Da14} K. Das, Complexity to find Wiener index of some graphs, arXiv \\textbf{1}(1) (2014) 1--10. http://arxiv.org/abs/1409.1987v1",
+      "paper_url": "http://arxiv.org/abs/1409.1987v1",
+      "journal_name": "arXiv",
+      "year": 2014
+    },
+    {
+      "paper_id": "arxiv_0907_3772",
+      "bibtex": "@article{arxiv_0907_3772,\n  title={The Maximum Wiener Index of Trees with Given Degree Sequences},\n  author={Xiao-Dong Zhang and Yong Liu and Min-Xian Han},\n  journal={arXiv preprint arXiv:0907.3772},\n  year={2009},\n  url={http://arxiv.org/abs/0907.3772v1}\n}",
+      "apa": "Zhang, X., Liu, Y., & Han, M. (2009). The Maximum Wiener Index of Trees with Given Degree Sequences. arXiv preprint arXiv:0907.3772.",
+      "ieee": "Xiao-Dong Zhang, Yong Liu, Min-Xian Han, \"The Maximum Wiener Index of Trees with Given Degree Sequences,\" arXiv preprint arXiv:0907.3772, 2009.",
+      "mla": "Zhang, X., et al.. \"The Maximum Wiener Index of Trees with Given Degree Sequences.\" arXiv, 0907.3772, 2009.",
+      "custom_format": "\\bibitem{ZhLiHa09} X. Zhang, Y. Liu, M. Han, The maximum Wiener index of trees with given degree sequences, arXiv \\textbf{1}(1) (2009) 1--10. http://arxiv.org/abs/0907.3772v1",
+      "paper_url": "http://arxiv.org/abs/0907.3772v1",
+      "journal_name": "arXiv",
+      "year": 2009
+    },
+    {
+      "paper_id": "arxiv_1906_06814",
+      "bibtex": "@article{arxiv_1906_06814,\n  title={Wiener index and Harary index on pancyclic graphs},\n  author={Huicai Jia and Hongye Song},\n  journal={arXiv preprint arXiv:1906.06814},\n  year={2019},\n  url={http://arxiv.org/abs/1906.06814v1}\n}",
+      "apa": "Jia, H. & Song, H. (2019). Wiener index and Harary index on pancyclic graphs. arXiv preprint arXiv:1906.06814.",
+      "ieee": "Huicai Jia, Hongye Song, \"Wiener index and Harary index on pancyclic graphs,\" arXiv preprint arXiv:1906.06814, 2019.",
+      "mla": "Jia, H., and Hongye Song. \"Wiener index and Harary index on pancyclic graphs.\" arXiv, 1906.06814, 2019.",
+      "custom_format": "\\bibitem{JiSo19} H. Jia, H. Song, Wiener index and harary index on pancyclic graphs, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1906.06814v1",
+      "paper_url": "http://arxiv.org/abs/1906.06814v1",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_1902_10661",
+      "bibtex": "@article{arxiv_1902_10661,\n  title={Maximum Wiener index of unicyclic graphs with given bipartition},\n  author={Jan Bok and Nikola Jedli\u010dkov\u00e1 and Jana Maxov\u00e1},\n  journal={arXiv preprint arXiv:1902.10661},\n  year={2019},\n  url={http://arxiv.org/abs/1902.10661v3}\n}",
+      "apa": "Bok, J., Jedli\u010dkov\u00e1, N., & Maxov\u00e1, J. (2019). Maximum Wiener index of unicyclic graphs with given bipartition. arXiv preprint arXiv:1902.10661.",
+      "ieee": "Jan Bok, Nikola Jedli\u010dkov\u00e1, Jana Maxov\u00e1, \"Maximum Wiener index of unicyclic graphs with given bipartition,\" arXiv preprint arXiv:1902.10661, 2019.",
+      "mla": "Bok, J., et al.. \"Maximum Wiener index of unicyclic graphs with given bipartition.\" arXiv, 1902.10661, 2019.",
+      "custom_format": "\\bibitem{BoJeMa19} J. Bok, N. Jedli\u010dkov\u00e1, J. Maxov\u00e1, Maximum Wiener index of unicyclic graphs with given bipartition, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1902.10661v3",
+      "paper_url": "http://arxiv.org/abs/1902.10661v3",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_2003_03873",
+      "bibtex": "@article{arxiv_2003_03873,\n  title={Minimum Wiener Index of Triangulations and Quadrangulations},\n  author={\u00c9va Czabarka and Trevor Olsen and Stephen Smith and L\u00e1szl\u00f3 A. Sz\u00e9kely},\n  journal={arXiv preprint arXiv:2003.03873},\n  year={2020},\n  url={http://arxiv.org/abs/2003.03873v3}\n}",
+      "apa": "Czabarka, \u00c9., Olsen, T., Smith, S., & Sz\u00e9kely, L. A. (2020). Minimum Wiener Index of Triangulations and Quadrangulations. arXiv preprint arXiv:2003.03873.",
+      "ieee": "\u00c9va Czabarka et al., \"Minimum Wiener Index of Triangulations and Quadrangulations,\" arXiv preprint arXiv:2003.03873, 2020.",
+      "mla": "Czabarka, \u00c9., et al.. \"Minimum Wiener Index of Triangulations and Quadrangulations.\" arXiv, 2003.03873, 2020.",
+      "custom_format": "\\bibitem{CzOlSm20} \u00c9. Czabarka, T. Olsen, S. Smith, L.A. Sz\u00e9kely, Minimum Wiener index of triangulations and quadrangulations, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2003.03873v3",
+      "paper_url": "http://arxiv.org/abs/2003.03873v3",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_1510_03126",
+      "bibtex": "@article{arxiv_1510_03126,\n  title={The Terminal Wiener Index of Trees with Diameter or Maximum Degree},\n  author={Ya-Hong Chen and Xiao-Dong Zhang},\n  journal={arXiv preprint arXiv:1510.03126},\n  year={2015},\n  url={http://arxiv.org/abs/1510.03126v1}\n}",
+      "apa": "Chen, Y. & Zhang, X. (2015). The Terminal Wiener Index of Trees with Diameter or Maximum Degree. arXiv preprint arXiv:1510.03126.",
+      "ieee": "Ya-Hong Chen, Xiao-Dong Zhang, \"The Terminal Wiener Index of Trees with Diameter or Maximum Degree,\" arXiv preprint arXiv:1510.03126, 2015.",
+      "mla": "Chen, Y., and Xiao-Dong Zhang. \"The Terminal Wiener Index of Trees with Diameter or Maximum Degree.\" arXiv, 1510.03126, 2015.",
+      "custom_format": "\\bibitem{ChZh15} Y. Chen, X. Zhang, The terminal Wiener index of trees with diameter or maximum degree, arXiv \\textbf{1}(1) (2015) 1--10. http://arxiv.org/abs/1510.03126v1",
+      "paper_url": "http://arxiv.org/abs/1510.03126v1",
+      "journal_name": "arXiv",
+      "year": 2015
+    },
+    {
+      "paper_id": "arxiv_1907_13481",
+      "bibtex": "@article{arxiv_1907_13481,\n  title={Wiener index of graphs with fixed number of pendant or cut vertices},\n  author={Dinesh Pandey and Kamal Lochan Patra},\n  journal={arXiv preprint arXiv:1907.13481},\n  year={2019},\n  url={http://arxiv.org/abs/1907.13481v1}\n}",
+      "apa": "Pandey, D. & Patra, K. L. (2019). Wiener index of graphs with fixed number of pendant or cut vertices. arXiv preprint arXiv:1907.13481.",
+      "ieee": "Dinesh Pandey, Kamal Lochan Patra, \"Wiener index of graphs with fixed number of pendant or cut vertices,\" arXiv preprint arXiv:1907.13481, 2019.",
+      "mla": "Pandey, D., and Kamal Lochan Patra. \"Wiener index of graphs with fixed number of pendant or cut vertices.\" arXiv, 1907.13481, 2019.",
+      "custom_format": "\\bibitem{PaPa19} D. Pandey, K.L. Patra, Wiener index of graphs with fixed number of pendant or cut vertices, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1907.13481v1",
+      "paper_url": "http://arxiv.org/abs/1907.13481v1",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_2002_07092",
+      "bibtex": "@article{arxiv_2002_07092,\n  title={Wiener index, number of subtrees, and tree eccentric sequence},\n  author={Peter Dankelmann and Audace A. V. Dossou-Olory},\n  journal={arXiv preprint arXiv:2002.07092},\n  year={2020},\n  url={http://arxiv.org/abs/2002.07092v1}\n}",
+      "apa": "Dankelmann, P. & Dossou-Olory, A. A. V. (2020). Wiener index, number of subtrees, and tree eccentric sequence. arXiv preprint arXiv:2002.07092.",
+      "ieee": "Peter Dankelmann, Audace A. V. Dossou-Olory, \"Wiener index, number of subtrees, and tree eccentric sequence,\" arXiv preprint arXiv:2002.07092, 2020.",
+      "mla": "Dankelmann, P., and Audace A. V. Dossou-Olory. \"Wiener index, number of subtrees, and tree eccentric sequence.\" arXiv, 2002.07092, 2020.",
+      "custom_format": "\\bibitem{DaDo20} P. Dankelmann, A.A.V. Dossou-Olory, Wiener index, number of subtrees, and tree eccentric sequence, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2002.07092v1",
+      "paper_url": "http://arxiv.org/abs/2002.07092v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_0709_1679",
+      "bibtex": "@article{arxiv_0709_1679,\n  title={The extremal values of the Wiener index of a tree with given degree sequence},\n  author={Hua Wang},\n  journal={arXiv preprint arXiv:0709.1679},\n  year={2007},\n  url={http://arxiv.org/abs/0709.1679v1}\n}",
+      "apa": "Wang, H. (2007). The extremal values of the Wiener index of a tree with given degree sequence. arXiv preprint arXiv:0709.1679.",
+      "ieee": "Hua Wang, \"The extremal values of the Wiener index of a tree with given degree sequence,\" arXiv preprint arXiv:0709.1679, 2007.",
+      "mla": "Wang, H.. \"The extremal values of the Wiener index of a tree with given degree sequence.\" arXiv, 0709.1679, 2007.",
+      "custom_format": "\\bibitem{Wa07} H. Wang, The extremal values of the Wiener index of a tree with given degree sequence, arXiv \\textbf{1}(1) (2007) 1--10. http://arxiv.org/abs/0709.1679v1",
+      "paper_url": "http://arxiv.org/abs/0709.1679v1",
+      "journal_name": "arXiv",
+      "year": 2007
+    },
+    {
+      "paper_id": "arxiv_1602_05184",
+      "bibtex": "@article{arxiv_1602_05184,\n  title={On the difference between the Szeged and Wiener index},\n  author={Marthe Bonamy and Martin Knor and Borut Lu\u017ear and Alexandre Pinlou and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:1602.05184},\n  year={2016},\n  url={http://arxiv.org/abs/1602.05184v1}\n}",
+      "apa": "Bonamy, M., Knor, M., Lu\u017ear, B., Pinlou, A., & \u0160krekovski, R. (2016). On the difference between the Szeged and Wiener index. arXiv preprint arXiv:1602.05184.",
+      "ieee": "Marthe Bonamy et al., \"On the difference between the Szeged and Wiener index,\" arXiv preprint arXiv:1602.05184, 2016.",
+      "mla": "Bonamy, M., et al.. \"On the difference between the Szeged and Wiener index.\" arXiv, 1602.05184, 2016.",
+      "custom_format": "\\bibitem{BoKnLu16} M. Bonamy, M. Knor, B. Lu\u017ear, A. Pinlou, R. \u0160krekovski, On the difference between the szeged and Wiener index, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1602.05184v1",
+      "paper_url": "http://arxiv.org/abs/1602.05184v1",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_1609_00114",
+      "bibtex": "@article{arxiv_1609_00114,\n  title={Wiener index, Harary index and Hamiltonicity of graphs},\n  author={Hongbo Hua and Bo Ning},\n  journal={arXiv preprint arXiv:1609.00114},\n  year={2016},\n  url={http://arxiv.org/abs/1609.00114v2}\n}",
+      "apa": "Hua, H. & Ning, B. (2016). Wiener index, Harary index and Hamiltonicity of graphs. arXiv preprint arXiv:1609.00114.",
+      "ieee": "Hongbo Hua, Bo Ning, \"Wiener index, Harary index and Hamiltonicity of graphs,\" arXiv preprint arXiv:1609.00114, 2016.",
+      "mla": "Hua, H., and Bo Ning. \"Wiener index, Harary index and Hamiltonicity of graphs.\" arXiv, 1609.00114, 2016.",
+      "custom_format": "\\bibitem{HuNi16} H. Hua, B. Ning, Wiener index, harary index and hamiltonicity of graphs, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1609.00114v2",
+      "paper_url": "http://arxiv.org/abs/1609.00114v2",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_1811_02664",
+      "bibtex": "@article{arxiv_1811_02664,\n  title={An upper bound on the Wiener Index of a k-connected graph},\n  author={Zhongyuan Che and Karen L. Collins},\n  journal={arXiv preprint arXiv:1811.02664},\n  year={2018},\n  url={http://arxiv.org/abs/1811.02664v1}\n}",
+      "apa": "Che, Z. & Collins, K. L. (2018). An upper bound on the Wiener Index of a k-connected graph. arXiv preprint arXiv:1811.02664.",
+      "ieee": "Zhongyuan Che, Karen L. Collins, \"An upper bound on the Wiener Index of a k-connected graph,\" arXiv preprint arXiv:1811.02664, 2018.",
+      "mla": "Che, Z., and Karen L. Collins. \"An upper bound on the Wiener Index of a k-connected graph.\" arXiv, 1811.02664, 2018.",
+      "custom_format": "\\bibitem{ChCo18} Z. Che, K.L. Collins, An upper bound on the Wiener index of a k-connected graph, arXiv \\textbf{1}(1) (2018) 1--10. http://arxiv.org/abs/1811.02664v1",
+      "paper_url": "http://arxiv.org/abs/1811.02664v1",
+      "journal_name": "arXiv",
+      "year": 2018
+    },
+    {
+      "paper_id": "arxiv_1102_5409",
+      "bibtex": "@article{arxiv_1102_5409,\n  title={The Wiener Index of Unicyclic Graphs with Girth and the Matching Number},\n  author={Ya-Hong Chen and Xiao-Dong Zhang},\n  journal={arXiv preprint arXiv:1102.5409},\n  year={2011},\n  url={http://arxiv.org/abs/1102.5409v1}\n}",
+      "apa": "Chen, Y. & Zhang, X. (2011). The Wiener Index of Unicyclic Graphs with Girth and the Matching Number. arXiv preprint arXiv:1102.5409.",
+      "ieee": "Ya-Hong Chen, Xiao-Dong Zhang, \"The Wiener Index of Unicyclic Graphs with Girth and the Matching Number,\" arXiv preprint arXiv:1102.5409, 2011.",
+      "mla": "Chen, Y., and Xiao-Dong Zhang. \"The Wiener Index of Unicyclic Graphs with Girth and the Matching Number.\" arXiv, 1102.5409, 2011.",
+      "custom_format": "\\bibitem{ChZh11} Y. Chen, X. Zhang, The Wiener index of unicyclic graphs with girth and the matching number, arXiv \\textbf{1}(1) (2011) 1--10. http://arxiv.org/abs/1102.5409v1",
+      "paper_url": "http://arxiv.org/abs/1102.5409v1",
+      "journal_name": "arXiv",
+      "year": 2011
+    },
+    {
+      "paper_id": "arxiv_1805_08143",
+      "bibtex": "@article{arxiv_1805_08143,\n  title={Steiner Wiener index of block graphs},\n  author={Matja\u017e Kov\u0161e and Rasila V A and Ambat Vijayakumar},\n  journal={arXiv preprint arXiv:1805.08143},\n  year={2018},\n  url={http://arxiv.org/abs/1805.08143v2}\n}",
+      "apa": "Kov\u0161e, M., A, R. V., & Vijayakumar, A. (2018). Steiner Wiener index of block graphs. arXiv preprint arXiv:1805.08143.",
+      "ieee": "Matja\u017e Kov\u0161e, Rasila V A, Ambat Vijayakumar, \"Steiner Wiener index of block graphs,\" arXiv preprint arXiv:1805.08143, 2018.",
+      "mla": "Kov\u0161e, M., et al.. \"Steiner Wiener index of block graphs.\" arXiv, 1805.08143, 2018.",
+      "custom_format": "\\bibitem{KoAVi18} M. Kov\u0161e, R.V. A, A. Vijayakumar, Steiner Wiener index of block graphs, arXiv \\textbf{1}(1) (2018) 1--10. http://arxiv.org/abs/1805.08143v2",
+      "paper_url": "http://arxiv.org/abs/1805.08143v2",
+      "journal_name": "arXiv",
+      "year": 2018
+    },
+    {
+      "paper_id": "arxiv_1912_02846",
+      "bibtex": "@article{arxiv_1912_02846,\n  title={The Maximum Wiener Index of Maximal Planar Graphs},\n  author={Debarun Ghosh and Ervin Gy\u0151ri and Addisu Paulos and Nika Salia and Oscar Zamora},\n  journal={arXiv preprint arXiv:1912.02846},\n  year={2019},\n  url={http://arxiv.org/abs/1912.02846v1}\n}",
+      "apa": "Ghosh, D., Gy\u0151ri, E., Paulos, A., Salia, N., & Zamora, O. (2019). The Maximum Wiener Index of Maximal Planar Graphs. arXiv preprint arXiv:1912.02846.",
+      "ieee": "Debarun Ghosh et al., \"The Maximum Wiener Index of Maximal Planar Graphs,\" arXiv preprint arXiv:1912.02846, 2019.",
+      "mla": "Ghosh, D., et al.. \"The Maximum Wiener Index of Maximal Planar Graphs.\" arXiv, 1912.02846, 2019.",
+      "custom_format": "\\bibitem{GhGyPa19} D. Ghosh, E. Gy\u0151ri, A. Paulos, N. Salia, O. Zamora, The maximum Wiener index of maximal planar graphs, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1912.02846v1",
+      "paper_url": "http://arxiv.org/abs/1912.02846v1",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_1705_04291",
+      "bibtex": "@article{arxiv_1705_04291,\n  title={Maximizing Wiener Index for Trees with Given Vertex Weight and Degree Sequences},\n  author={Mikhail Goubko},\n  journal={arXiv preprint arXiv:1705.04291},\n  year={2017},\n  url={http://arxiv.org/abs/1705.04291v1}\n}",
+      "apa": "Goubko, M. (2017). Maximizing Wiener Index for Trees with Given Vertex Weight and Degree Sequences. arXiv preprint arXiv:1705.04291.",
+      "ieee": "Mikhail Goubko, \"Maximizing Wiener Index for Trees with Given Vertex Weight and Degree Sequences,\" arXiv preprint arXiv:1705.04291, 2017.",
+      "mla": "Goubko, M.. \"Maximizing Wiener Index for Trees with Given Vertex Weight and Degree Sequences.\" arXiv, 1705.04291, 2017.",
+      "custom_format": "\\bibitem{Go17} M. Goubko, Maximizing Wiener index for trees with given vertex weight and degree sequences, arXiv \\textbf{1}(1) (2017) 1--10. http://arxiv.org/abs/1705.04291v1",
+      "paper_url": "http://arxiv.org/abs/1705.04291v1",
+      "journal_name": "arXiv",
+      "year": 2017
+    },
+    {
+      "paper_id": "arxiv_1905_02633",
+      "bibtex": "@article{arxiv_1905_02633,\n  title={The structure of graphs with given number of blocks and the maximum Wiener index},\n  author={St\u00e9phane Bessy and Fran\u00e7ois Dross and Katar\u00edna Hri\u0148\u00e1kov\u00e1 and Martin Knor and Riste \u0160krekovski},\n  journal={arXiv preprint arXiv:1905.02633},\n  year={2019},\n  url={http://arxiv.org/abs/1905.02633v1}\n}",
+      "apa": "Bessy, S., Dross, F., Hri\u0148\u00e1kov\u00e1, K., Knor, M., & \u0160krekovski, R. (2019). The structure of graphs with given number of blocks and the maximum Wiener index. arXiv preprint arXiv:1905.02633.",
+      "ieee": "St\u00e9phane Bessy et al., \"The structure of graphs with given number of blocks and the maximum Wiener index,\" arXiv preprint arXiv:1905.02633, 2019.",
+      "mla": "Bessy, S., et al.. \"The structure of graphs with given number of blocks and the maximum Wiener index.\" arXiv, 1905.02633, 2019.",
+      "custom_format": "\\bibitem{BeDrHr19} S. Bessy, F. Dross, K. Hri\u0148\u00e1kov\u00e1, M. Knor, R. \u0160krekovski, The structure of graphs with given number of blocks and the maximum Wiener index, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1905.02633v1",
+      "paper_url": "http://arxiv.org/abs/1905.02633v1",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_0910_4432",
+      "bibtex": "@article{arxiv_0910_4432,\n  title={Wiener index of binomial trees and Fibonacci trees},\n  author={K. Viswanathan Iyer and K. R. Uday Kumar Reddy},\n  journal={arXiv preprint arXiv:0910.4432},\n  year={2009},\n  url={http://arxiv.org/abs/0910.4432v1}\n}",
+      "apa": "Iyer, K. V. & Reddy, K. R. U. K. (2009). Wiener index of binomial trees and Fibonacci trees. arXiv preprint arXiv:0910.4432.",
+      "ieee": "K. Viswanathan Iyer, K. R. Uday Kumar Reddy, \"Wiener index of binomial trees and Fibonacci trees,\" arXiv preprint arXiv:0910.4432, 2009.",
+      "mla": "Iyer, K. V., and K. R. Uday Kumar Reddy. \"Wiener index of binomial trees and Fibonacci trees.\" arXiv, 0910.4432, 2009.",
+      "custom_format": "\\bibitem{IyRe09} K.V. Iyer, K.R.U.K. Reddy, Wiener index of binomial trees and Fibonacci trees, arXiv \\textbf{1}(1) (2009) 1--10. http://arxiv.org/abs/0910.4432v1",
+      "paper_url": "http://arxiv.org/abs/0910.4432v1",
+      "journal_name": "arXiv",
+      "year": 2009
+    },
+    {
+      "paper_id": "arxiv_1606_05950",
+      "bibtex": "@article{arxiv_1606_05950,\n  title={The quotients between the (revised) Szeged index and Wiener index of graphs},\n  author={Huihui Zhang and Jing Chen and Shuchao Li},\n  journal={arXiv preprint arXiv:1606.05950},\n  year={2016},\n  url={http://arxiv.org/abs/1606.05950v3}\n}",
+      "apa": "Zhang, H., Chen, J., & Li, S. (2016). The quotients between the (revised) Szeged index and Wiener index of graphs. arXiv preprint arXiv:1606.05950.",
+      "ieee": "Huihui Zhang, Jing Chen, Shuchao Li, \"The quotients between the (revised) Szeged index and Wiener index of graphs,\" arXiv preprint arXiv:1606.05950, 2016.",
+      "mla": "Zhang, H., et al.. \"The quotients between the (revised) Szeged index and Wiener index of graphs.\" arXiv, 1606.05950, 2016.",
+      "custom_format": "\\bibitem{ZhChLi16} H. Zhang, J. Chen, S. Li, The quotients between the (revised) szeged index and Wiener index of graphs, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1606.05950v3",
+      "paper_url": "http://arxiv.org/abs/1606.05950v3",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_1802_09840",
+      "bibtex": "@article{arxiv_1802_09840,\n  title={Computing the Wiener index in Sierpinski carpet graphs},\n  author={Daniele D'Angeli and Alfredo Donno and Alessio Monti},\n  journal={arXiv preprint arXiv:1802.09840},\n  year={2018},\n  url={http://arxiv.org/abs/1802.09840v1}\n}",
+      "apa": "D'Angeli, D., Donno, A., & Monti, A. (2018). Computing the Wiener index in Sierpinski carpet graphs. arXiv preprint arXiv:1802.09840.",
+      "ieee": "Daniele D'Angeli, Alfredo Donno, Alessio Monti, \"Computing the Wiener index in Sierpinski carpet graphs,\" arXiv preprint arXiv:1802.09840, 2018.",
+      "mla": "D'Angeli, D., et al.. \"Computing the Wiener index in Sierpinski carpet graphs.\" arXiv, 1802.09840, 2018.",
+      "custom_format": "\\bibitem{D'DoMo18} D. D'Angeli, A. Donno, A. Monti, Computing the Wiener index in sierpinski carpet graphs, arXiv \\textbf{1}(1) (2018) 1--10. http://arxiv.org/abs/1802.09840v1",
+      "paper_url": "http://arxiv.org/abs/1802.09840v1",
+      "journal_name": "arXiv",
+      "year": 2018
+    },
+    {
+      "paper_id": "arxiv_2008_02019",
+      "bibtex": "@article{arxiv_2008_02019,\n  title={The Steiner Wiener index of trees with a given segment sequence},\n  author={Jie Zhang and Hua Wang and Xiao-Dong Zhang},\n  journal={arXiv preprint arXiv:2008.02019},\n  year={2020},\n  url={http://arxiv.org/abs/2008.02019v1}\n}",
+      "apa": "Zhang, J., Wang, H., & Zhang, X. (2020). The Steiner Wiener index of trees with a given segment sequence. arXiv preprint arXiv:2008.02019.",
+      "ieee": "Jie Zhang, Hua Wang, Xiao-Dong Zhang, \"The Steiner Wiener index of trees with a given segment sequence,\" arXiv preprint arXiv:2008.02019, 2020.",
+      "mla": "Zhang, J., et al.. \"The Steiner Wiener index of trees with a given segment sequence.\" arXiv, 2008.02019, 2020.",
+      "custom_format": "\\bibitem{ZhWaZh20} J. Zhang, H. Wang, X. Zhang, The steiner Wiener index of trees with a given segment sequence, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2008.02019v1",
+      "paper_url": "http://arxiv.org/abs/2008.02019v1",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_1510_00800",
+      "bibtex": "@article{arxiv_1510_00800,\n  title={Mathematical aspects of Wiener index},\n  author={Martin Knor and Riste \u0160krekovski and Aleksandra Tepeh},\n  journal={arXiv preprint arXiv:1510.00800},\n  year={2015},\n  url={http://arxiv.org/abs/1510.00800v1}\n}",
+      "apa": "Knor, M., \u0160krekovski, R., & Tepeh, A. (2015). Mathematical aspects of Wiener index. arXiv preprint arXiv:1510.00800.",
+      "ieee": "Martin Knor, Riste \u0160krekovski, Aleksandra Tepeh, \"Mathematical aspects of Wiener index,\" arXiv preprint arXiv:1510.00800, 2015.",
+      "mla": "Knor, M., et al.. \"Mathematical aspects of Wiener index.\" arXiv, 1510.00800, 2015.",
+      "custom_format": "\\bibitem{Kn\u0160kTe15} M. Knor, R. \u0160krekovski, A. Tepeh, Mathematical aspects of Wiener index, arXiv \\textbf{1}(1) (2015) 1--10. http://arxiv.org/abs/1510.00800v1",
+      "paper_url": "http://arxiv.org/abs/1510.00800v1",
+      "journal_name": "arXiv",
+      "year": 2015
+    },
+    {
+      "paper_id": "arxiv_1905_06753",
+      "bibtex": "@article{arxiv_1905_06753,\n  title={Wiener Index and Remoteness in Triangulations and Quadrangulations},\n  author={\u00c9va Czabarka and Peter Dankelmann and Trevor Olsen and L\u00e1szl\u00f3 A. Sz\u00e9kely},\n  journal={arXiv preprint arXiv:1905.06753},\n  year={2019},\n  url={http://arxiv.org/abs/1905.06753v4}\n}",
+      "apa": "Czabarka, \u00c9., Dankelmann, P., Olsen, T., & Sz\u00e9kely, L. A. (2019). Wiener Index and Remoteness in Triangulations and Quadrangulations. arXiv preprint arXiv:1905.06753.",
+      "ieee": "\u00c9va Czabarka et al., \"Wiener Index and Remoteness in Triangulations and Quadrangulations,\" arXiv preprint arXiv:1905.06753, 2019.",
+      "mla": "Czabarka, \u00c9., et al.. \"Wiener Index and Remoteness in Triangulations and Quadrangulations.\" arXiv, 1905.06753, 2019.",
+      "custom_format": "\\bibitem{CzDaOl19} \u00c9. Czabarka, P. Dankelmann, T. Olsen, L.A. Sz\u00e9kely, Wiener index and remoteness in triangulations and quadrangulations, arXiv \\textbf{1}(1) (2019) 1--10. http://arxiv.org/abs/1905.06753v4",
+      "paper_url": "http://arxiv.org/abs/1905.06753v4",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_1307_6502",
+      "bibtex": "@article{arxiv_1307_6502,\n  title={A note on 'A New Approach To Compute Wiener Index'},\n  author={Aleksandar Ilic},\n  journal={arXiv preprint arXiv:1307.6502},\n  year={2013},\n  url={http://arxiv.org/abs/1307.6502v1}\n}",
+      "apa": "Ilic, A. (2013). A note on 'A New Approach To Compute Wiener Index'. arXiv preprint arXiv:1307.6502.",
+      "ieee": "Aleksandar Ilic, \"A note on 'A New Approach To Compute Wiener Index',\" arXiv preprint arXiv:1307.6502, 2013.",
+      "mla": "Ilic, A.. \"A note on 'A New Approach To Compute Wiener Index'.\" arXiv, 1307.6502, 2013.",
+      "custom_format": "\\bibitem{Il13} A. Ilic, A note on 'a new approach to compute Wiener index', arXiv \\textbf{1}(1) (2013) 1--10. http://arxiv.org/abs/1307.6502v1",
+      "paper_url": "http://arxiv.org/abs/1307.6502v1",
+      "journal_name": "arXiv",
+      "year": 2013
+    },
+    {
+      "paper_id": "arxiv_2011_13970",
+      "bibtex": "@article{arxiv_2011_13970,\n  title={Wiener index in graphs with given minimum degree and maximum degree},\n  author={Peter Dankelmann and Alex Alochukwu},\n  journal={arXiv preprint arXiv:2011.13970},\n  year={2020},\n  url={http://arxiv.org/abs/2011.13970v3}\n}",
+      "apa": "Dankelmann, P. & Alochukwu, A. (2020). Wiener index in graphs with given minimum degree and maximum degree. arXiv preprint arXiv:2011.13970.",
+      "ieee": "Peter Dankelmann, Alex Alochukwu, \"Wiener index in graphs with given minimum degree and maximum degree,\" arXiv preprint arXiv:2011.13970, 2020.",
+      "mla": "Dankelmann, P., and Alex Alochukwu. \"Wiener index in graphs with given minimum degree and maximum degree.\" arXiv, 2011.13970, 2020.",
+      "custom_format": "\\bibitem{DaAl20} P. Dankelmann, A. Alochukwu, Wiener index in graphs with given minimum degree and maximum degree, arXiv \\textbf{1}(1) (2020) 1--10. http://arxiv.org/abs/2011.13970v3",
+      "paper_url": "http://arxiv.org/abs/2011.13970v3",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_1609_06911",
+      "bibtex": "@article{arxiv_1609_06911,\n  title={On the Wiener index, distance cospectrality and transmission regular graphs},\n  author={Aida Abiad and Boris Brimkov and Aysel Erey and Lorinda Leshock and Xavier Mart\u00ednez-Rivera and Suil O and Sung-Yell Song and Jason Williford},\n  journal={arXiv preprint arXiv:1609.06911},\n  year={2016},\n  url={http://arxiv.org/abs/1609.06911v2}\n}",
+      "apa": "Abiad, A., Brimkov, B., Erey, A., Leshock, L., Mart\u00ednez-Rivera, X., O, S., Song, S., & Williford, J. (2016). On the Wiener index, distance cospectrality and transmission regular graphs. arXiv preprint arXiv:1609.06911.",
+      "ieee": "Aida Abiad et al., \"On the Wiener index, distance cospectrality and transmission regular graphs,\" arXiv preprint arXiv:1609.06911, 2016.",
+      "mla": "Abiad, A., et al.. \"On the Wiener index, distance cospectrality and transmission regular graphs.\" arXiv, 1609.06911, 2016.",
+      "custom_format": "\\bibitem{AbBrEr16} A. Abiad, B. Brimkov, A. Erey, L. Leshock, X. Mart\u00ednez-Rivera, S. O, S. Song, J. Williford, On the Wiener index, distance cospectrality and transmission regular graphs, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1609.06911v2",
+      "paper_url": "http://arxiv.org/abs/1609.06911v2",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_1603_06099",
+      "bibtex": "@article{arxiv_1603_06099,\n  title={Some Aspects of the Wiener Index for Sun Graphs},\n  author={Mohamed Amine Boutiche},\n  journal={arXiv preprint arXiv:1603.06099},\n  year={2016},\n  url={http://arxiv.org/abs/1603.06099v1}\n}",
+      "apa": "Boutiche, M. A. (2016). Some Aspects of the Wiener Index for Sun Graphs. arXiv preprint arXiv:1603.06099.",
+      "ieee": "Mohamed Amine Boutiche, \"Some Aspects of the Wiener Index for Sun Graphs,\" arXiv preprint arXiv:1603.06099, 2016.",
+      "mla": "Boutiche, M. A.. \"Some Aspects of the Wiener Index for Sun Graphs.\" arXiv, 1603.06099, 2016.",
+      "custom_format": "\\bibitem{Bo16} M.A. Boutiche, Some aspects of the Wiener index for sun graphs, arXiv \\textbf{1}(1) (2016) 1--10. http://arxiv.org/abs/1603.06099v1",
+      "paper_url": "http://arxiv.org/abs/1603.06099v1",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "10_61091_ojac_1515",
+      "bibtex": "@article{10_61091_ojac_1515,\n  title={The Hosoya polynomial, Wiener index, and Hyper-Wiener index of Jahangir Graph \\(J_{8,m}\\)},\n  author={Ramy Shaheen},\n  journal={Online Journal of Analytic Combinatorics},\n  year={2020},\n  doi={10.61091/ojac-1515},\n  url={https://doi.org/10.61091/ojac-1515}\n}",
+      "apa": "Shaheen, R. (2020). The Hosoya polynomial, Wiener index, and Hyper-Wiener index of Jahangir Graph \\(J_{8,m}\\). Online Journal of Analytic Combinatorics.",
+      "ieee": "Ramy Shaheen, \"The Hosoya polynomial, Wiener index, and Hyper-Wiener index of Jahangir Graph \\(J_{8,m}\\),\" Online Journal of Analytic Combinatorics, 2020.",
+      "mla": "Shaheen, R.. \"The Hosoya polynomial, Wiener index, and Hyper-Wiener index of Jahangir Graph \\(J_{8,m}\\).\" Online Journal of Analytic Combinatorics, 2020.",
+      "custom_format": "\\bibitem{Sh20} R. Shaheen, The hosoya polynomial, Wiener index, and hyper-Wiener index of jahangir graph \\(j_{8,m}\\), Online Journal of Analytic Combinatorics \\textbf{1}(1) (2020) 1--10. https://doi.org/10.61091/ojac-1515",
+      "paper_url": "https://doi.org/10.61091/ojac-1515",
+      "journal_name": "Online Journal of Analytic Combinatorics",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_1142_s1793524515500667",
+      "bibtex": "@article{10_1142_s1793524515500667,\n  title={On Wiener and terminal Wiener index of graphs},\n  author={J. Baskar Babujee and J. Senbagamalar},\n  journal={International Journal of Biomathematics},\n  year={2015},\n  doi={10.1142/s1793524515500667},\n  url={https://doi.org/10.1142/s1793524515500667}\n}",
+      "apa": "Babujee, J. B. & Senbagamalar, J. (2015). On Wiener and terminal Wiener index of graphs. International Journal of Biomathematics.",
+      "ieee": "J. Baskar Babujee, J. Senbagamalar, \"On Wiener and terminal Wiener index of graphs,\" International Journal of Biomathematics, 2015.",
+      "mla": "Babujee, J. B., and J. Senbagamalar. \"On Wiener and terminal Wiener index of graphs.\" International Journal of Biomathematics, 2015.",
+      "custom_format": "\\bibitem{BaSe15} J.B. Babujee, J. Senbagamalar, On Wiener and terminal Wiener index of graphs, International Journal of Biomathematics \\textbf{1}(1) (2015) 1--10. https://doi.org/10.1142/s1793524515500667",
+      "paper_url": "https://doi.org/10.1142/s1793524515500667",
+      "journal_name": "International Journal of Biomathematics",
+      "year": 2015
+    },
+    {
+      "paper_id": "10_21275_v4i11_nov151680",
+      "bibtex": "@article{10_21275_v4i11_nov151680,\n  title={Wiener Index of Some Thorn Graphs},\n  author={},\n  journal={International Journal of Science and Research (IJSR)},\n  year={2015},\n  doi={10.21275/v4i11.nov151680},\n  url={https://doi.org/10.21275/v4i11.nov151680}\n}",
+      "apa": "Unknown Author (2015). Wiener Index of Some Thorn Graphs. International Journal of Science and Research (IJSR).",
+      "ieee": "Unknown Author, \"Wiener Index of Some Thorn Graphs,\" International Journal of Science and Research (IJSR), 2015.",
+      "mla": "Unknown Author. \"Wiener Index of Some Thorn Graphs.\" International Journal of Science and Research (IJSR), 2015.",
+      "custom_format": "\\bibitem{Unknown15} Unknown Author, Wiener index of some thorn graphs, International Journal of Science and Research (IJSR) \\textbf{1}(1) (2015) 1--10. https://doi.org/10.21275/v4i11.nov151680",
+      "paper_url": "https://doi.org/10.21275/v4i11.nov151680",
+      "journal_name": "International Journal of Science and Research (IJSR)",
+      "year": 2015
+    },
+    {
+      "paper_id": "10_12988_ams_2014_43202",
+      "bibtex": "@article{10_12988_ams_2014_43202,\n  title={The Wiener index, the hyper-Wiener index and the degree distance index of the corona Cm.Cn},\n  author={Mohamed Essalih and Mohamed El Marraki and Abd Errahmane Atmani},\n  journal={Applied Mathematical Sciences},\n  year={2014},\n  doi={10.12988/ams.2014.43202},\n  url={https://doi.org/10.12988/ams.2014.43202}\n}",
+      "apa": "Essalih, M., Marraki, M. E., & Atmani, A. E. (2014). The Wiener index, the hyper-Wiener index and the degree distance index of the corona Cm.Cn. Applied Mathematical Sciences.",
+      "ieee": "Mohamed Essalih, Mohamed El Marraki, Abd Errahmane Atmani, \"The Wiener index, the hyper-Wiener index and the degree distance index of the corona Cm.Cn,\" Applied Mathematical Sciences, 2014.",
+      "mla": "Essalih, M., et al.. \"The Wiener index, the hyper-Wiener index and the degree distance index of the corona Cm.Cn.\" Applied Mathematical Sciences, 2014.",
+      "custom_format": "\\bibitem{EsMaAt14} M. Essalih, M.E. Marraki, A.E. Atmani, The Wiener index, the hyper-Wiener index and the degree distance index of the corona cm.cn, Applied Mathematical Sciences \\textbf{1}(1) (2014) 1--10. https://doi.org/10.12988/ams.2014.43202",
+      "paper_url": "https://doi.org/10.12988/ams.2014.43202",
+      "journal_name": "Applied Mathematical Sciences",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_7717_peerj_12224_fig_6",
+      "bibtex": "@article{10_7717_peerj_12224_fig_6,\n  title={Figure 6: Shannon\u2013Wiener index of river fauna diversity.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.12224/fig-6},\n  url={https://doi.org/10.7717/peerj.12224/fig-6}\n}",
+      "apa": "Unknown Author (2023). Figure 6: Shannon\u2013Wiener index of river fauna diversity.. .",
+      "ieee": "Unknown Author, \"Figure 6: Shannon\u2013Wiener index of river fauna diversity.,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 6: Shannon\u2013Wiener index of river fauna diversity..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 6: shannon\u2013Wiener index of river fauna diversity,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.12224/fig-6",
+      "paper_url": "https://doi.org/10.7717/peerj.12224/fig-6",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_2139_ssrn_4578445",
+      "bibtex": "@article{10_2139_ssrn_4578445,\n  title={Corrigendum on Wiener Index, Zagreb Indices and Harary Index of Eulerian Graphs},\n  author={Stijn Cambie},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.4578445},\n  url={https://doi.org/10.2139/ssrn.4578445}\n}",
+      "apa": "Cambie, S. (2023). Corrigendum on Wiener Index, Zagreb Indices and Harary Index of Eulerian Graphs. .",
+      "ieee": "Stijn Cambie, \"Corrigendum on Wiener Index, Zagreb Indices and Harary Index of Eulerian Graphs,\" , 2023.",
+      "mla": "Cambie, S.. \"Corrigendum on Wiener Index, Zagreb Indices and Harary Index of Eulerian Graphs.\" , 2023.",
+      "custom_format": "\\bibitem{Ca23} S. Cambie, Corrigendum on Wiener index, zagreb indices and harary index of eulerian graphs,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.4578445",
+      "paper_url": "https://doi.org/10.2139/ssrn.4578445",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_2139_ssrn_4346337",
+      "bibtex": "@article{10_2139_ssrn_4346337,\n  title={The Wiener Index and the Wiener Complexity of the Zero-Divisor Graph of a Finite Semisimple Ring},\n  author={David Dolzan},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.4346337},\n  url={https://doi.org/10.2139/ssrn.4346337}\n}",
+      "apa": "Dolzan, D. (2023). The Wiener Index and the Wiener Complexity of the Zero-Divisor Graph of a Finite Semisimple Ring. .",
+      "ieee": "David Dolzan, \"The Wiener Index and the Wiener Complexity of the Zero-Divisor Graph of a Finite Semisimple Ring,\" , 2023.",
+      "mla": "Dolzan, D.. \"The Wiener Index and the Wiener Complexity of the Zero-Divisor Graph of a Finite Semisimple Ring.\" , 2023.",
+      "custom_format": "\\bibitem{Do23} D. Dolzan, The Wiener index and the Wiener complexity of the zero-divisor graph of a finite semisimple ring,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.4346337",
+      "paper_url": "https://doi.org/10.2139/ssrn.4346337",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_19854_fig_4",
+      "bibtex": "@article{10_7717_peerj_19854_fig_4,\n  title={Figure 4: The Shannon-Wiener index (A) and the Simpson index of different repair types (B).},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.19854/fig-4},\n  url={https://doi.org/10.7717/peerj.19854/fig-4}\n}",
+      "apa": "Unknown Author (2023). Figure 4: The Shannon-Wiener index (A) and the Simpson index of different repair types (B).. .",
+      "ieee": "Unknown Author, \"Figure 4: The Shannon-Wiener index (A) and the Simpson index of different repair types (B).,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 4: The Shannon-Wiener index (A) and the Simpson index of different repair types (B)..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 4: the shannon-Wiener index (a) and the simpson index of different repair types (b),  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.19854/fig-4",
+      "paper_url": "https://doi.org/10.7717/peerj.19854/fig-4",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_5670_fig_5",
+      "bibtex": "@article{10_7717_peerj_5670_fig_5,\n  title={Figure 5: Variations of Shannon\u2013Wiener index (\n                      <i>H</i>\n                      \u2032) and Palou\u2019s evenness index (\n                      <i>J</i>\n                      ).},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.5670/fig-5},\n  url={https://doi.org/10.7717/peerj.5670/fig-5}\n}",
+      "apa": "Unknown Author (2023). Figure 5: Variations of Shannon\u2013Wiener index (\n                      <i>H</i>\n                      \u2032) and Palou\u2019s evenness index (\n                      <i>J</i>\n                      ).. .",
+      "ieee": "Unknown Author, \"Figure 5: Variations of Shannon\u2013Wiener index (\n                      <i>H</i>\n                      \u2032) and Palou\u2019s evenness index (\n                      <i>J</i>\n                      ).,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 5: Variations of Shannon\u2013Wiener index (\n                      <i>H</i>\n                      \u2032) and Palou\u2019s evenness index (\n                      <i>J</i>\n                      )..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 5: variations of shannon\u2013Wiener index (\n                      <i>h</i>\n                      \u2032) and palou\u2019s evenness index (\n                      <i>j</i>\n                      ),  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.5670/fig-5",
+      "paper_url": "https://doi.org/10.7717/peerj.5670/fig-5",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_12224_fig_7",
+      "bibtex": "@article{10_7717_peerj_12224_fig_7,\n  title={Figure 7: Shannon\u2013Wiener index for individual taxa before and after dredging.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.12224/fig-7},\n  url={https://doi.org/10.7717/peerj.12224/fig-7}\n}",
+      "apa": "Unknown Author (2023). Figure 7: Shannon\u2013Wiener index for individual taxa before and after dredging.. .",
+      "ieee": "Unknown Author, \"Figure 7: Shannon\u2013Wiener index for individual taxa before and after dredging.,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 7: Shannon\u2013Wiener index for individual taxa before and after dredging..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 7: shannon\u2013Wiener index for individual taxa before and after dredging,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.12224/fig-7",
+      "paper_url": "https://doi.org/10.7717/peerj.12224/fig-7",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_7239_fig_4",
+      "bibtex": "@article{10_7717_peerj_7239_fig_4,\n  title={Figure 4: Relationships among litters, biomass and the Shannon\u2013Wiener index of plant communities.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.7239/fig-4},\n  url={https://doi.org/10.7717/peerj.7239/fig-4}\n}",
+      "apa": "Unknown Author (2023). Figure 4: Relationships among litters, biomass and the Shannon\u2013Wiener index of plant communities.. .",
+      "ieee": "Unknown Author, \"Figure 4: Relationships among litters, biomass and the Shannon\u2013Wiener index of plant communities.,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 4: Relationships among litters, biomass and the Shannon\u2013Wiener index of plant communities..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 4: relationships among litters, biomass and the shannon\u2013Wiener index of plant communities,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.7239/fig-4",
+      "paper_url": "https://doi.org/10.7717/peerj.7239/fig-4",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_9239_supp_5",
+      "bibtex": "@article{10_7717_peerj_9239_supp_5,\n  title={Supplemental Information 5: Difference in species richness, Shannon-Wiener index, Simpson index, and Pielou index between control (CK) and\n                      <i>S. chamaejasme</i>\n                      removal (SR) treatments.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.9239/supp-5},\n  url={https://doi.org/10.7717/peerj.9239/supp-5}\n}",
+      "apa": "Unknown Author (2023). Supplemental Information 5: Difference in species richness, Shannon-Wiener index, Simpson index, and Pielou index between control (CK) and\n                      <i>S. chamaejasme</i>\n                      removal (SR) treatments.. .",
+      "ieee": "Unknown Author, \"Supplemental Information 5: Difference in species richness, Shannon-Wiener index, Simpson index, and Pielou index between control (CK) and\n                      <i>S. chamaejasme</i>\n                      removal (SR) treatments.,\" , 2023.",
+      "mla": "Unknown Author. \"Supplemental Information 5: Difference in species richness, Shannon-Wiener index, Simpson index, and Pielou index between control (CK) and\n                      <i>S. chamaejasme</i>\n                      removal (SR) treatments..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Supplemental information 5: difference in species richness, shannon-Wiener index, simpson index, and pielou index between control (ck) and\n                      <i>s. chamaejasme</i>\n                      removal (sr) treatments,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.9239/supp-5",
+      "paper_url": "https://doi.org/10.7717/peerj.9239/supp-5",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_2139_ssrn_5009079",
+      "bibtex": "@article{10_2139_ssrn_5009079,\n  title={An Extended Hypergraph Cut Method for the Wiener Index},\n  author={Ga\u0161per  Domen Romih},\n  journal={},\n  year={2023},\n  doi={10.2139/ssrn.5009079},\n  url={https://doi.org/10.2139/ssrn.5009079}\n}",
+      "apa": "Romih, G. D. (2023). An Extended Hypergraph Cut Method for the Wiener Index. .",
+      "ieee": "Ga\u0161per  Domen Romih, \"An Extended Hypergraph Cut Method for the Wiener Index,\" , 2023.",
+      "mla": "Romih, G. D.. \"An Extended Hypergraph Cut Method for the Wiener Index.\" , 2023.",
+      "custom_format": "\\bibitem{Ro23} G.D. Romih, An extended hypergraph cut method for the Wiener index,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.2139/ssrn.5009079",
+      "paper_url": "https://doi.org/10.2139/ssrn.5009079",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1016_j_dam_2021_09_025",
+      "bibtex": "@article{10_1016_j_dam_2021_09_025,\n  title={Wiener, edge-Wiener, and vertex-edge-Wiener index of Basilica graphs},\n  author={Matteo Cavaleri and Daniele D\u2019Angeli and Alfredo Donno and Stefan Hammer},\n  journal={Discrete Applied Mathematics},\n  year={2022},\n  doi={10.1016/j.dam.2021.09.025},\n  url={https://doi.org/10.1016/j.dam.2021.09.025}\n}",
+      "apa": "Cavaleri, M., D\u2019Angeli, D., Donno, A., & Hammer, S. (2022). Wiener, edge-Wiener, and vertex-edge-Wiener index of Basilica graphs. Discrete Applied Mathematics.",
+      "ieee": "Matteo Cavaleri et al., \"Wiener, edge-Wiener, and vertex-edge-Wiener index of Basilica graphs,\" Discrete Applied Mathematics, 2022.",
+      "mla": "Cavaleri, M., et al.. \"Wiener, edge-Wiener, and vertex-edge-Wiener index of Basilica graphs.\" Discrete Applied Mathematics, 2022.",
+      "custom_format": "\\bibitem{CaD\u2019Do22} M. Cavaleri, D. D\u2019Angeli, A. Donno, S. Hammer, Wiener, edge-Wiener, and vertex-edge-Wiener index of basilica graphs, Discrete Applied Mathematics \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1016/j.dam.2021.09.025",
+      "paper_url": "https://doi.org/10.1016/j.dam.2021.09.025",
+      "journal_name": "Discrete Applied Mathematics",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_47443_dml_2022_068",
+      "bibtex": "@article{10_47443_dml_2022_068,\n  title={A Relation Between Wiener Index and Mostar Index for Daisy Cubes},\n  author={},\n  journal={Discrete Mathematics Letters},\n  year={2022},\n  doi={10.47443/dml.2022.068},\n  url={https://doi.org/10.47443/dml.2022.068}\n}",
+      "apa": "Unknown Author (2022). A Relation Between Wiener Index and Mostar Index for Daisy Cubes. Discrete Mathematics Letters.",
+      "ieee": "Unknown Author, \"A Relation Between Wiener Index and Mostar Index for Daisy Cubes,\" Discrete Mathematics Letters, 2022.",
+      "mla": "Unknown Author. \"A Relation Between Wiener Index and Mostar Index for Daisy Cubes.\" Discrete Mathematics Letters, 2022.",
+      "custom_format": "\\bibitem{Unknown22} Unknown Author, A relation between Wiener index and mostar index for daisy cubes, Discrete Mathematics Letters \\textbf{1}(1) (2022) 1--10. https://doi.org/10.47443/dml.2022.068",
+      "paper_url": "https://doi.org/10.47443/dml.2022.068",
+      "journal_name": "Discrete Mathematics Letters",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1007_s00706_003_0003_7",
+      "bibtex": "@article{10_1007_s00706_003_0003_7,\n  title={Hyper-Wiener Index vs. Wiener Index. Two Highly Correlated Structure-Descriptors},\n  author={Ivan Gutman and Boris Furtula},\n  journal={Monatshefte f\u00fcr Chemie - Chemical Monthly},\n  year={2003},\n  doi={10.1007/s00706-003-0003-7},\n  url={https://doi.org/10.1007/s00706-003-0003-7}\n}",
+      "apa": "Gutman, I. & Furtula, B. (2003). Hyper-Wiener Index vs. Wiener Index. Two Highly Correlated Structure-Descriptors. Monatshefte f\u00fcr Chemie - Chemical Monthly.",
+      "ieee": "Ivan Gutman, Boris Furtula, \"Hyper-Wiener Index vs. Wiener Index. Two Highly Correlated Structure-Descriptors,\" Monatshefte f\u00fcr Chemie - Chemical Monthly, 2003.",
+      "mla": "Gutman, I., and Boris Furtula. \"Hyper-Wiener Index vs. Wiener Index. Two Highly Correlated Structure-Descriptors.\" Monatshefte f\u00fcr Chemie - Chemical Monthly, 2003.",
+      "custom_format": "\\bibitem{GuFu03} I. Gutman, B. Furtula, Hyper-Wiener index vs. Wiener index. two highly correlated structure-descriptors, Monatshefte f\u00fcr Chemie - Chemical Monthly \\textbf{1}(1) (2003) 1--10. https://doi.org/10.1007/s00706-003-0003-7",
+      "paper_url": "https://doi.org/10.1007/s00706-003-0003-7",
+      "journal_name": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+      "year": 2003
+    },
+    {
+      "paper_id": "10_1080_15363830903133204",
+      "bibtex": "@article{10_1080_15363830903133204,\n  title={Computing Wiener Polynomial, Wiener Index and Hyper Wiener Index of C<sub>80</sub>Fullerene by GAP Program},\n  author={Ali Iranmanesh and Y. Alizadeh and S. Mirzaie},\n  journal={Fullerenes, Nanotubes and Carbon Nanostructures},\n  year={2009},\n  doi={10.1080/15363830903133204},\n  url={https://doi.org/10.1080/15363830903133204}\n}",
+      "apa": "Iranmanesh, A., Alizadeh, Y., & Mirzaie, S. (2009). Computing Wiener Polynomial, Wiener Index and Hyper Wiener Index of C<sub>80</sub>Fullerene by GAP Program. Fullerenes, Nanotubes and Carbon Nanostructures.",
+      "ieee": "Ali Iranmanesh, Y. Alizadeh, S. Mirzaie, \"Computing Wiener Polynomial, Wiener Index and Hyper Wiener Index of C<sub>80</sub>Fullerene by GAP Program,\" Fullerenes, Nanotubes and Carbon Nanostructures, 2009.",
+      "mla": "Iranmanesh, A., et al.. \"Computing Wiener Polynomial, Wiener Index and Hyper Wiener Index of C<sub>80</sub>Fullerene by GAP Program.\" Fullerenes, Nanotubes and Carbon Nanostructures, 2009.",
+      "custom_format": "\\bibitem{IrAlMi09} A. Iranmanesh, Y. Alizadeh, S. Mirzaie, Computing Wiener polynomial, Wiener index and hyper Wiener index of c<sub>80</sub>fullerene by gap program, Fullerenes, Nanotubes and Carbon Nanostructures \\textbf{1}(1) (2009) 1--10. https://doi.org/10.1080/15363830903133204",
+      "paper_url": "https://doi.org/10.1080/15363830903133204",
+      "journal_name": "Fullerenes, Nanotubes and Carbon Nanostructures",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_1007_s11766_019_3565_9",
+      "bibtex": "@article{10_1007_s11766_019_3565_9,\n  title={Wiener Index, Hyper-Wiener Index, Harary Index and Hamiltonicity Properties of graphs},\n  author={Gui-dong Yu and Li-fang Ren and Xing-xing Li},\n  journal={Applied Mathematics-A Journal of Chinese Universities},\n  year={2019},\n  doi={10.1007/s11766-019-3565-9},\n  url={https://doi.org/10.1007/s11766-019-3565-9}\n}",
+      "apa": "Yu, G., Ren, L., & Li, X. (2019). Wiener Index, Hyper-Wiener Index, Harary Index and Hamiltonicity Properties of graphs. Applied Mathematics-A Journal of Chinese Universities.",
+      "ieee": "Gui-dong Yu, Li-fang Ren, Xing-xing Li, \"Wiener Index, Hyper-Wiener Index, Harary Index and Hamiltonicity Properties of graphs,\" Applied Mathematics-A Journal of Chinese Universities, 2019.",
+      "mla": "Yu, G., et al.. \"Wiener Index, Hyper-Wiener Index, Harary Index and Hamiltonicity Properties of graphs.\" Applied Mathematics-A Journal of Chinese Universities, 2019.",
+      "custom_format": "\\bibitem{YuReLi19} G. Yu, L. Ren, X. Li, Wiener index, hyper-Wiener index, harary index and hamiltonicity properties of graphs, Applied Mathematics-A Journal of Chinese Universities \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1007/s11766-019-3565-9",
+      "paper_url": "https://doi.org/10.1007/s11766-019-3565-9",
+      "journal_name": "Applied Mathematics-A Journal of Chinese Universities",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_1016_j_amc_2015_07_050",
+      "bibtex": "@article{10_1016_j_amc_2015_07_050,\n  title={An inequality between the edge-Wiener index and the Wiener index of a graph},\n  author={Martin Knor and Riste \u0160krekovski and Aleksandra Tepeh},\n  journal={Applied Mathematics and Computation},\n  year={2015},\n  doi={10.1016/j.amc.2015.07.050},\n  url={https://doi.org/10.1016/j.amc.2015.07.050}\n}",
+      "apa": "Knor, M., \u0160krekovski, R., & Tepeh, A. (2015). An inequality between the edge-Wiener index and the Wiener index of a graph. Applied Mathematics and Computation.",
+      "ieee": "Martin Knor, Riste \u0160krekovski, Aleksandra Tepeh, \"An inequality between the edge-Wiener index and the Wiener index of a graph,\" Applied Mathematics and Computation, 2015.",
+      "mla": "Knor, M., et al.. \"An inequality between the edge-Wiener index and the Wiener index of a graph.\" Applied Mathematics and Computation, 2015.",
+      "custom_format": "\\bibitem{Kn\u0160kTe15} M. Knor, R. \u0160krekovski, A. Tepeh, An inequality between the edge-Wiener index and the Wiener index of a graph, Applied Mathematics and Computation \\textbf{1}(1) (2015) 1--10. https://doi.org/10.1016/j.amc.2015.07.050",
+      "paper_url": "https://doi.org/10.1016/j.amc.2015.07.050",
+      "journal_name": "Applied Mathematics and Computation",
+      "year": 2015
+    },
+    {
+      "paper_id": "10_1016_s0009_2614_02_01343_x",
+      "bibtex": "@article{10_1016_s0009_2614_02_01343_x,\n  title={Relation between hyper-Wiener and Wiener index},\n  author={Ivan Gutman},\n  journal={Chemical Physics Letters},\n  year={2002},\n  doi={10.1016/s0009-2614(02)01343-x},\n  url={https://doi.org/10.1016/s0009-2614(02)01343-x}\n}",
+      "apa": "Gutman, I. (2002). Relation between hyper-Wiener and Wiener index. Chemical Physics Letters.",
+      "ieee": "Ivan Gutman, \"Relation between hyper-Wiener and Wiener index,\" Chemical Physics Letters, 2002.",
+      "mla": "Gutman, I.. \"Relation between hyper-Wiener and Wiener index.\" Chemical Physics Letters, 2002.",
+      "custom_format": "\\bibitem{Gu02} I. Gutman, Relation between hyper-Wiener and Wiener index, Chemical Physics Letters \\textbf{1}(1) (2002) 1--10. https://doi.org/10.1016/s0009-2614(02)01343-x",
+      "paper_url": "https://doi.org/10.1016/s0009-2614(02)01343-x",
+      "journal_name": "Chemical Physics Letters",
+      "year": 2002
+    },
+    {
+      "paper_id": "10_1016_b978_008045405_4_00132_4",
+      "bibtex": "@article{10_1016_b978_008045405_4_00132_4,\n  title={Shannon\u2013Wiener Index},\n  author={I.F. Spellerberg},\n  journal={Encyclopedia of Ecology},\n  year={2008},\n  doi={10.1016/b978-008045405-4.00132-4},\n  url={https://doi.org/10.1016/b978-008045405-4.00132-4}\n}",
+      "apa": "Spellerberg, I. (2008). Shannon\u2013Wiener Index. Encyclopedia of Ecology.",
+      "ieee": "I.F. Spellerberg, \"Shannon\u2013Wiener Index,\" Encyclopedia of Ecology, 2008.",
+      "mla": "Spellerberg, I.. \"Shannon\u2013Wiener Index.\" Encyclopedia of Ecology, 2008.",
+      "custom_format": "\\bibitem{Sp08} I.F. Spellerberg, Shannon\u2013Wiener index, Encyclopedia of Ecology \\textbf{1}(1) (2008) 1--10. https://doi.org/10.1016/b978-008045405-4.00132-4",
+      "paper_url": "https://doi.org/10.1016/b978-008045405-4.00132-4",
+      "journal_name": "Encyclopedia of Ecology",
+      "year": 2008
+    },
+    {
+      "paper_id": "10_1016_j_aml_2007_10_001",
+      "bibtex": "@article{10_1016_j_aml_2007_10_001,\n  title={Extension of the Wiener index and Wiener polynomial},\n  author={Mehdi Eliasi and Bijan Taeri},\n  journal={Applied Mathematics Letters},\n  year={2008},\n  doi={10.1016/j.aml.2007.10.001},\n  url={https://doi.org/10.1016/j.aml.2007.10.001}\n}",
+      "apa": "Eliasi, M. & Taeri, B. (2008). Extension of the Wiener index and Wiener polynomial. Applied Mathematics Letters.",
+      "ieee": "Mehdi Eliasi, Bijan Taeri, \"Extension of the Wiener index and Wiener polynomial,\" Applied Mathematics Letters, 2008.",
+      "mla": "Eliasi, M., and Bijan Taeri. \"Extension of the Wiener index and Wiener polynomial.\" Applied Mathematics Letters, 2008.",
+      "custom_format": "\\bibitem{ElTa08} M. Eliasi, B. Taeri, Extension of the Wiener index and Wiener polynomial, Applied Mathematics Letters \\textbf{1}(1) (2008) 1--10. https://doi.org/10.1016/j.aml.2007.10.001",
+      "paper_url": "https://doi.org/10.1016/j.aml.2007.10.001",
+      "journal_name": "Applied Mathematics Letters",
+      "year": 2008
+    },
+    {
+      "paper_id": "10_3336_gm_49_1_01",
+      "bibtex": "@article{10_3336_gm_49_1_01,\n  title={The edge wiener index of suspensions, bottlenecks, and thorny graphs},\n  author={Yaser Alizadeh and Ali Iranmanesh and Tomislav Do\u0161li\u0107 and Mahdieh Azari},\n  journal={Glasnik Matematicki},\n  year={2014},\n  doi={10.3336/gm.49.1.01},\n  url={https://doi.org/10.3336/gm.49.1.01}\n}",
+      "apa": "Alizadeh, Y., Iranmanesh, A., Do\u0161li\u0107, T., & Azari, M. (2014). The edge wiener index of suspensions, bottlenecks, and thorny graphs. Glasnik Matematicki.",
+      "ieee": "Yaser Alizadeh et al., \"The edge wiener index of suspensions, bottlenecks, and thorny graphs,\" Glasnik Matematicki, 2014.",
+      "mla": "Alizadeh, Y., et al.. \"The edge wiener index of suspensions, bottlenecks, and thorny graphs.\" Glasnik Matematicki, 2014.",
+      "custom_format": "\\bibitem{AlIrDo14} Y. Alizadeh, A. Iranmanesh, T. Do\u0161li\u0107, M. Azari, The edge Wiener index of suspensions, bottlenecks, and thorny graphs, Glasnik Matematicki \\textbf{1}(1) (2014) 1--10. https://doi.org/10.3336/gm.49.1.01",
+      "paper_url": "https://doi.org/10.3336/gm.49.1.01",
+      "journal_name": "Glasnik Matematicki",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_1201_b10959_26",
+      "bibtex": "@article{10_1201_b10959_26,\n  title={Chemical Graphs and the Wiener Index},\n  author={},\n  journal={Handbook of Product Graphs},\n  year={2011},\n  doi={10.1201/b10959-26},\n  url={https://doi.org/10.1201/b10959-26}\n}",
+      "apa": "Unknown Author (2011). Chemical Graphs and the Wiener Index. Handbook of Product Graphs.",
+      "ieee": "Unknown Author, \"Chemical Graphs and the Wiener Index,\" Handbook of Product Graphs, 2011.",
+      "mla": "Unknown Author. \"Chemical Graphs and the Wiener Index.\" Handbook of Product Graphs, 2011.",
+      "custom_format": "\\bibitem{Unknown11} Unknown Author, Chemical graphs and the Wiener index, Handbook of Product Graphs \\textbf{1}(1) (2011) 1--10. https://doi.org/10.1201/b10959-26",
+      "paper_url": "https://doi.org/10.1201/b10959-26",
+      "journal_name": "Handbook of Product Graphs",
+      "year": 2011
+    },
+    {
+      "paper_id": "10_1063_1_3525226",
+      "bibtex": "@inproceedings{10_1063_1_3525226,\n  title={Wiener index of some graphs},\n  author={Javad Yazdani},\n  booktitle={AIP Conference Proceedings},\n  year={2010},\n  doi={10.1063/1.3525226},\n  url={https://doi.org/10.1063/1.3525226}\n}",
+      "apa": "Yazdani, J. (2010). Wiener index of some graphs. In AIP Conference Proceedings.",
+      "ieee": "Javad Yazdani, \"Wiener index of some graphs,\" in AIP Conference Proceedings, 2010.",
+      "mla": "Yazdani, J.. \"Wiener index of some graphs.\" AIP Conference Proceedings, 2010.",
+      "custom_format": "\\bibitem{Ya10} J. Yazdani, Wiener index of some graphs, AIP Conference Proceedings \\textbf{1}(1) (2010) 1--10. https://doi.org/10.1063/1.3525226",
+      "paper_url": "https://doi.org/10.1063/1.3525226",
+      "journal_name": "AIP Conference Proceedings",
+      "year": 2010
+    },
+    {
+      "paper_id": "10_1201_b17645_14",
+      "bibtex": "@article{10_1201_b17645_14,\n  title={Wiener Index of Line Graphs},\n  author={},\n  journal={Quantitative Graph Theory},\n  year={2014},\n  doi={10.1201/b17645-14},\n  url={https://doi.org/10.1201/b17645-14}\n}",
+      "apa": "Unknown Author (2014). Wiener Index of Line Graphs. Quantitative Graph Theory.",
+      "ieee": "Unknown Author, \"Wiener Index of Line Graphs,\" Quantitative Graph Theory, 2014.",
+      "mla": "Unknown Author. \"Wiener Index of Line Graphs.\" Quantitative Graph Theory, 2014.",
+      "custom_format": "\\bibitem{Unknown14} Unknown Author, Wiener index of line graphs, Quantitative Graph Theory \\textbf{1}(1) (2014) 1--10. https://doi.org/10.1201/b17645-14",
+      "paper_url": "https://doi.org/10.1201/b17645-14",
+      "journal_name": "Quantitative Graph Theory",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_1351_goldbook_15031",
+      "bibtex": "@article{10_1351_goldbook_15031,\n  title={Shannon\u2013Wiener diversity index},\n  author={},\n  journal={The IUPAC Compendium of Chemical Terminology},\n  year={2025},\n  doi={10.1351/goldbook.15031},\n  url={https://doi.org/10.1351/goldbook.15031}\n}",
+      "apa": "Unknown Author (2025). Shannon\u2013Wiener diversity index. The IUPAC Compendium of Chemical Terminology.",
+      "ieee": "Unknown Author, \"Shannon\u2013Wiener diversity index,\" The IUPAC Compendium of Chemical Terminology, 2025.",
+      "mla": "Unknown Author. \"Shannon\u2013Wiener diversity index.\" The IUPAC Compendium of Chemical Terminology, 2025.",
+      "custom_format": "\\bibitem{Unknown25} Unknown Author, Shannon\u2013Wiener diversity index, The IUPAC Compendium of Chemical Terminology \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1351/goldbook.15031",
+      "paper_url": "https://doi.org/10.1351/goldbook.15031",
+      "journal_name": "The IUPAC Compendium of Chemical Terminology",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_7717_peerj_3764_fig_4",
+      "bibtex": "@article{10_7717_peerj_3764_fig_4,\n  title={Figure 4: Shannon\u2013Wiener evenness index of\n                      <i>Pinus tabulaeformis</i>\n                      community in protected stands.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.3764/fig-4},\n  url={https://doi.org/10.7717/peerj.3764/fig-4}\n}",
+      "apa": "Unknown Author (2023). Figure 4: Shannon\u2013Wiener evenness index of\n                      <i>Pinus tabulaeformis</i>\n                      community in protected stands.. .",
+      "ieee": "Unknown Author, \"Figure 4: Shannon\u2013Wiener evenness index of\n                      <i>Pinus tabulaeformis</i>\n                      community in protected stands.,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 4: Shannon\u2013Wiener evenness index of\n                      <i>Pinus tabulaeformis</i>\n                      community in protected stands..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 4: shannon\u2013Wiener evenness index of\n                      <i>pinus tabulaeformis</i>\n                      community in protected stands,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.3764/fig-4",
+      "paper_url": "https://doi.org/10.7717/peerj.3764/fig-4",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_7238_table_4",
+      "bibtex": "@article{10_7717_peerj_7238_table_4,\n  title={Table 4: Values of species richness (SR), Shannon\u2013Wiener diversity index (H\u2032) and Pielou\u2019s evenness index (J\u2032) for diatom assemblages of Auvergne and Sardinia.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj.7238/table-4},\n  url={https://doi.org/10.7717/peerj.7238/table-4}\n}",
+      "apa": "Unknown Author (2023). Table 4: Values of species richness (SR), Shannon\u2013Wiener diversity index (H\u2032) and Pielou\u2019s evenness index (J\u2032) for diatom assemblages of Auvergne and Sardinia.. .",
+      "ieee": "Unknown Author, \"Table 4: Values of species richness (SR), Shannon\u2013Wiener diversity index (H\u2032) and Pielou\u2019s evenness index (J\u2032) for diatom assemblages of Auvergne and Sardinia.,\" , 2023.",
+      "mla": "Unknown Author. \"Table 4: Values of species richness (SR), Shannon\u2013Wiener diversity index (H\u2032) and Pielou\u2019s evenness index (J\u2032) for diatom assemblages of Auvergne and Sardinia..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Table 4: values of species richness (sr), shannon\u2013Wiener diversity index (h\u2032) and pielou\u2019s evenness index (j\u2032) for diatom assemblages of auvergne and sardinia,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.7717/peerj.7238/table-4",
+      "paper_url": "https://doi.org/10.7717/peerj.7238/table-4",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_2307_j_ctvzpv4p8_14",
+      "bibtex": "@article{10_2307_j_ctvzpv4p8_14,\n  title={Index},\n  author={},\n  journal={Jewish Thought Adrift},\n  year={2020},\n  doi={10.2307/j.ctvzpv4p8.14},\n  url={https://doi.org/10.2307/j.ctvzpv4p8.14}\n}",
+      "apa": "Unknown Author (2020). Index. Jewish Thought Adrift.",
+      "ieee": "Unknown Author, \"Index,\" Jewish Thought Adrift, 2020.",
+      "mla": "Unknown Author. \"Index.\" Jewish Thought Adrift, 2020.",
+      "custom_format": "\\bibitem{Unknown20} Unknown Author, Index, Jewish Thought Adrift \\textbf{1}(1) (2020) 1--10. https://doi.org/10.2307/j.ctvzpv4p8.14",
+      "paper_url": "https://doi.org/10.2307/j.ctvzpv4p8.14",
+      "journal_name": "Jewish Thought Adrift",
+      "year": 2020
+    },
+    {
+      "paper_id": "10_7788_wjk_2012_0138",
+      "bibtex": "@article{10_7788_wjk_2012_0138,\n  title={Index of Places},\n  author={},\n  journal={Wiener Jahrbuch f\u00fcr Kunstgeschichte},\n  year={2012},\n  doi={10.7788/wjk-2012-0138},\n  url={https://doi.org/10.7788/wjk-2012-0138}\n}",
+      "apa": "Unknown Author (2012). Index of Places. Wiener Jahrbuch f\u00fcr Kunstgeschichte.",
+      "ieee": "Unknown Author, \"Index of Places,\" Wiener Jahrbuch f\u00fcr Kunstgeschichte, 2012.",
+      "mla": "Unknown Author. \"Index of Places.\" Wiener Jahrbuch f\u00fcr Kunstgeschichte, 2012.",
+      "custom_format": "\\bibitem{Unknown12} Unknown Author, Index of places, Wiener Jahrbuch f\u00fcr Kunstgeschichte \\textbf{1}(1) (2012) 1--10. https://doi.org/10.7788/wjk-2012-0138",
+      "paper_url": "https://doi.org/10.7788/wjk-2012-0138",
+      "journal_name": "Wiener Jahrbuch f\u00fcr Kunstgeschichte",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_7788_wjk_2012_0139",
+      "bibtex": "@article{10_7788_wjk_2012_0139,\n  title={Index of Names},\n  author={},\n  journal={Wiener Jahrbuch f\u00fcr Kunstgeschichte},\n  year={2012},\n  doi={10.7788/wjk-2012-0139},\n  url={https://doi.org/10.7788/wjk-2012-0139}\n}",
+      "apa": "Unknown Author (2012). Index of Names. Wiener Jahrbuch f\u00fcr Kunstgeschichte.",
+      "ieee": "Unknown Author, \"Index of Names,\" Wiener Jahrbuch f\u00fcr Kunstgeschichte, 2012.",
+      "mla": "Unknown Author. \"Index of Names.\" Wiener Jahrbuch f\u00fcr Kunstgeschichte, 2012.",
+      "custom_format": "\\bibitem{Unknown12} Unknown Author, Index of names, Wiener Jahrbuch f\u00fcr Kunstgeschichte \\textbf{1}(1) (2012) 1--10. https://doi.org/10.7788/wjk-2012-0139",
+      "paper_url": "https://doi.org/10.7788/wjk-2012-0139",
+      "journal_name": "Wiener Jahrbuch f\u00fcr Kunstgeschichte",
+      "year": 2012
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41527561_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41527561_2023,\n  title={PubMed Paper 41527561},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41527561/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41527561. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41527561,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41527561.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41527561, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41527561/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41527561/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41514921_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41514921_2023,\n  title={PubMed Paper 41514921},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41514921/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41514921. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41514921,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41514921.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41514921, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41514921/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41514921/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41507301_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41507301_2023,\n  title={PubMed Paper 41507301},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41507301/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41507301. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41507301,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41507301.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41507301, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41507301/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41507301/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41415676_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41415676_2023,\n  title={PubMed Paper 41415676},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41415676/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41415676. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41415676,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41415676.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41415676, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41415676/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41415676/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41390559_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41390559_2023,\n  title={PubMed Paper 41390559},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41390559/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41390559. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41390559,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41390559.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41390559, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41390559/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41390559/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41371031_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41371031_2023,\n  title={PubMed Paper 41371031},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41371031/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41371031. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41371031,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41371031.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41371031, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41371031/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41371031/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41331308_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41331308_2023,\n  title={PubMed Paper 41331308},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41331308/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41331308. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41331308,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41331308.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41331308, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41331308/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41331308/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41326812_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41326812_2023,\n  title={PubMed Paper 41326812},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41326812/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41326812. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41326812,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41326812.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41326812, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41326812/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41326812/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41302886_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41302886_2023,\n  title={PubMed Paper 41302886},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41302886/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41302886. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41302886,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41302886.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41302886, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41302886/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41302886/",
+      "journal_name": "PubMed",
+      "year": 2023
+    },
+    {
+      "paper_id": "unknown_pubmed_paper_41298853_2023",
+      "bibtex": "@article{unknown_pubmed_paper_41298853_2023,\n  title={PubMed Paper 41298853},\n  author={Unknown},\n  journal={PubMed},\n  year={2023},\n  url={https://pubmed.ncbi.nlm.nih.gov/41298853/}\n}",
+      "apa": "Unknown (2023). PubMed Paper 41298853. PubMed.",
+      "ieee": "Unknown, \"PubMed Paper 41298853,\" PubMed, 2023.",
+      "mla": "Unknown. \"PubMed Paper 41298853.\" PubMed, 2023.",
+      "custom_format": "\\bibitem{Un23} Unknown, Pubmed paper 41298853, PubMed \\textbf{1}(1) (2023) 1--10. https://pubmed.ncbi.nlm.nih.gov/41298853/",
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41298853/",
+      "journal_name": "PubMed",
+      "year": 2023
+    }
+  ]
+}

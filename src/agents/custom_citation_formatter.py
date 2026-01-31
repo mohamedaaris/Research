@@ -5,8 +5,23 @@ import re
 from typing import List, Dict, Any, Optional
 from datetime import datetime
 
-from ..models.data_models import PaperMetadata, Citation
-from .base_agent import BaseAgent
+# Import requests with fallback
+try:
+    import requests
+except ImportError:
+    requests = None
+
+# Try relative imports first, then absolute
+try:
+    from ..models.data_models import PaperMetadata, Citation
+    from .base_agent import BaseAgent
+except ImportError:
+    # Fallback to absolute imports for testing
+    import sys
+    import os
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+    from models.data_models import PaperMetadata, Citation
+    from agents.base_agent import BaseAgent
 
 
 class CustomCitationFormatter(BaseAgent):
@@ -265,40 +280,159 @@ class CustomCitationFormatter(BaseAgent):
         return venue_mappings.get(venue, venue)
     
     def _extract_volume_info(self, paper: PaperMetadata) -> Optional[str]:
-        """Extract volume and issue information."""
-        # This would typically come from paper metadata
-        # For now, we'll try to extract from venue or other fields
+        """Extract volume and issue information using CrossRef API for accurate data."""
+        volume_info = {
+            'volume': None,
+            'issue': None,
+            'pages': None,
+            'article_number': None
+        }
         
-        # Look for volume patterns in venue or other fields
-        volume_pattern = r'(\d+)\((\d+)\)'  # Volume(Issue)
+        # Try to extract from DOI using CrossRef API
+        if paper.doi and requests:
+            try:
+                import time
+                
+                # Clean DOI - handle various DOI formats
+                doi = paper.doi.strip()
+                if doi.startswith('https://doi.org/'):
+                    doi = doi.replace('https://doi.org/', '')
+                elif doi.startswith('http://dx.doi.org/'):
+                    doi = doi.replace('http://dx.doi.org/', '')
+                elif doi.startswith('doi:'):
+                    doi = doi.replace('doi:', '')
+                
+                # Query CrossRef API for accurate bibliographic data
+                crossref_url = f"https://api.crossref.org/works/{doi}"
+                headers = {
+                    'User-Agent': 'Research System/1.0 (mailto:research@example.com)',
+                    'Accept': 'application/json'
+                }
+                
+                self.logger.info(f"Fetching bibliographic data for DOI: {doi}")
+                response = requests.get(crossref_url, headers=headers, timeout=10)
+                
+                if response.status_code == 200:
+                    data = response.json()
+                    work = data.get('message', {})
+                    
+                    # Extract volume
+                    if 'volume' in work and work['volume']:
+                        volume_info['volume'] = str(work['volume']).strip()
+                    
+                    # Extract issue
+                    if 'issue' in work and work['issue']:
+                        volume_info['issue'] = str(work['issue']).strip()
+                    
+                    # Extract pages - handle different formats
+                    if 'page' in work and work['page']:
+                        pages = str(work['page']).strip()
+                        if pages:
+                            volume_info['pages'] = pages
+                    elif 'article-number' in work and work['article-number']:
+                        article_num = str(work['article-number']).strip()
+                        volume_info['article_number'] = article_num
+                        volume_info['pages'] = article_num
+                    
+                    self.logger.info(f"Successfully extracted: vol={volume_info['volume']}, issue={volume_info['issue']}, pages={volume_info['pages']}")
+                    
+                    # Small delay to be respectful to CrossRef API
+                    time.sleep(0.1)
+                    
+                elif response.status_code == 404:
+                    self.logger.info(f"DOI {doi} not found in CrossRef (404)")
+                else:
+                    self.logger.warning(f"CrossRef API returned status {response.status_code} for DOI {doi}")
+                    
+            except requests.exceptions.Timeout:
+                self.logger.warning(f"Timeout while fetching bibliographic data for DOI {paper.doi}")
+            except requests.exceptions.RequestException as e:
+                self.logger.warning(f"Request error while fetching bibliographic data for DOI {paper.doi}: {str(e)}")
+            except Exception as e:
+                self.logger.warning(f"Unexpected error while fetching bibliographic data for DOI {paper.doi}: {str(e)}")
+        elif paper.doi and not requests:
+            self.logger.warning("Requests library not available, skipping CrossRef API call")
         
-        # Check if venue contains volume info
-        if hasattr(paper, 'volume') and paper.volume:
-            return f"\\textbf{{{paper.volume}}}"
+        # Try to extract from venue name if it contains volume/issue info
+        if not any([volume_info['volume'], volume_info['issue'], volume_info['pages']]):
+            if paper.venue:
+                venue_lower = paper.venue.lower()
+                
+                # Look for patterns like "vol. 25, no. 3" or "25(3)" in venue
+                vol_match = re.search(r'vol(?:ume)?\.?\s*(\d+)', venue_lower)
+                if vol_match:
+                    volume_info['volume'] = vol_match.group(1)
+                
+                issue_match = re.search(r'(?:no|issue)\.?\s*(\d+)', venue_lower)
+                if issue_match:
+                    volume_info['issue'] = issue_match.group(1)
+                
+                # Look for pattern like "25(3)" 
+                vol_issue_match = re.search(r'(\d+)\((\d+)\)', venue_lower)
+                if vol_issue_match:
+                    volume_info['volume'] = vol_issue_match.group(1)
+                    volume_info['issue'] = vol_issue_match.group(2)
         
-        # Try to extract from venue string
-        venue_match = re.search(volume_pattern, paper.venue)
-        if venue_match:
-            volume = venue_match.group(1)
-            issue = venue_match.group(2)
-            return f"\\textbf{{{volume}}}({issue})"
+        # Format volume info for citation ONLY if we have real data
+        if volume_info['volume']:
+            if volume_info['issue']:
+                return f"\\textbf{{{volume_info['volume']}}}({volume_info['issue']})"
+            else:
+                return f"\\textbf{{{volume_info['volume']}}}"
         
-        # Default volume (would need to be enhanced with real data)
-        return "\\textbf{1}(1)"
+        # Return None if no real volume data found (don't use fake data)
+        return None
     
     def _extract_page_numbers(self, paper: PaperMetadata) -> Optional[str]:
-        """Extract page numbers."""
-        # This would typically come from paper metadata
-        # For now, return a placeholder or try to extract from abstract/other fields
+        """Extract page numbers using CrossRef API for accurate data."""
+        # Try to get from CrossRef API if DOI is available
+        if paper.doi and requests:
+            try:
+                import time
+                
+                # Clean DOI
+                doi = paper.doi.strip()
+                if doi.startswith('https://doi.org/'):
+                    doi = doi.replace('https://doi.org/', '')
+                elif doi.startswith('http://dx.doi.org/'):
+                    doi = doi.replace('http://dx.doi.org/', '')
+                elif doi.startswith('doi:'):
+                    doi = doi.replace('doi:', '')
+                
+                # Query CrossRef API
+                crossref_url = f"https://api.crossref.org/works/{doi}"
+                headers = {
+                    'User-Agent': 'Research System/1.0 (mailto:research@example.com)',
+                    'Accept': 'application/json'
+                }
+                
+                response = requests.get(crossref_url, headers=headers, timeout=10)
+                
+                if response.status_code == 200:
+                    data = response.json()
+                    work = data.get('message', {})
+                    
+                    # Extract pages
+                    if 'page' in work and work['page']:
+                        pages = str(work['page']).strip()
+                        if pages:
+                            return pages
+                    elif 'article-number' in work and work['article-number']:
+                        article_num = str(work['article-number']).strip()
+                        return article_num
+                    
+                    # Small delay for API
+                    time.sleep(0.1)
+                    
+            except Exception as e:
+                self.logger.warning(f"Error fetching page data from CrossRef for DOI {paper.doi}: {str(e)}")
         
+        # Check if paper has pages attribute
         if hasattr(paper, 'pages') and paper.pages:
             return paper.pages
         
-        # Look for page patterns in abstract or other fields
-        page_pattern = r'(\d+)--(\d+)'
-        
-        # For now, return a placeholder
-        return "1--10"  # Would need real page data
+        # Return None if no real page data found (don't use fake data)
+        return None
     
     def _format_doi(self, doi: str, url: str) -> Optional[str]:
         """Format DOI link."""

@@ -15,6 +15,7 @@ class CitationFormat(str, Enum):
 
 class PaperMetadata(BaseModel):
     """Metadata for academic papers."""
+    id: Optional[str] = Field(default_factory=lambda: f"paper_{datetime.now().timestamp()}")
     title: str
     authors: List[str]
     year: int
@@ -108,3 +109,80 @@ class ResearchResults(BaseModel):
     generated_at: datetime = Field(default_factory=datetime.now)
     total_papers_analyzed: int = 0
     total_claims_extracted: int = 0
+
+
+# Literature Builder Models
+class QRanking(str, Enum):
+    Q1 = "Q1"
+    Q2 = "Q2"
+    Q3 = "Q3"
+
+
+class ClaimCluster(BaseModel):
+    """Represents a cluster of related claims."""
+    cluster_id: str
+    theme: str
+    method: Optional[str] = None
+    dataset: Optional[str] = None
+    task: Optional[str] = None
+    research_objective: str
+    claims: List[Claim]
+    papers: List[PaperMetadata]
+    contradictions: List[str] = []
+    agreements: List[str] = []
+    q_ranking: Dict[str, str] = {}  # paper_id -> Q1/Q2/Q3
+    sa_papers: List[str] = []  # List of SA (Systematic Analysis) paper IDs
+
+
+class LiteratureSection(BaseModel):
+    """Represents a section of literature."""
+    section_type: str  # introduction, related_work, comparative_analysis, trends
+    title: str
+    content: str
+    citations: List[str] = []
+    claim_ids: List[str] = []  # Traceability to original claims
+    subsections: Optional[List['LiteratureSection']] = None
+    word_count: int = 0
+    
+    def __init__(self, **data):
+        super().__init__(**data)
+        self.word_count = len(self.content.split())
+
+
+class LiteratureOutline(BaseModel):
+    """Represents the structure of the literature."""
+    title: str
+    sections: List[Dict[str, Any]]
+    total_papers: int
+    total_claims: int
+    date_range: tuple
+    estimated_word_count: int = 0
+
+
+class LiteratureDocument(BaseModel):
+    """Complete literature document."""
+    outline: LiteratureOutline
+    sections: List[LiteratureSection]
+    bibliography: List[str]
+    metadata: Dict[str, Any]
+    generated_at: datetime = Field(default_factory=datetime.now)
+    
+    @property
+    def total_word_count(self) -> int:
+        return sum(section.word_count for section in self.sections)
+    
+    @property
+    def total_citations(self) -> int:
+        return len(set(citation for section in self.sections for citation in section.citations))
+
+
+class LiteratureFilter(BaseModel):
+    """Filter criteria for literature generation."""
+    q_rankings: List[str] = ['Q1', 'Q2', 'Q3']
+    include_sa_papers: bool = True
+    min_year: Optional[int] = None
+    max_year: Optional[int] = None
+    methods: List[str] = []
+    datasets: List[str] = []
+    min_confidence: float = 0.0
+    max_sections: int = 10

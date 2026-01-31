@@ -1,0 +1,1463 @@
+{
+  "topic": "graph star coloring of biswapped networks",
+  "generated_at": "2026-01-27T22:23:47.575489",
+  "summary": {
+    "papers_analyzed": 48,
+    "claims_extracted": 1,
+    "contradictions_found": 0,
+    "research_gaps_identified": 20
+  },
+  "topic_map": {
+    "main_topic": "graph star coloring of biswapped networks",
+    "subtopics": [],
+    "methods": [
+      "Network Analysis",
+      "Graph Theory"
+    ],
+    "keywords": [
+      "biswapped",
+      "node classification",
+      "networks",
+      "graph",
+      "graph attention",
+      "link prediction",
+      "star",
+      "message passing",
+      "graph pooling",
+      "coloring",
+      "graph convolution"
+    ],
+    "datasets": [
+      "Reddit",
+      "PubMed",
+      "OGB",
+      "CiteSeer",
+      "Cora"
+    ]
+  },
+  "papers": [
+    {
+      "title": "Graph Coloring \u2013 Parallelization Strategies for Graph Neural Networks",
+      "authors": [
+        "Renuka Lakshmi A",
+        "Vani M"
+      ],
+      "year": 2025,
+      "venue": "International Journal of All Research Education and Scientific Methods",
+      "relevance_score": 0.6,
+      "abstract": "<jats:p>Graph Neural Networks (GNNs) encounter significant scalability challenges on large graphs due to the sequential nature of message passing and the associated synchronization overhead. This work introduces a graph coloring\u2013based scheduling framework that enables conflict-free parallelization o...",
+      "doi": "10.56025/ijaresm.2025.130725917",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.56025/ijaresm.2025.130725917"
+    },
+    {
+      "title": "Application of Graph Theory and Variants of Greedy Graph Coloring Algorithms for Optimization of Distributed Peer-to-Peer Blockchain Networks",
+      "authors": [
+        "Miljenko \u0160varcmajer",
+        "Denis Ivanovi\u0107",
+        "Tomislav Rudec",
+        "Ivica Luki\u0107"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.51,
+      "abstract": "<jats:p>This paper investigates the application of graph theory and variants of greedy graph coloring algorithms for the optimization of distributed peer-to-peer networks, with a special focus on private blockchain networks. The graph coloring problem, as an NP-hard problem, presents a challenge in ...",
+      "doi": "10.20944/preprints202411.2383.v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.20944/preprints202411.2383.v1"
+    },
+    {
+      "title": "Graph coloring predicts the dynamics of neuronal networks",
+      "authors": [
+        "Bazhenov Maxim"
+      ],
+      "year": 2009,
+      "venue": "Frontiers in Systems Neuroscience",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.3389/conf.neuro.06.2009.03.097",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3389/conf.neuro.06.2009.03.097"
+    },
+    {
+      "title": "On Star Coloring of Graphs",
+      "authors": [
+        "Guillaume Fertin",
+        "Andr\u00e9 Raspaud",
+        "Bruce Reed"
+      ],
+      "year": 2001,
+      "venue": "Lecture Notes in Computer Science",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1007/3-540-45477-2_14",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/3-540-45477-2_14"
+    },
+    {
+      "title": "Star coloring of graphs",
+      "authors": [
+        "Guillaume Fertin",
+        "Andr\u00e9 Raspaud",
+        "Bruce Reed"
+      ],
+      "year": 2004,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.45,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>A <jats:italic>star coloring</jats:italic> of an undirected graph <jats:italic>G</jats:italic> is a proper vertex coloring of <jats:italic>G</jats:italic> (i.e., no two neighbors are assigned the same color) such that any path of length 3 in <jats:italic>G</j...",
+      "doi": "10.1002/jgt.20029",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/jgt.20029"
+    },
+    {
+      "title": "Star coloring planar graphs from small lists",
+      "authors": [
+        "Andr\u00e9 K\u00fcndgen",
+        "Craig Timmons"
+      ],
+      "year": 2010,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.45,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>A <jats:italic>star coloring</jats:italic> of a graph is a proper vertex\u2010coloring such that no path on four vertices is 2\u2010colored. We prove that the vertices of every planar graph of girth 6 (respectively 7, 8) can be star colored from lists of size 8 (respec...",
+      "doi": "10.1002/jgt.20431",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/jgt.20431"
+    },
+    {
+      "title": "6\u2010Star\u2010Coloring of Subcubic Graphs",
+      "authors": [
+        "Min Chen",
+        "Andr\u00e9 Raspaud",
+        "Weifan Wang"
+      ],
+      "year": 2013,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.45,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>A star coloring of an undirected graph<jats:italic>G</jats:italic>is a proper vertex coloring of<jats:italic>G</jats:italic>(i.e., no two adjacent vertices are assigned the same color) such that no path on four vertices is 2\u2010colored. The star chromatic number...",
+      "doi": "10.1002/jgt.21636",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/jgt.21636"
+    },
+    {
+      "title": "Star coloring bipartite planar graphs",
+      "authors": [
+        "H. A. Kierstead",
+        "Andr\u00e9 K\u00fcndgen",
+        "Craig Timmons"
+      ],
+      "year": 2009,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.45,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>A <jats:italic>star coloring</jats:italic> of a graph is a proper vertex\u2010coloring such that no path on four vertices is 2\u2010colored. We prove that the vertices of every bipartite planar graph can be star colored from lists of size 14, and we give an example of ...",
+      "doi": "10.1002/jgt.20342",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/jgt.20342"
+    },
+    {
+      "title": "Star coloring of sparse graphs",
+      "authors": [
+        "Yuehua Bu",
+        "Daniel W. Cranston",
+        "Micka\u00ebl Montassier",
+        "Andr\u00e9 Raspaud",
+        "Weifan Wang"
+      ],
+      "year": 2009,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.45,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>A proper coloring of the vertices of a graph is called a <jats:italic>star coloring</jats:italic> if the union of every two color classes induces a star forest. The star chromatic number \u03c7<jats:sub><jats:italic>s</jats:italic></jats:sub>(<jats:italic>G</jats:...",
+      "doi": "10.1002/jgt.20392",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/jgt.20392"
+    },
+    {
+      "title": "Acyclic graph coloring and the complexity of the star chromatic number",
+      "authors": [
+        "David R. Guichard"
+      ],
+      "year": 1993,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.4,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Star chromatic number, introduced by A. Vince, is a natural generalization of chromatic number. We consider the question, \u201cWhen is \u03c7* &lt; \u03c7?\u201d We show that \u03c7* &lt; \u03c7 if and only if a particular digraph is acyclic and that the decisioin problem associated with...",
+      "doi": "10.1002/jgt.3190170202",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/jgt.3190170202"
+    },
+    {
+      "title": "A note on achromatic coloring of star graph families",
+      "authors": [
+        "Vivin Vernold",
+        "M. Venkatachalam",
+        "Ali Akbar"
+      ],
+      "year": 2009,
+      "venue": "Filomat",
+      "relevance_score": 0.4,
+      "abstract": "<jats:p>In this paper, we find the achromatic number of central graph, middle graph and total graph of star graph, denoted by C(K1,n), M(K1,n) and T(K1,n) respectively.</jats:p>",
+      "doi": "10.2298/fil0903251v",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2298/fil0903251v"
+    },
+    {
+      "title": "Graph Neural Networks as Ordering Heuristics for Parallel Graph Coloring",
+      "authors": [
+        "Kenneth Langedal",
+        "Fredrik Manne"
+      ],
+      "year": 2025,
+      "venue": "2025 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX)",
+      "relevance_score": 0.4,
+      "abstract": "",
+      "doi": "10.1137/1.9781611978339.5",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1137/1.9781611978339.5"
+    },
+    {
+      "title": "Experiments with parallel graph coloring\n                    heuristics and applications of graph\n                    coloring",
+      "authors": [
+        "Gary Lewandowski",
+        "Anne Condon"
+      ],
+      "year": 1996,
+      "venue": "DIMACS Series in Discrete Mathematics and\n                        Theoretical Computer Science",
+      "relevance_score": 0.4,
+      "abstract": "",
+      "doi": "10.1090/dimacs/026/15",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1090/dimacs/026/15"
+    },
+    {
+      "title": "Graph coloring algorithms for TDMA scheduling in wireless sensor networks",
+      "authors": [
+        "Tiegeng Ren"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36000000000000004,
+      "abstract": "",
+      "doi": "10.23860/diss-2213",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.23860/diss-2213"
+    },
+    {
+      "title": "Spatiotemporal Graph Coloring for Frequency Assignment in Spectrum-constrained Ground-Air-Sea Networks",
+      "authors": [
+        "Anastasios Giannopoulos",
+        "Sotirios Spantideas",
+        "Panagiotis Trakadas"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.36000000000000004,
+      "abstract": "",
+      "doi": "10.36227/techrxiv.174904902.24050565/v1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.36227/techrxiv.174904902.24050565/v1"
+    },
+    {
+      "title": "Star Coloring of Book Graph and Ladder Graph",
+      "authors": [
+        "Kowsalya V",
+        "Sabitha R"
+      ],
+      "year": 2022,
+      "venue": "International Journal of Mathematics Trends and Technology",
+      "relevance_score": 0.34,
+      "abstract": "",
+      "doi": "10.14445/22315373/ijmtt-v68i4p516",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.14445/22315373/ijmtt-v68i4p516"
+    },
+    {
+      "title": "Exploring the Tabu Search Algorithm as a Graph Coloring Technique for Wavelength Assignment in Optical Networks",
+      "authors": [
+        "In\u00eas Gomes",
+        "Lu\u00eds Cancela",
+        "Jo\u00e3o Rebola"
+      ],
+      "year": 2022,
+      "venue": "Proceedings of the 10th International Conference on Photonics, Optics and Laser Technology",
+      "relevance_score": 0.34,
+      "abstract": "",
+      "doi": "10.5220/0010910000003121",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5220/0010910000003121"
+    },
+    {
+      "title": "Graph coloring with physics-inspired graph neural networks",
+      "authors": [
+        "Martin J. A. Schuetz",
+        "J. Kyle Brubaker",
+        "Zhihuai Zhu",
+        "Helmut G. Katzgraber"
+      ],
+      "year": 2022,
+      "venue": "Physical Review Research",
+      "relevance_score": 0.34,
+      "abstract": "",
+      "doi": "10.1103/physrevresearch.4.043131",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1103/physrevresearch.4.043131"
+    },
+    {
+      "title": "Graph Coloring Heuristics for Optical Networks Planning",
+      "authors": [
+        "Ines Duarte",
+        "Luis Cancela",
+        "Joao Rebola"
+      ],
+      "year": 2021,
+      "venue": "2021 Telecoms Conference (ConfTELE)",
+      "relevance_score": 0.32000000000000006,
+      "abstract": "",
+      "doi": "10.1109/conftele50222.2021.9435591",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/conftele50222.2021.9435591"
+    },
+    {
+      "title": "Star Edge Coloring of Some Classes of Graphs",
+      "authors": [
+        "\u013dudmila Bezegov\u00e1",
+        "Borut Lu\u017ear",
+        "Martina Mockov\u010diakov\u00e1",
+        "Roman Sot\u00e1k",
+        "Riste \u0160krekovski"
+      ],
+      "year": 2016,
+      "venue": "Journal of Graph Theory",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.1002/jgt.21862",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/jgt.21862"
+    },
+    {
+      "title": "Dominator Coloring on Star and Double Star Graph Families",
+      "authors": [
+        "K. Kavitha",
+        "N.G. David"
+      ],
+      "year": 2012,
+      "venue": "International Journal of Computer Applications",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.5120/7328-0185",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5120/7328-0185"
+    },
+    {
+      "title": "Star coloring of subcubic graphs",
+      "authors": [
+        "T. Karthick",
+        "C.R. Subramanian"
+      ],
+      "year": 2013,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.7151/dmgt.1672",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.1672"
+    },
+    {
+      "title": "Star coloring outerplanar bipartite graphs",
+      "authors": [
+        "Radhika Ramamurthi",
+        "Gina Sanders"
+      ],
+      "year": 2019,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.7151/dmgt.2109",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.2109"
+    },
+    {
+      "title": "List star edge-coloring of subcubic graphs",
+      "authors": [
+        "Samia Kerdjoudj",
+        "Alexander V. Kostochka",
+        "Andr\u00e9 Raspaud"
+      ],
+      "year": 2018,
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.7151/dmgt.2037",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7151/dmgt.2037"
+    },
+    {
+      "title": "Star-in-Coloring of Some Star Graph Families",
+      "authors": [
+        "D. Vijayalakshmi",
+        "S. Priyanka"
+      ],
+      "year": 2017,
+      "venue": "Annals of Pure and Applied Mathematics",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.22457/apam.v14n3a13",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.22457/apam.v14n3a13"
+    },
+    {
+      "title": "Acyclic Coloring on Double Star Graph Families",
+      "authors": [
+        "R. Arundhadhi",
+        "R. Sattanathan"
+      ],
+      "year": 2012,
+      "venue": "International Journal of Computer Applications",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.5120/5794-8131",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5120/5794-8131"
+    },
+    {
+      "title": "Star Coloring of Certain Graph Classes",
+      "authors": [
+        "T. Karthick"
+      ],
+      "year": 2018,
+      "venue": "Graphs and Combinatorics",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.1007/s00373-017-1864-6",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/s00373-017-1864-6"
+    },
+    {
+      "title": "A Review of Interference Reduction in Wireless Networks Using Graph Coloring Methods",
+      "authors": [
+        "Maaly A. Hassan",
+        "Andrew Chickadel"
+      ],
+      "year": 2011,
+      "venue": "International Journal on Applications of Graph Theory In wireless Ad Hoc Networks And sensor Networks",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.5121/jgraphhoc.2011.3104",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5121/jgraphhoc.2011.3104"
+    },
+    {
+      "title": "Star Coloring on Double Star Graph Families",
+      "authors": [
+        "M. Venkatacha",
+        "N. Mohanapriy",
+        "J. Vernold Vivin"
+      ],
+      "year": 2011,
+      "venue": "Journal of Modern Mathematics and Statistics",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.3923/jmmstat.2011.33.36",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3923/jmmstat.2011.33.36"
+    },
+    {
+      "title": "Harmonious coloring on double star graph families",
+      "authors": [
+        "Vernold Vivin.J",
+        "Venkatachalam M.",
+        "Kaliraj K."
+      ],
+      "year": 2012,
+      "venue": "Tamkang Journal of Mathematics",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.5556/j.tkjm.43.2012.153-158",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.5556/j.tkjm.43.2012.153-158"
+    },
+    {
+      "title": "RAINBOW VERTEX COLORING  FOR CENTRAL AND TOTAL GRAPH OF STAR GRAPH",
+      "authors": [
+        "C.S. Hariram Kumar",
+        "N. Parvathi"
+      ],
+      "year": 2017,
+      "venue": "International Journal of Pure and Apllied Mathematics",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.12732/ijpam.v114i1.2",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.12732/ijpam.v114i1.2"
+    },
+    {
+      "title": "Transmission Scheduling in Packet Radio Networks using Graph Coloring Algorithm",
+      "authors": [
+        "Zbigniew Walczak"
+      ],
+      "year": 2006,
+      "venue": "2006 International Conference on Wireless and Mobile Communications",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.1109/iccgi.2006.91",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/iccgi.2006.91"
+    },
+    {
+      "title": "Graph coloring using neural networks",
+      "authors": [
+        "W.J.M. Philipsen",
+        "L. Stok"
+      ],
+      "year": 1991,
+      "venue": "1991 IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.1109/iscas.1991.176684",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/iscas.1991.176684"
+    },
+    {
+      "title": "Star edge coloring of corona product of path and wheel graph families",
+      "authors": [
+        "K. Kaliraj",
+        "R. Sivakami",
+        "Vivin J. Vernold"
+      ],
+      "year": 2018,
+      "venue": "Proyecciones (Antofagasta)",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.4067/s0716-09172018000400593",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.4067/s0716-09172018000400593"
+    },
+    {
+      "title": "Efficient and Robust Graph Coloring Algorithm for Graph Coloring Problem: Malatya Vertex Coloring Algorithm",
+      "authors": [
+        "Selman Yakut"
+      ],
+      "year": 2025,
+      "venue": "IEEE Access",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.1109/access.2025.3614296",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/access.2025.3614296"
+    },
+    {
+      "title": "The graph coloring problem &amp;#x2014; Review of algorithms &amp;amp; neural networks and a new proposal",
+      "authors": [
+        "Mohd. Samar Ansari"
+      ],
+      "year": 2013,
+      "venue": "IMPACT-2013",
+      "relevance_score": 0.30000000000000004,
+      "abstract": "",
+      "doi": "10.1109/mspct.2013.6782143",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/mspct.2013.6782143"
+    },
+    {
+      "title": "A decomposition approach to solve the selective graph coloring problem in some perfect graph families",
+      "authors": [
+        "Oylum \u015eeker",
+        "T\u0131naz Ekim",
+        "Z. Caner Ta\u015fk\u0131n"
+      ],
+      "year": 2019,
+      "venue": "Networks",
+      "relevance_score": 0.3,
+      "abstract": "<jats:p>Graph coloring is the problem of assigning a minimum number of colors to all vertices of a graph such that no two adjacent vertices receive the same color. The selective graph coloring problem is a generalization of the standard graph coloring problem; given a graph with a partition of its v...",
+      "doi": "10.1002/net.21850",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/net.21850"
+    },
+    {
+      "title": "Coloring Graphs",
+      "authors": [
+        "Arthur Benjamin",
+        "Gary Chartrand",
+        "Ping Zhang"
+      ],
+      "year": 2017,
+      "venue": "The Fascinating World of Graph Theory",
+      "relevance_score": 0.3,
+      "abstract": "<p>This chapter considers the concept of coloring the vertices of a graph by focusing on the Four Color Problem. It begins with a discussion of three mathematics problems that involve conjecture, attributed to Pierre Fermat, Leonhard Euler, and Christian Goldbach. It then examines one of the most fa...",
+      "doi": "10.23943/princeton/9780691175638.003.0011",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.23943/princeton/9780691175638.003.0011"
+    },
+    {
+      "title": "Graph Coloring, GC",
+      "authors": [],
+      "year": 2023,
+      "venue": "SpringerReference",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.1007/springerreference_72331",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/springerreference_72331"
+    },
+    {
+      "title": "Graph coloring and flows",
+      "authors": [
+        "Xiaofeng Wang"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.33915/etd.2871",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.33915/etd.2871"
+    },
+    {
+      "title": "Coloring problems in graph theory",
+      "authors": [
+        "Kevin Moss"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.26,
+      "abstract": "",
+      "doi": "10.31274/etd-180810-5276",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.31274/etd-180810-5276"
+    },
+    {
+      "title": "Graph Coloring",
+      "authors": [],
+      "year": 2008,
+      "venue": "Graph Theory and Interconnection Networks",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1201/9781420044829.ch8",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1201/9781420044829.ch8"
+    },
+    {
+      "title": "Introduction to Graph Coloring",
+      "authors": [],
+      "year": 1994,
+      "venue": "Graph Coloring Problems",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1002/9781118032497.ch1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1002/9781118032497.ch1"
+    },
+    {
+      "title": "The Star and Biclique Coloring and Choosability Problems",
+      "authors": [
+        "Marina Groshaus",
+        "Francisco J. Soulignac",
+        "Pablo Terlisky"
+      ],
+      "year": 2014,
+      "venue": "Journal of Graph Algorithms and Applications",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.7155/jgaa.00326",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7155/jgaa.00326"
+    },
+    {
+      "title": "Comments on \"The 1993 DIMACS graph coloring Challenge\" and \"Energy function-based approaches to graph Coloring\"",
+      "authors": [
+        "Jing Liu",
+        "Weicai Zhong",
+        "Licheng Jiao"
+      ],
+      "year": 2006,
+      "venue": "IEEE Transactions on Neural Networks",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.1109/tnn.2005.860887",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1109/tnn.2005.860887"
+    },
+    {
+      "title": "Topological Properties of Biswapped Networks(BSNs): Node Symmetry and Maximal Fault Tolerance",
+      "authors": [
+        "Wei-Dong CHEN",
+        "Wen-Jun XIAO"
+      ],
+      "year": 2010,
+      "venue": "Chinese Journal of Computers",
+      "relevance_score": 0.2,
+      "abstract": "",
+      "doi": "10.3724/sp.j.1016.2010.00822",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3724/sp.j.1016.2010.00822"
+    },
+    {
+      "title": "Cost-coloring",
+      "authors": [
+        "Patrick Morriss"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.16000000000000003,
+      "abstract": "",
+      "doi": "10.31979/etd.5jvs-3kym",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.31979/etd.5jvs-3kym"
+    },
+    {
+      "title": "Vertex Coloring",
+      "authors": [
+        "K. Erciyes"
+      ],
+      "year": 2013,
+      "venue": "Computer Communications and Networks",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.1007/978-1-4471-5173-9_9",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1007/978-1-4471-5173-9_9"
+    }
+  ],
+  "claims": [
+    {
+      "statement": "Moreover, the upper bound 6 is best possible, based on the example constructed by Fertin, Raspaud, and Reed (J Graph Theory 47(3) (2004), 140\u2013153)",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "four vertices is 2\u2010colored",
+        "the example constructed by Fertin"
+      ]
+    }
+  ],
+  "contradictions": [],
+  "research_gaps": [
+    {
+      "description": "Insufficient evaluation of Network Analysis",
+      "type": "underrepresented_method",
+      "priority": 1.0,
+      "potential_questions": [
+        "How effective is Network Analysis compared to alternatives?",
+        "What are the computational requirements of Network Analysis?",
+        "In which scenarios does Network Analysis perform best?"
+      ]
+    },
+    {
+      "description": "Limited use of cross-validation in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper cross-validation?",
+        "What are the best practices for cross-validation in this domain?",
+        "Why is cross-validation not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of ablation study in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper ablation study?",
+        "What are the best practices for ablation study in this domain?",
+        "Why is ablation study not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of statistical significance in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper statistical significance?",
+        "What are the best practices for statistical significance in this domain?",
+        "Why is statistical significance not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of baseline comparison in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper baseline comparison?",
+        "What are the best practices for baseline comparison in this domain?",
+        "Why is baseline comparison not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of error analysis in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper error analysis?",
+        "What are the best practices for error analysis in this domain?",
+        "Why is error analysis not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of hyperparameter tuning in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper hyperparameter tuning?",
+        "What are the best practices for hyperparameter tuning in this domain?",
+        "Why is hyperparameter tuning not commonly used?"
+      ]
+    },
+    {
+      "description": "No research found using Reddit dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on Reddit?",
+        "Is Reddit suitable for current approaches?",
+        "What challenges does Reddit present?"
+      ]
+    },
+    {
+      "description": "No research found using OGB dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on OGB?",
+        "Is OGB suitable for current approaches?",
+        "What challenges does OGB present?"
+      ]
+    },
+    {
+      "description": "No research found using PubMed dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on PubMed?",
+        "Is PubMed suitable for current approaches?",
+        "What challenges does PubMed present?"
+      ]
+    },
+    {
+      "description": "No research found using CiteSeer dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on CiteSeer?",
+        "Is CiteSeer suitable for current approaches?",
+        "What challenges does CiteSeer present?"
+      ]
+    },
+    {
+      "description": "No research found using Cora dataset",
+      "type": "missing_dataset",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform on Cora?",
+        "Is Cora suitable for current approaches?",
+        "What challenges does Cora present?"
+      ]
+    },
+    {
+      "description": "Lack of real-world evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in real-world evaluation?",
+        "What are the challenges of conducting real-world evaluation?",
+        "What metrics are appropriate for real-world evaluation?"
+      ]
+    },
+    {
+      "description": "Lack of user study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in user study?",
+        "What are the challenges of conducting user study?",
+        "What metrics are appropriate for user study?"
+      ]
+    },
+    {
+      "description": "Lack of clinical trial in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in clinical trial?",
+        "What are the challenges of conducting clinical trial?",
+        "What metrics are appropriate for clinical trial?"
+      ]
+    },
+    {
+      "description": "Lack of longitudinal study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in longitudinal study?",
+        "What are the challenges of conducting longitudinal study?",
+        "What metrics are appropriate for longitudinal study?"
+      ]
+    },
+    {
+      "description": "Lack of multi-domain evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in multi-domain evaluation?",
+        "What are the challenges of conducting multi-domain evaluation?",
+        "What metrics are appropriate for multi-domain evaluation?"
+      ]
+    },
+    {
+      "description": "Limited dataset diversity in evaluation",
+      "type": "evaluation_limitation",
+      "priority": 0.6,
+      "potential_questions": [
+        "How do methods generalize across different datasets?",
+        "What are the domain-specific challenges?",
+        "Which datasets are most representative?"
+      ]
+    },
+    {
+      "description": "Insufficient evaluation of Graph Theory",
+      "type": "underrepresented_method",
+      "priority": 0.5,
+      "potential_questions": [
+        "How effective is Graph Theory compared to alternatives?",
+        "What are the computational requirements of Graph Theory?",
+        "In which scenarios does Graph Theory perform best?"
+      ]
+    },
+    {
+      "description": "Need for recent comparative studies",
+      "type": "temporal_gap",
+      "priority": 0.5,
+      "potential_questions": [
+        "How do recent methods compare to established ones?",
+        "What are the latest trends and developments?",
+        "Which recent approaches show the most promise?"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "paper_id": "10_56025_ijaresm_2025_130725917",
+      "bibtex": "@article{10_56025_ijaresm_2025_130725917,\n  title={Graph Coloring \u2013 Parallelization Strategies for Graph Neural Networks},\n  author={Renuka Lakshmi A and Vani M},\n  journal={International Journal of All Research Education and Scientific Methods},\n  year={2025},\n  doi={10.56025/ijaresm.2025.130725917},\n  url={https://doi.org/10.56025/ijaresm.2025.130725917}\n}",
+      "apa": "A, R. L. & M, V. (2025). Graph Coloring \u2013 Parallelization Strategies for Graph Neural Networks. International Journal of All Research Education and Scientific Methods.",
+      "ieee": "Renuka Lakshmi A, Vani M, \"Graph Coloring \u2013 Parallelization Strategies for Graph Neural Networks,\" International Journal of All Research Education and Scientific Methods, 2025.",
+      "mla": "A, R. L., and Vani M. \"Graph Coloring \u2013 Parallelization Strategies for Graph Neural Networks.\" International Journal of All Research Education and Scientific Methods, 2025.",
+      "custom_format": "\\bibitem{AM25} R.L. A, V. M, Graph coloring \u2013 parallelization strategies for graph neural networks, International Journal of All Research Education and Scientific Methods \\textbf{1}(1) (2025) 1--10. https://doi.org/10.56025/ijaresm.2025.130725917",
+      "paper_url": "https://doi.org/10.56025/ijaresm.2025.130725917",
+      "journal_name": "International Journal of All Research Education and Scientific Methods",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_20944_preprints202411_2383_v1",
+      "bibtex": "@article{10_20944_preprints202411_2383_v1,\n  title={Application of Graph Theory and Variants of Greedy Graph Coloring Algorithms for Optimization of Distributed Peer-to-Peer Blockchain Networks},\n  author={Miljenko \u0160varcmajer and Denis Ivanovi\u0107 and Tomislav Rudec and Ivica Luki\u0107},\n  journal={},\n  year={2023},\n  doi={10.20944/preprints202411.2383.v1},\n  url={https://doi.org/10.20944/preprints202411.2383.v1}\n}",
+      "apa": "\u0160varcmajer, M., Ivanovi\u0107, D., Rudec, T., & Luki\u0107, I. (2023). Application of Graph Theory and Variants of Greedy Graph Coloring Algorithms for Optimization of Distributed Peer-to-Peer Blockchain Networks. .",
+      "ieee": "Miljenko \u0160varcmajer et al., \"Application of Graph Theory and Variants of Greedy Graph Coloring Algorithms for Optimization of Distributed Peer-to-Peer Blockchain Networks,\" , 2023.",
+      "mla": "\u0160varcmajer, M., et al.. \"Application of Graph Theory and Variants of Greedy Graph Coloring Algorithms for Optimization of Distributed Peer-to-Peer Blockchain Networks.\" , 2023.",
+      "custom_format": "\\bibitem{\u0160vIvRu23} M. \u0160varcmajer, D. Ivanovi\u0107, T. Rudec, I. Luki\u0107, Application of graph theory and variants of greedy graph coloring algorithms for optimization of distributed peer-to-peer blockchain networks,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.20944/preprints202411.2383.v1",
+      "paper_url": "https://doi.org/10.20944/preprints202411.2383.v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_3389_conf_neuro_06_2009_03_097",
+      "bibtex": "@article{10_3389_conf_neuro_06_2009_03_097,\n  title={Graph coloring predicts the dynamics of neuronal networks},\n  author={Bazhenov Maxim},\n  journal={Frontiers in Systems Neuroscience},\n  year={2009},\n  doi={10.3389/conf.neuro.06.2009.03.097},\n  url={https://doi.org/10.3389/conf.neuro.06.2009.03.097}\n}",
+      "apa": "Maxim, B. (2009). Graph coloring predicts the dynamics of neuronal networks. Frontiers in Systems Neuroscience.",
+      "ieee": "Bazhenov Maxim, \"Graph coloring predicts the dynamics of neuronal networks,\" Frontiers in Systems Neuroscience, 2009.",
+      "mla": "Maxim, B.. \"Graph coloring predicts the dynamics of neuronal networks.\" Frontiers in Systems Neuroscience, 2009.",
+      "custom_format": "\\bibitem{Ma09} B. Maxim, Graph coloring predicts the dynamics of neuronal networks, Frontiers in Systems Neuroscience \\textbf{1}(1) (2009) 1--10. https://doi.org/10.3389/conf.neuro.06.2009.03.097",
+      "paper_url": "https://doi.org/10.3389/conf.neuro.06.2009.03.097",
+      "journal_name": "Frontiers in Systems Neuroscience",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_1007_3_540_45477_2_14",
+      "bibtex": "@article{10_1007_3_540_45477_2_14,\n  title={On Star Coloring of Graphs},\n  author={Guillaume Fertin and Andr\u00e9 Raspaud and Bruce Reed},\n  journal={Lecture Notes in Computer Science},\n  year={2001},\n  doi={10.1007/3-540-45477-2_14},\n  url={https://doi.org/10.1007/3-540-45477-2_14}\n}",
+      "apa": "Fertin, G., Raspaud, A., & Reed, B. (2001). On Star Coloring of Graphs. Lecture Notes in Computer Science.",
+      "ieee": "Guillaume Fertin, Andr\u00e9 Raspaud, Bruce Reed, \"On Star Coloring of Graphs,\" Lecture Notes in Computer Science, 2001.",
+      "mla": "Fertin, G., et al.. \"On Star Coloring of Graphs.\" Lecture Notes in Computer Science, 2001.",
+      "custom_format": "\\bibitem{FeRaRe01} G. Fertin, A. Raspaud, B. Reed, On star coloring of graphs, Lecture Notes in Computer Science \\textbf{1}(1) (2001) 1--10. https://doi.org/10.1007/3-540-45477-2_14",
+      "paper_url": "https://doi.org/10.1007/3-540-45477-2_14",
+      "journal_name": "Lecture Notes in Computer Science",
+      "year": 2001
+    },
+    {
+      "paper_id": "10_1002_jgt_20029",
+      "bibtex": "@article{10_1002_jgt_20029,\n  title={Star coloring of graphs},\n  author={Guillaume Fertin and Andr\u00e9 Raspaud and Bruce Reed},\n  journal={Journal of Graph Theory},\n  year={2004},\n  doi={10.1002/jgt.20029},\n  url={https://doi.org/10.1002/jgt.20029}\n}",
+      "apa": "Fertin, G., Raspaud, A., & Reed, B. (2004). Star coloring of graphs. Journal of Graph Theory.",
+      "ieee": "Guillaume Fertin, Andr\u00e9 Raspaud, Bruce Reed, \"Star coloring of graphs,\" Journal of Graph Theory, 2004.",
+      "mla": "Fertin, G., et al.. \"Star coloring of graphs.\" Journal of Graph Theory, 2004.",
+      "custom_format": "\\bibitem{FeRaRe04} G. Fertin, A. Raspaud, B. Reed, Star coloring of graphs, Journal of Graph Theory \\textbf{1}(1) (2004) 1--10. https://doi.org/10.1002/jgt.20029",
+      "paper_url": "https://doi.org/10.1002/jgt.20029",
+      "journal_name": "Journal of Graph Theory",
+      "year": 2004
+    },
+    {
+      "paper_id": "10_1002_jgt_20431",
+      "bibtex": "@article{10_1002_jgt_20431,\n  title={Star coloring planar graphs from small lists},\n  author={Andr\u00e9 K\u00fcndgen and Craig Timmons},\n  journal={Journal of Graph Theory},\n  year={2010},\n  doi={10.1002/jgt.20431},\n  url={https://doi.org/10.1002/jgt.20431}\n}",
+      "apa": "K\u00fcndgen, A. & Timmons, C. (2010). Star coloring planar graphs from small lists. Journal of Graph Theory.",
+      "ieee": "Andr\u00e9 K\u00fcndgen, Craig Timmons, \"Star coloring planar graphs from small lists,\" Journal of Graph Theory, 2010.",
+      "mla": "K\u00fcndgen, A., and Craig Timmons. \"Star coloring planar graphs from small lists.\" Journal of Graph Theory, 2010.",
+      "custom_format": "\\bibitem{K\u00fcTi10} A. K\u00fcndgen, C. Timmons, Star coloring planar graphs from small lists, Journal of Graph Theory \\textbf{1}(1) (2010) 1--10. https://doi.org/10.1002/jgt.20431",
+      "paper_url": "https://doi.org/10.1002/jgt.20431",
+      "journal_name": "Journal of Graph Theory",
+      "year": 2010
+    },
+    {
+      "paper_id": "10_1002_jgt_21636",
+      "bibtex": "@article{10_1002_jgt_21636,\n  title={6\u2010Star\u2010Coloring of Subcubic Graphs},\n  author={Min Chen and Andr\u00e9 Raspaud and Weifan Wang},\n  journal={Journal of Graph Theory},\n  year={2013},\n  doi={10.1002/jgt.21636},\n  url={https://doi.org/10.1002/jgt.21636}\n}",
+      "apa": "Chen, M., Raspaud, A., & Wang, W. (2013). 6\u2010Star\u2010Coloring of Subcubic Graphs. Journal of Graph Theory.",
+      "ieee": "Min Chen, Andr\u00e9 Raspaud, Weifan Wang, \"6\u2010Star\u2010Coloring of Subcubic Graphs,\" Journal of Graph Theory, 2013.",
+      "mla": "Chen, M., et al.. \"6\u2010Star\u2010Coloring of Subcubic Graphs.\" Journal of Graph Theory, 2013.",
+      "custom_format": "\\bibitem{ChRaWa13} M. Chen, A. Raspaud, W. Wang, 6\u2010star\u2010coloring of subcubic graphs, Journal of Graph Theory \\textbf{1}(1) (2013) 1--10. https://doi.org/10.1002/jgt.21636",
+      "paper_url": "https://doi.org/10.1002/jgt.21636",
+      "journal_name": "Journal of Graph Theory",
+      "year": 2013
+    },
+    {
+      "paper_id": "10_1002_jgt_20342",
+      "bibtex": "@article{10_1002_jgt_20342,\n  title={Star coloring bipartite planar graphs},\n  author={H. A. Kierstead and Andr\u00e9 K\u00fcndgen and Craig Timmons},\n  journal={Journal of Graph Theory},\n  year={2009},\n  doi={10.1002/jgt.20342},\n  url={https://doi.org/10.1002/jgt.20342}\n}",
+      "apa": "Kierstead, H. A., K\u00fcndgen, A., & Timmons, C. (2009). Star coloring bipartite planar graphs. Journal of Graph Theory.",
+      "ieee": "H. A. Kierstead, Andr\u00e9 K\u00fcndgen, Craig Timmons, \"Star coloring bipartite planar graphs,\" Journal of Graph Theory, 2009.",
+      "mla": "Kierstead, H. A., et al.. \"Star coloring bipartite planar graphs.\" Journal of Graph Theory, 2009.",
+      "custom_format": "\\bibitem{KiK\u00fcTi09} H.A. Kierstead, A. K\u00fcndgen, C. Timmons, Star coloring bipartite planar graphs, Journal of Graph Theory \\textbf{1}(1) (2009) 1--10. https://doi.org/10.1002/jgt.20342",
+      "paper_url": "https://doi.org/10.1002/jgt.20342",
+      "journal_name": "Journal of Graph Theory",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_1002_jgt_20392",
+      "bibtex": "@article{10_1002_jgt_20392,\n  title={Star coloring of sparse graphs},\n  author={Yuehua Bu and Daniel W. Cranston and Micka\u00ebl Montassier and Andr\u00e9 Raspaud and Weifan Wang},\n  journal={Journal of Graph Theory},\n  year={2009},\n  doi={10.1002/jgt.20392},\n  url={https://doi.org/10.1002/jgt.20392}\n}",
+      "apa": "Bu, Y., Cranston, D. W., Montassier, M., Raspaud, A., & Wang, W. (2009). Star coloring of sparse graphs. Journal of Graph Theory.",
+      "ieee": "Yuehua Bu et al., \"Star coloring of sparse graphs,\" Journal of Graph Theory, 2009.",
+      "mla": "Bu, Y., et al.. \"Star coloring of sparse graphs.\" Journal of Graph Theory, 2009.",
+      "custom_format": "\\bibitem{BuCrMo09} Y. Bu, D.W. Cranston, M. Montassier, A. Raspaud, W. Wang, Star coloring of sparse graphs, Journal of Graph Theory \\textbf{1}(1) (2009) 1--10. https://doi.org/10.1002/jgt.20392",
+      "paper_url": "https://doi.org/10.1002/jgt.20392",
+      "journal_name": "Journal of Graph Theory",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_1002_jgt_3190170202",
+      "bibtex": "@article{10_1002_jgt_3190170202,\n  title={Acyclic graph coloring and the complexity of the star chromatic number},\n  author={David R. Guichard},\n  journal={Journal of Graph Theory},\n  year={1993},\n  doi={10.1002/jgt.3190170202},\n  url={https://doi.org/10.1002/jgt.3190170202}\n}",
+      "apa": "Guichard, D. R. (1993). Acyclic graph coloring and the complexity of the star chromatic number. Journal of Graph Theory.",
+      "ieee": "David R. Guichard, \"Acyclic graph coloring and the complexity of the star chromatic number,\" Journal of Graph Theory, 1993.",
+      "mla": "Guichard, D. R.. \"Acyclic graph coloring and the complexity of the star chromatic number.\" Journal of Graph Theory, 1993.",
+      "custom_format": "\\bibitem{Gu93} D.R. Guichard, Acyclic graph coloring and the complexity of the star chromatic number, Journal of Graph Theory \\textbf{1}(1) (1993) 1--10. https://doi.org/10.1002/jgt.3190170202",
+      "paper_url": "https://doi.org/10.1002/jgt.3190170202",
+      "journal_name": "Journal of Graph Theory",
+      "year": 1993
+    },
+    {
+      "paper_id": "10_2298_fil0903251v",
+      "bibtex": "@article{10_2298_fil0903251v,\n  title={A note on achromatic coloring of star graph families},\n  author={Vivin Vernold and M. Venkatachalam and Ali Akbar},\n  journal={Filomat},\n  year={2009},\n  doi={10.2298/fil0903251v},\n  url={https://doi.org/10.2298/fil0903251v}\n}",
+      "apa": "Vernold, V., Venkatachalam, M., & Akbar, A. (2009). A note on achromatic coloring of star graph families. Filomat.",
+      "ieee": "Vivin Vernold, M. Venkatachalam, Ali Akbar, \"A note on achromatic coloring of star graph families,\" Filomat, 2009.",
+      "mla": "Vernold, V., et al.. \"A note on achromatic coloring of star graph families.\" Filomat, 2009.",
+      "custom_format": "\\bibitem{VeVeAk09} V. Vernold, M. Venkatachalam, A. Akbar, A note on achromatic coloring of star graph families, Filomat \\textbf{1}(1) (2009) 1--10. https://doi.org/10.2298/fil0903251v",
+      "paper_url": "https://doi.org/10.2298/fil0903251v",
+      "journal_name": "Filomat",
+      "year": 2009
+    },
+    {
+      "paper_id": "10_1137_1_9781611978339_5",
+      "bibtex": "@inproceedings{10_1137_1_9781611978339_5,\n  title={Graph Neural Networks as Ordering Heuristics for Parallel Graph Coloring},\n  author={Kenneth Langedal and Fredrik Manne},\n  booktitle={2025 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX)},\n  year={2025},\n  doi={10.1137/1.9781611978339.5},\n  url={https://doi.org/10.1137/1.9781611978339.5}\n}",
+      "apa": "Langedal, K. & Manne, F. (2025). Graph Neural Networks as Ordering Heuristics for Parallel Graph Coloring. In 2025 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX).",
+      "ieee": "Kenneth Langedal, Fredrik Manne, \"Graph Neural Networks as Ordering Heuristics for Parallel Graph Coloring,\" in 2025 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX), 2025.",
+      "mla": "Langedal, K., and Fredrik Manne. \"Graph Neural Networks as Ordering Heuristics for Parallel Graph Coloring.\" 2025 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX), 2025.",
+      "custom_format": "\\bibitem{LaMa25} K. Langedal, F. Manne, Graph neural networks as ordering heuristics for parallel graph coloring, 2025 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX) \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1137/1.9781611978339.5",
+      "paper_url": "https://doi.org/10.1137/1.9781611978339.5",
+      "journal_name": "2025 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX)",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1090_dimacs_026_15",
+      "bibtex": "@article{10_1090_dimacs_026_15,\n  title={Experiments with parallel graph coloring\n                    heuristics and applications of graph\n                    coloring},\n  author={Gary Lewandowski and Anne Condon},\n  journal={DIMACS Series in Discrete Mathematics and\n                        Theoretical Computer Science},\n  year={1996},\n  doi={10.1090/dimacs/026/15},\n  url={https://doi.org/10.1090/dimacs/026/15}\n}",
+      "apa": "Lewandowski, G. & Condon, A. (1996). Experiments with parallel graph coloring\n                    heuristics and applications of graph\n                    coloring. DIMACS Series in Discrete Mathematics and\n                        Theoretical Computer Science.",
+      "ieee": "Gary Lewandowski, Anne Condon, \"Experiments with parallel graph coloring\n                    heuristics and applications of graph\n                    coloring,\" DIMACS Series in Discrete Mathematics and\n                        Theoretical Computer Science, 1996.",
+      "mla": "Lewandowski, G., and Anne Condon. \"Experiments with parallel graph coloring\n                    heuristics and applications of graph\n                    coloring.\" DIMACS Series in Discrete Mathematics and\n                        Theoretical Computer Science, 1996.",
+      "custom_format": "\\bibitem{LeCo96} G. Lewandowski, A. Condon, Experiments with parallel graph coloring\n                    heuristics and applications of graph\n                    coloring, DIMACS Series in Discrete Mathematics and\n                        Theoretical Computer Science \\textbf{1}(1) (1996) 1--10. https://doi.org/10.1090/dimacs/026/15",
+      "paper_url": "https://doi.org/10.1090/dimacs/026/15",
+      "journal_name": "DIMACS Series in Discrete Mathematics and\n                        Theoretical Computer Science",
+      "year": 1996
+    },
+    {
+      "paper_id": "10_23860_diss_2213",
+      "bibtex": "@article{10_23860_diss_2213,\n  title={Graph coloring algorithms for TDMA scheduling in wireless sensor networks},\n  author={Tiegeng Ren},\n  journal={},\n  year={2023},\n  doi={10.23860/diss-2213},\n  url={https://doi.org/10.23860/diss-2213}\n}",
+      "apa": "Ren, T. (2023). Graph coloring algorithms for TDMA scheduling in wireless sensor networks. .",
+      "ieee": "Tiegeng Ren, \"Graph coloring algorithms for TDMA scheduling in wireless sensor networks,\" , 2023.",
+      "mla": "Ren, T.. \"Graph coloring algorithms for TDMA scheduling in wireless sensor networks.\" , 2023.",
+      "custom_format": "\\bibitem{Re23} T. Ren, Graph coloring algorithms for tdma scheduling in wireless sensor networks,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.23860/diss-2213",
+      "paper_url": "https://doi.org/10.23860/diss-2213",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_36227_techrxiv_174904902_24050565_v1",
+      "bibtex": "@article{10_36227_techrxiv_174904902_24050565_v1,\n  title={Spatiotemporal Graph Coloring for Frequency Assignment in Spectrum-constrained Ground-Air-Sea Networks},\n  author={Anastasios Giannopoulos and Sotirios Spantideas and Panagiotis Trakadas},\n  journal={},\n  year={2023},\n  doi={10.36227/techrxiv.174904902.24050565/v1},\n  url={https://doi.org/10.36227/techrxiv.174904902.24050565/v1}\n}",
+      "apa": "Giannopoulos, A., Spantideas, S., & Trakadas, P. (2023). Spatiotemporal Graph Coloring for Frequency Assignment in Spectrum-constrained Ground-Air-Sea Networks. .",
+      "ieee": "Anastasios Giannopoulos, Sotirios Spantideas, Panagiotis Trakadas, \"Spatiotemporal Graph Coloring for Frequency Assignment in Spectrum-constrained Ground-Air-Sea Networks,\" , 2023.",
+      "mla": "Giannopoulos, A., et al.. \"Spatiotemporal Graph Coloring for Frequency Assignment in Spectrum-constrained Ground-Air-Sea Networks.\" , 2023.",
+      "custom_format": "\\bibitem{GiSpTr23} A. Giannopoulos, S. Spantideas, P. Trakadas, Spatiotemporal graph coloring for frequency assignment in spectrum-constrained ground-air-sea networks,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.36227/techrxiv.174904902.24050565/v1",
+      "paper_url": "https://doi.org/10.36227/techrxiv.174904902.24050565/v1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_14445_22315373_ijmtt_v68i4p516",
+      "bibtex": "@article{10_14445_22315373_ijmtt_v68i4p516,\n  title={Star Coloring of Book Graph and Ladder Graph},\n  author={Kowsalya V and Sabitha R},\n  journal={International Journal of Mathematics Trends and Technology},\n  year={2022},\n  doi={10.14445/22315373/ijmtt-v68i4p516},\n  url={https://doi.org/10.14445/22315373/ijmtt-v68i4p516}\n}",
+      "apa": "V, K. & R, S. (2022). Star Coloring of Book Graph and Ladder Graph. International Journal of Mathematics Trends and Technology.",
+      "ieee": "Kowsalya V, Sabitha R, \"Star Coloring of Book Graph and Ladder Graph,\" International Journal of Mathematics Trends and Technology, 2022.",
+      "mla": "V, K., and Sabitha R. \"Star Coloring of Book Graph and Ladder Graph.\" International Journal of Mathematics Trends and Technology, 2022.",
+      "custom_format": "\\bibitem{VR22} K. V, S. R, Star coloring of book graph and ladder graph, International Journal of Mathematics Trends and Technology \\textbf{1}(1) (2022) 1--10. https://doi.org/10.14445/22315373/ijmtt-v68i4p516",
+      "paper_url": "https://doi.org/10.14445/22315373/ijmtt-v68i4p516",
+      "journal_name": "International Journal of Mathematics Trends and Technology",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_5220_0010910000003121",
+      "bibtex": "@inproceedings{10_5220_0010910000003121,\n  title={Exploring the Tabu Search Algorithm as a Graph Coloring Technique for Wavelength Assignment in Optical Networks},\n  author={In\u00eas Gomes and Lu\u00eds Cancela and Jo\u00e3o Rebola},\n  booktitle={Proceedings of the 10th International Conference on Photonics, Optics and Laser Technology},\n  year={2022},\n  doi={10.5220/0010910000003121},\n  url={https://doi.org/10.5220/0010910000003121}\n}",
+      "apa": "Gomes, I., Cancela, L., & Rebola, J. (2022). Exploring the Tabu Search Algorithm as a Graph Coloring Technique for Wavelength Assignment in Optical Networks. In Proceedings of the 10th International Conference on Photonics, Optics and Laser Technology.",
+      "ieee": "In\u00eas Gomes, Lu\u00eds Cancela, Jo\u00e3o Rebola, \"Exploring the Tabu Search Algorithm as a Graph Coloring Technique for Wavelength Assignment in Optical Networks,\" in Proceedings of the 10th International Conference on Photonics, Optics and Laser Technology, 2022.",
+      "mla": "Gomes, I., et al.. \"Exploring the Tabu Search Algorithm as a Graph Coloring Technique for Wavelength Assignment in Optical Networks.\" Proceedings of the 10th International Conference on Photonics, Optics and Laser Technology, 2022.",
+      "custom_format": "\\bibitem{GoCaRe22} I. Gomes, L. Cancela, J. Rebola, Exploring the tabu search algorithm as a graph coloring technique for wavelength assignment in optical networks, Proceedings of the 10th International Conference on Photonics, Optics and Laser Technology \\textbf{1}(1) (2022) 1--10. https://doi.org/10.5220/0010910000003121",
+      "paper_url": "https://doi.org/10.5220/0010910000003121",
+      "journal_name": "Proceedings of the 10th International Conference on Photonics, Optics and Laser Technology",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1103_physrevresearch_4_043131",
+      "bibtex": "@article{10_1103_physrevresearch_4_043131,\n  title={Graph coloring with physics-inspired graph neural networks},\n  author={Martin J. A. Schuetz and J. Kyle Brubaker and Zhihuai Zhu and Helmut G. Katzgraber},\n  journal={Physical Review Research},\n  year={2022},\n  doi={10.1103/physrevresearch.4.043131},\n  url={https://doi.org/10.1103/physrevresearch.4.043131}\n}",
+      "apa": "Schuetz, M. J. A., Brubaker, J. K., Zhu, Z., & Katzgraber, H. G. (2022). Graph coloring with physics-inspired graph neural networks. Physical Review Research.",
+      "ieee": "Martin J. A. Schuetz et al., \"Graph coloring with physics-inspired graph neural networks,\" Physical Review Research, 2022.",
+      "mla": "Schuetz, M. J. A., et al.. \"Graph coloring with physics-inspired graph neural networks.\" Physical Review Research, 2022.",
+      "custom_format": "\\bibitem{ScBrZh22} M.J.A. Schuetz, J.K. Brubaker, Z. Zhu, H.G. Katzgraber, Graph coloring with physics-inspired graph neural networks, Physical Review Research \\textbf{1}(1) (2022) 1--10. https://doi.org/10.1103/physrevresearch.4.043131",
+      "paper_url": "https://doi.org/10.1103/physrevresearch.4.043131",
+      "journal_name": "Physical Review Research",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_1109_conftele50222_2021_9435591",
+      "bibtex": "@inproceedings{10_1109_conftele50222_2021_9435591,\n  title={Graph Coloring Heuristics for Optical Networks Planning},\n  author={Ines Duarte and Luis Cancela and Joao Rebola},\n  booktitle={2021 Telecoms Conference (ConfTELE)},\n  year={2021},\n  doi={10.1109/conftele50222.2021.9435591},\n  url={https://doi.org/10.1109/conftele50222.2021.9435591}\n}",
+      "apa": "Duarte, I., Cancela, L., & Rebola, J. (2021). Graph Coloring Heuristics for Optical Networks Planning. In 2021 Telecoms Conference (ConfTELE).",
+      "ieee": "Ines Duarte, Luis Cancela, Joao Rebola, \"Graph Coloring Heuristics for Optical Networks Planning,\" in 2021 Telecoms Conference (ConfTELE), 2021.",
+      "mla": "Duarte, I., et al.. \"Graph Coloring Heuristics for Optical Networks Planning.\" 2021 Telecoms Conference (ConfTELE), 2021.",
+      "custom_format": "\\bibitem{DuCaRe21} I. Duarte, L. Cancela, J. Rebola, Graph coloring heuristics for optical networks planning, 2021 Telecoms Conference (ConfTELE) \\textbf{1}(1) (2021) 1--10. https://doi.org/10.1109/conftele50222.2021.9435591",
+      "paper_url": "https://doi.org/10.1109/conftele50222.2021.9435591",
+      "journal_name": "2021 Telecoms Conference (ConfTELE)",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_1002_jgt_21862",
+      "bibtex": "@article{10_1002_jgt_21862,\n  title={Star Edge Coloring of Some Classes of Graphs},\n  author={\u013dudmila Bezegov\u00e1 and Borut Lu\u017ear and Martina Mockov\u010diakov\u00e1 and Roman Sot\u00e1k and Riste \u0160krekovski},\n  journal={Journal of Graph Theory},\n  year={2016},\n  doi={10.1002/jgt.21862},\n  url={https://doi.org/10.1002/jgt.21862}\n}",
+      "apa": "Bezegov\u00e1, \u013d., Lu\u017ear, B., Mockov\u010diakov\u00e1, M., Sot\u00e1k, R., & \u0160krekovski, R. (2016). Star Edge Coloring of Some Classes of Graphs. Journal of Graph Theory.",
+      "ieee": "\u013dudmila Bezegov\u00e1 et al., \"Star Edge Coloring of Some Classes of Graphs,\" Journal of Graph Theory, 2016.",
+      "mla": "Bezegov\u00e1, \u013d., et al.. \"Star Edge Coloring of Some Classes of Graphs.\" Journal of Graph Theory, 2016.",
+      "custom_format": "\\bibitem{BeLuMo16} \u013d. Bezegov\u00e1, B. Lu\u017ear, M. Mockov\u010diakov\u00e1, R. Sot\u00e1k, R. \u0160krekovski, Star edge coloring of some classes of graphs, Journal of Graph Theory \\textbf{1}(1) (2016) 1--10. https://doi.org/10.1002/jgt.21862",
+      "paper_url": "https://doi.org/10.1002/jgt.21862",
+      "journal_name": "Journal of Graph Theory",
+      "year": 2016
+    },
+    {
+      "paper_id": "10_5120_7328_0185",
+      "bibtex": "@article{10_5120_7328_0185,\n  title={Dominator Coloring on Star and Double Star Graph Families},\n  author={K. Kavitha and N.G. David},\n  journal={International Journal of Computer Applications},\n  year={2012},\n  doi={10.5120/7328-0185},\n  url={https://doi.org/10.5120/7328-0185}\n}",
+      "apa": "Kavitha, K. & David, N. (2012). Dominator Coloring on Star and Double Star Graph Families. International Journal of Computer Applications.",
+      "ieee": "K. Kavitha, N.G. David, \"Dominator Coloring on Star and Double Star Graph Families,\" International Journal of Computer Applications, 2012.",
+      "mla": "Kavitha, K., and N.G. David. \"Dominator Coloring on Star and Double Star Graph Families.\" International Journal of Computer Applications, 2012.",
+      "custom_format": "\\bibitem{KaDa12} K. Kavitha, N.G. David, Dominator coloring on star and double star graph families, International Journal of Computer Applications \\textbf{1}(1) (2012) 1--10. https://doi.org/10.5120/7328-0185",
+      "paper_url": "https://doi.org/10.5120/7328-0185",
+      "journal_name": "International Journal of Computer Applications",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_7151_dmgt_1672",
+      "bibtex": "@article{10_7151_dmgt_1672,\n  title={Star coloring of subcubic graphs},\n  author={T. Karthick and C.R. Subramanian},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2013},\n  doi={10.7151/dmgt.1672},\n  url={https://doi.org/10.7151/dmgt.1672}\n}",
+      "apa": "Karthick, T. & Subramanian, C. (2013). Star coloring of subcubic graphs. Discussiones Mathematicae Graph Theory.",
+      "ieee": "T. Karthick, C.R. Subramanian, \"Star coloring of subcubic graphs,\" Discussiones Mathematicae Graph Theory, 2013.",
+      "mla": "Karthick, T., and C.R. Subramanian. \"Star coloring of subcubic graphs.\" Discussiones Mathematicae Graph Theory, 2013.",
+      "custom_format": "\\bibitem{KaSu13} T. Karthick, C.R. Subramanian, Star coloring of subcubic graphs, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2013) 1--10. https://doi.org/10.7151/dmgt.1672",
+      "paper_url": "https://doi.org/10.7151/dmgt.1672",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2013
+    },
+    {
+      "paper_id": "10_7151_dmgt_2109",
+      "bibtex": "@article{10_7151_dmgt_2109,\n  title={Star coloring outerplanar bipartite graphs},\n  author={Radhika Ramamurthi and Gina Sanders},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2019},\n  doi={10.7151/dmgt.2109},\n  url={https://doi.org/10.7151/dmgt.2109}\n}",
+      "apa": "Ramamurthi, R. & Sanders, G. (2019). Star coloring outerplanar bipartite graphs. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Radhika Ramamurthi, Gina Sanders, \"Star coloring outerplanar bipartite graphs,\" Discussiones Mathematicae Graph Theory, 2019.",
+      "mla": "Ramamurthi, R., and Gina Sanders. \"Star coloring outerplanar bipartite graphs.\" Discussiones Mathematicae Graph Theory, 2019.",
+      "custom_format": "\\bibitem{RaSa19} R. Ramamurthi, G. Sanders, Star coloring outerplanar bipartite graphs, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2019) 1--10. https://doi.org/10.7151/dmgt.2109",
+      "paper_url": "https://doi.org/10.7151/dmgt.2109",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_7151_dmgt_2037",
+      "bibtex": "@article{10_7151_dmgt_2037,\n  title={List star edge-coloring of subcubic graphs},\n  author={Samia Kerdjoudj and Alexander V. Kostochka and Andr\u00e9 Raspaud},\n  journal={Discussiones Mathematicae Graph Theory},\n  year={2018},\n  doi={10.7151/dmgt.2037},\n  url={https://doi.org/10.7151/dmgt.2037}\n}",
+      "apa": "Kerdjoudj, S., Kostochka, A. V., & Raspaud, A. (2018). List star edge-coloring of subcubic graphs. Discussiones Mathematicae Graph Theory.",
+      "ieee": "Samia Kerdjoudj, Alexander V. Kostochka, Andr\u00e9 Raspaud, \"List star edge-coloring of subcubic graphs,\" Discussiones Mathematicae Graph Theory, 2018.",
+      "mla": "Kerdjoudj, S., et al.. \"List star edge-coloring of subcubic graphs.\" Discussiones Mathematicae Graph Theory, 2018.",
+      "custom_format": "\\bibitem{KeKoRa18} S. Kerdjoudj, A.V. Kostochka, A. Raspaud, List star edge-coloring of subcubic graphs, Discussiones Mathematicae Graph Theory \\textbf{1}(1) (2018) 1--10. https://doi.org/10.7151/dmgt.2037",
+      "paper_url": "https://doi.org/10.7151/dmgt.2037",
+      "journal_name": "Discussiones Mathematicae Graph Theory",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_22457_apam_v14n3a13",
+      "bibtex": "@article{10_22457_apam_v14n3a13,\n  title={Star-in-Coloring of Some Star Graph Families},\n  author={D. Vijayalakshmi and S. Priyanka},\n  journal={Annals of Pure and Applied Mathematics},\n  year={2017},\n  doi={10.22457/apam.v14n3a13},\n  url={https://doi.org/10.22457/apam.v14n3a13}\n}",
+      "apa": "Vijayalakshmi, D. & Priyanka, S. (2017). Star-in-Coloring of Some Star Graph Families. Annals of Pure and Applied Mathematics.",
+      "ieee": "D. Vijayalakshmi, S. Priyanka, \"Star-in-Coloring of Some Star Graph Families,\" Annals of Pure and Applied Mathematics, 2017.",
+      "mla": "Vijayalakshmi, D., and S. Priyanka. \"Star-in-Coloring of Some Star Graph Families.\" Annals of Pure and Applied Mathematics, 2017.",
+      "custom_format": "\\bibitem{ViPr17} D. Vijayalakshmi, S. Priyanka, Star-in-coloring of some star graph families, Annals of Pure and Applied Mathematics \\textbf{1}(1) (2017) 1--10. https://doi.org/10.22457/apam.v14n3a13",
+      "paper_url": "https://doi.org/10.22457/apam.v14n3a13",
+      "journal_name": "Annals of Pure and Applied Mathematics",
+      "year": 2017
+    },
+    {
+      "paper_id": "10_5120_5794_8131",
+      "bibtex": "@article{10_5120_5794_8131,\n  title={Acyclic Coloring on Double Star Graph Families},\n  author={R. Arundhadhi and R. Sattanathan},\n  journal={International Journal of Computer Applications},\n  year={2012},\n  doi={10.5120/5794-8131},\n  url={https://doi.org/10.5120/5794-8131}\n}",
+      "apa": "Arundhadhi, R. & Sattanathan, R. (2012). Acyclic Coloring on Double Star Graph Families. International Journal of Computer Applications.",
+      "ieee": "R. Arundhadhi, R. Sattanathan, \"Acyclic Coloring on Double Star Graph Families,\" International Journal of Computer Applications, 2012.",
+      "mla": "Arundhadhi, R., and R. Sattanathan. \"Acyclic Coloring on Double Star Graph Families.\" International Journal of Computer Applications, 2012.",
+      "custom_format": "\\bibitem{ArSa12} R. Arundhadhi, R. Sattanathan, Acyclic coloring on double star graph families, International Journal of Computer Applications \\textbf{1}(1) (2012) 1--10. https://doi.org/10.5120/5794-8131",
+      "paper_url": "https://doi.org/10.5120/5794-8131",
+      "journal_name": "International Journal of Computer Applications",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_1007_s00373_017_1864_6",
+      "bibtex": "@article{10_1007_s00373_017_1864_6,\n  title={Star Coloring of Certain Graph Classes},\n  author={T. Karthick},\n  journal={Graphs and Combinatorics},\n  year={2018},\n  doi={10.1007/s00373-017-1864-6},\n  url={https://doi.org/10.1007/s00373-017-1864-6}\n}",
+      "apa": "Karthick, T. (2018). Star Coloring of Certain Graph Classes. Graphs and Combinatorics.",
+      "ieee": "T. Karthick, \"Star Coloring of Certain Graph Classes,\" Graphs and Combinatorics, 2018.",
+      "mla": "Karthick, T.. \"Star Coloring of Certain Graph Classes.\" Graphs and Combinatorics, 2018.",
+      "custom_format": "\\bibitem{Ka18} T. Karthick, Star coloring of certain graph classes, Graphs and Combinatorics \\textbf{1}(1) (2018) 1--10. https://doi.org/10.1007/s00373-017-1864-6",
+      "paper_url": "https://doi.org/10.1007/s00373-017-1864-6",
+      "journal_name": "Graphs and Combinatorics",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_5121_jgraphhoc_2011_3104",
+      "bibtex": "@article{10_5121_jgraphhoc_2011_3104,\n  title={A Review of Interference Reduction in Wireless Networks Using Graph Coloring Methods},\n  author={Maaly A. Hassan and Andrew Chickadel},\n  journal={International Journal on Applications of Graph Theory In wireless Ad Hoc Networks And sensor Networks},\n  year={2011},\n  doi={10.5121/jgraphhoc.2011.3104},\n  url={https://doi.org/10.5121/jgraphhoc.2011.3104}\n}",
+      "apa": "Hassan, M. A. & Chickadel, A. (2011). A Review of Interference Reduction in Wireless Networks Using Graph Coloring Methods. International Journal on Applications of Graph Theory In wireless Ad Hoc Networks And sensor Networks.",
+      "ieee": "Maaly A. Hassan, Andrew Chickadel, \"A Review of Interference Reduction in Wireless Networks Using Graph Coloring Methods,\" International Journal on Applications of Graph Theory In wireless Ad Hoc Networks And sensor Networks, 2011.",
+      "mla": "Hassan, M. A., and Andrew Chickadel. \"A Review of Interference Reduction in Wireless Networks Using Graph Coloring Methods.\" International Journal on Applications of Graph Theory In wireless Ad Hoc Networks And sensor Networks, 2011.",
+      "custom_format": "\\bibitem{HaCh11} M.A. Hassan, A. Chickadel, A review of interference reduction in wireless networks using graph coloring methods, International Journal on Applications of Graph Theory In wireless Ad Hoc Networks And sensor Networks \\textbf{1}(1) (2011) 1--10. https://doi.org/10.5121/jgraphhoc.2011.3104",
+      "paper_url": "https://doi.org/10.5121/jgraphhoc.2011.3104",
+      "journal_name": "International Journal on Applications of Graph Theory In wireless Ad Hoc Networks And sensor Networks",
+      "year": 2011
+    },
+    {
+      "paper_id": "10_3923_jmmstat_2011_33_36",
+      "bibtex": "@article{10_3923_jmmstat_2011_33_36,\n  title={Star Coloring on Double Star Graph Families},\n  author={M. Venkatacha and N. Mohanapriy and J. Vernold Vivin},\n  journal={Journal of Modern Mathematics and Statistics},\n  year={2011},\n  doi={10.3923/jmmstat.2011.33.36},\n  url={https://doi.org/10.3923/jmmstat.2011.33.36}\n}",
+      "apa": "Venkatacha, M., Mohanapriy, N., & Vivin, J. V. (2011). Star Coloring on Double Star Graph Families. Journal of Modern Mathematics and Statistics.",
+      "ieee": "M. Venkatacha, N. Mohanapriy, J. Vernold Vivin, \"Star Coloring on Double Star Graph Families,\" Journal of Modern Mathematics and Statistics, 2011.",
+      "mla": "Venkatacha, M., et al.. \"Star Coloring on Double Star Graph Families.\" Journal of Modern Mathematics and Statistics, 2011.",
+      "custom_format": "\\bibitem{VeMoVi11} M. Venkatacha, N. Mohanapriy, J.V. Vivin, Star coloring on double star graph families, Journal of Modern Mathematics and Statistics \\textbf{1}(1) (2011) 1--10. https://doi.org/10.3923/jmmstat.2011.33.36",
+      "paper_url": "https://doi.org/10.3923/jmmstat.2011.33.36",
+      "journal_name": "Journal of Modern Mathematics and Statistics",
+      "year": 2011
+    },
+    {
+      "paper_id": "10_5556_j_tkjm_43_2012_153_158",
+      "bibtex": "@article{10_5556_j_tkjm_43_2012_153_158,\n  title={Harmonious coloring on double star graph families},\n  author={Vernold Vivin.J and Venkatachalam M. and Kaliraj K.},\n  journal={Tamkang Journal of Mathematics},\n  year={2012},\n  doi={10.5556/j.tkjm.43.2012.153-158},\n  url={https://doi.org/10.5556/j.tkjm.43.2012.153-158}\n}",
+      "apa": "Vivin.J, V., M., V., & K., K. (2012). Harmonious coloring on double star graph families. Tamkang Journal of Mathematics.",
+      "ieee": "Vernold Vivin.J, Venkatachalam M., Kaliraj K., \"Harmonious coloring on double star graph families,\" Tamkang Journal of Mathematics, 2012.",
+      "mla": "Vivin.J, V., et al.. \"Harmonious coloring on double star graph families.\" Tamkang Journal of Mathematics, 2012.",
+      "custom_format": "\\bibitem{ViM.K.12} V. Vivin.J, V. M., K. K., Harmonious coloring on double star graph families, Tamkang Journal of Mathematics \\textbf{1}(1) (2012) 1--10. https://doi.org/10.5556/j.tkjm.43.2012.153-158",
+      "paper_url": "https://doi.org/10.5556/j.tkjm.43.2012.153-158",
+      "journal_name": "Tamkang Journal of Mathematics",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_12732_ijpam_v114i1_2",
+      "bibtex": "@article{10_12732_ijpam_v114i1_2,\n  title={RAINBOW VERTEX COLORING  FOR CENTRAL AND TOTAL GRAPH OF STAR GRAPH},\n  author={C.S. Hariram Kumar and N. Parvathi},\n  journal={International Journal of Pure and Apllied Mathematics},\n  year={2017},\n  doi={10.12732/ijpam.v114i1.2},\n  url={https://doi.org/10.12732/ijpam.v114i1.2}\n}",
+      "apa": "Kumar, C. H. & Parvathi, N. (2017). RAINBOW VERTEX COLORING  FOR CENTRAL AND TOTAL GRAPH OF STAR GRAPH. International Journal of Pure and Apllied Mathematics.",
+      "ieee": "C.S. Hariram Kumar, N. Parvathi, \"RAINBOW VERTEX COLORING  FOR CENTRAL AND TOTAL GRAPH OF STAR GRAPH,\" International Journal of Pure and Apllied Mathematics, 2017.",
+      "mla": "Kumar, C. H., and N. Parvathi. \"RAINBOW VERTEX COLORING  FOR CENTRAL AND TOTAL GRAPH OF STAR GRAPH.\" International Journal of Pure and Apllied Mathematics, 2017.",
+      "custom_format": "\\bibitem{KuPa17} C.S.H. Kumar, N. Parvathi, Rainbow vertex coloring  for central and total graph of star graph, International Journal of Pure and Apllied Mathematics \\textbf{1}(1) (2017) 1--10. https://doi.org/10.12732/ijpam.v114i1.2",
+      "paper_url": "https://doi.org/10.12732/ijpam.v114i1.2",
+      "journal_name": "International Journal of Pure and Apllied Mathematics",
+      "year": 2017
+    },
+    {
+      "paper_id": "10_1109_iccgi_2006_91",
+      "bibtex": "@inproceedings{10_1109_iccgi_2006_91,\n  title={Transmission Scheduling in Packet Radio Networks using Graph Coloring Algorithm},\n  author={Zbigniew Walczak},\n  booktitle={2006 International Conference on Wireless and Mobile Communications},\n  year={2006},\n  doi={10.1109/iccgi.2006.91},\n  url={https://doi.org/10.1109/iccgi.2006.91}\n}",
+      "apa": "Walczak, Z. (2006). Transmission Scheduling in Packet Radio Networks using Graph Coloring Algorithm. In 2006 International Conference on Wireless and Mobile Communications.",
+      "ieee": "Zbigniew Walczak, \"Transmission Scheduling in Packet Radio Networks using Graph Coloring Algorithm,\" in 2006 International Conference on Wireless and Mobile Communications, 2006.",
+      "mla": "Walczak, Z.. \"Transmission Scheduling in Packet Radio Networks using Graph Coloring Algorithm.\" 2006 International Conference on Wireless and Mobile Communications, 2006.",
+      "custom_format": "\\bibitem{Wa06} Z. Walczak, Transmission scheduling in packet radio networks using graph coloring algorithm, 2006 International Conference on Wireless and Mobile Communications \\textbf{1}(1) (2006) 1--10. https://doi.org/10.1109/iccgi.2006.91",
+      "paper_url": "https://doi.org/10.1109/iccgi.2006.91",
+      "journal_name": "2006 International Conference on Wireless and Mobile Communications",
+      "year": 2006
+    },
+    {
+      "paper_id": "10_1109_iscas_1991_176684",
+      "bibtex": "@inproceedings{10_1109_iscas_1991_176684,\n  title={Graph coloring using neural networks},\n  author={W.J.M. Philipsen and L. Stok},\n  booktitle={1991 IEEE International Symposium on Circuits and Systems (ISCAS)},\n  year={1991},\n  doi={10.1109/iscas.1991.176684},\n  url={https://doi.org/10.1109/iscas.1991.176684}\n}",
+      "apa": "Philipsen, W. & Stok, L. (1991). Graph coloring using neural networks. In 1991 IEEE International Symposium on Circuits and Systems (ISCAS).",
+      "ieee": "W.J.M. Philipsen, L. Stok, \"Graph coloring using neural networks,\" in 1991 IEEE International Symposium on Circuits and Systems (ISCAS), 1991.",
+      "mla": "Philipsen, W., and L. Stok. \"Graph coloring using neural networks.\" 1991 IEEE International Symposium on Circuits and Systems (ISCAS), 1991.",
+      "custom_format": "\\bibitem{PhSt91} W.J.M. Philipsen, L. Stok, Graph coloring using neural networks, 1991 IEEE International Symposium on Circuits and Systems (ISCAS) \\textbf{1}(1) (1991) 1--10. https://doi.org/10.1109/iscas.1991.176684",
+      "paper_url": "https://doi.org/10.1109/iscas.1991.176684",
+      "journal_name": "1991 IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "year": 1991
+    },
+    {
+      "paper_id": "10_4067_s0716_09172018000400593",
+      "bibtex": "@article{10_4067_s0716_09172018000400593,\n  title={Star edge coloring of corona product of path and wheel graph families},\n  author={K. Kaliraj and R. Sivakami and Vivin J. Vernold},\n  journal={Proyecciones (Antofagasta)},\n  year={2018},\n  doi={10.4067/s0716-09172018000400593},\n  url={https://doi.org/10.4067/s0716-09172018000400593}\n}",
+      "apa": "Kaliraj, K., Sivakami, R., & Vernold, V. J. (2018). Star edge coloring of corona product of path and wheel graph families. Proyecciones (Antofagasta).",
+      "ieee": "K. Kaliraj, R. Sivakami, Vivin J. Vernold, \"Star edge coloring of corona product of path and wheel graph families,\" Proyecciones (Antofagasta), 2018.",
+      "mla": "Kaliraj, K., et al.. \"Star edge coloring of corona product of path and wheel graph families.\" Proyecciones (Antofagasta), 2018.",
+      "custom_format": "\\bibitem{KaSiVe18} K. Kaliraj, R. Sivakami, V.J. Vernold, Star edge coloring of corona product of path and wheel graph families, Proyecciones (Antofagasta) \\textbf{1}(1) (2018) 1--10. https://doi.org/10.4067/s0716-09172018000400593",
+      "paper_url": "https://doi.org/10.4067/s0716-09172018000400593",
+      "journal_name": "Proyecciones (Antofagasta)",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_1109_access_2025_3614296",
+      "bibtex": "@article{10_1109_access_2025_3614296,\n  title={Efficient and Robust Graph Coloring Algorithm for Graph Coloring Problem: Malatya Vertex Coloring Algorithm},\n  author={Selman Yakut},\n  journal={IEEE Access},\n  year={2025},\n  doi={10.1109/access.2025.3614296},\n  url={https://doi.org/10.1109/access.2025.3614296}\n}",
+      "apa": "Yakut, S. (2025). Efficient and Robust Graph Coloring Algorithm for Graph Coloring Problem: Malatya Vertex Coloring Algorithm. IEEE Access.",
+      "ieee": "Selman Yakut, \"Efficient and Robust Graph Coloring Algorithm for Graph Coloring Problem: Malatya Vertex Coloring Algorithm,\" IEEE Access, 2025.",
+      "mla": "Yakut, S.. \"Efficient and Robust Graph Coloring Algorithm for Graph Coloring Problem: Malatya Vertex Coloring Algorithm.\" IEEE Access, 2025.",
+      "custom_format": "\\bibitem{Ya25} S. Yakut, Efficient and robust graph coloring algorithm for graph coloring problem: malatya vertex coloring algorithm, IEEE Access \\textbf{1}(1) (2025) 1--10. https://doi.org/10.1109/access.2025.3614296",
+      "paper_url": "https://doi.org/10.1109/access.2025.3614296",
+      "journal_name": "IEEE Access",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1109_mspct_2013_6782143",
+      "bibtex": "@article{10_1109_mspct_2013_6782143,\n  title={The graph coloring problem &amp;#x2014; Review of algorithms &amp;amp; neural networks and a new proposal},\n  author={Mohd. Samar Ansari},\n  journal={IMPACT-2013},\n  year={2013},\n  doi={10.1109/mspct.2013.6782143},\n  url={https://doi.org/10.1109/mspct.2013.6782143}\n}",
+      "apa": "Ansari, M. S. (2013). The graph coloring problem &amp;#x2014; Review of algorithms &amp;amp; neural networks and a new proposal. IMPACT-2013.",
+      "ieee": "Mohd. Samar Ansari, \"The graph coloring problem &amp;#x2014; Review of algorithms &amp;amp; neural networks and a new proposal,\" IMPACT-2013, 2013.",
+      "mla": "Ansari, M. S.. \"The graph coloring problem &amp;#x2014; Review of algorithms &amp;amp; neural networks and a new proposal.\" IMPACT-2013, 2013.",
+      "custom_format": "\\bibitem{An13} Mohd.S. Ansari, The graph coloring problem &amp;#x2014; review of algorithms &amp;amp; neural networks and a new proposal, IMPACT-2013 \\textbf{1}(1) (2013) 1--10. https://doi.org/10.1109/mspct.2013.6782143",
+      "paper_url": "https://doi.org/10.1109/mspct.2013.6782143",
+      "journal_name": "IMPACT-2013",
+      "year": 2013
+    },
+    {
+      "paper_id": "10_1002_net_21850",
+      "bibtex": "@article{10_1002_net_21850,\n  title={A decomposition approach to solve the selective graph coloring problem in some perfect graph families},\n  author={Oylum \u015eeker and T\u0131naz Ekim and Z. Caner Ta\u015fk\u0131n},\n  journal={Networks},\n  year={2019},\n  doi={10.1002/net.21850},\n  url={https://doi.org/10.1002/net.21850}\n}",
+      "apa": "\u015eeker, O., Ekim, T., & Ta\u015fk\u0131n, Z. C. (2019). A decomposition approach to solve the selective graph coloring problem in some perfect graph families. Networks.",
+      "ieee": "Oylum \u015eeker, T\u0131naz Ekim, Z. Caner Ta\u015fk\u0131n, \"A decomposition approach to solve the selective graph coloring problem in some perfect graph families,\" Networks, 2019.",
+      "mla": "\u015eeker, O., et al.. \"A decomposition approach to solve the selective graph coloring problem in some perfect graph families.\" Networks, 2019.",
+      "custom_format": "\\bibitem{\u015eeEkTa19} O. \u015eeker, T. Ekim, Z.C. Ta\u015fk\u0131n, A decomposition approach to solve the selective graph coloring problem in some perfect graph families, Networks \\textbf{1}(1) (2019) 1--10. https://doi.org/10.1002/net.21850",
+      "paper_url": "https://doi.org/10.1002/net.21850",
+      "journal_name": "Networks",
+      "year": 2019
+    },
+    {
+      "paper_id": "10_23943_princeton_9780691175638_003_0011",
+      "bibtex": "@article{10_23943_princeton_9780691175638_003_0011,\n  title={Coloring Graphs},\n  author={Arthur Benjamin and Gary Chartrand and Ping Zhang},\n  journal={The Fascinating World of Graph Theory},\n  year={2017},\n  doi={10.23943/princeton/9780691175638.003.0011},\n  url={https://doi.org/10.23943/princeton/9780691175638.003.0011}\n}",
+      "apa": "Benjamin, A., Chartrand, G., & Zhang, P. (2017). Coloring Graphs. The Fascinating World of Graph Theory.",
+      "ieee": "Arthur Benjamin, Gary Chartrand, Ping Zhang, \"Coloring Graphs,\" The Fascinating World of Graph Theory, 2017.",
+      "mla": "Benjamin, A., et al.. \"Coloring Graphs.\" The Fascinating World of Graph Theory, 2017.",
+      "custom_format": "\\bibitem{BeChZh17} A. Benjamin, G. Chartrand, P. Zhang, Coloring graphs, The Fascinating World of Graph Theory \\textbf{1}(1) (2017) 1--10. https://doi.org/10.23943/princeton/9780691175638.003.0011",
+      "paper_url": "https://doi.org/10.23943/princeton/9780691175638.003.0011",
+      "journal_name": "The Fascinating World of Graph Theory",
+      "year": 2017
+    },
+    {
+      "paper_id": "10_1007_springerreference_72331",
+      "bibtex": "@article{10_1007_springerreference_72331,\n  title={Graph Coloring, GC},\n  author={},\n  journal={SpringerReference},\n  year={2023},\n  doi={10.1007/springerreference_72331},\n  url={https://doi.org/10.1007/springerreference_72331}\n}",
+      "apa": "Unknown Author (2023). Graph Coloring, GC. SpringerReference.",
+      "ieee": "Unknown Author, \"Graph Coloring, GC,\" SpringerReference, 2023.",
+      "mla": "Unknown Author. \"Graph Coloring, GC.\" SpringerReference, 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Graph coloring, gc, SpringerReference \\textbf{1}(1) (2023) 1--10. https://doi.org/10.1007/springerreference_72331",
+      "paper_url": "https://doi.org/10.1007/springerreference_72331",
+      "journal_name": "SpringerReference",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_33915_etd_2871",
+      "bibtex": "@article{10_33915_etd_2871,\n  title={Graph coloring and flows},\n  author={Xiaofeng Wang},\n  journal={},\n  year={2023},\n  doi={10.33915/etd.2871},\n  url={https://doi.org/10.33915/etd.2871}\n}",
+      "apa": "Wang, X. (2023). Graph coloring and flows. .",
+      "ieee": "Xiaofeng Wang, \"Graph coloring and flows,\" , 2023.",
+      "mla": "Wang, X.. \"Graph coloring and flows.\" , 2023.",
+      "custom_format": "\\bibitem{Wa23} X. Wang, Graph coloring and flows,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.33915/etd.2871",
+      "paper_url": "https://doi.org/10.33915/etd.2871",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_31274_etd_180810_5276",
+      "bibtex": "@article{10_31274_etd_180810_5276,\n  title={Coloring problems in graph theory},\n  author={Kevin Moss},\n  journal={},\n  year={2023},\n  doi={10.31274/etd-180810-5276},\n  url={https://doi.org/10.31274/etd-180810-5276}\n}",
+      "apa": "Moss, K. (2023). Coloring problems in graph theory. .",
+      "ieee": "Kevin Moss, \"Coloring problems in graph theory,\" , 2023.",
+      "mla": "Moss, K.. \"Coloring problems in graph theory.\" , 2023.",
+      "custom_format": "\\bibitem{Mo23} K. Moss, Coloring problems in graph theory,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.31274/etd-180810-5276",
+      "paper_url": "https://doi.org/10.31274/etd-180810-5276",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1201_9781420044829_ch8",
+      "bibtex": "@article{10_1201_9781420044829_ch8,\n  title={Graph Coloring},\n  author={},\n  journal={Graph Theory and Interconnection Networks},\n  year={2008},\n  doi={10.1201/9781420044829.ch8},\n  url={https://doi.org/10.1201/9781420044829.ch8}\n}",
+      "apa": "Unknown Author (2008). Graph Coloring. Graph Theory and Interconnection Networks.",
+      "ieee": "Unknown Author, \"Graph Coloring,\" Graph Theory and Interconnection Networks, 2008.",
+      "mla": "Unknown Author. \"Graph Coloring.\" Graph Theory and Interconnection Networks, 2008.",
+      "custom_format": "\\bibitem{Unknown08} Unknown Author, Graph coloring, Graph Theory and Interconnection Networks \\textbf{1}(1) (2008) 1--10. https://doi.org/10.1201/9781420044829.ch8",
+      "paper_url": "https://doi.org/10.1201/9781420044829.ch8",
+      "journal_name": "Graph Theory and Interconnection Networks",
+      "year": 2008
+    },
+    {
+      "paper_id": "10_1002_9781118032497_ch1",
+      "bibtex": "@article{10_1002_9781118032497_ch1,\n  title={Introduction to Graph Coloring},\n  author={},\n  journal={Graph Coloring Problems},\n  year={1994},\n  doi={10.1002/9781118032497.ch1},\n  url={https://doi.org/10.1002/9781118032497.ch1}\n}",
+      "apa": "Unknown Author (1994). Introduction to Graph Coloring. Graph Coloring Problems.",
+      "ieee": "Unknown Author, \"Introduction to Graph Coloring,\" Graph Coloring Problems, 1994.",
+      "mla": "Unknown Author. \"Introduction to Graph Coloring.\" Graph Coloring Problems, 1994.",
+      "custom_format": "\\bibitem{Unknown94} Unknown Author, Introduction to graph coloring, Graph Coloring Problems \\textbf{1}(1) (1994) 1--10. https://doi.org/10.1002/9781118032497.ch1",
+      "paper_url": "https://doi.org/10.1002/9781118032497.ch1",
+      "journal_name": "Graph Coloring Problems",
+      "year": 1994
+    },
+    {
+      "paper_id": "10_7155_jgaa_00326",
+      "bibtex": "@article{10_7155_jgaa_00326,\n  title={The Star and Biclique Coloring and Choosability Problems},\n  author={Marina Groshaus and Francisco J. Soulignac and Pablo Terlisky},\n  journal={Journal of Graph Algorithms and Applications},\n  year={2014},\n  doi={10.7155/jgaa.00326},\n  url={https://doi.org/10.7155/jgaa.00326}\n}",
+      "apa": "Groshaus, M., Soulignac, F. J., & Terlisky, P. (2014). The Star and Biclique Coloring and Choosability Problems. Journal of Graph Algorithms and Applications.",
+      "ieee": "Marina Groshaus, Francisco J. Soulignac, Pablo Terlisky, \"The Star and Biclique Coloring and Choosability Problems,\" Journal of Graph Algorithms and Applications, 2014.",
+      "mla": "Groshaus, M., et al.. \"The Star and Biclique Coloring and Choosability Problems.\" Journal of Graph Algorithms and Applications, 2014.",
+      "custom_format": "\\bibitem{GrSoTe14} M. Groshaus, F.J. Soulignac, P. Terlisky, The star and biclique coloring and choosability problems, Journal of Graph Algorithms and Applications \\textbf{1}(1) (2014) 1--10. https://doi.org/10.7155/jgaa.00326",
+      "paper_url": "https://doi.org/10.7155/jgaa.00326",
+      "journal_name": "Journal of Graph Algorithms and Applications",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_1109_tnn_2005_860887",
+      "bibtex": "@article{10_1109_tnn_2005_860887,\n  title={Comments on \"The 1993 DIMACS graph coloring Challenge\" and \"Energy function-based approaches to graph Coloring\"},\n  author={Jing Liu and Weicai Zhong and Licheng Jiao},\n  journal={IEEE Transactions on Neural Networks},\n  year={2006},\n  doi={10.1109/tnn.2005.860887},\n  url={https://doi.org/10.1109/tnn.2005.860887}\n}",
+      "apa": "Liu, J., Zhong, W., & Jiao, L. (2006). Comments on \"The 1993 DIMACS graph coloring Challenge\" and \"Energy function-based approaches to graph Coloring\". IEEE Transactions on Neural Networks.",
+      "ieee": "Jing Liu, Weicai Zhong, Licheng Jiao, \"Comments on \"The 1993 DIMACS graph coloring Challenge\" and \"Energy function-based approaches to graph Coloring\",\" IEEE Transactions on Neural Networks, 2006.",
+      "mla": "Liu, J., et al.. \"Comments on \"The 1993 DIMACS graph coloring Challenge\" and \"Energy function-based approaches to graph Coloring\".\" IEEE Transactions on Neural Networks, 2006.",
+      "custom_format": "\\bibitem{LiZhJi06} J. Liu, W. Zhong, L. Jiao, Comments on \"the 1993 dimacs graph coloring challenge\" and \"energy function-based approaches to graph coloring\", IEEE Transactions on Neural Networks \\textbf{1}(1) (2006) 1--10. https://doi.org/10.1109/tnn.2005.860887",
+      "paper_url": "https://doi.org/10.1109/tnn.2005.860887",
+      "journal_name": "IEEE Transactions on Neural Networks",
+      "year": 2006
+    },
+    {
+      "paper_id": "10_3724_sp_j_1016_2010_00822",
+      "bibtex": "@article{10_3724_sp_j_1016_2010_00822,\n  title={Topological Properties of Biswapped Networks(BSNs): Node Symmetry and Maximal Fault Tolerance},\n  author={Wei-Dong CHEN and Wen-Jun XIAO},\n  journal={Chinese Journal of Computers},\n  year={2010},\n  doi={10.3724/sp.j.1016.2010.00822},\n  url={https://doi.org/10.3724/sp.j.1016.2010.00822}\n}",
+      "apa": "CHEN, W. & XIAO, W. (2010). Topological Properties of Biswapped Networks(BSNs): Node Symmetry and Maximal Fault Tolerance. Chinese Journal of Computers.",
+      "ieee": "Wei-Dong CHEN, Wen-Jun XIAO, \"Topological Properties of Biswapped Networks(BSNs): Node Symmetry and Maximal Fault Tolerance,\" Chinese Journal of Computers, 2010.",
+      "mla": "CHEN, W., and Wen-Jun XIAO. \"Topological Properties of Biswapped Networks(BSNs): Node Symmetry and Maximal Fault Tolerance.\" Chinese Journal of Computers, 2010.",
+      "custom_format": "\\bibitem{ChXi10} W. CHEN, W. XIAO, Topological properties of biswapped networks(bsns): node symmetry and maximal fault tolerance, Chinese Journal of Computers \\textbf{1}(1) (2010) 1--10. https://doi.org/10.3724/sp.j.1016.2010.00822",
+      "paper_url": "https://doi.org/10.3724/sp.j.1016.2010.00822",
+      "journal_name": "Chinese Journal of Computers",
+      "year": 2010
+    },
+    {
+      "paper_id": "10_31979_etd_5jvs_3kym",
+      "bibtex": "@article{10_31979_etd_5jvs_3kym,\n  title={Cost-coloring},\n  author={Patrick Morriss},\n  journal={},\n  year={2023},\n  doi={10.31979/etd.5jvs-3kym},\n  url={https://doi.org/10.31979/etd.5jvs-3kym}\n}",
+      "apa": "Morriss, P. (2023). Cost-coloring. .",
+      "ieee": "Patrick Morriss, \"Cost-coloring,\" , 2023.",
+      "mla": "Morriss, P.. \"Cost-coloring.\" , 2023.",
+      "custom_format": "\\bibitem{Mo23} P. Morriss, Cost-coloring,  \\textbf{1}(1) (2023) 1--10. https://doi.org/10.31979/etd.5jvs-3kym",
+      "paper_url": "https://doi.org/10.31979/etd.5jvs-3kym",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_1007_978_1_4471_5173_9_9",
+      "bibtex": "@article{10_1007_978_1_4471_5173_9_9,\n  title={Vertex Coloring},\n  author={K. Erciyes},\n  journal={Computer Communications and Networks},\n  year={2013},\n  doi={10.1007/978-1-4471-5173-9_9},\n  url={https://doi.org/10.1007/978-1-4471-5173-9_9}\n}",
+      "apa": "Erciyes, K. (2013). Vertex Coloring. Computer Communications and Networks.",
+      "ieee": "K. Erciyes, \"Vertex Coloring,\" Computer Communications and Networks, 2013.",
+      "mla": "Erciyes, K.. \"Vertex Coloring.\" Computer Communications and Networks, 2013.",
+      "custom_format": "\\bibitem{Er13} K. Erciyes, Vertex coloring, Computer Communications and Networks \\textbf{1}(1) (2013) 1--10. https://doi.org/10.1007/978-1-4471-5173-9_9",
+      "paper_url": "https://doi.org/10.1007/978-1-4471-5173-9_9",
+      "journal_name": "Computer Communications and Networks",
+      "year": 2013
+    }
+  ]
+}

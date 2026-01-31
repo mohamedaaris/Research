@@ -16,6 +16,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
 from src.research_system import AutonomousResearchSystem
 from src.agents.custom_citation_formatter import CustomCitationFormatter
+from src.agents.literature_builder_agent import LiteratureBuilderAgent
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'research-system-secret-key'
@@ -52,7 +53,7 @@ def run_research_in_thread(topic):
 
 
 def _generate_custom_citation(paper):
-    """Generate custom citation format."""
+    """Generate custom citation format with accurate bibliographic data."""
     # Generate bibitem key
     bibitem_key = _generate_bibitem_key(paper)
     
@@ -62,16 +63,125 @@ def _generate_custom_citation(paper):
     # Format title
     formatted_title = _format_title_custom(paper.title)
     
+    # Get accurate volume, issue, and page information
+    volume_info = _extract_volume_info_crossref(paper)
+    
     # Get paper URL
     paper_url = _get_paper_url(paper)
     
-    # Create citation
-    citation = f"\\bibitem{{{bibitem_key}}} {formatted_authors}, {formatted_title}, {paper.venue} \\textbf{{1}}(1) ({paper.year}) 1--10"
+    # Create citation with accurate data
+    citation = f"\\bibitem{{{bibitem_key}}} {formatted_authors}, {formatted_title}, {paper.venue}"
+    
+    # Add volume and issue information ONLY if we have real data
+    if volume_info['volume']:
+        citation += f" \\textbf{{{volume_info['volume']}}}"
+        if volume_info['issue']:
+            citation += f"({volume_info['issue']})"
+    
+    # Add year
+    citation += f" ({paper.year})"
+    
+    # Add pages ONLY if we have real data
+    if volume_info['pages']:
+        citation += f" {volume_info['pages']}"
     
     if paper_url:
         citation += f". {paper_url}"
     
     return citation
+
+
+def _extract_volume_info_crossref(paper):
+    """Extract accurate volume, issue, and page information using CrossRef API."""
+    volume_info = {
+        'volume': None,
+        'issue': None,
+        'pages': None,
+        'article_number': None
+    }
+    
+    # Try to extract from DOI using CrossRef API
+    if paper.doi:
+        try:
+            import requests
+            import time
+            
+            # Clean DOI - handle various DOI formats
+            doi = paper.doi.strip()
+            if doi.startswith('https://doi.org/'):
+                doi = doi.replace('https://doi.org/', '')
+            elif doi.startswith('http://dx.doi.org/'):
+                doi = doi.replace('http://dx.doi.org/', '')
+            elif doi.startswith('doi:'):
+                doi = doi.replace('doi:', '')
+            
+            # Query CrossRef API for accurate bibliographic data
+            crossref_url = f"https://api.crossref.org/works/{doi}"
+            headers = {
+                'User-Agent': 'Research System/1.0 (mailto:research@example.com)',
+                'Accept': 'application/json'
+            }
+            
+            print(f"Fetching bibliographic data for DOI: {doi}")
+            response = requests.get(crossref_url, headers=headers, timeout=10)
+            
+            if response.status_code == 200:
+                data = response.json()
+                work = data.get('message', {})
+                
+                # Extract volume
+                if 'volume' in work and work['volume']:
+                    volume_info['volume'] = str(work['volume']).strip()
+                
+                # Extract issue
+                if 'issue' in work and work['issue']:
+                    volume_info['issue'] = str(work['issue']).strip()
+                
+                # Extract pages - handle different formats
+                if 'page' in work and work['page']:
+                    pages = str(work['page']).strip()
+                    if pages:
+                        volume_info['pages'] = pages
+                elif 'article-number' in work and work['article-number']:
+                    article_num = str(work['article-number']).strip()
+                    volume_info['article_number'] = article_num
+                    volume_info['pages'] = article_num
+                
+                print(f"Successfully extracted: vol={volume_info['volume']}, issue={volume_info['issue']}, pages={volume_info['pages']}")
+                
+                # Small delay to be respectful to CrossRef API
+                time.sleep(0.1)
+                
+            elif response.status_code == 404:
+                print(f"DOI {doi} not found in CrossRef (404)")
+            else:
+                print(f"CrossRef API returned status {response.status_code} for DOI {doi}")
+                
+        except Exception as e:
+            print(f"Error fetching bibliographic data for DOI {paper.doi}: {str(e)}")
+    
+    # Try to extract from venue name if it contains volume/issue info
+    if not any([volume_info['volume'], volume_info['issue'], volume_info['pages']]):
+        if paper.venue:
+            venue_lower = paper.venue.lower()
+            import re
+            
+            # Look for patterns like "vol. 25, no. 3" or "25(3)" in venue
+            vol_match = re.search(r'vol(?:ume)?\.?\s*(\d+)', venue_lower)
+            if vol_match:
+                volume_info['volume'] = vol_match.group(1)
+            
+            issue_match = re.search(r'(?:no|issue)\.?\s*(\d+)', venue_lower)
+            if issue_match:
+                volume_info['issue'] = issue_match.group(1)
+            
+            # Look for pattern like "25(3)" 
+            vol_issue_match = re.search(r'(\d+)\((\d+)\)', venue_lower)
+            if vol_issue_match:
+                volume_info['volume'] = vol_issue_match.group(1)
+                volume_info['issue'] = vol_issue_match.group(2)
+    
+    return volume_info
 
 
 def _generate_bibitem_key(paper):
@@ -361,6 +471,105 @@ def history():
 def citations_page():
     """Enhanced citations page."""
     return render_template('enhanced_citations.html')
+
+
+@app.route('/literature')
+def literature_page():
+    """Literature builder page."""
+    return render_template('literature_builder.html')
+
+
+@app.route('/generate-literature', methods=['POST'])
+def generate_literature():
+    """Generate structured literature from research results."""
+    try:
+        data = request.get_json()
+        topic = data.get('topic', '').strip()
+        filters = data.get('filters', {})
+        
+        if not topic:
+            return jsonify({'error': 'Topic is required'}), 400
+        
+        app.logger.info(f"Literature generation request for topic: {topic}")
+        
+        # Run research and literature generation in a separate thread
+        future = executor.submit(run_literature_generation, topic, filters)
+        results = future.result(timeout=300)  # 5 minute timeout
+        
+        app.logger.info(f"Literature generated successfully for topic: {topic}")
+        
+        return jsonify(results)
+        
+    except concurrent.futures.TimeoutError:
+        app.logger.error(f"Literature generation timed out for topic: {topic}")
+        return jsonify({'error': 'Literature generation timed out. Please try a more specific topic.'}), 500
+    except Exception as e:
+        app.logger.error(f"Error in literature generation for topic '{topic}': {str(e)}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'error': f'Literature generation failed: {str(e)}'}), 500
+
+
+def run_literature_generation(topic: str, filters: dict):
+    """Run literature generation in a separate thread."""
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    
+    try:
+        # Get research system and run research
+        app.logger.info(f"Starting research for topic: {topic}")
+        system = get_system()
+        research_results = loop.run_until_complete(system.research(topic))
+        
+        app.logger.info(f"Research completed. Found {len(research_results.papers)} papers, {len(research_results.claims)} claims")
+        
+        # Generate literature
+        app.logger.info("Starting literature generation...")
+        literature_agent = LiteratureBuilderAgent()
+        literature_document = loop.run_until_complete(literature_agent.process(research_results))
+        
+        app.logger.info(f"Literature generation completed. Generated {len(literature_document.sections)} sections")
+        
+        # Get statistics
+        stats = literature_agent.get_literature_stats(literature_document)
+        
+        # Convert to JSON-serializable format
+        result = {
+            'topic': topic,
+            'outline': {
+                'title': literature_document.outline.title,
+                'sections': literature_document.outline.sections,
+                'total_papers': literature_document.outline.total_papers,
+                'total_claims': literature_document.outline.total_claims,
+                'date_range': literature_document.outline.date_range,
+                'estimated_word_count': getattr(literature_document.outline, 'estimated_word_count', 0)
+            },
+            'sections': [
+                {
+                    'section_type': section.section_type,
+                    'title': section.title,
+                    'content': section.content,
+                    'citations': section.citations,
+                    'claim_ids': section.claim_ids,
+                    'word_count': section.word_count
+                }
+                for section in literature_document.sections
+            ],
+            'bibliography': literature_document.bibliography,
+            'metadata': literature_document.metadata,
+            'stats': stats,
+            'generated_at': literature_document.generated_at.isoformat()
+        }
+        
+        app.logger.info(f"Literature generation result prepared successfully")
+        return result
+        
+    except Exception as e:
+        app.logger.error(f"Error in literature generation: {str(e)}")
+        raise e
+        
+    finally:
+        loop.close()
 
 
 @app.route('/generate-custom-citations', methods=['POST'])
