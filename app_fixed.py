@@ -479,6 +479,12 @@ def literature_page():
     return render_template('literature_builder.html')
 
 
+@app.route('/corrections-details')
+def corrections_details():
+    """Corrections details page."""
+    return render_template('corrections_details.html')
+
+
 @app.route('/validator')
 def reference_validator_page():
     """Reference validator page."""
@@ -593,20 +599,123 @@ def run_reference_validation(content: str, file_format: str, options: dict):
             'validation_report': validation_report
         }
         
-        # Process corrections for display
-        for correction in result.format_corrections:
-            response['corrections'].append({
-                'type': 'Format',
-                'reference_key': correction['reference_key'],
-                'description': '; '.join(correction['corrections'])
-            })
+        # Process corrections for display - avoid duplicates
+        corrections_by_ref = {}
         
+        # Group format corrections
+        for correction in result.format_corrections:
+            ref_key = correction['reference_key']
+            if ref_key not in corrections_by_ref:
+                corrections_by_ref[ref_key] = {
+                    'type': 'Format',
+                    'reference_key': ref_key,
+                    'details': [],
+                    'corrections_count': 0,
+                    'processed_fields': set()  # Track processed fields to avoid duplicates
+                }
+            
+            for corr_text in correction['corrections']:
+                # Parse correction text to extract before/after
+                if ' → ' in corr_text:
+                    field, change = corr_text.split(':', 1) if ':' in corr_text else ('Field', corr_text)
+                    field = field.strip()
+                    
+                    # Skip if this field was already processed
+                    if field in corrections_by_ref[ref_key]['processed_fields']:
+                        continue
+                        
+                    if ' → ' in change:
+                        before, after = change.split(' → ', 1)
+                        corrections_by_ref[ref_key]['details'].append({
+                            'field': field,
+                            'before': before.strip().strip("'\""),
+                            'after': after.strip().strip("'\"")
+                        })
+                        corrections_by_ref[ref_key]['corrections_count'] += 1
+                        corrections_by_ref[ref_key]['processed_fields'].add(field)
+        
+        # Group spelling corrections
         for correction in result.spelling_corrections:
-            response['corrections'].append({
-                'type': 'Spelling',
-                'reference_key': correction['reference_key'],
-                'description': '; '.join(correction['corrections'])
-            })
+            ref_key = correction['reference_key']
+            if ref_key not in corrections_by_ref:
+                corrections_by_ref[ref_key] = {
+                    'type': 'Spelling',
+                    'reference_key': ref_key,
+                    'details': [],
+                    'corrections_count': 0,
+                    'processed_fields': set()
+                }
+            
+            for corr_text in correction['corrections']:
+                if ' → ' in corr_text:
+                    field, change = corr_text.split(':', 1) if ':' in corr_text else ('Spelling', corr_text)
+                    field = field.strip()
+                    
+                    if field in corrections_by_ref[ref_key]['processed_fields']:
+                        continue
+                        
+                    if ' → ' in change:
+                        before, after = change.split(' → ', 1)
+                        corrections_by_ref[ref_key]['details'].append({
+                            'field': field,
+                            'before': before.strip().strip("'\""),
+                            'after': after.strip().strip("'\"")
+                        })
+                        corrections_by_ref[ref_key]['corrections_count'] += 1
+                        corrections_by_ref[ref_key]['processed_fields'].add(field)
+        
+        # Group paper verification corrections - only add unique corrections
+        for verification in result.verification_results:
+            ref_key = verification['reference_key']
+            ver_result = verification['verification']
+            
+            if ver_result.get('corrections_made'):
+                if ref_key not in corrections_by_ref:
+                    corrections_by_ref[ref_key] = {
+                        'type': 'Paper Data',
+                        'reference_key': ref_key,
+                        'details': [],
+                        'corrections_count': 0,
+                        'processed_fields': set()
+                    }
+                elif corrections_by_ref[ref_key]['type'] != 'Paper Data':
+                    corrections_by_ref[ref_key]['type'] = 'Format & Data'
+                
+                for corr_text in ver_result['corrections_made']:
+                    if 'corrected:' in corr_text or 'added:' in corr_text:
+                        # Parse correction text
+                        if 'corrected:' in corr_text:
+                            field, change = corr_text.split(' corrected:', 1)
+                        elif 'added:' in corr_text:
+                            field, change = corr_text.split(' added:', 1)
+                        else:
+                            continue
+                            
+                        field = field.strip()
+                        
+                        # Skip if this field was already processed
+                        if field in corrections_by_ref[ref_key]['processed_fields']:
+                            continue
+                            
+                        if ' → ' in change:
+                            before, after = change.split(' → ', 1)
+                        else:
+                            before = 'Not provided'
+                            after = change.strip()
+                        
+                        corrections_by_ref[ref_key]['details'].append({
+                            'field': field,
+                            'before': before.strip().strip("'\""),
+                            'after': after.strip().strip("'\"")
+                        })
+                        corrections_by_ref[ref_key]['corrections_count'] += 1
+                        corrections_by_ref[ref_key]['processed_fields'].add(field)
+        
+        # Clean up processed_fields from response and convert to list
+        for ref_key in corrections_by_ref:
+            del corrections_by_ref[ref_key]['processed_fields']
+        
+        response['corrections'] = list(corrections_by_ref.values())
         
         # Process issues for display
         for duplicate in result.duplicates_removed:

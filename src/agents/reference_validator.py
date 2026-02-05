@@ -560,6 +560,11 @@ class ReferenceValidator(BaseAgent):
             corrections = []
             corrected_ref = ref.copy()
             
+            # Validate and fix bibitem key
+            key_correction = self._validate_and_fix_bibitem_key(corrected_ref)
+            if key_correction:
+                corrections.append(f"{key_correction['field']}: '{key_correction['before']}' → '{key_correction['after']}'")
+            
             # Correct author format
             if 'authors' in ref:
                 original_authors = ref['authors']
@@ -586,7 +591,7 @@ class ReferenceValidator(BaseAgent):
             
             if corrections:
                 result.format_corrections.append({
-                    'reference_key': ref.get('key', 'unknown'),
+                    'reference_key': corrected_ref.get('key', 'unknown'),
                     'corrections': corrections
                 })
             
@@ -672,6 +677,99 @@ class ReferenceValidator(BaseAgent):
         return ' '.join(corrected_words)
     
     def _correct_journal_format(self, journal: str) -> str:
+        """Correct journal name format."""
+        if not journal:
+            return journal
+        
+        journal_lower = journal.lower().strip()
+        
+        # Check against known journal names
+        if journal_lower in self.journal_names:
+            return self.journal_names[journal_lower]
+        
+        # Check partial matches
+        for known_journal_lower, correct_name in self.journal_names.items():
+            if known_journal_lower in journal_lower or journal_lower in known_journal_lower:
+                return correct_name
+        
+        # Basic capitalization correction
+        words = journal.split()
+        corrected_words = []
+        
+        for word in words:
+            if word.lower() in ['of', 'the', 'and', 'in', 'on', 'for', 'with']:
+                corrected_words.append(word.lower())
+            else:
+                corrected_words.append(word.capitalize())
+        
+        return ' '.join(corrected_words)
+    
+    def _generate_correct_bibitem_key(self, authors_list, year):
+        """Generate correct bibitem key based on authors and year."""
+        if not authors_list or not year:
+            return f"Unknown{year % 100 if year else '00'}"
+        
+        # Parse authors list
+        if isinstance(authors_list, str):
+            authors = [a.strip() for a in authors_list.split(',')]
+        else:
+            authors = authors_list
+        
+        # Get first two letters of last names
+        key_parts = []
+        
+        if len(authors) >= 3:
+            # Take first 3 authors
+            for i in range(min(3, len(authors))):
+                author = authors[i].strip()
+                if author:
+                    # Extract last name (last word)
+                    parts = author.split()
+                    if parts:
+                        last_name = parts[-1]  # Get last word as last name
+                        if len(last_name) >= 2:
+                            # First letter caps, second letter lowercase
+                            key_part = last_name[0].upper() + last_name[1].lower()
+                            key_parts.append(key_part)
+                        elif len(last_name) == 1:
+                            # Only one letter, use it twice
+                            key_parts.append(last_name[0].upper() + last_name[0].lower())
+        else:
+            # Take all authors (1 or 2)
+            for author in authors:
+                author = author.strip()
+                if author:
+                    parts = author.split()
+                    if parts:
+                        last_name = parts[-1]  # Get last word as last name
+                        if len(last_name) >= 2:
+                            # First letter caps, second letter lowercase
+                            key_part = last_name[0].upper() + last_name[1].lower()
+                            key_parts.append(key_part)
+                        elif len(last_name) == 1:
+                            # Only one letter, use it twice
+                            key_parts.append(last_name[0].upper() + last_name[0].lower())
+        
+        # Add year (last 2 digits)
+        year_suffix = year % 100 if year else 0
+        
+        key = "".join(key_parts) + f"{year_suffix:02d}"
+        return key
+    
+    def _validate_and_fix_bibitem_key(self, ref_data):
+        """Validate and fix bibitem key based on authors."""
+        if 'authors' in ref_data and 'year' in ref_data:
+            correct_key = self._generate_correct_bibitem_key(ref_data['authors'], ref_data['year'])
+            original_key = ref_data.get('key', '')
+            
+            if original_key != correct_key:
+                ref_data['key'] = correct_key
+                return {
+                    'field': 'Bibitem Key',
+                    'before': original_key,
+                    'after': correct_key
+                }
+        return None
         """Correct journal name format."""
         if not journal:
             return journal
@@ -986,6 +1084,23 @@ class ReferenceValidator(BaseAgent):
         corrections = []
         verified_data = {}
         
+        # Check if this is the most recent version by comparing years
+        ref_year = ref.get('year')
+        crossref_year = None
+        
+        if 'published-print' in crossref_data and crossref_data['published-print'].get('date-parts'):
+            crossref_year = crossref_data['published-print']['date-parts'][0][0]
+        elif 'published-online' in crossref_data and crossref_data['published-online'].get('date-parts'):
+            crossref_year = crossref_data['published-online']['date-parts'][0][0]
+        
+        # Only update DOI if CrossRef version is more recent or if no DOI exists
+        should_update_doi = False
+        if not ref.get('doi'):
+            should_update_doi = True
+        elif crossref_year and ref_year and crossref_year > ref_year:
+            should_update_doi = True
+            corrections.append(f"DOI updated to more recent version: {ref_year} → {crossref_year}")
+        
         # Validate and correct title
         if 'title' in crossref_data and crossref_data['title']:
             crossref_title = crossref_data['title'][0] if isinstance(crossref_data['title'], list) else crossref_data['title']
@@ -1033,23 +1148,13 @@ class ReferenceValidator(BaseAgent):
             else:
                 corrections.append(f"Journal added: '{crossref_journal}'")
         
-        # Validate and correct year
-        if 'published-print' in crossref_data and crossref_data['published-print'].get('date-parts'):
-            crossref_year = crossref_data['published-print']['date-parts'][0][0]
+        # Validate and correct year (only if CrossRef version is more recent)
+        if crossref_year:
             verified_data['verified_year'] = crossref_year
             
             if 'year' in ref and ref['year']:
-                if int(ref['year']) != crossref_year:
-                    corrections.append(f"Year corrected: {ref['year']} → {crossref_year}")
-            else:
-                corrections.append(f"Year added: {crossref_year}")
-        elif 'published-online' in crossref_data and crossref_data['published-online'].get('date-parts'):
-            crossref_year = crossref_data['published-online']['date-parts'][0][0]
-            verified_data['verified_year'] = crossref_year
-            
-            if 'year' in ref and ref['year']:
-                if int(ref['year']) != crossref_year:
-                    corrections.append(f"Year corrected: {ref['year']} → {crossref_year}")
+                if int(ref['year']) != crossref_year and crossref_year > int(ref['year']):
+                    corrections.append(f"Year updated to more recent: {ref['year']} → {crossref_year}")
             else:
                 corrections.append(f"Year added: {crossref_year}")
         
@@ -1095,15 +1200,15 @@ class ReferenceValidator(BaseAgent):
             else:
                 corrections.append(f"Article number added: {crossref_article}")
         
-        # Add DOI if not present or incorrect
-        if 'DOI' in crossref_data and crossref_data['DOI']:
+        # Add DOI if should update
+        if should_update_doi and 'DOI' in crossref_data and crossref_data['DOI']:
             crossref_doi = crossref_data['DOI'].strip()
             verified_data['verified_doi'] = f"https://doi.org/{crossref_doi}"
             
             if 'doi' in ref and ref['doi']:
                 ref_doi = ref['doi'].replace('https://doi.org/', '').replace('http://dx.doi.org/', '')
                 if ref_doi != crossref_doi:
-                    corrections.append(f"DOI corrected: {ref['doi']} → https://doi.org/{crossref_doi}")
+                    corrections.append(f"DOI updated: {ref['doi']} → https://doi.org/{crossref_doi}")
             else:
                 corrections.append(f"DOI added: https://doi.org/{crossref_doi}")
         

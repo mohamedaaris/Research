@@ -293,6 +293,51 @@
             font-size: 0.9rem;
         }
 
+        .correction-summary {
+            background: #fff7ed;
+            border: 1px solid #fb923c;
+            border-radius: 8px;
+            padding: 1rem;
+            margin: 0.5rem 0;
+        }
+
+        .correction-toggle {
+            background: #f97316;
+            border: none;
+            border-radius: 6px;
+            color: white;
+            font-size: 0.85rem;
+            font-weight: 500;
+            padding: 0.5rem 1rem;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .correction-toggle:hover {
+            background: #ea580c;
+            transform: translateY(-1px);
+        }
+
+        .correction-details {
+            display: none;
+            margin-top: 0.75rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid #fed7aa;
+        }
+
+        .correction-details.show {
+            display: block;
+        }
+
+        .correction-detail-item {
+            background: #fef3c7;
+            border-left: 3px solid #f59e0b;
+            padding: 0.5rem 0.75rem;
+            margin: 0.25rem 0;
+            font-size: 0.85rem;
+            border-radius: 4px;
+        }
+
         .issue-item {
             background: #fee2e2;
             border: 1px solid #ef4444;
@@ -754,14 +799,31 @@
                 return;
             }
 
-            const correctionsHtml = corrections.map(correction => `
-                <div class="correction-item">
-                    <strong>${correction.type}:</strong> ${correction.reference_key}<br>
-                    <small>${correction.description}</small>
+            const totalCorrections = corrections.reduce((sum, corr) => sum + (corr.corrections_count || 0), 0);
+            
+            const correctionsHtml = `
+                <div class="text-center">
+                    <div class="mb-3">
+                        <h4 class="text-warning">${totalCorrections}</h4>
+                        <p class="text-muted">Total corrections made across ${corrections.length} references</p>
+                    </div>
+                    <button class="btn btn-warning btn-lg" onclick="viewCorrectionsDetails()">
+                        <i class="fas fa-eye"></i> View All Corrections
+                    </button>
                 </div>
-            `).join('');
+            `;
             
             document.getElementById('correctionsSection').innerHTML = correctionsHtml;
+            
+            // Store corrections data for the details page
+            window.correctionsData = corrections;
+        }
+
+        function viewCorrectionsDetails() {
+            if (window.correctionsData) {
+                const dataParam = encodeURIComponent(JSON.stringify(window.correctionsData));
+                window.open(`/corrections-details?data=${dataParam}`, '_blank');
+            }
         }
 
         function displayIssues(issues) {
@@ -770,12 +832,29 @@
                 return;
             }
 
-            const issuesHtml = issues.map(issue => `
-                <div class="issue-item">
-                    <strong>${issue.type}:</strong> ${issue.reference_key}<br>
-                    <small>${issue.description}</small>
-                </div>
-            `).join('');
+            const issuesHtml = issues.map((issue, index) => {
+                const issueId = `issue-${index}`;
+                return `
+                    <div class="correction-summary" style="background: #fef2f2; border-color: #fca5a5;">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <strong>${issue.type}:</strong> ${issue.reference_key}
+                                <br><small class="text-muted">${issue.description.split(';').length} issues found</small>
+                            </div>
+                            <button class="correction-toggle" style="background: #ef4444;" onclick="toggleCorrections('${issueId}')">
+                                <i class="fas fa-eye"></i> View Details
+                            </button>
+                        </div>
+                        <div class="correction-details" id="${issueId}">
+                            ${issue.description.split(';').map(desc => `
+                                <div class="correction-detail-item" style="background: #fee2e2; border-color: #fca5a5;">
+                                    ${desc.trim()}
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            }).join('');
             
             document.getElementById('issuesSection').innerHTML = issuesHtml;
         }
