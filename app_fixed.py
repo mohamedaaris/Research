@@ -479,6 +479,161 @@ def literature_page():
     return render_template('literature_builder.html')
 
 
+@app.route('/validator')
+def reference_validator_page():
+    """Reference validator page."""
+    return render_template('reference_validator.html')
+
+
+@app.route('/validate-references', methods=['POST'])
+def validate_references():
+    """Validate and correct uploaded reference file."""
+    try:
+        data = request.get_json()
+        content = data.get('content', '').strip()
+        file_format = data.get('format', 'bibtex')
+        options = data.get('options', {})
+        
+        if not content:
+            return jsonify({'error': 'No content provided'}), 400
+        
+        app.logger.info(f"Reference validation request: format={file_format}, length={len(content)}")
+        
+        # Run validation in a separate thread
+        future = executor.submit(run_reference_validation, content, file_format, options)
+        results = future.result(timeout=300)  # 5 minute timeout
+        
+        app.logger.info(f"Reference validation completed successfully")
+        
+        return jsonify(results)
+        
+    except concurrent.futures.TimeoutError:
+        app.logger.error(f"Reference validation timed out")
+        return jsonify({'error': 'Reference validation timed out. Please try with fewer references.'}), 500
+    except Exception as e:
+        app.logger.error(f"Error in reference validation: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'error': f'Reference validation failed: {str(e)}'}), 500
+
+
+@app.route('/reformat-references', methods=['POST'])
+def reformat_references():
+    """Reformat references to different output format."""
+    try:
+        data = request.get_json()
+        references_data = data.get('references', [])
+        output_format = data.get('format', 'bibitem')
+        
+        # Import reference validator
+        from src.agents.reference_validator import ReferenceValidator
+        validator = ReferenceValidator()
+        
+        # Create a mock result object with the references
+        class MockResult:
+            def __init__(self, refs):
+                self.corrected_references = refs
+        
+        mock_result = MockResult(references_data)
+        formatted_output = validator.generate_corrected_file(mock_result, output_format)
+        
+        return jsonify({
+            'formatted_references': formatted_output,
+            'format': output_format
+        })
+        
+    except Exception as e:
+        app.logger.error(f"Error reformatting references: {str(e)}")
+        return jsonify({'error': f'Reformatting failed: {str(e)}'}), 500
+
+
+def run_reference_validation(content: str, file_format: str, options: dict):
+    """Run reference validation in a separate thread."""
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    
+    try:
+        # Import reference validator
+        from src.agents.reference_validator import ReferenceValidator, ReferenceValidationResult
+        
+        app.logger.info(f"Starting reference validation")
+        validator = ReferenceValidator()
+        
+        # Process the reference file
+        result = loop.run_until_complete(validator.process_reference_file(content, file_format))
+        
+        app.logger.info(f"Reference validation completed: {result.original_count} → {result.final_count}")
+        
+        # Generate outputs in different formats
+        bibitem_output = validator.generate_corrected_file(result, 'bibitem')
+        bibtex_output = validator.generate_corrected_file(result, 'bibtex')
+        plain_output = validator.generate_corrected_file(result, 'plain')
+        validation_report = validator.generate_validation_report(result)
+        
+        # Prepare response
+        response = {
+            'stats': {
+                'original_count': result.original_count,
+                'duplicates_removed': len(result.duplicates_removed),
+                'format_corrections': len(result.format_corrections),
+                'spelling_corrections': len(result.spelling_corrections),
+                'invalid_papers': len(result.invalid_papers),
+                'final_count': result.final_count
+            },
+            'processing_log': result.processing_log,
+            'corrections': [],
+            'issues': [],
+            'corrected_references': bibitem_output,  # Default format
+            'corrected_references_data': result.corrected_references,
+            'outputs': {
+                'bibitem': bibitem_output,
+                'bibtex': bibtex_output,
+                'plain': plain_output
+            },
+            'validation_report': validation_report
+        }
+        
+        # Process corrections for display
+        for correction in result.format_corrections:
+            response['corrections'].append({
+                'type': 'Format',
+                'reference_key': correction['reference_key'],
+                'description': '; '.join(correction['corrections'])
+            })
+        
+        for correction in result.spelling_corrections:
+            response['corrections'].append({
+                'type': 'Spelling',
+                'reference_key': correction['reference_key'],
+                'description': '; '.join(correction['corrections'])
+            })
+        
+        # Process issues for display
+        for duplicate in result.duplicates_removed:
+            response['issues'].append({
+                'type': 'Duplicate',
+                'reference_key': duplicate['reference'].get('key', 'unknown'),
+                'description': duplicate['reason']
+            })
+        
+        for invalid in result.invalid_papers:
+            response['issues'].append({
+                'type': 'Invalid',
+                'reference_key': invalid['reference'].get('key', 'unknown'),
+                'description': invalid['reason']
+            })
+        
+        app.logger.info(f"Reference validation response prepared successfully")
+        return response
+        
+    except Exception as e:
+        app.logger.error(f"Error in reference validation: {str(e)}")
+        raise e
+        
+    finally:
+        loop.close()
+
+
 @app.route('/generate-literature', methods=['POST'])
 def generate_literature():
     """Generate structured literature from research results."""

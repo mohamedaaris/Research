@@ -1,0 +1,2087 @@
+{
+  "topic": "twin vertices",
+  "generated_at": "2026-02-04T18:34:09.319744",
+  "summary": {
+    "papers_analyzed": 68,
+    "claims_extracted": 18,
+    "contradictions_found": 0,
+    "research_gaps_identified": 12
+  },
+  "topic_map": {
+    "main_topic": "twin vertices",
+    "subtopics": [],
+    "methods": [],
+    "keywords": [
+      "twin",
+      "vertices"
+    ],
+    "datasets": []
+  },
+  "papers": [
+    {
+      "title": "Quantum Mycielskians: symmetries, twin vertices and distinguishing labelings",
+      "authors": [
+        "Arkadiusz Bochniak",
+        "Igor Che\u0142stowski",
+        "Pawe\u0142 Kasprzak",
+        "Piotr M. So\u0142tan"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.9,
+      "abstract": "We investigate a quantum generalization of the Mycielski construction for quantum graphs. In particular, we analyze the quantum symmetries of quantum Mycielskians and their relation to the symmetries of the underlying quantum graphs. We introduce a quantum analogue of graphs with twin vertices and s...",
+      "doi": null,
+      "arxiv_id": "2502.10521",
+      "url": "http://arxiv.org/abs/2502.10521v2"
+    },
+    {
+      "title": "Fractional revival between twin vertices",
+      "authors": [
+        "Hermie Monterde"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.8600000000000001,
+      "abstract": "In this paper, we provide a characterization of fractional revival between twin vertices in a weighted graph with respect to its adjacency, Laplacian and signless Laplacian matrices. As an application, we characterize fractional revival between apexes of double cones.",
+      "doi": null,
+      "arxiv_id": "2303.04952",
+      "url": "http://arxiv.org/abs/2303.04952v1"
+    },
+    {
+      "title": "Laplacian State Transfer on Graphs with an Edge Perturbation Between Twin Vertices",
+      "authors": [
+        "Hiranmoy Pal"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.8200000000000001,
+      "abstract": "We consider quantum state transfer relative to the Laplacian matrix of a graph. Let $N(u)$ denote the set of all neighbors of a vertex $u$ in a graph $G$. A pair of vertices $u$ and $v$ are called twin vertices of $G$ provided $N(u)\\setminus\\{v \\}=N(v)\\setminus\\{u \\}$. We investigate the existence o...",
+      "doi": null,
+      "arxiv_id": "2109.05306",
+      "url": "http://arxiv.org/abs/2109.05306v1"
+    },
+    {
+      "title": "Strong Cospectrality and Twin Vertices in Weighted Graphs",
+      "authors": [
+        "Hermie Monterde"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.8200000000000001,
+      "abstract": "We explore algebraic and spectral properties of weighted graphs containing twin vertices that are useful in quantum state transfer. We extend the notion of adjacency strong cospectrality to arbitrary Hermitian matrices, with focus on the generalized adjacency matrix and the generalized normalized ad...",
+      "doi": null,
+      "arxiv_id": "2111.01265",
+      "url": "http://arxiv.org/abs/2111.01265v2"
+    },
+    {
+      "title": "Critical ideals of signed graphs with twin vertices",
+      "authors": [
+        "Carlos A. Alfaro",
+        "Hugo Corrales",
+        "Carlos E. Valencia"
+      ],
+      "year": 2015,
+      "venue": "arXiv",
+      "relevance_score": 0.8,
+      "abstract": "This paper studies critical ideals of graphs with twin vertices, which are vertices with the same neighbors. A pair of such vertices are called replicated if they are adjacent, and duplicated, otherwise. Critical ideals of graphs having twin vertices have good properties and show regular patterns. G...",
+      "doi": null,
+      "arxiv_id": "1504.06257",
+      "url": "http://arxiv.org/abs/1504.06257v4"
+    },
+    {
+      "title": "Prime Graphs with Almost True Twin Vertices",
+      "authors": [
+        "Aymen Ben Amira",
+        "Moncef Bouaziz"
+      ],
+      "year": 2025,
+      "venue": "Mathematics",
+      "relevance_score": 0.7000000000000001,
+      "abstract": "<jats:p>A graph\u00a0G consists of a possibly infinite set V(G) of vertices with a collection E(G) of unordered pairs of distinct vertices, called the set of edges of G. Such a graph is denoted by (V(G),E(G)). Two distinct vertices u and v of a graph G are adjacent if {u,v}\u2208E(G). Let G be a graph. A subs...",
+      "doi": "10.3390/math13213466",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.3390/math13213466"
+    },
+    {
+      "title": "Twin Vertices in Fault-Tolerant Metric Sets and Fault-Tolerant Metric Dimension of Multistage Interconnection Networks",
+      "authors": [
+        "S. Prabhu",
+        "V. Manimozhi",
+        "M. Arulperumjothi",
+        "Sandi Klav\u017ear"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.6200000000000001,
+      "abstract": "A set of vertices $S\\subseteq V(G)$ is a basis or resolving set of a graph $G$ if for each $x,y\\in V(G)$ there is a vertex $u\\in S$ such that $d(x,u)\\neq d(y,u)$. A basis $S$ is a fault-tolerant basis if $S\\setminus \\{x\\}$ is a basis for every $x \\in S$. The fault-tolerant metric dimension (FTMD) $\u03b2...",
+      "doi": null,
+      "arxiv_id": "2106.14285",
+      "url": "http://arxiv.org/abs/2106.14285v2"
+    },
+    {
+      "title": "Characterizing graph classes using twin vertices of regular induced subgraphs",
+      "authors": [
+        "Terry A. McKee"
+      ],
+      "year": 2014,
+      "venue": "Journal of Combinatorics",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.4310/joc.2014.v5.n4.a2",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.4310/joc.2014.v5.n4.a2"
+    },
+    {
+      "title": "Twin Vertices in Hypergraphs",
+      "authors": [
+        "Olivier Raynaud",
+        "Raoul Medina",
+        "Caroline Noyer"
+      ],
+      "year": 2006,
+      "venue": "Electronic Notes in Discrete Mathematics",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1016/j.endm.2006.08.069",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1016/j.endm.2006.08.069"
+    },
+    {
+      "title": "On microcrack nucleation at twin vertices and boundaries in bcc and fcc metals",
+      "authors": [
+        "V. A. Fedorov",
+        "V. A. Kuranova",
+        "Yu. I. Tyalin",
+        "S. N. Pluzhnikov"
+      ],
+      "year": 2003,
+      "venue": "Crystallography Reports",
+      "relevance_score": 0.5,
+      "abstract": "",
+      "doi": "10.1134/1.1578138",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1134/1.1578138"
+    },
+    {
+      "title": "Resolving vertices of graphs with differences",
+      "authors": [
+        "Iztok Peterina",
+        "Jelena Sedlar",
+        "Riste \u0160krekovski",
+        "Ismael G. Yero"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.45999999999999996,
+      "abstract": "The classical (vertex) metric dimension of a graph G is defined as the cardinality of a smallest set S in V (G) such that any two vertices x and y from G have different distances to least one vertex from S: The k-metric dimension is a generalization of that notion where it is required that any pair ...",
+      "doi": null,
+      "arxiv_id": "2309.00922",
+      "url": "http://arxiv.org/abs/2309.00922v1"
+    },
+    {
+      "title": "Quantum state transfer between twins in weighted graphs",
+      "authors": [
+        "Stephen Kirkland",
+        "Hermie Monterde",
+        "Sarah Plosker"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.44,
+      "abstract": "Twin vertices in simple unweighted graphs are vertices that have the same neighbours and, in the case of weighted graphs with possible loops, the corresponding incident edges have equal weights. In this paper, we explore the role of twin vertices in quantum state transfer. In particular, we provide ...",
+      "doi": null,
+      "arxiv_id": "2201.02720",
+      "url": "http://arxiv.org/abs/2201.02720v3"
+    },
+    {
+      "title": "On the Displacement of Eigenvalues when Removing a Twin Vertex",
+      "authors": [
+        "Johann A. Briffa",
+        "Irene Sciriha"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.4,
+      "abstract": "Twin vertices of a graph have the same open neighbourhood. If they are not adjacent, then they are called duplicates and contribute the eigenvalue zero to the adjacency matrix. Otherwise they are termed co-duplicates, when they contribute $-1$ as an eigenvalue of the adjacency matrix. On removing a ...",
+      "doi": null,
+      "arxiv_id": "1904.05670",
+      "url": "http://arxiv.org/abs/1904.05670v4"
+    },
+    {
+      "title": "On the Partition Dimension and the Twin Number of a Graph",
+      "authors": [
+        "Carmen Hernando",
+        "Merce Mora",
+        "Ignacio M Pelayo"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.4,
+      "abstract": "A partition P of the vertex set of a connected graph G is a locating partition of G if every vertex is uniquely determined by its vector of distances to the elements of P. The partition dimension of G is the minimum cardinality of a locating partition of G. A pair of vertices u,v of a graph G are ca...",
+      "doi": null,
+      "arxiv_id": "1602.08907",
+      "url": "http://arxiv.org/abs/1602.08907v3"
+    },
+    {
+      "title": "Tight lower bounds on the number of bicliques in false-twin-free graphs",
+      "authors": [
+        "Marina Groshaus",
+        "Leandro Montero"
+      ],
+      "year": 2015,
+      "venue": "arXiv",
+      "relevance_score": 0.4,
+      "abstract": "A \\emph{biclique} is a maximal bipartite complete induced subgraph of $G$. Bicliques have been studied in the last years motivated by the large number of applications. In particular, enumeration of the maximal bicliques has been of interest in data analysis. Associated with this issue, bounds on the...",
+      "doi": null,
+      "arxiv_id": "1510.01165",
+      "url": "http://arxiv.org/abs/1510.01165v2"
+    },
+    {
+      "title": "Hamiltonian Cycles in Subdivided Doubles",
+      "authors": [
+        "David Eppstein"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.4,
+      "abstract": "The subdivided double construction on 4-regular graphs was used by Poto\u010dnik and Wilson to explore semi-symmetric (edge-transitive but not vertex-transitive) graphs, and can be used to construct every semi-symmetric 4-regular graph that contains a pair of twin vertices. We show that (regardless of sy...",
+      "doi": null,
+      "arxiv_id": "2510.18359",
+      "url": "http://arxiv.org/abs/2510.18359v1"
+    },
+    {
+      "title": "Roman $\\{2\\}$-domination on Graphs with \"few\" 4-paths",
+      "authors": [
+        "Lara Fern\u00e1ndez",
+        "Valeria Leoni"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.4,
+      "abstract": "Given a graph $G$ with vertex set $V$, $f : V \\rightarrow \\{0, 1, 2\\}$ is a \\emph{Roman $\\{2\\}$-dominating function} (or \\emph{italian dominating function}) of $G$ if for every vertex $v\\in V$ with $f(v) =0$, either there exists a vertex $u$ adjacent to $v$ with $f(u) = 2$, or two distinct vertices ...",
+      "doi": null,
+      "arxiv_id": "2511.17369",
+      "url": "http://arxiv.org/abs/2511.17369v2"
+    },
+    {
+      "title": "Locating-dominating partitions for some classes of graphs",
+      "authors": [
+        "Florent Foucaud",
+        "Paras Vinubhai Maniya",
+        "Kaustav Paul",
+        "Dinabandhu Pradhan"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "relevance_score": 0.4,
+      "abstract": "A dominating set of a graph $G$ is a set $D \\subseteq V(G)$ such that every vertex in $V(G) \\setminus D$ is adjacent to at least one vertex in $D$. A set $L\\subseteq V(G)$ is a locating set of $G$ if every vertex in $V(G) \\setminus L$ has pairwise distinct open neighborhoods in $L$. A set $D\\subsete...",
+      "doi": null,
+      "arxiv_id": "2506.12933",
+      "url": "http://arxiv.org/abs/2506.12933v1"
+    },
+    {
+      "title": "Topological Twin Graphs. Smallest Pair of Isospectral Polyhedral Graphs with Eight Vertices",
+      "authors": [
+        "Haruo Hosoya",
+        "Umpei Nagashima",
+        "Sachiko Hyugaji"
+      ],
+      "year": 1994,
+      "venue": "Journal of Chemical Information and Computer Sciences",
+      "relevance_score": 0.4,
+      "abstract": "",
+      "doi": "10.1021/ci00018a033",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1021/ci00018a033"
+    },
+    {
+      "title": "Saturated Partial Embeddings of Planar Graphs",
+      "authors": [
+        "Alexander Clifton",
+        "Nika Salia"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "relevance_score": 0.38,
+      "abstract": "In this work, we study how far one can deviate from optimal behavior when embedding a planar graph. For a planar graph $G$, we say that a plane subgraph $H\\subseteq G$ is a \\textit{plane-saturated subgraph} if adding any edge (possibly with new vertices) to $H$ would either violate planarity or make...",
+      "doi": null,
+      "arxiv_id": "2403.02458",
+      "url": "http://arxiv.org/abs/2403.02458v1"
+    },
+    {
+      "title": "Metric dimensions of generalized Sierpi\u0144ski graphs over squares",
+      "authors": [
+        "Savari Prabhu",
+        "T. Jenifer Janany",
+        "Sandi Klav\u017ear"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "relevance_score": 0.38,
+      "abstract": "Metric dimension is a valuable parameter that helps address problems related to network design, localization, and information retrieval by identifying the minimum number of landmarks required to uniquely determine distances between vertices in a graph. Generalized Sierpi\u0144ski graphs represent a capti...",
+      "doi": null,
+      "arxiv_id": "2404.00771",
+      "url": "http://arxiv.org/abs/2404.00771v1"
+    },
+    {
+      "title": "New results in vertex sedentariness",
+      "authors": [
+        "Hermie Monterde"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.36,
+      "abstract": "A vertex in a graph is said to be sedentary if a quantum state assigned on that vertex tends to stay on that vertex. Under mild conditions, we show that the direct product and join operations preserve vertex sedentariness. We also completely characterize sedentariness in blow-up graphs. These result...",
+      "doi": null,
+      "arxiv_id": "2401.00362",
+      "url": "http://arxiv.org/abs/2401.00362v1"
+    },
+    {
+      "title": "Constructing graphs having Laplacian pair state transfer by an edge perturbation",
+      "authors": [
+        "Wei Wang",
+        "Xiaogang Liu",
+        "Jing Wang"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "relevance_score": 0.33999999999999997,
+      "abstract": "In this paper, we give some sufficient conditions for graphs with an edge perturbation between twin vertices to have Laplacian perfect pair state transfer as well as Laplacian pretty good pair state transfer. By those sufficient conditions, we also construct many new graphs having Laplacian perfect ...",
+      "doi": null,
+      "arxiv_id": "2202.04957",
+      "url": "http://arxiv.org/abs/2202.04957v1"
+    },
+    {
+      "title": "Graphs defined on groups",
+      "authors": [
+        "Peter J. Cameron"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "relevance_score": 0.32,
+      "abstract": "These notes concern aspects of various graphs whose vertex set is a group $G$ and whose edges reflect group structure in some way (so that they are invariant under the action of the automorphism group of $G$). The graphs I will discuss are the power graph, enhanced power graph, deep commuting graph,...",
+      "doi": null,
+      "arxiv_id": "2102.11177",
+      "url": "http://arxiv.org/abs/2102.11177v3"
+    },
+    {
+      "title": "Splitting cubic circle graphs",
+      "authors": [
+        "Lorenzo Traldi"
+      ],
+      "year": 2015,
+      "venue": "arXiv",
+      "relevance_score": 0.3,
+      "abstract": "We show that every 3-regular circle graph has at least two pairs of twin vertices; consequently no such graph is prime with respect to the split decomposition. We also deduce that up to isomorphism, K_4 and K_{3,3} are the only 3-connected, 3-regular circle graphs.",
+      "doi": null,
+      "arxiv_id": "1504.01143",
+      "url": "http://arxiv.org/abs/1504.01143v1"
+    },
+    {
+      "title": "A bracket polynomial for graphs. III. Vertex weights",
+      "authors": [
+        "Lorenzo Traldi"
+      ],
+      "year": 2009,
+      "venue": "arXiv",
+      "relevance_score": 0.3,
+      "abstract": "In earlier work the Kauffman bracket polynomial was extended to an invariant of marked graphs, i.e., looped graphs whose vertices have been partitioned into two classes (marked and not marked). The marked-graph bracket polynomial is readily modified to handle graphs with weighted vertices. We presen...",
+      "doi": null,
+      "arxiv_id": "0905.4879",
+      "url": "http://arxiv.org/abs/0905.4879v3"
+    },
+    {
+      "title": "The normalized distance Laplacian",
+      "authors": [
+        "Carolyn Reinhart"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.3,
+      "abstract": "The distance matrix $\\mathcal{D}(G)$ of a graph $G$ is the matrix containing the pairwise distances between vertices. The transmission of a vertex $v_i$ in $G$ is the sum of the distances from $v_i$ to all other vertices and $T(G)$ is the diagonal matrix of transmissions of the vertices of the graph...",
+      "doi": null,
+      "arxiv_id": "1903.04575",
+      "url": "http://arxiv.org/abs/1903.04575v2"
+    },
+    {
+      "title": "Isotropic matroids III: Connectivity",
+      "authors": [
+        "Lorenzo Traldi",
+        "Robert Brijder"
+      ],
+      "year": 2016,
+      "venue": "arXiv",
+      "relevance_score": 0.3,
+      "abstract": "The isotropic matroid $M[IAS(G)]$ of a graph $G$ is a binary matroid, which is equivalent to the isotropic system introduced by Bouchet. In this paper we discuss four notions of connectivity related to isotropic matroids and isotropic systems. We show that the isotropic system connectivity defined b...",
+      "doi": null,
+      "arxiv_id": "1602.03899",
+      "url": "http://arxiv.org/abs/1602.03899v2"
+    },
+    {
+      "title": "Multiple Petersen subdivisions in permutation graphs",
+      "authors": [
+        "Tom\u00e1\u0161 Kaiser",
+        "Jean-S\u00e9bastien Sereni",
+        "Zelealem Yilma"
+      ],
+      "year": 2012,
+      "venue": "arXiv",
+      "relevance_score": 0.3,
+      "abstract": "A permutation graph is a cubic graph admitting a 1-factor M whose complement consists of two chordless cycles. Extending results of Ellingham and of Goldwasser and Zhang, we prove that if e is an edge of M such that every 4-cycle containing an edge of M contains e, then e is contained in a subdivisi...",
+      "doi": null,
+      "arxiv_id": "1204.1989",
+      "url": "http://arxiv.org/abs/1204.1989v1"
+    },
+    {
+      "title": "Determining Number and Cost of Generalized Mycielskian Graphs",
+      "authors": [
+        "Debra Boutin",
+        "Sally Cockburn",
+        "Lauren Keough",
+        "Sarah Loeb",
+        "K. E. Perry",
+        "Puck Rombach"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "relevance_score": 0.3,
+      "abstract": "A set $S$ of vertices is a determining set for a graph $G$ if every automorphism of $G$ is uniquely determined by its action on $S$. The size of a smallest determining set for $G$ is called its determining number, $Det(G)$. A graph $G$ is said to be $d$-distinguishable if there is a coloring of the ...",
+      "doi": null,
+      "arxiv_id": "2007.15284",
+      "url": "http://arxiv.org/abs/2007.15284v2"
+    },
+    {
+      "title": "The negative tetrahedron and the first infinite family of connected digraphs that are strongly determined by the Hermitian spectrum",
+      "authors": [
+        "Pepijn Wissing",
+        "Edwin R. van Dam"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.3,
+      "abstract": "Thus far, digraphs that are uniquely determined by their Hermitian spectra have proven elusive. Instead, researchers have turned to spectral determination of classes of switching equivalent digraphs, rather than individual digraphs. In the present paper, we consider the traditional notion: a digraph...",
+      "doi": null,
+      "arxiv_id": "1903.09531",
+      "url": "http://arxiv.org/abs/1903.09531v2"
+    },
+    {
+      "title": "Locally identifying coloring in bounded expansion classes of graphs",
+      "authors": [
+        "Daniel Gon\u00e7alves",
+        "Aline Parreau",
+        "Alexandre Pinlou"
+      ],
+      "year": 2012,
+      "venue": "arXiv",
+      "relevance_score": 0.3,
+      "abstract": "A proper vertex coloring of a graph is said to be locally identifying if the sets of colors in the closed neighborhood of any two adjacent non-twin vertices are distinct. The lid-chromatic number of a graph is the minimum number of colors used by a locally identifying vertex-coloring. In this paper,...",
+      "doi": null,
+      "arxiv_id": "1212.5468",
+      "url": "http://arxiv.org/abs/1212.5468v2"
+    },
+    {
+      "title": "Domination and location in twin-free digraphs",
+      "authors": [
+        "Florent Foucaud",
+        "Shahrzad Heydarshahi",
+        "Aline Parreau"
+      ],
+      "year": 2019,
+      "venue": "arXiv",
+      "relevance_score": 0.2,
+      "abstract": "A dominating set $D$ in a digraph is a set of vertices such that every vertex is either in $D$ or has an in-neighbour in $D$. A dominating set $D$ of a digraph is locating-dominating if every vertex not in $D$ has a unique set of in-neighbours within $D$. The location-domination number $\u03b3_L(G)$ of a...",
+      "doi": null,
+      "arxiv_id": "1910.05311",
+      "url": "http://arxiv.org/abs/1910.05311v2"
+    },
+    {
+      "title": "Sedentariness in quantum walks",
+      "authors": [
+        "Hermie Monterde"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "relevance_score": 0.16000000000000003,
+      "abstract": "We formalize the notion of a sedentary vertex and present a relaxation of the concept of a sedentary family of graphs introduced by Godsil [Linear Algebra Appl. 614:356-375, 2021]. We provide sufficient conditions for a given vertex in a graph to exhibit sedentariness. We also show that a vertex wit...",
+      "doi": null,
+      "arxiv_id": "2303.06297",
+      "url": "http://arxiv.org/abs/2303.06297v3"
+    },
+    {
+      "title": "Vertices: Duke's Undergraduate Research Journal",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.16000000000000003,
+      "abstract": "",
+      "doi": "10.55894/vdur0609",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/vdur0609"
+    },
+    {
+      "title": "Figure 1: Random FVS and optimal FVS (the vertices of FVS are in orange and the other vertices are in blue).",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.16000000000000003,
+      "abstract": "",
+      "doi": "10.7717/peerj-cs.1245/fig-1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7717/peerj-cs.1245/fig-1"
+    },
+    {
+      "title": "Video 5. Myosin II flows toward vertices.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.16000000000000003,
+      "abstract": "",
+      "doi": "10.7554/elife.34586.019",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7554/elife.34586.019"
+    },
+    {
+      "title": "Video 2. Contracting vertices slide along cell interfaces.",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.16000000000000003,
+      "abstract": "",
+      "doi": "10.7554/elife.34586.007",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.7554/elife.34586.007"
+    },
+    {
+      "title": "SUSY based displaced vertices in ATLAS detector",
+      "authors": [
+        "Selim Unal"
+      ],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.16000000000000003,
+      "abstract": "",
+      "doi": "10.54014/b37h-5s5a",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.54014/b37h-5s5a"
+    },
+    {
+      "title": "",
+      "authors": [],
+      "year": 2025,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.55894/dv4.1",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv4.1"
+    },
+    {
+      "title": "Clinical use of the concept of vertices:",
+      "authors": [],
+      "year": 2018,
+      "venue": "Studies in Extended Metapsychology",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.2307/jj.23338178.12",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2307/jj.23338178.12"
+    },
+    {
+      "title": "Vertices of space curves",
+      "authors": [
+        "Stanislav \u0160makal"
+      ],
+      "year": 1973,
+      "venue": "Czechoslovak Mathematical Journal",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.21136/cmj.1973.101147",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21136/cmj.1973.101147"
+    },
+    {
+      "title": "Gender Inequality in Healthcare Delivery: Differences in System Satisfaction During the COVID-19 Pandemic in the United States",
+      "authors": [
+        "Haizhu Song"
+      ],
+      "year": 2025,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.1,
+      "abstract": "<jats:p>This study examines gender differences in healthcare satisfaction during the COVID-19 pandemic inthe United States using data from the 2021-2022 General Social Survey (GSS). Although existing literature generally points to the disadvantages women face in terms of healthcare access and health...",
+      "doi": "10.55894/dv4.13",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv4.13"
+    },
+    {
+      "title": "Impact of Aged Tumor Microenvironment and Chemosensitivity on Sub-types of Ovarian Cancer",
+      "authors": [
+        "Lila Taylor",
+        "Zhiqing Huang"
+      ],
+      "year": 2025,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.1,
+      "abstract": "<jats:p>Ovarian cancer (OC) is the most lethal female reproductive cancer\u2013\u2013with a 5-year survival rate of 50.9%\u2013\u2013and is diagnosed on average in patients in their 60s. Often OC patients enter an initial remission following chemotherapeutic or surgical interventions; however, ~75% of patients experien...",
+      "doi": "10.55894/dv3.21",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv3.21"
+    },
+    {
+      "title": "On ordering vertices of infinite trees",
+      "authors": [
+        "Franti\u0161ek Neuman"
+      ],
+      "year": 1966,
+      "venue": "\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.21136/cpm.1966.108099",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.21136/cpm.1966.108099"
+    },
+    {
+      "title": "The (signless) Laplacian spectral radii of c-cyclic graphs with n vertices and k pendant vertices",
+      "authors": [
+        "Muhuo Liu"
+      ],
+      "year": 2012,
+      "venue": "The Electronic Journal of Linear Algebra",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.13001/1081-3810.1567",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.13001/1081-3810.1567"
+    },
+    {
+      "title": "Kinematic Fitting of Detached Vertices",
+      "authors": [
+        "Paul Mattione"
+      ],
+      "year": 2007,
+      "venue": "",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.2172/903056",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.2172/903056"
+    },
+    {
+      "title": "Identity, Resilience and their Psychological Impact Among Older Adults with Cancer",
+      "authors": [
+        "Bianca DeSilva",
+        "Timothy Strauman",
+        "Katherine Ramos"
+      ],
+      "year": 2025,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.1,
+      "abstract": "<jats:p>Older adults (65+) make up 60% of cancer diagnoses and 70% of deaths related to cancer (Marosi &amp; K\u00f6ller,\n2016). Although this age group experiences significant distress, behavioral studies investigating distress tend\nto be overrepresented by younger populations, leaving a gap in the know...",
+      "doi": "10.55894/dv3.22",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv3.22"
+    },
+    {
+      "title": "Beyond Existing Analysis: The Rigorous Illumination of Choice from Extant Neuroscience and Philosophy",
+      "authors": [
+        "Shambhavi Sinha",
+        "Stratton Black"
+      ],
+      "year": 2025,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.1,
+      "abstract": "<jats:p>The age-old question of the existence of human free has been tackled by the field of philosophy traditionally. However, this question has recently been challenged by neuroscience experiments suggesting our decisions are made unconsciously by our brains before we\u2019re aware of them. In this art...",
+      "doi": "10.55894/dv3.24",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv3.24"
+    },
+    {
+      "title": "Cut Vertices and Degree One Vertices of Zero-Divisor Graphs",
+      "authors": [
+        "Shane P. Redmond"
+      ],
+      "year": 2012,
+      "venue": "Communications in Algebra",
+      "relevance_score": 0.1,
+      "abstract": "",
+      "doi": "10.1080/00927872.2011.585192",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.1080/00927872.2011.585192"
+    },
+    {
+      "title": "Evaluating SLAM Performance with Synthesized Datasets from Unreal-Based Emulators",
+      "authors": [
+        "Muchang Bahng"
+      ],
+      "year": 2024,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.08,
+      "abstract": "<jats:p>The rapid advancement in visual-inertial simultaneous localization and mapping (SLAM) has opened numerous applications in computer vision. However, the scarcity of high quality, publicly accessible datasets hampers the evaluation of SLAM performance in varied and tailored environments. In th...",
+      "doi": "10.55894/dv2.22",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv2.22"
+    },
+    {
+      "title": "Investigating Serotonin Dynamics and Simulating Effects of Antidepressants Using Variation in Enzyme Expression",
+      "authors": [
+        "Alexander Diefes"
+      ],
+      "year": 2024,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.08,
+      "abstract": "<jats:p>Serotonin plays a crucial role in the symptoms of depression, and understanding its dynamics in the brain is of the utmost importance in determining how to mitigate the effects of depression. We investigate a mathematical model presented by Best et al. (2020) that examines serotonin dynamics...",
+      "doi": "10.55894/dv2.21",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv2.21"
+    },
+    {
+      "title": "Identification of cis-acting elements that regulate expression of the progesterone receptor gene PGR in the uterus.",
+      "authors": [
+        "Skylar Redecke"
+      ],
+      "year": 2024,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.08,
+      "abstract": "<jats:p>The steroid hormone progesterone regulates a wide range of functions in the uterus, including menstruation, pregnancy establishment, pregnancy maintenance, and labor. The cellular effects of progesterone are mediated by the nuclear progesterone receptor (PGR). Progesterone resistance, a decr...",
+      "doi": "10.55894/dv3.11",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv3.11"
+    },
+    {
+      "title": "An Examination of Two Competing Interpretations of Quantum Mechanics with a Critique of the Kochen-Specker Theorem",
+      "authors": [
+        "Eliza Miller"
+      ],
+      "year": 2024,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.08,
+      "abstract": "<jats:p>There is ongoing discourse in philosophical and physics literature about whether the probabilistic essence of quantum mechanics indicates that deterministic interpretations of nature must be false. In 1967 two mathematicians, Simon Kochen and Ernst Specker, developed a mathematical theorem t...",
+      "doi": "10.55894/dv2.23",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv2.23"
+    },
+    {
+      "title": "Effects on Status Striving: How Self-Perceived Value, Self-Esteem, and Personality Traits Impact Preferred Status",
+      "authors": [
+        "Sua Cho"
+      ],
+      "year": 2024,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.08,
+      "abstract": "<jats:p>Prior research shows that despite the belief that humans universally desire high status in group settings (i.e., leadership roles), individuals with low self-perceived value (SPV) perceive themselves as being unable to make meaningful contributions to the group\u2019s success. Thus, they prefer l...",
+      "doi": "10.55894/dv2.24",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv2.24"
+    },
+    {
+      "title": "A Correlational Study of the Relationship Between ChatGPT Usage &amp; Cognitive Flexibility",
+      "authors": [
+        "Victoria Szymkiewicz",
+        "Edgar Carvalho",
+        "Ezra Ford"
+      ],
+      "year": 2024,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.08,
+      "abstract": "<jats:p>Amidst the growing integration of AI into educational practices, concerns arise regarding how unregulated interaction with AI outside the structured classroom environment may influence university students\u2019 cognitive functions. This research examines the differential effects of ChatGPT usage ...",
+      "doi": "10.55894/dv3.13",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv3.13"
+    },
+    {
+      "title": "Exploring Serotonin in Catch Contractions and Specific Dynamic Action in Postprandial Metabolism: Insights from Aquatic Models",
+      "authors": [
+        "Caroline Zhang",
+        "Jack Fallon"
+      ],
+      "year": 2024,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.08,
+      "abstract": "<jats:p>Animal model organisms have long been instrumental in unraveling complex biological processes relevant to human physiology. The first study investigates how exercise and food intake affect metabolism, using zebrafish as our model. The second experiment dives into how neurotransmitters like d...",
+      "doi": "10.55894/dv3.12",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv3.12"
+    },
+    {
+      "title": "V\u00e9rtices",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "",
+      "doi": "10.11606/issn.2179-5894",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.11606/issn.2179-5894"
+    },
+    {
+      "title": "iPSC differentiation into various neuron subtypes",
+      "authors": [
+        "Emily Cruz",
+        "Mohamad Mikati MD, PhD"
+      ],
+      "year": 2023,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "<jats:p>Induced pluripotent stem cells (iPSCs) have been demonstrated to be a valuable tool in modeling diseases, investigating drug mechanisms, and understanding manifestations of disease in specific cell types. In the field of neurology, current studies are investigating the use of iPSCs as a rege...",
+      "doi": "10.55894/dv1.21",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv1.21"
+    },
+    {
+      "title": "Relations of and between Family Business and Private Enterprise",
+      "authors": [
+        "Michael Cao"
+      ],
+      "year": 2023,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "<jats:p>In this paper, I draw from economic and organizational sociology to study a psychosocial dimension of modern entrepreneurial dynamics. Namely, I employ a mixed-methods approach to the study of family business members in the U.S and their corresponding economic attitudes about private enterpr...",
+      "doi": "10.55894/dv2.13",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv2.13"
+    },
+    {
+      "title": "Quorum Sensing in Pseudomonas aeruginosa: Mechanisms, strategies, and a novel inhibitor",
+      "authors": [
+        "Aditya Raj",
+        "Natasha Kirienko"
+      ],
+      "year": 2023,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "<jats:p>Pseudomonas aeruginosa, an opportunistic life-threatening bacterial pathogen, uses quorum sensing signals to modulate the expression of virulent genes. These bacteria exhibit high levels of antimicrobial resistance, which reduces the effectiveness of current antibiotics, highlighting the nee...",
+      "doi": "10.55894/dv2.11",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv2.11"
+    },
+    {
+      "title": "Modeling the Northern Great Barrier Reef Population of Green Sea Turtles",
+      "authors": [
+        "Jackson D. Nowacek"
+      ],
+      "year": 2023,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "<jats:p>Population modeling is an established, effective tool for assessing the effects of environmental conditions on a specific population. The model this paper outlines is based on the Green Sea Turtle (Chelonia mydas) population of the Northern Great Barrier Reef. The model shows the effects of ...",
+      "doi": "10.55894/dv2.12",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv2.12"
+    },
+    {
+      "title": "Application of Palladium Chemistry in Organic Synthesis Techniques: the Larock Indole Synthesis, a Literature Review",
+      "authors": [
+        "Angikar Ghosal"
+      ],
+      "year": 2023,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "<jats:p>As one of the most important biologically active and naturally occurring molecules, indole is an organic compound of great importance. For more than a century, the standard method of lab preparation of the indole family of compounds has been the Fischer indole synthesis. In 1994, Richard C. ...",
+      "doi": "10.55894/dv1.22",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv1.22"
+    },
+    {
+      "title": "Data Corroboration of The Catastrophic Chernobyl Tragedy Using Arc-Length Estimate Conjecture",
+      "authors": [
+        "Manan Choudhury",
+        "Anurag Dutta",
+        "Arnab Kumar De"
+      ],
+      "year": 2023,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "<jats:p>Nuclear power is perhaps one of the biggest keys to empowerment for any country. In fact, nuclear power has been the backbone of the international superpowers like the US and USSR since the 20th Century. Alongside its merits, nuclear power carried some demerits propping on it. One of the big...",
+      "doi": "10.55894/dv1.24",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv1.24"
+    },
+    {
+      "title": "Comparing experiences with mental health issues to perceptions of their prevalence: A study of Duke University undergraduates",
+      "authors": [
+        "Sean Woytowitz",
+        "Paul Seli Ph.D."
+      ],
+      "year": 2023,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.06000000000000001,
+      "abstract": "<jats:p>Mental illness affects all populations but has disproportionately affected college students in the recent past. Universities provide a unique setting in which students often live away from their families and must make an effort to stay socially engaged. While plenty of research on mental hea...",
+      "doi": "10.55894/dv1.23",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv1.23"
+    },
+    {
+      "title": "Masculinity and Novel Male Contraceptives: Does Masculine Norm Conformity Influence Preference?",
+      "authors": [
+        "Connie Dean"
+      ],
+      "year": 2022,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.04,
+      "abstract": "<jats:p>Background: The impact of masculine norm endorsement on decision making regarding male contraceptive methods is a bounteous, yet unexplored, area of research. Aim: The aim of this paper is to understand how masculinity and attitudes towards sex impact male contraceptive usage and how prefere...",
+      "doi": "10.55894/dv1.11",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv1.11"
+    },
+    {
+      "title": "Customizable crying and connection: personalization and its effect on player emotion and empathy",
+      "authors": [
+        "Devinne Moses"
+      ],
+      "year": 2022,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.04,
+      "abstract": "<jats:p>Player choice sets video games apart from other visual media, and narrative designers work with game developers to implement tools that allow players to make choices and feel involved. Prior research focuses on games that include emotional themes and character customization, which are seen a...",
+      "doi": "10.55894/dv1.14",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv1.14"
+    },
+    {
+      "title": "Utilizing Patient Characteristics to Predict the Likelihood of Heart Condition",
+      "authors": [
+        "Jackson Cathey",
+        "Carson Herman",
+        "Michelle Tetro",
+        "Melody Gao"
+      ],
+      "year": 2022,
+      "venue": "Vertices: Duke's Undergraduate Research Journal",
+      "relevance_score": 0.04,
+      "abstract": "<jats:p>As primary care providers deal with a multitude of chronic conditions, cardiovascular disease may often be overlooked. Finding cardiovascular disease early in a patient increases treatment options and reduces the likelihood of further complications. Thus, it is important that providers have ...",
+      "doi": "10.55894/dv1.12",
+      "arxiv_id": null,
+      "url": "https://doi.org/10.55894/dv1.12"
+    }
+  ],
+  "claims": [
+    {
+      "statement": "Firstly, we characterize these graphs by a special decomposition, and we specify the prime graphs among them",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "a collection E(G) of unordered pairs of distinct vertices",
+        "a negative almost true twin for a given vertex",
+        "at least two negative almost true twins for a given vertex",
+        "E(G) of unordered pairs of distinct vertices"
+      ]
+    },
+    {
+      "statement": "We first prove several properties of the weak k-metric dimension regarding the presence of true or false twin vertices in a graph",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "those properties",
+        "of a graph G",
+        "is \"stronger\" than the classical metric dimension",
+        "is defined is denoted by kappa(G)",
+        "regarding the presence of true or false twin vertices in a graph",
+        "that the distance difference increases by the increase of the cardinality of a set S",
+        "for all k <= kappa(G)"
+      ]
+    },
+    {
+      "statement": "Nonetheless, the first infinite family of connected digraphs that is SHDS is constructed",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "exactly one negative eigenvalue",
+        "of classes of switching equivalent digraphs",
+        "of twin vertices into a structure that is named negative tetrahedron",
+        "of all digraphs with exactly one negative eigenvalue"
+      ]
+    },
+    {
+      "statement": "The negative tetrahedron and the first infinite family of connected digraphs that are strongly determined by the Hermitian spectrum",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "exactly one negative eigenvalue",
+        "of classes of switching equivalent digraphs",
+        "of twin vertices into a structure that is named negative tetrahedron",
+        "of all digraphs with exactly one negative eigenvalue"
+      ]
+    },
+    {
+      "statement": "This study is the first to systematically assess gender differences in healthcare satisfaction during an epidemic from a quantitative perspective using large-scale representative data, filling a gap in the existing literature on this critical issue",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "the U",
+        "data from the 2021-2022 General Social Survey (GSS)",
+        "large-scale representative data",
+        "with the U",
+        "during an epidemic from a quantitative perspective using large-scale representative data",
+        "this critical issue",
+        "broad satisfaction metrics",
+        "between gender and socioeconomic factors",
+        "for achieving gender equity in the U"
+      ]
+    },
+    {
+      "statement": "The subsequent runs under these variables reveal that higher resolution images lead to considerably better tracking, with an optimal feature threshold ranging between 3000~12000 feature points per frame",
+      "confidence": 0.35,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "these variables reveal that higher resolution images lead to considerably better tracking",
+        "the dimensions of the film",
+        "an optimal feature threshold ranging between 3000~12000 feature points per frame",
+        "a decreased error of close to 0cm compared to 23",
+        "an iPhone Xr camera",
+        "higher resolution inputs",
+        "real-life indoor environments recorded with an iPhone Xr camera",
+        "and mapping (SLAM) has opened numerous applications in computer vision",
+        "of SLAM performance in varied and tailored environments",
+        "of features",
+        "256\u00d7144 and 512\u00d7288 at 30 frames per second (FPS)",
+        "images lead to considerably better tracking",
+        "inputs",
+        "blur"
+      ]
+    },
+    {
+      "statement": "We investigate a mathematical model presented by Best et al",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "low extracellular serotonin values at the steady state",
+        "model",
+        "level variation from 75% to 125% of their base values",
+        "model",
+        "levels",
+        "and show that it is reasonably insensitive",
+        "antidepressant used today"
+      ]
+    },
+    {
+      "statement": "We also use the model to simulate the effects of monoamine oxidase inhibitors (MAOIs), one of the first treatments discovered for depression",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "low extracellular serotonin values at the steady state",
+        "model",
+        "level variation from 75% to 125% of their base values",
+        "model",
+        "levels",
+        "and show that it is reasonably insensitive",
+        "antidepressant used today"
+      ]
+    },
+    {
+      "statement": "Both groups displayed a statistically significant decrease in task accuracy\u2014highlighting the Arrow Switch Task\u2019s efficacy in assessing cognitive flexibility\u2014and response time between the first and second task",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "of AI into educational practices",
+        "university students\u2019 cognitive flexibility",
+        "between ChatGPT usage and cognitive flexibility",
+        "into the longitudinal effects of AI tools on learning processes",
+        "cognitive flexibility"
+      ]
+    },
+    {
+      "statement": "The first study investigates how exercise and food intake affect metabolism, using zebrafish as our model",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "zebrafish as our model",
+        "and metabolism are regulated",
+        "human health and conservation efforts"
+      ]
+    },
+    {
+      "statement": "While iPSCs have been used in various studies, a lack of familiarity with all available protocols for neuronal differentiation makes it difficult to identify best practices",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "all available protocols for neuronal differentiation makes it difficult to identify best practices",
+        "makes it difficult to identify best practices"
+      ]
+    },
+    {
+      "statement": "By compiling and summarizing these various methods, future studies can determine which methods are best for their specific research goals, regarding timing, efficiency, and accuracy",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "all available protocols for neuronal differentiation makes it difficult to identify best practices",
+        "makes it difficult to identify best practices"
+      ]
+    },
+    {
+      "statement": "This manuscript is a literature review highlighting a novel, naturally occurring molecule with a high potential to inhibit quorum sensing and virulence",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "a high potential to inhibit quorum sensing and virulence",
+        "of virulent genes",
+        "by traditional bactericidal or bacteriostatic mechanisms"
+      ]
+    },
+    {
+      "statement": "Quorum Sensing in Pseudomonas aeruginosa: Mechanisms, strategies, and a novel inhibitor",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "a high potential to inhibit quorum sensing and virulence",
+        "of virulent genes",
+        "by traditional bactericidal or bacteriostatic mechanisms"
+      ]
+    },
+    {
+      "statement": "Method: 103 male participants aged 18+ completed a self-report electronic survey assessing masculine norm endorsement, attitudes towards sexuality and likelihood-of-usage of three novel male contraceptives; namely Nestorone, MENT and RISUG",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "RISUG",
+        "regards to the novel forms of male contraceptives",
+        "an adapted version of Parent and Moradi\u2019s Conformity to Masculine Norms Inventory-46",
+        "decision making regarding male contraceptive methods is a bounteous",
+        "of Parent and Moradi\u2019s Conformity to Masculine Norms Inventory-46",
+        "Survey was used to assess positive-negative attitudes toward sex",
+        "to MENT",
+        "themes for preference were easily identifiable",
+        "for preference",
+        "of Nesterone"
+      ]
+    },
+    {
+      "statement": "Participants were also asked which of the three contraceptive they would be most likely to use and why Results: The data showed no significant correlation between either masculine norm endorsement or attitudes towards sexuality and likelihood-of-usage for novel male contraceptives",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "RISUG",
+        "regards to the novel forms of male contraceptives",
+        "an adapted version of Parent and Moradi\u2019s Conformity to Masculine Norms Inventory-46",
+        "decision making regarding male contraceptive methods is a bounteous",
+        "of Parent and Moradi\u2019s Conformity to Masculine Norms Inventory-46",
+        "Survey was used to assess positive-negative attitudes toward sex",
+        "to MENT",
+        "themes for preference were easily identifiable",
+        "for preference",
+        "of Nesterone"
+      ]
+    },
+    {
+      "statement": "Conclusions: The results of this study indicate that the sample showed preference with regards to the novel forms of male contraceptives",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "RISUG",
+        "regards to the novel forms of male contraceptives",
+        "an adapted version of Parent and Moradi\u2019s Conformity to Masculine Norms Inventory-46",
+        "decision making regarding male contraceptive methods is a bounteous",
+        "of Parent and Moradi\u2019s Conformity to Masculine Norms Inventory-46",
+        "Survey was used to assess positive-negative attitudes toward sex",
+        "to MENT",
+        "themes for preference were easily identifiable",
+        "for preference",
+        "of Nesterone"
+      ]
+    },
+    {
+      "statement": "Masculinity and Novel Male Contraceptives: Does Masculine Norm Conformity Influence Preference",
+      "confidence": 0.3,
+      "metrics": {},
+      "datasets": [],
+      "conditions": [
+        "RISUG",
+        "regards to the novel forms of male contraceptives",
+        "an adapted version of Parent and Moradi\u2019s Conformity to Masculine Norms Inventory-46",
+        "decision making regarding male contraceptive methods is a bounteous",
+        "of Parent and Moradi\u2019s Conformity to Masculine Norms Inventory-46",
+        "Survey was used to assess positive-negative attitudes toward sex",
+        "to MENT",
+        "themes for preference were easily identifiable",
+        "for preference",
+        "of Nesterone"
+      ]
+    }
+  ],
+  "contradictions": [],
+  "research_gaps": [
+    {
+      "description": "Limited use of cross-validation in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper cross-validation?",
+        "What are the best practices for cross-validation in this domain?",
+        "Why is cross-validation not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of ablation study in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper ablation study?",
+        "What are the best practices for ablation study in this domain?",
+        "Why is ablation study not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of statistical significance in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper statistical significance?",
+        "What are the best practices for statistical significance in this domain?",
+        "Why is statistical significance not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of baseline comparison in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper baseline comparison?",
+        "What are the best practices for baseline comparison in this domain?",
+        "Why is baseline comparison not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of error analysis in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper error analysis?",
+        "What are the best practices for error analysis in this domain?",
+        "Why is error analysis not commonly used?"
+      ]
+    },
+    {
+      "description": "Limited use of hyperparameter tuning in research",
+      "type": "methodological_gap",
+      "priority": 0.8,
+      "potential_questions": [
+        "How would results change with proper hyperparameter tuning?",
+        "What are the best practices for hyperparameter tuning in this domain?",
+        "Why is hyperparameter tuning not commonly used?"
+      ]
+    },
+    {
+      "description": "Lack of real-world evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in real-world evaluation?",
+        "What are the challenges of conducting real-world evaluation?",
+        "What metrics are appropriate for real-world evaluation?"
+      ]
+    },
+    {
+      "description": "Lack of user study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in user study?",
+        "What are the challenges of conducting user study?",
+        "What metrics are appropriate for user study?"
+      ]
+    },
+    {
+      "description": "Lack of clinical trial in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in clinical trial?",
+        "What are the challenges of conducting clinical trial?",
+        "What metrics are appropriate for clinical trial?"
+      ]
+    },
+    {
+      "description": "Lack of longitudinal study in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in longitudinal study?",
+        "What are the challenges of conducting longitudinal study?",
+        "What metrics are appropriate for longitudinal study?"
+      ]
+    },
+    {
+      "description": "Lack of multi-domain evaluation in research",
+      "type": "evaluation_gap",
+      "priority": 0.7,
+      "potential_questions": [
+        "How would methods perform in multi-domain evaluation?",
+        "What are the challenges of conducting multi-domain evaluation?",
+        "What metrics are appropriate for multi-domain evaluation?"
+      ]
+    },
+    {
+      "description": "Need for recent comparative studies",
+      "type": "temporal_gap",
+      "priority": 0.5,
+      "potential_questions": [
+        "How do recent methods compare to established ones?",
+        "What are the latest trends and developments?",
+        "Which recent approaches show the most promise?"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "paper_id": "arxiv_2502_10521",
+      "bibtex": "@article{arxiv_2502_10521,\n  title={Quantum Mycielskians: symmetries, twin vertices and distinguishing labelings},\n  author={Arkadiusz Bochniak and Igor Che\u0142stowski and Pawe\u0142 Kasprzak and Piotr M. So\u0142tan},\n  journal={arXiv preprint arXiv:2502.10521},\n  year={2025},\n  url={http://arxiv.org/abs/2502.10521v2}\n}",
+      "apa": "Bochniak, A., Che\u0142stowski, I., Kasprzak, P., & So\u0142tan, P. M. (2025). Quantum Mycielskians: symmetries, twin vertices and distinguishing labelings. arXiv preprint arXiv:2502.10521.",
+      "ieee": "Arkadiusz Bochniak et al., \"Quantum Mycielskians: symmetries, twin vertices and distinguishing labelings,\" arXiv preprint arXiv:2502.10521, 2025.",
+      "mla": "Bochniak, A., et al.. \"Quantum Mycielskians: symmetries, twin vertices and distinguishing labelings.\" arXiv, 2502.10521, 2025.",
+      "custom_format": "\\bibitem{BoChKa25} A. Bochniak, I. Che\u0142stowski, P. Kasprzak, P.M. So\u0142tan, Quantum mycielskians: symmetries, twin vertices and distinguishing labelings, arXiv (2025). http://arxiv.org/abs/2502.10521v2",
+      "paper_url": "http://arxiv.org/abs/2502.10521v2",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2303_04952",
+      "bibtex": "@article{arxiv_2303_04952,\n  title={Fractional revival between twin vertices},\n  author={Hermie Monterde},\n  journal={arXiv preprint arXiv:2303.04952},\n  year={2023},\n  url={http://arxiv.org/abs/2303.04952v1}\n}",
+      "apa": "Monterde, H. (2023). Fractional revival between twin vertices. arXiv preprint arXiv:2303.04952.",
+      "ieee": "Hermie Monterde, \"Fractional revival between twin vertices,\" arXiv preprint arXiv:2303.04952, 2023.",
+      "mla": "Monterde, H.. \"Fractional revival between twin vertices.\" arXiv, 2303.04952, 2023.",
+      "custom_format": "\\bibitem{Mo23} H. Monterde, Fractional revival between twin vertices, arXiv (2023). http://arxiv.org/abs/2303.04952v1",
+      "paper_url": "http://arxiv.org/abs/2303.04952v1",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2109_05306",
+      "bibtex": "@article{arxiv_2109_05306,\n  title={Laplacian State Transfer on Graphs with an Edge Perturbation Between Twin Vertices},\n  author={Hiranmoy Pal},\n  journal={arXiv preprint arXiv:2109.05306},\n  year={2021},\n  url={http://arxiv.org/abs/2109.05306v1}\n}",
+      "apa": "Pal, H. (2021). Laplacian State Transfer on Graphs with an Edge Perturbation Between Twin Vertices. arXiv preprint arXiv:2109.05306.",
+      "ieee": "Hiranmoy Pal, \"Laplacian State Transfer on Graphs with an Edge Perturbation Between Twin Vertices,\" arXiv preprint arXiv:2109.05306, 2021.",
+      "mla": "Pal, H.. \"Laplacian State Transfer on Graphs with an Edge Perturbation Between Twin Vertices.\" arXiv, 2109.05306, 2021.",
+      "custom_format": "\\bibitem{Pa21} H. Pal, Laplacian state transfer on graphs with an edge perturbation between twin vertices, arXiv (2021). http://arxiv.org/abs/2109.05306v1",
+      "paper_url": "http://arxiv.org/abs/2109.05306v1",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_2111_01265",
+      "bibtex": "@article{arxiv_2111_01265,\n  title={Strong Cospectrality and Twin Vertices in Weighted Graphs},\n  author={Hermie Monterde},\n  journal={arXiv preprint arXiv:2111.01265},\n  year={2021},\n  url={http://arxiv.org/abs/2111.01265v2}\n}",
+      "apa": "Monterde, H. (2021). Strong Cospectrality and Twin Vertices in Weighted Graphs. arXiv preprint arXiv:2111.01265.",
+      "ieee": "Hermie Monterde, \"Strong Cospectrality and Twin Vertices in Weighted Graphs,\" arXiv preprint arXiv:2111.01265, 2021.",
+      "mla": "Monterde, H.. \"Strong Cospectrality and Twin Vertices in Weighted Graphs.\" arXiv, 2111.01265, 2021.",
+      "custom_format": "\\bibitem{Mo21} H. Monterde, Strong cospectrality and twin vertices in weighted graphs, arXiv (2021). http://arxiv.org/abs/2111.01265v2",
+      "paper_url": "http://arxiv.org/abs/2111.01265v2",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_1504_06257",
+      "bibtex": "@article{arxiv_1504_06257,\n  title={Critical ideals of signed graphs with twin vertices},\n  author={Carlos A. Alfaro and Hugo Corrales and Carlos E. Valencia},\n  journal={arXiv preprint arXiv:1504.06257},\n  year={2015},\n  url={http://arxiv.org/abs/1504.06257v4}\n}",
+      "apa": "Alfaro, C. A., Corrales, H., & Valencia, C. E. (2015). Critical ideals of signed graphs with twin vertices. arXiv preprint arXiv:1504.06257.",
+      "ieee": "Carlos A. Alfaro, Hugo Corrales, Carlos E. Valencia, \"Critical ideals of signed graphs with twin vertices,\" arXiv preprint arXiv:1504.06257, 2015.",
+      "mla": "Alfaro, C. A., et al.. \"Critical ideals of signed graphs with twin vertices.\" arXiv, 1504.06257, 2015.",
+      "custom_format": "\\bibitem{AlCoVa15} C.A. Alfaro, H. Corrales, C.E. Valencia, Critical ideals of signed graphs with twin vertices, arXiv (2015). http://arxiv.org/abs/1504.06257v4",
+      "paper_url": "http://arxiv.org/abs/1504.06257v4",
+      "journal_name": "arXiv",
+      "year": 2015
+    },
+    {
+      "paper_id": "10_3390_math13213466",
+      "bibtex": "@article{10_3390_math13213466,\n  title={Prime Graphs with Almost True Twin Vertices},\n  author={Aymen Ben Amira and Moncef Bouaziz},\n  journal={Mathematics},\n  year={2025},\n  doi={10.3390/math13213466},\n  url={https://doi.org/10.3390/math13213466}\n}",
+      "apa": "Amira, A. B. & Bouaziz, M. (2025). Prime Graphs with Almost True Twin Vertices. Mathematics.",
+      "ieee": "Aymen Ben Amira, Moncef Bouaziz, \"Prime Graphs with Almost True Twin Vertices,\" Mathematics, 2025.",
+      "mla": "Amira, A. B., and Moncef Bouaziz. \"Prime Graphs with Almost True Twin Vertices.\" Mathematics, 2025.",
+      "custom_format": "\\bibitem{AmBo25} A.B. Amira, M. Bouaziz, Prime graphs with almost true twin vertices, Mathematics \\textbf{13}(21) (2025) 3466. https://doi.org/10.3390/math13213466",
+      "paper_url": "https://doi.org/10.3390/math13213466",
+      "journal_name": "Mathematics",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2106_14285",
+      "bibtex": "@article{arxiv_2106_14285,\n  title={Twin Vertices in Fault-Tolerant Metric Sets and Fault-Tolerant Metric Dimension of Multistage Interconnection Networks},\n  author={S. Prabhu and V. Manimozhi and M. Arulperumjothi and Sandi Klav\u017ear},\n  journal={arXiv preprint arXiv:2106.14285},\n  year={2021},\n  url={http://arxiv.org/abs/2106.14285v2}\n}",
+      "apa": "Prabhu, S., Manimozhi, V., Arulperumjothi, M., & Klav\u017ear, S. (2021). Twin Vertices in Fault-Tolerant Metric Sets and Fault-Tolerant Metric Dimension of Multistage Interconnection Networks. arXiv preprint arXiv:2106.14285.",
+      "ieee": "S. Prabhu et al., \"Twin Vertices in Fault-Tolerant Metric Sets and Fault-Tolerant Metric Dimension of Multistage Interconnection Networks,\" arXiv preprint arXiv:2106.14285, 2021.",
+      "mla": "Prabhu, S., et al.. \"Twin Vertices in Fault-Tolerant Metric Sets and Fault-Tolerant Metric Dimension of Multistage Interconnection Networks.\" arXiv, 2106.14285, 2021.",
+      "custom_format": "\\bibitem{PrMaAr21} S. Prabhu, V. Manimozhi, M. Arulperumjothi, S. Klav\u017ear, Twin vertices in fault-tolerant metric sets and fault-tolerant metric dimension of multistage interconnection networks, arXiv (2021). http://arxiv.org/abs/2106.14285v2",
+      "paper_url": "http://arxiv.org/abs/2106.14285v2",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "10_4310_joc_2014_v5_n4_a2",
+      "bibtex": "@article{10_4310_joc_2014_v5_n4_a2,\n  title={Characterizing graph classes using twin vertices of regular induced subgraphs},\n  author={Terry A. McKee},\n  journal={Journal of Combinatorics},\n  year={2014},\n  doi={10.4310/joc.2014.v5.n4.a2},\n  url={https://doi.org/10.4310/joc.2014.v5.n4.a2}\n}",
+      "apa": "McKee, T. A. (2014). Characterizing graph classes using twin vertices of regular induced subgraphs. Journal of Combinatorics.",
+      "ieee": "Terry A. McKee, \"Characterizing graph classes using twin vertices of regular induced subgraphs,\" Journal of Combinatorics, 2014.",
+      "mla": "McKee, T. A.. \"Characterizing graph classes using twin vertices of regular induced subgraphs.\" Journal of Combinatorics, 2014.",
+      "custom_format": "\\bibitem{Mc14} T.A. McKee, Characterizing graph classes using twin vertices of regular induced subgraphs, Journal of Combinatorics \\textbf{5}(4) (2014) 435-444. https://doi.org/10.4310/joc.2014.v5.n4.a2",
+      "paper_url": "https://doi.org/10.4310/joc.2014.v5.n4.a2",
+      "journal_name": "Journal of Combinatorics",
+      "year": 2014
+    },
+    {
+      "paper_id": "10_1016_j_endm_2006_08_069",
+      "bibtex": "@article{10_1016_j_endm_2006_08_069,\n  title={Twin Vertices in Hypergraphs},\n  author={Olivier Raynaud and Raoul Medina and Caroline Noyer},\n  journal={Electronic Notes in Discrete Mathematics},\n  year={2006},\n  doi={10.1016/j.endm.2006.08.069},\n  url={https://doi.org/10.1016/j.endm.2006.08.069}\n}",
+      "apa": "Raynaud, O., Medina, R., & Noyer, C. (2006). Twin Vertices in Hypergraphs. Electronic Notes in Discrete Mathematics.",
+      "ieee": "Olivier Raynaud, Raoul Medina, Caroline Noyer, \"Twin Vertices in Hypergraphs,\" Electronic Notes in Discrete Mathematics, 2006.",
+      "mla": "Raynaud, O., et al.. \"Twin Vertices in Hypergraphs.\" Electronic Notes in Discrete Mathematics, 2006.",
+      "custom_format": "\\bibitem{RaMeNo06} O. Raynaud, R. Medina, C. Noyer, Twin vertices in hypergraphs, Electronic Notes in Discrete Mathematics \\textbf{27} (2006) 87-89. https://doi.org/10.1016/j.endm.2006.08.069",
+      "paper_url": "https://doi.org/10.1016/j.endm.2006.08.069",
+      "journal_name": "Electronic Notes in Discrete Mathematics",
+      "year": 2006
+    },
+    {
+      "paper_id": "10_1134_1_1578138",
+      "bibtex": "@article{10_1134_1_1578138,\n  title={On microcrack nucleation at twin vertices and boundaries in bcc and fcc metals},\n  author={V. A. Fedorov and V. A. Kuranova and Yu. I. Tyalin and S. N. Pluzhnikov},\n  journal={Crystallography Reports},\n  year={2003},\n  doi={10.1134/1.1578138},\n  url={https://doi.org/10.1134/1.1578138}\n}",
+      "apa": "Fedorov, V. A., Kuranova, V. A., Tyalin, Y. I., & Pluzhnikov, S. N. (2003). On microcrack nucleation at twin vertices and boundaries in bcc and fcc metals. Crystallography Reports.",
+      "ieee": "V. A. Fedorov et al., \"On microcrack nucleation at twin vertices and boundaries in bcc and fcc metals,\" Crystallography Reports, 2003.",
+      "mla": "Fedorov, V. A., et al.. \"On microcrack nucleation at twin vertices and boundaries in bcc and fcc metals.\" Crystallography Reports, 2003.",
+      "custom_format": "\\bibitem{FeKuTy03} V.A. Fedorov, V.A. Kuranova, Yu.I. Tyalin, S.N. Pluzhnikov, On microcrack nucleation at twin vertices and boundaries in bcc and fcc metals, Crystallography Reports \\textbf{48}(3) (2003) 483-485. https://doi.org/10.1134/1.1578138",
+      "paper_url": "https://doi.org/10.1134/1.1578138",
+      "journal_name": "Crystallography Reports",
+      "year": 2003
+    },
+    {
+      "paper_id": "arxiv_2309_00922",
+      "bibtex": "@article{arxiv_2309_00922,\n  title={Resolving vertices of graphs with differences},\n  author={Iztok Peterina and Jelena Sedlar and Riste \u0160krekovski and Ismael G. Yero},\n  journal={arXiv preprint arXiv:2309.00922},\n  year={2023},\n  url={http://arxiv.org/abs/2309.00922v1}\n}",
+      "apa": "Peterina, I., Sedlar, J., \u0160krekovski, R., & Yero, I. G. (2023). Resolving vertices of graphs with differences. arXiv preprint arXiv:2309.00922.",
+      "ieee": "Iztok Peterina et al., \"Resolving vertices of graphs with differences,\" arXiv preprint arXiv:2309.00922, 2023.",
+      "mla": "Peterina, I., et al.. \"Resolving vertices of graphs with differences.\" arXiv, 2309.00922, 2023.",
+      "custom_format": "\\bibitem{PeSe\u0160k23} I. Peterina, J. Sedlar, R. \u0160krekovski, I.G. Yero, Resolving vertices of graphs with differences, arXiv (2023). http://arxiv.org/abs/2309.00922v1",
+      "paper_url": "http://arxiv.org/abs/2309.00922v1",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2201_02720",
+      "bibtex": "@article{arxiv_2201_02720,\n  title={Quantum state transfer between twins in weighted graphs},\n  author={Stephen Kirkland and Hermie Monterde and Sarah Plosker},\n  journal={arXiv preprint arXiv:2201.02720},\n  year={2022},\n  url={http://arxiv.org/abs/2201.02720v3}\n}",
+      "apa": "Kirkland, S., Monterde, H., & Plosker, S. (2022). Quantum state transfer between twins in weighted graphs. arXiv preprint arXiv:2201.02720.",
+      "ieee": "Stephen Kirkland, Hermie Monterde, Sarah Plosker, \"Quantum state transfer between twins in weighted graphs,\" arXiv preprint arXiv:2201.02720, 2022.",
+      "mla": "Kirkland, S., et al.. \"Quantum state transfer between twins in weighted graphs.\" arXiv, 2201.02720, 2022.",
+      "custom_format": "\\bibitem{KiMoPl22} S. Kirkland, H. Monterde, S. Plosker, Quantum state transfer between twins in weighted graphs, arXiv (2022). http://arxiv.org/abs/2201.02720v3",
+      "paper_url": "http://arxiv.org/abs/2201.02720v3",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_1904_05670",
+      "bibtex": "@article{arxiv_1904_05670,\n  title={On the Displacement of Eigenvalues when Removing a Twin Vertex},\n  author={Johann A. Briffa and Irene Sciriha},\n  journal={arXiv preprint arXiv:1904.05670},\n  year={2019},\n  url={http://arxiv.org/abs/1904.05670v4}\n}",
+      "apa": "Briffa, J. A. & Sciriha, I. (2019). On the Displacement of Eigenvalues when Removing a Twin Vertex. arXiv preprint arXiv:1904.05670.",
+      "ieee": "Johann A. Briffa, Irene Sciriha, \"On the Displacement of Eigenvalues when Removing a Twin Vertex,\" arXiv preprint arXiv:1904.05670, 2019.",
+      "mla": "Briffa, J. A., and Irene Sciriha. \"On the Displacement of Eigenvalues when Removing a Twin Vertex.\" arXiv, 1904.05670, 2019.",
+      "custom_format": "\\bibitem{BrSc19} J.A. Briffa, I. Sciriha, On the displacement of eigenvalues when removing a twin vertex, arXiv (2019). http://arxiv.org/abs/1904.05670v4",
+      "paper_url": "http://arxiv.org/abs/1904.05670v4",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_1602_08907",
+      "bibtex": "@article{arxiv_1602_08907,\n  title={On the Partition Dimension and the Twin Number of a Graph},\n  author={Carmen Hernando and Merce Mora and Ignacio M Pelayo},\n  journal={arXiv preprint arXiv:1602.08907},\n  year={2016},\n  url={http://arxiv.org/abs/1602.08907v3}\n}",
+      "apa": "Hernando, C., Mora, M., & Pelayo, I. M. (2016). On the Partition Dimension and the Twin Number of a Graph. arXiv preprint arXiv:1602.08907.",
+      "ieee": "Carmen Hernando, Merce Mora, Ignacio M Pelayo, \"On the Partition Dimension and the Twin Number of a Graph,\" arXiv preprint arXiv:1602.08907, 2016.",
+      "mla": "Hernando, C., et al.. \"On the Partition Dimension and the Twin Number of a Graph.\" arXiv, 1602.08907, 2016.",
+      "custom_format": "\\bibitem{HeMoPe16} C. Hernando, M. Mora, I.M. Pelayo, On the partition dimension and the twin number of a graph, arXiv (2016). http://arxiv.org/abs/1602.08907v3",
+      "paper_url": "http://arxiv.org/abs/1602.08907v3",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_1510_01165",
+      "bibtex": "@article{arxiv_1510_01165,\n  title={Tight lower bounds on the number of bicliques in false-twin-free graphs},\n  author={Marina Groshaus and Leandro Montero},\n  journal={arXiv preprint arXiv:1510.01165},\n  year={2015},\n  url={http://arxiv.org/abs/1510.01165v2}\n}",
+      "apa": "Groshaus, M. & Montero, L. (2015). Tight lower bounds on the number of bicliques in false-twin-free graphs. arXiv preprint arXiv:1510.01165.",
+      "ieee": "Marina Groshaus, Leandro Montero, \"Tight lower bounds on the number of bicliques in false-twin-free graphs,\" arXiv preprint arXiv:1510.01165, 2015.",
+      "mla": "Groshaus, M., and Leandro Montero. \"Tight lower bounds on the number of bicliques in false-twin-free graphs.\" arXiv, 1510.01165, 2015.",
+      "custom_format": "\\bibitem{GrMo15} M. Groshaus, L. Montero, Tight lower bounds on the number of bicliques in false-twin-free graphs, arXiv (2015). http://arxiv.org/abs/1510.01165v2",
+      "paper_url": "http://arxiv.org/abs/1510.01165v2",
+      "journal_name": "arXiv",
+      "year": 2015
+    },
+    {
+      "paper_id": "arxiv_2510_18359",
+      "bibtex": "@article{arxiv_2510_18359,\n  title={Hamiltonian Cycles in Subdivided Doubles},\n  author={David Eppstein},\n  journal={arXiv preprint arXiv:2510.18359},\n  year={2025},\n  url={http://arxiv.org/abs/2510.18359v1}\n}",
+      "apa": "Eppstein, D. (2025). Hamiltonian Cycles in Subdivided Doubles. arXiv preprint arXiv:2510.18359.",
+      "ieee": "David Eppstein, \"Hamiltonian Cycles in Subdivided Doubles,\" arXiv preprint arXiv:2510.18359, 2025.",
+      "mla": "Eppstein, D.. \"Hamiltonian Cycles in Subdivided Doubles.\" arXiv, 2510.18359, 2025.",
+      "custom_format": "\\bibitem{Ep25} D. Eppstein, Hamiltonian cycles in subdivided doubles, arXiv (2025). http://arxiv.org/abs/2510.18359v1",
+      "paper_url": "http://arxiv.org/abs/2510.18359v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2511_17369",
+      "bibtex": "@article{arxiv_2511_17369,\n  title={Roman $\\{2\\}$-domination on Graphs with \"few\" 4-paths},\n  author={Lara Fern\u00e1ndez and Valeria Leoni},\n  journal={arXiv preprint arXiv:2511.17369},\n  year={2025},\n  url={http://arxiv.org/abs/2511.17369v2}\n}",
+      "apa": "Fern\u00e1ndez, L. & Leoni, V. (2025). Roman $\\{2\\}$-domination on Graphs with \"few\" 4-paths. arXiv preprint arXiv:2511.17369.",
+      "ieee": "Lara Fern\u00e1ndez, Valeria Leoni, \"Roman $\\{2\\}$-domination on Graphs with \"few\" 4-paths,\" arXiv preprint arXiv:2511.17369, 2025.",
+      "mla": "Fern\u00e1ndez, L., and Valeria Leoni. \"Roman $\\{2\\}$-domination on Graphs with \"few\" 4-paths.\" arXiv, 2511.17369, 2025.",
+      "custom_format": "\\bibitem{FeLe25} L. Fern\u00e1ndez, V. Leoni, Roman $\\{2\\}$-domination on graphs with \"few\" 4-paths, arXiv (2025). http://arxiv.org/abs/2511.17369v2",
+      "paper_url": "http://arxiv.org/abs/2511.17369v2",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "arxiv_2506_12933",
+      "bibtex": "@article{arxiv_2506_12933,\n  title={Locating-dominating partitions for some classes of graphs},\n  author={Florent Foucaud and Paras Vinubhai Maniya and Kaustav Paul and Dinabandhu Pradhan},\n  journal={arXiv preprint arXiv:2506.12933},\n  year={2025},\n  url={http://arxiv.org/abs/2506.12933v1}\n}",
+      "apa": "Foucaud, F., Maniya, P. V., Paul, K., & Pradhan, D. (2025). Locating-dominating partitions for some classes of graphs. arXiv preprint arXiv:2506.12933.",
+      "ieee": "Florent Foucaud et al., \"Locating-dominating partitions for some classes of graphs,\" arXiv preprint arXiv:2506.12933, 2025.",
+      "mla": "Foucaud, F., et al.. \"Locating-dominating partitions for some classes of graphs.\" arXiv, 2506.12933, 2025.",
+      "custom_format": "\\bibitem{FoMaPa25} F. Foucaud, P.V. Maniya, K. Paul, D. Pradhan, Locating-dominating partitions for some classes of graphs, arXiv (2025). http://arxiv.org/abs/2506.12933v1",
+      "paper_url": "http://arxiv.org/abs/2506.12933v1",
+      "journal_name": "arXiv",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1021_ci00018a033",
+      "bibtex": "@article{10_1021_ci00018a033,\n  title={Topological Twin Graphs. Smallest Pair of Isospectral Polyhedral Graphs with Eight Vertices},\n  author={Haruo Hosoya and Umpei Nagashima and Sachiko Hyugaji},\n  journal={Journal of Chemical Information and Computer Sciences},\n  year={1994},\n  doi={10.1021/ci00018a033},\n  url={https://doi.org/10.1021/ci00018a033}\n}",
+      "apa": "Hosoya, H., Nagashima, U., & Hyugaji, S. (1994). Topological Twin Graphs. Smallest Pair of Isospectral Polyhedral Graphs with Eight Vertices. Journal of Chemical Information and Computer Sciences.",
+      "ieee": "Haruo Hosoya, Umpei Nagashima, Sachiko Hyugaji, \"Topological Twin Graphs. Smallest Pair of Isospectral Polyhedral Graphs with Eight Vertices,\" Journal of Chemical Information and Computer Sciences, 1994.",
+      "mla": "Hosoya, H., et al.. \"Topological Twin Graphs. Smallest Pair of Isospectral Polyhedral Graphs with Eight Vertices.\" Journal of Chemical Information and Computer Sciences, 1994.",
+      "custom_format": "\\bibitem{HoNaHy94} H. Hosoya, U. Nagashima, S. Hyugaji, Topological twin graphs. smallest pair of isospectral polyhedral graphs with eight vertices, Journal of Chemical Information and Computer Sciences \\textbf{34}(2) (1994) 428-431. https://doi.org/10.1021/ci00018a033",
+      "paper_url": "https://doi.org/10.1021/ci00018a033",
+      "journal_name": "Journal of Chemical Information and Computer Sciences",
+      "year": 1994
+    },
+    {
+      "paper_id": "arxiv_2403_02458",
+      "bibtex": "@article{arxiv_2403_02458,\n  title={Saturated Partial Embeddings of Planar Graphs},\n  author={Alexander Clifton and Nika Salia},\n  journal={arXiv preprint arXiv:2403.02458},\n  year={2024},\n  url={http://arxiv.org/abs/2403.02458v1}\n}",
+      "apa": "Clifton, A. & Salia, N. (2024). Saturated Partial Embeddings of Planar Graphs. arXiv preprint arXiv:2403.02458.",
+      "ieee": "Alexander Clifton, Nika Salia, \"Saturated Partial Embeddings of Planar Graphs,\" arXiv preprint arXiv:2403.02458, 2024.",
+      "mla": "Clifton, A., and Nika Salia. \"Saturated Partial Embeddings of Planar Graphs.\" arXiv, 2403.02458, 2024.",
+      "custom_format": "\\bibitem{ClSa24} A. Clifton, N. Salia, Saturated partial embeddings of planar graphs, arXiv (2024). http://arxiv.org/abs/2403.02458v1",
+      "paper_url": "http://arxiv.org/abs/2403.02458v1",
+      "journal_name": "arXiv",
+      "year": 2024
+    },
+    {
+      "paper_id": "arxiv_2404_00771",
+      "bibtex": "@article{arxiv_2404_00771,\n  title={Metric dimensions of generalized Sierpi\u0144ski graphs over squares},\n  author={Savari Prabhu and T. Jenifer Janany and Sandi Klav\u017ear},\n  journal={arXiv preprint arXiv:2404.00771},\n  year={2024},\n  url={http://arxiv.org/abs/2404.00771v1}\n}",
+      "apa": "Prabhu, S., Janany, T. J., & Klav\u017ear, S. (2024). Metric dimensions of generalized Sierpi\u0144ski graphs over squares. arXiv preprint arXiv:2404.00771.",
+      "ieee": "Savari Prabhu, T. Jenifer Janany, Sandi Klav\u017ear, \"Metric dimensions of generalized Sierpi\u0144ski graphs over squares,\" arXiv preprint arXiv:2404.00771, 2024.",
+      "mla": "Prabhu, S., et al.. \"Metric dimensions of generalized Sierpi\u0144ski graphs over squares.\" arXiv, 2404.00771, 2024.",
+      "custom_format": "\\bibitem{PrJaKl24} S. Prabhu, T.J. Janany, S. Klav\u017ear, Metric dimensions of generalized sierpi\u0144ski graphs over squares, arXiv (2024). http://arxiv.org/abs/2404.00771v1",
+      "paper_url": "http://arxiv.org/abs/2404.00771v1",
+      "journal_name": "arXiv",
+      "year": 2024
+    },
+    {
+      "paper_id": "arxiv_2401_00362",
+      "bibtex": "@article{arxiv_2401_00362,\n  title={New results in vertex sedentariness},\n  author={Hermie Monterde},\n  journal={arXiv preprint arXiv:2401.00362},\n  year={2023},\n  url={http://arxiv.org/abs/2401.00362v1}\n}",
+      "apa": "Monterde, H. (2023). New results in vertex sedentariness. arXiv preprint arXiv:2401.00362.",
+      "ieee": "Hermie Monterde, \"New results in vertex sedentariness,\" arXiv preprint arXiv:2401.00362, 2023.",
+      "mla": "Monterde, H.. \"New results in vertex sedentariness.\" arXiv, 2401.00362, 2023.",
+      "custom_format": "\\bibitem{Mo23} H. Monterde, New results in vertex sedentariness, arXiv (2023). http://arxiv.org/abs/2401.00362v1",
+      "paper_url": "http://arxiv.org/abs/2401.00362v1",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "arxiv_2202_04957",
+      "bibtex": "@article{arxiv_2202_04957,\n  title={Constructing graphs having Laplacian pair state transfer by an edge perturbation},\n  author={Wei Wang and Xiaogang Liu and Jing Wang},\n  journal={arXiv preprint arXiv:2202.04957},\n  year={2022},\n  url={http://arxiv.org/abs/2202.04957v1}\n}",
+      "apa": "Wang, W., Liu, X., & Wang, J. (2022). Constructing graphs having Laplacian pair state transfer by an edge perturbation. arXiv preprint arXiv:2202.04957.",
+      "ieee": "Wei Wang, Xiaogang Liu, Jing Wang, \"Constructing graphs having Laplacian pair state transfer by an edge perturbation,\" arXiv preprint arXiv:2202.04957, 2022.",
+      "mla": "Wang, W., et al.. \"Constructing graphs having Laplacian pair state transfer by an edge perturbation.\" arXiv, 2202.04957, 2022.",
+      "custom_format": "\\bibitem{WaLiWa22} W. Wang, X. Liu, J. Wang, Constructing graphs having laplacian pair state transfer by an edge perturbation, arXiv (2022). http://arxiv.org/abs/2202.04957v1",
+      "paper_url": "http://arxiv.org/abs/2202.04957v1",
+      "journal_name": "arXiv",
+      "year": 2022
+    },
+    {
+      "paper_id": "arxiv_2102_11177",
+      "bibtex": "@article{arxiv_2102_11177,\n  title={Graphs defined on groups},\n  author={Peter J. Cameron},\n  journal={arXiv preprint arXiv:2102.11177},\n  year={2021},\n  url={http://arxiv.org/abs/2102.11177v3}\n}",
+      "apa": "Cameron, P. J. (2021). Graphs defined on groups. arXiv preprint arXiv:2102.11177.",
+      "ieee": "Peter J. Cameron, \"Graphs defined on groups,\" arXiv preprint arXiv:2102.11177, 2021.",
+      "mla": "Cameron, P. J.. \"Graphs defined on groups.\" arXiv, 2102.11177, 2021.",
+      "custom_format": "\\bibitem{Ca21} P.J. Cameron, Graphs defined on groups, arXiv (2021). http://arxiv.org/abs/2102.11177v3",
+      "paper_url": "http://arxiv.org/abs/2102.11177v3",
+      "journal_name": "arXiv",
+      "year": 2021
+    },
+    {
+      "paper_id": "arxiv_1504_01143",
+      "bibtex": "@article{arxiv_1504_01143,\n  title={Splitting cubic circle graphs},\n  author={Lorenzo Traldi},\n  journal={arXiv preprint arXiv:1504.01143},\n  year={2015},\n  url={http://arxiv.org/abs/1504.01143v1}\n}",
+      "apa": "Traldi, L. (2015). Splitting cubic circle graphs. arXiv preprint arXiv:1504.01143.",
+      "ieee": "Lorenzo Traldi, \"Splitting cubic circle graphs,\" arXiv preprint arXiv:1504.01143, 2015.",
+      "mla": "Traldi, L.. \"Splitting cubic circle graphs.\" arXiv, 1504.01143, 2015.",
+      "custom_format": "\\bibitem{Tr15} L. Traldi, Splitting cubic circle graphs, arXiv (2015). http://arxiv.org/abs/1504.01143v1",
+      "paper_url": "http://arxiv.org/abs/1504.01143v1",
+      "journal_name": "arXiv",
+      "year": 2015
+    },
+    {
+      "paper_id": "arxiv_0905_4879",
+      "bibtex": "@article{arxiv_0905_4879,\n  title={A bracket polynomial for graphs. III. Vertex weights},\n  author={Lorenzo Traldi},\n  journal={arXiv preprint arXiv:0905.4879},\n  year={2009},\n  url={http://arxiv.org/abs/0905.4879v3}\n}",
+      "apa": "Traldi, L. (2009). A bracket polynomial for graphs. III. Vertex weights. arXiv preprint arXiv:0905.4879.",
+      "ieee": "Lorenzo Traldi, \"A bracket polynomial for graphs. III. Vertex weights,\" arXiv preprint arXiv:0905.4879, 2009.",
+      "mla": "Traldi, L.. \"A bracket polynomial for graphs. III. Vertex weights.\" arXiv, 0905.4879, 2009.",
+      "custom_format": "\\bibitem{Tr09} L. Traldi, A bracket polynomial for graphs. iii. vertex weights, arXiv (2009). http://arxiv.org/abs/0905.4879v3",
+      "paper_url": "http://arxiv.org/abs/0905.4879v3",
+      "journal_name": "arXiv",
+      "year": 2009
+    },
+    {
+      "paper_id": "arxiv_1903_04575",
+      "bibtex": "@article{arxiv_1903_04575,\n  title={The normalized distance Laplacian},\n  author={Carolyn Reinhart},\n  journal={arXiv preprint arXiv:1903.04575},\n  year={2019},\n  url={http://arxiv.org/abs/1903.04575v2}\n}",
+      "apa": "Reinhart, C. (2019). The normalized distance Laplacian. arXiv preprint arXiv:1903.04575.",
+      "ieee": "Carolyn Reinhart, \"The normalized distance Laplacian,\" arXiv preprint arXiv:1903.04575, 2019.",
+      "mla": "Reinhart, C.. \"The normalized distance Laplacian.\" arXiv, 1903.04575, 2019.",
+      "custom_format": "\\bibitem{Re19} C. Reinhart, The normalized distance laplacian, arXiv (2019). http://arxiv.org/abs/1903.04575v2",
+      "paper_url": "http://arxiv.org/abs/1903.04575v2",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_1602_03899",
+      "bibtex": "@article{arxiv_1602_03899,\n  title={Isotropic matroids III: Connectivity},\n  author={Lorenzo Traldi and Robert Brijder},\n  journal={arXiv preprint arXiv:1602.03899},\n  year={2016},\n  url={http://arxiv.org/abs/1602.03899v2}\n}",
+      "apa": "Traldi, L. & Brijder, R. (2016). Isotropic matroids III: Connectivity. arXiv preprint arXiv:1602.03899.",
+      "ieee": "Lorenzo Traldi, Robert Brijder, \"Isotropic matroids III: Connectivity,\" arXiv preprint arXiv:1602.03899, 2016.",
+      "mla": "Traldi, L., and Robert Brijder. \"Isotropic matroids III: Connectivity.\" arXiv, 1602.03899, 2016.",
+      "custom_format": "\\bibitem{TrBr16} L. Traldi, R. Brijder, Isotropic matroids iii: connectivity, arXiv (2016). http://arxiv.org/abs/1602.03899v2",
+      "paper_url": "http://arxiv.org/abs/1602.03899v2",
+      "journal_name": "arXiv",
+      "year": 2016
+    },
+    {
+      "paper_id": "arxiv_1204_1989",
+      "bibtex": "@article{arxiv_1204_1989,\n  title={Multiple Petersen subdivisions in permutation graphs},\n  author={Tom\u00e1\u0161 Kaiser and Jean-S\u00e9bastien Sereni and Zelealem Yilma},\n  journal={arXiv preprint arXiv:1204.1989},\n  year={2012},\n  url={http://arxiv.org/abs/1204.1989v1}\n}",
+      "apa": "Kaiser, T., Sereni, J., & Yilma, Z. (2012). Multiple Petersen subdivisions in permutation graphs. arXiv preprint arXiv:1204.1989.",
+      "ieee": "Tom\u00e1\u0161 Kaiser, Jean-S\u00e9bastien Sereni, Zelealem Yilma, \"Multiple Petersen subdivisions in permutation graphs,\" arXiv preprint arXiv:1204.1989, 2012.",
+      "mla": "Kaiser, T., et al.. \"Multiple Petersen subdivisions in permutation graphs.\" arXiv, 1204.1989, 2012.",
+      "custom_format": "\\bibitem{KaSeYi12} T. Kaiser, J. Sereni, Z. Yilma, Multiple petersen subdivisions in permutation graphs, arXiv (2012). http://arxiv.org/abs/1204.1989v1",
+      "paper_url": "http://arxiv.org/abs/1204.1989v1",
+      "journal_name": "arXiv",
+      "year": 2012
+    },
+    {
+      "paper_id": "arxiv_2007_15284",
+      "bibtex": "@article{arxiv_2007_15284,\n  title={Determining Number and Cost of Generalized Mycielskian Graphs},\n  author={Debra Boutin and Sally Cockburn and Lauren Keough and Sarah Loeb and K. E. Perry and Puck Rombach},\n  journal={arXiv preprint arXiv:2007.15284},\n  year={2020},\n  url={http://arxiv.org/abs/2007.15284v2}\n}",
+      "apa": "Boutin, D., Cockburn, S., Keough, L., Loeb, S., Perry, K. E., & Rombach, P. (2020). Determining Number and Cost of Generalized Mycielskian Graphs. arXiv preprint arXiv:2007.15284.",
+      "ieee": "Debra Boutin et al., \"Determining Number and Cost of Generalized Mycielskian Graphs,\" arXiv preprint arXiv:2007.15284, 2020.",
+      "mla": "Boutin, D., et al.. \"Determining Number and Cost of Generalized Mycielskian Graphs.\" arXiv, 2007.15284, 2020.",
+      "custom_format": "\\bibitem{BoCoKe20} D. Boutin, S. Cockburn, L. Keough, S. Loeb, K.E. Perry, P. Rombach, Determining number and cost of generalized mycielskian graphs, arXiv (2020). http://arxiv.org/abs/2007.15284v2",
+      "paper_url": "http://arxiv.org/abs/2007.15284v2",
+      "journal_name": "arXiv",
+      "year": 2020
+    },
+    {
+      "paper_id": "arxiv_1903_09531",
+      "bibtex": "@article{arxiv_1903_09531,\n  title={The negative tetrahedron and the first infinite family of connected digraphs that are strongly determined by the Hermitian spectrum},\n  author={Pepijn Wissing and Edwin R. van Dam},\n  journal={arXiv preprint arXiv:1903.09531},\n  year={2019},\n  url={http://arxiv.org/abs/1903.09531v2}\n}",
+      "apa": "Wissing, P. & Dam, E. R. V. (2019). The negative tetrahedron and the first infinite family of connected digraphs that are strongly determined by the Hermitian spectrum. arXiv preprint arXiv:1903.09531.",
+      "ieee": "Pepijn Wissing, Edwin R. van Dam, \"The negative tetrahedron and the first infinite family of connected digraphs that are strongly determined by the Hermitian spectrum,\" arXiv preprint arXiv:1903.09531, 2019.",
+      "mla": "Wissing, P., and Edwin R. van Dam. \"The negative tetrahedron and the first infinite family of connected digraphs that are strongly determined by the Hermitian spectrum.\" arXiv, 1903.09531, 2019.",
+      "custom_format": "\\bibitem{WiDa19} P. Wissing, E.R.V. Dam, The negative tetrahedron and the first infinite family of connected digraphs that are strongly determined by the hermitian spectrum, arXiv (2019). http://arxiv.org/abs/1903.09531v2",
+      "paper_url": "http://arxiv.org/abs/1903.09531v2",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_1212_5468",
+      "bibtex": "@article{arxiv_1212_5468,\n  title={Locally identifying coloring in bounded expansion classes of graphs},\n  author={Daniel Gon\u00e7alves and Aline Parreau and Alexandre Pinlou},\n  journal={arXiv preprint arXiv:1212.5468},\n  year={2012},\n  url={http://arxiv.org/abs/1212.5468v2}\n}",
+      "apa": "Gon\u00e7alves, D., Parreau, A., & Pinlou, A. (2012). Locally identifying coloring in bounded expansion classes of graphs. arXiv preprint arXiv:1212.5468.",
+      "ieee": "Daniel Gon\u00e7alves, Aline Parreau, Alexandre Pinlou, \"Locally identifying coloring in bounded expansion classes of graphs,\" arXiv preprint arXiv:1212.5468, 2012.",
+      "mla": "Gon\u00e7alves, D., et al.. \"Locally identifying coloring in bounded expansion classes of graphs.\" arXiv, 1212.5468, 2012.",
+      "custom_format": "\\bibitem{GoPaPi12} D. Gon\u00e7alves, A. Parreau, A. Pinlou, Locally identifying coloring in bounded expansion classes of graphs, arXiv (2012). http://arxiv.org/abs/1212.5468v2",
+      "paper_url": "http://arxiv.org/abs/1212.5468v2",
+      "journal_name": "arXiv",
+      "year": 2012
+    },
+    {
+      "paper_id": "arxiv_1910_05311",
+      "bibtex": "@article{arxiv_1910_05311,\n  title={Domination and location in twin-free digraphs},\n  author={Florent Foucaud and Shahrzad Heydarshahi and Aline Parreau},\n  journal={arXiv preprint arXiv:1910.05311},\n  year={2019},\n  url={http://arxiv.org/abs/1910.05311v2}\n}",
+      "apa": "Foucaud, F., Heydarshahi, S., & Parreau, A. (2019). Domination and location in twin-free digraphs. arXiv preprint arXiv:1910.05311.",
+      "ieee": "Florent Foucaud, Shahrzad Heydarshahi, Aline Parreau, \"Domination and location in twin-free digraphs,\" arXiv preprint arXiv:1910.05311, 2019.",
+      "mla": "Foucaud, F., et al.. \"Domination and location in twin-free digraphs.\" arXiv, 1910.05311, 2019.",
+      "custom_format": "\\bibitem{FoHePa19} F. Foucaud, S. Heydarshahi, A. Parreau, Domination and location in twin-free digraphs, arXiv (2019). http://arxiv.org/abs/1910.05311v2",
+      "paper_url": "http://arxiv.org/abs/1910.05311v2",
+      "journal_name": "arXiv",
+      "year": 2019
+    },
+    {
+      "paper_id": "arxiv_2303_06297",
+      "bibtex": "@article{arxiv_2303_06297,\n  title={Sedentariness in quantum walks},\n  author={Hermie Monterde},\n  journal={arXiv preprint arXiv:2303.06297},\n  year={2023},\n  url={http://arxiv.org/abs/2303.06297v3}\n}",
+      "apa": "Monterde, H. (2023). Sedentariness in quantum walks. arXiv preprint arXiv:2303.06297.",
+      "ieee": "Hermie Monterde, \"Sedentariness in quantum walks,\" arXiv preprint arXiv:2303.06297, 2023.",
+      "mla": "Monterde, H.. \"Sedentariness in quantum walks.\" arXiv, 2303.06297, 2023.",
+      "custom_format": "\\bibitem{Mo23} H. Monterde, Sedentariness in quantum walks, arXiv (2023). http://arxiv.org/abs/2303.06297v3",
+      "paper_url": "http://arxiv.org/abs/2303.06297v3",
+      "journal_name": "arXiv",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_vdur0609",
+      "bibtex": "@article{10_55894_vdur0609,\n  title={Vertices: Duke's Undergraduate Research Journal},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.55894/vdur0609},\n  url={https://doi.org/10.55894/vdur0609}\n}",
+      "apa": "Unknown Author (2023). Vertices: Duke's Undergraduate Research Journal. .",
+      "ieee": "Unknown Author, \"Vertices: Duke's Undergraduate Research Journal,\" , 2023.",
+      "mla": "Unknown Author. \"Vertices: Duke's Undergraduate Research Journal.\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Vertices: duke's undergraduate research journal,  (2023). https://doi.org/10.55894/vdur0609",
+      "paper_url": "https://doi.org/10.55894/vdur0609",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7717_peerj_cs_1245_fig_1",
+      "bibtex": "@article{10_7717_peerj_cs_1245_fig_1,\n  title={Figure 1: Random FVS and optimal FVS (the vertices of FVS are in orange and the other vertices are in blue).},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7717/peerj-cs.1245/fig-1},\n  url={https://doi.org/10.7717/peerj-cs.1245/fig-1}\n}",
+      "apa": "Unknown Author (2023). Figure 1: Random FVS and optimal FVS (the vertices of FVS are in orange and the other vertices are in blue).. .",
+      "ieee": "Unknown Author, \"Figure 1: Random FVS and optimal FVS (the vertices of FVS are in orange and the other vertices are in blue).,\" , 2023.",
+      "mla": "Unknown Author. \"Figure 1: Random FVS and optimal FVS (the vertices of FVS are in orange and the other vertices are in blue)..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Figure 1: random fvs and optimal fvs (the vertices of fvs are in orange and the other vertices are in blue),  (2023). https://doi.org/10.7717/peerj-cs.1245/fig-1",
+      "paper_url": "https://doi.org/10.7717/peerj-cs.1245/fig-1",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7554_elife_34586_019",
+      "bibtex": "@article{10_7554_elife_34586_019,\n  title={Video 5. Myosin II flows toward vertices.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7554/elife.34586.019},\n  url={https://doi.org/10.7554/elife.34586.019}\n}",
+      "apa": "Unknown Author (2023). Video 5. Myosin II flows toward vertices.. .",
+      "ieee": "Unknown Author, \"Video 5. Myosin II flows toward vertices.,\" , 2023.",
+      "mla": "Unknown Author. \"Video 5. Myosin II flows toward vertices..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Video 5. myosin ii flows toward vertices,  (2023). https://doi.org/10.7554/elife.34586.019",
+      "paper_url": "https://doi.org/10.7554/elife.34586.019",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_7554_elife_34586_007",
+      "bibtex": "@article{10_7554_elife_34586_007,\n  title={Video 2. Contracting vertices slide along cell interfaces.},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.7554/elife.34586.007},\n  url={https://doi.org/10.7554/elife.34586.007}\n}",
+      "apa": "Unknown Author (2023). Video 2. Contracting vertices slide along cell interfaces.. .",
+      "ieee": "Unknown Author, \"Video 2. Contracting vertices slide along cell interfaces.,\" , 2023.",
+      "mla": "Unknown Author. \"Video 2. Contracting vertices slide along cell interfaces..\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, Video 2. contracting vertices slide along cell interfaces,  (2023). https://doi.org/10.7554/elife.34586.007",
+      "paper_url": "https://doi.org/10.7554/elife.34586.007",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_54014_b37h_5s5a",
+      "bibtex": "@article{10_54014_b37h_5s5a,\n  title={SUSY based displaced vertices in ATLAS detector},\n  author={Selim Unal},\n  journal={},\n  year={2023},\n  doi={10.54014/b37h-5s5a},\n  url={https://doi.org/10.54014/b37h-5s5a}\n}",
+      "apa": "Unal, S. (2023). SUSY based displaced vertices in ATLAS detector. .",
+      "ieee": "Selim Unal, \"SUSY based displaced vertices in ATLAS detector,\" , 2023.",
+      "mla": "Unal, S.. \"SUSY based displaced vertices in ATLAS detector.\" , 2023.",
+      "custom_format": "\\bibitem{Un23} S. Unal, Susy based displaced vertices in atlas detector,  (2023). https://doi.org/10.54014/b37h-5s5a",
+      "paper_url": "https://doi.org/10.54014/b37h-5s5a",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv4_1",
+      "bibtex": "@article{10_55894_dv4_1,\n  title={},\n  author={},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2025},\n  doi={10.55894/dv4.1},\n  url={https://doi.org/10.55894/dv4.1}\n}",
+      "apa": "Unknown Author (2025). . Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Unknown Author, \",\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "mla": "Unknown Author. \".\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "custom_format": "\\bibitem{Unknown25} Unknown Author, , Vertices: Duke's Undergraduate Research Journal (2025). https://doi.org/10.55894/dv4.1",
+      "paper_url": "https://doi.org/10.55894/dv4.1",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_2307_jj_23338178_12",
+      "bibtex": "@article{10_2307_jj_23338178_12,\n  title={Clinical use of the concept of vertices:},\n  author={},\n  journal={Studies in Extended Metapsychology},\n  year={2018},\n  doi={10.2307/jj.23338178.12},\n  url={https://doi.org/10.2307/jj.23338178.12}\n}",
+      "apa": "Unknown Author (2018). Clinical use of the concept of vertices:. Studies in Extended Metapsychology.",
+      "ieee": "Unknown Author, \"Clinical use of the concept of vertices:,\" Studies in Extended Metapsychology, 2018.",
+      "mla": "Unknown Author. \"Clinical use of the concept of vertices:.\" Studies in Extended Metapsychology, 2018.",
+      "custom_format": "\\bibitem{Unknown18} Unknown Author, Clinical use of the concept of vertices:, Studies in Extended Metapsychology (2018) 73-78. https://doi.org/10.2307/jj.23338178.12",
+      "paper_url": "https://doi.org/10.2307/jj.23338178.12",
+      "journal_name": "Studies in Extended Metapsychology",
+      "year": 2018
+    },
+    {
+      "paper_id": "10_21136_cmj_1973_101147",
+      "bibtex": "@article{10_21136_cmj_1973_101147,\n  title={Vertices of space curves},\n  author={Stanislav \u0160makal},\n  journal={Czechoslovak Mathematical Journal},\n  year={1973},\n  doi={10.21136/cmj.1973.101147},\n  url={https://doi.org/10.21136/cmj.1973.101147}\n}",
+      "apa": "\u0160makal, S. (1973). Vertices of space curves. Czechoslovak Mathematical Journal.",
+      "ieee": "Stanislav \u0160makal, \"Vertices of space curves,\" Czechoslovak Mathematical Journal, 1973.",
+      "mla": "\u0160makal, S.. \"Vertices of space curves.\" Czechoslovak Mathematical Journal, 1973.",
+      "custom_format": "\\bibitem{\u0160m73} S. \u0160makal, Vertices of space curves, Czechoslovak Mathematical Journal \\textbf{23}(1) (1973) 74-85. https://doi.org/10.21136/cmj.1973.101147",
+      "paper_url": "https://doi.org/10.21136/cmj.1973.101147",
+      "journal_name": "Czechoslovak Mathematical Journal",
+      "year": 1973
+    },
+    {
+      "paper_id": "10_55894_dv4_13",
+      "bibtex": "@article{10_55894_dv4_13,\n  title={Gender Inequality in Healthcare Delivery: Differences in System Satisfaction During the COVID-19 Pandemic in the United States},\n  author={Haizhu Song},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2025},\n  doi={10.55894/dv4.13},\n  url={https://doi.org/10.55894/dv4.13}\n}",
+      "apa": "Song, H. (2025). Gender Inequality in Healthcare Delivery: Differences in System Satisfaction During the COVID-19 Pandemic in the United States. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Haizhu Song, \"Gender Inequality in Healthcare Delivery: Differences in System Satisfaction During the COVID-19 Pandemic in the United States,\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "mla": "Song, H.. \"Gender Inequality in Healthcare Delivery: Differences in System Satisfaction During the COVID-19 Pandemic in the United States.\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "custom_format": "\\bibitem{So25} H. Song, Gender inequality in healthcare delivery: differences in system satisfaction during the Covid-19 pandemic in the united states, Vertices: Duke's Undergraduate Research Journal (2025). https://doi.org/10.55894/dv4.13",
+      "paper_url": "https://doi.org/10.55894/dv4.13",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_55894_dv3_21",
+      "bibtex": "@article{10_55894_dv3_21,\n  title={Impact of Aged Tumor Microenvironment and Chemosensitivity on Sub-types of Ovarian Cancer},\n  author={Lila Taylor and Zhiqing Huang},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2025},\n  doi={10.55894/dv3.21},\n  url={https://doi.org/10.55894/dv3.21}\n}",
+      "apa": "Taylor, L. & Huang, Z. (2025). Impact of Aged Tumor Microenvironment and Chemosensitivity on Sub-types of Ovarian Cancer. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Lila Taylor, Zhiqing Huang, \"Impact of Aged Tumor Microenvironment and Chemosensitivity on Sub-types of Ovarian Cancer,\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "mla": "Taylor, L., and Zhiqing Huang. \"Impact of Aged Tumor Microenvironment and Chemosensitivity on Sub-types of Ovarian Cancer.\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "custom_format": "\\bibitem{TaHu25} L. Taylor, Z. Huang, Impact of aged tumor microenvironment and chemosensitivity on sub-types of ovarian cancer, Vertices: Duke's Undergraduate Research Journal \\textbf{3}(2) (2025). https://doi.org/10.55894/dv3.21",
+      "paper_url": "https://doi.org/10.55894/dv3.21",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_21136_cpm_1966_108099",
+      "bibtex": "@article{10_21136_cpm_1966_108099,\n  title={On ordering vertices of infinite trees},\n  author={Franti\u0161ek Neuman},\n  journal={\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky},\n  year={1966},\n  doi={10.21136/cpm.1966.108099},\n  url={https://doi.org/10.21136/cpm.1966.108099}\n}",
+      "apa": "Neuman, F. (1966). On ordering vertices of infinite trees. \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky.",
+      "ieee": "Franti\u0161ek Neuman, \"On ordering vertices of infinite trees,\" \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky, 1966.",
+      "mla": "Neuman, F.. \"On ordering vertices of infinite trees.\" \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky, 1966.",
+      "custom_format": "\\bibitem{Ne66} F. Neuman, On ordering vertices of infinite trees, \u010casopis pro p\u011bstov\u00e1n\u00ed matematiky \\textbf{091}(2) (1966) 170-177. https://doi.org/10.21136/cpm.1966.108099",
+      "paper_url": "https://doi.org/10.21136/cpm.1966.108099",
+      "journal_name": "\u010casopis pro p\u011bstov\u00e1n\u00ed matematiky",
+      "year": 1966
+    },
+    {
+      "paper_id": "10_13001_1081_3810_1567",
+      "bibtex": "@article{10_13001_1081_3810_1567,\n  title={The (signless) Laplacian spectral radii of c-cyclic graphs with n vertices and k pendant vertices},\n  author={Muhuo Liu},\n  journal={The Electronic Journal of Linear Algebra},\n  year={2012},\n  doi={10.13001/1081-3810.1567},\n  url={https://doi.org/10.13001/1081-3810.1567}\n}",
+      "apa": "Liu, M. (2012). The (signless) Laplacian spectral radii of c-cyclic graphs with n vertices and k pendant vertices. The Electronic Journal of Linear Algebra.",
+      "ieee": "Muhuo Liu, \"The (signless) Laplacian spectral radii of c-cyclic graphs with n vertices and k pendant vertices,\" The Electronic Journal of Linear Algebra, 2012.",
+      "mla": "Liu, M.. \"The (signless) Laplacian spectral radii of c-cyclic graphs with n vertices and k pendant vertices.\" The Electronic Journal of Linear Algebra, 2012.",
+      "custom_format": "\\bibitem{Li12} M. Liu, The (signless) laplacian spectral radii of c-cyclic graphs with n vertices and k pendant vertices, The Electronic Journal of Linear Algebra \\textbf{23} (2012). https://doi.org/10.13001/1081-3810.1567",
+      "paper_url": "https://doi.org/10.13001/1081-3810.1567",
+      "journal_name": "The Electronic Journal of Linear Algebra",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_2172_903056",
+      "bibtex": "@article{10_2172_903056,\n  title={Kinematic Fitting of Detached Vertices},\n  author={Paul Mattione},\n  journal={},\n  year={2007},\n  doi={10.2172/903056},\n  url={https://doi.org/10.2172/903056}\n}",
+      "apa": "Mattione, P. (2007). Kinematic Fitting of Detached Vertices. .",
+      "ieee": "Paul Mattione, \"Kinematic Fitting of Detached Vertices,\" , 2007.",
+      "mla": "Mattione, P.. \"Kinematic Fitting of Detached Vertices.\" , 2007.",
+      "custom_format": "\\bibitem{Ma07} P. Mattione, Kinematic fitting of detached vertices,  (2007). https://doi.org/10.2172/903056",
+      "paper_url": "https://doi.org/10.2172/903056",
+      "journal_name": "",
+      "year": 2007
+    },
+    {
+      "paper_id": "10_55894_dv3_22",
+      "bibtex": "@article{10_55894_dv3_22,\n  title={Identity, Resilience and their Psychological Impact Among Older Adults with Cancer},\n  author={Bianca DeSilva and Timothy Strauman and Katherine Ramos},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2025},\n  doi={10.55894/dv3.22},\n  url={https://doi.org/10.55894/dv3.22}\n}",
+      "apa": "DeSilva, B., Strauman, T., & Ramos, K. (2025). Identity, Resilience and their Psychological Impact Among Older Adults with Cancer. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Bianca DeSilva, Timothy Strauman, Katherine Ramos, \"Identity, Resilience and their Psychological Impact Among Older Adults with Cancer,\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "mla": "DeSilva, B., et al.. \"Identity, Resilience and their Psychological Impact Among Older Adults with Cancer.\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "custom_format": "\\bibitem{DeStRa25} B. DeSilva, T. Strauman, K. Ramos, Identity, resilience and their psychological impact among older adults with cancer, Vertices: Duke's Undergraduate Research Journal \\textbf{3}(2) (2025). https://doi.org/10.55894/dv3.22",
+      "paper_url": "https://doi.org/10.55894/dv3.22",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_55894_dv3_24",
+      "bibtex": "@article{10_55894_dv3_24,\n  title={Beyond Existing Analysis: The Rigorous Illumination of Choice from Extant Neuroscience and Philosophy},\n  author={Shambhavi Sinha and Stratton Black},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2025},\n  doi={10.55894/dv3.24},\n  url={https://doi.org/10.55894/dv3.24}\n}",
+      "apa": "Sinha, S. & Black, S. (2025). Beyond Existing Analysis: The Rigorous Illumination of Choice from Extant Neuroscience and Philosophy. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Shambhavi Sinha, Stratton Black, \"Beyond Existing Analysis: The Rigorous Illumination of Choice from Extant Neuroscience and Philosophy,\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "mla": "Sinha, S., and Stratton Black. \"Beyond Existing Analysis: The Rigorous Illumination of Choice from Extant Neuroscience and Philosophy.\" Vertices: Duke's Undergraduate Research Journal, 2025.",
+      "custom_format": "\\bibitem{SiBl25} S. Sinha, S. Black, Beyond existing analysis: the rigorous illumination of choice from extant neuroscience and philosophy, Vertices: Duke's Undergraduate Research Journal \\textbf{3}(2) (2025). https://doi.org/10.55894/dv3.24",
+      "paper_url": "https://doi.org/10.55894/dv3.24",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2025
+    },
+    {
+      "paper_id": "10_1080_00927872_2011_585192",
+      "bibtex": "@article{10_1080_00927872_2011_585192,\n  title={Cut Vertices and Degree One Vertices of Zero-Divisor Graphs},\n  author={Shane P. Redmond},\n  journal={Communications in Algebra},\n  year={2012},\n  doi={10.1080/00927872.2011.585192},\n  url={https://doi.org/10.1080/00927872.2011.585192}\n}",
+      "apa": "Redmond, S. P. (2012). Cut Vertices and Degree One Vertices of Zero-Divisor Graphs. Communications in Algebra.",
+      "ieee": "Shane P. Redmond, \"Cut Vertices and Degree One Vertices of Zero-Divisor Graphs,\" Communications in Algebra, 2012.",
+      "mla": "Redmond, S. P.. \"Cut Vertices and Degree One Vertices of Zero-Divisor Graphs.\" Communications in Algebra, 2012.",
+      "custom_format": "\\bibitem{Re12} S.P. Redmond, Cut vertices and degree one vertices of zero-divisor graphs, Communications in Algebra \\textbf{40}(8) (2012) 2749-2756. https://doi.org/10.1080/00927872.2011.585192",
+      "paper_url": "https://doi.org/10.1080/00927872.2011.585192",
+      "journal_name": "Communications in Algebra",
+      "year": 2012
+    },
+    {
+      "paper_id": "10_55894_dv2_22",
+      "bibtex": "@article{10_55894_dv2_22,\n  title={Evaluating SLAM Performance with Synthesized Datasets from Unreal-Based Emulators},\n  author={Muchang Bahng},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2024},\n  doi={10.55894/dv2.22},\n  url={https://doi.org/10.55894/dv2.22}\n}",
+      "apa": "Bahng, M. (2024). Evaluating SLAM Performance with Synthesized Datasets from Unreal-Based Emulators. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Muchang Bahng, \"Evaluating SLAM Performance with Synthesized Datasets from Unreal-Based Emulators,\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "mla": "Bahng, M.. \"Evaluating SLAM Performance with Synthesized Datasets from Unreal-Based Emulators.\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "custom_format": "\\bibitem{Ba24} M. Bahng, Evaluating slam performance with synthesized datasets from unreal-based emulators, Vertices: Duke's Undergraduate Research Journal \\textbf{2}(2) (2024). https://doi.org/10.55894/dv2.22",
+      "paper_url": "https://doi.org/10.55894/dv2.22",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_55894_dv2_21",
+      "bibtex": "@article{10_55894_dv2_21,\n  title={Investigating Serotonin Dynamics and Simulating Effects of Antidepressants Using Variation in Enzyme Expression},\n  author={Alexander Diefes},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2024},\n  doi={10.55894/dv2.21},\n  url={https://doi.org/10.55894/dv2.21}\n}",
+      "apa": "Diefes, A. (2024). Investigating Serotonin Dynamics and Simulating Effects of Antidepressants Using Variation in Enzyme Expression. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Alexander Diefes, \"Investigating Serotonin Dynamics and Simulating Effects of Antidepressants Using Variation in Enzyme Expression,\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "mla": "Diefes, A.. \"Investigating Serotonin Dynamics and Simulating Effects of Antidepressants Using Variation in Enzyme Expression.\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "custom_format": "\\bibitem{Di24} A. Diefes, Investigating serotonin dynamics and simulating effects of antidepressants using variation in enzyme expression, Vertices: Duke's Undergraduate Research Journal \\textbf{2}(2) (2024). https://doi.org/10.55894/dv2.21",
+      "paper_url": "https://doi.org/10.55894/dv2.21",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_55894_dv3_11",
+      "bibtex": "@article{10_55894_dv3_11,\n  title={Identification of cis-acting elements that regulate expression of the progesterone receptor gene PGR in the uterus.},\n  author={Skylar Redecke},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2024},\n  doi={10.55894/dv3.11},\n  url={https://doi.org/10.55894/dv3.11}\n}",
+      "apa": "Redecke, S. (2024). Identification of cis-acting elements that regulate expression of the progesterone receptor gene PGR in the uterus.. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Skylar Redecke, \"Identification of cis-acting elements that regulate expression of the progesterone receptor gene PGR in the uterus.,\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "mla": "Redecke, S.. \"Identification of cis-acting elements that regulate expression of the progesterone receptor gene PGR in the uterus..\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "custom_format": "\\bibitem{Re24} S. Redecke, Identification of cis-acting elements that regulate expression of the progesterone receptor gene pgr in the uterus, Vertices: Duke's Undergraduate Research Journal \\textbf{3}(1) (2024). https://doi.org/10.55894/dv3.11",
+      "paper_url": "https://doi.org/10.55894/dv3.11",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_55894_dv2_23",
+      "bibtex": "@article{10_55894_dv2_23,\n  title={An Examination of Two Competing Interpretations of Quantum Mechanics with a Critique of the Kochen-Specker Theorem},\n  author={Eliza Miller},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2024},\n  doi={10.55894/dv2.23},\n  url={https://doi.org/10.55894/dv2.23}\n}",
+      "apa": "Miller, E. (2024). An Examination of Two Competing Interpretations of Quantum Mechanics with a Critique of the Kochen-Specker Theorem. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Eliza Miller, \"An Examination of Two Competing Interpretations of Quantum Mechanics with a Critique of the Kochen-Specker Theorem,\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "mla": "Miller, E.. \"An Examination of Two Competing Interpretations of Quantum Mechanics with a Critique of the Kochen-Specker Theorem.\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "custom_format": "\\bibitem{Mi24} E. Miller, An examination of two competing interpretations of quantum mechanics with a critique of the kochen-specker theorem, Vertices: Duke's Undergraduate Research Journal \\textbf{2}(2) (2024). https://doi.org/10.55894/dv2.23",
+      "paper_url": "https://doi.org/10.55894/dv2.23",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_55894_dv2_24",
+      "bibtex": "@article{10_55894_dv2_24,\n  title={Effects on Status Striving: How Self-Perceived Value, Self-Esteem, and Personality Traits Impact Preferred Status},\n  author={Sua Cho},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2024},\n  doi={10.55894/dv2.24},\n  url={https://doi.org/10.55894/dv2.24}\n}",
+      "apa": "Cho, S. (2024). Effects on Status Striving: How Self-Perceived Value, Self-Esteem, and Personality Traits Impact Preferred Status. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Sua Cho, \"Effects on Status Striving: How Self-Perceived Value, Self-Esteem, and Personality Traits Impact Preferred Status,\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "mla": "Cho, S.. \"Effects on Status Striving: How Self-Perceived Value, Self-Esteem, and Personality Traits Impact Preferred Status.\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "custom_format": "\\bibitem{Ch24} S. Cho, Effects on status striving: how self-perceived value, self-esteem, and personality traits impact preferred status, Vertices: Duke's Undergraduate Research Journal \\textbf{2}(2) (2024). https://doi.org/10.55894/dv2.24",
+      "paper_url": "https://doi.org/10.55894/dv2.24",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_55894_dv3_13",
+      "bibtex": "@article{10_55894_dv3_13,\n  title={A Correlational Study of the Relationship Between ChatGPT Usage &amp; Cognitive Flexibility},\n  author={Victoria Szymkiewicz and Edgar Carvalho and Ezra Ford},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2024},\n  doi={10.55894/dv3.13},\n  url={https://doi.org/10.55894/dv3.13}\n}",
+      "apa": "Szymkiewicz, V., Carvalho, E., & Ford, E. (2024). A Correlational Study of the Relationship Between ChatGPT Usage &amp; Cognitive Flexibility. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Victoria Szymkiewicz, Edgar Carvalho, Ezra Ford, \"A Correlational Study of the Relationship Between ChatGPT Usage &amp; Cognitive Flexibility,\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "mla": "Szymkiewicz, V., et al.. \"A Correlational Study of the Relationship Between ChatGPT Usage &amp; Cognitive Flexibility.\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "custom_format": "\\bibitem{SzCaFo24} V. Szymkiewicz, E. Carvalho, E. Ford, A correlational study of the relationship between chatgpt usage &amp; cognitive flexibility, Vertices: Duke's Undergraduate Research Journal \\textbf{3}(1) (2024). https://doi.org/10.55894/dv3.13",
+      "paper_url": "https://doi.org/10.55894/dv3.13",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_55894_dv3_12",
+      "bibtex": "@article{10_55894_dv3_12,\n  title={Exploring Serotonin in Catch Contractions and Specific Dynamic Action in Postprandial Metabolism: Insights from Aquatic Models},\n  author={Caroline Zhang and Jack Fallon},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2024},\n  doi={10.55894/dv3.12},\n  url={https://doi.org/10.55894/dv3.12}\n}",
+      "apa": "Zhang, C. & Fallon, J. (2024). Exploring Serotonin in Catch Contractions and Specific Dynamic Action in Postprandial Metabolism: Insights from Aquatic Models. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Caroline Zhang, Jack Fallon, \"Exploring Serotonin in Catch Contractions and Specific Dynamic Action in Postprandial Metabolism: Insights from Aquatic Models,\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "mla": "Zhang, C., and Jack Fallon. \"Exploring Serotonin in Catch Contractions and Specific Dynamic Action in Postprandial Metabolism: Insights from Aquatic Models.\" Vertices: Duke's Undergraduate Research Journal, 2024.",
+      "custom_format": "\\bibitem{ZhFa24} C. Zhang, J. Fallon, Exploring serotonin in catch contractions and specific dynamic action in postprandial metabolism: insights from aquatic models, Vertices: Duke's Undergraduate Research Journal \\textbf{3}(1) (2024). https://doi.org/10.55894/dv3.12",
+      "paper_url": "https://doi.org/10.55894/dv3.12",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2024
+    },
+    {
+      "paper_id": "10_11606_issn_2179_5894",
+      "bibtex": "@article{10_11606_issn_2179_5894,\n  title={V\u00e9rtices},\n  author={},\n  journal={},\n  year={2023},\n  doi={10.11606/issn.2179-5894},\n  url={https://doi.org/10.11606/issn.2179-5894}\n}",
+      "apa": "Unknown Author (2023). V\u00e9rtices. .",
+      "ieee": "Unknown Author, \"V\u00e9rtices,\" , 2023.",
+      "mla": "Unknown Author. \"V\u00e9rtices.\" , 2023.",
+      "custom_format": "\\bibitem{Unknown23} Unknown Author, V\u00e9rtices,  (2023). https://doi.org/10.11606/issn.2179-5894",
+      "paper_url": "https://doi.org/10.11606/issn.2179-5894",
+      "journal_name": "",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv1_21",
+      "bibtex": "@article{10_55894_dv1_21,\n  title={iPSC differentiation into various neuron subtypes},\n  author={Emily Cruz and Mohamad Mikati MD, PhD},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2023},\n  doi={10.55894/dv1.21},\n  url={https://doi.org/10.55894/dv1.21}\n}",
+      "apa": "Cruz, E. & PhD, M. M. M. (2023). iPSC differentiation into various neuron subtypes. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Emily Cruz, Mohamad Mikati MD, PhD, \"iPSC differentiation into various neuron subtypes,\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "mla": "Cruz, E., and Mohamad Mikati MD, PhD. \"iPSC differentiation into various neuron subtypes.\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "custom_format": "\\bibitem{CrPh23} E. Cruz, M.M.M. PhD, Ipsc differentiation into various neuron subtypes, Vertices: Duke's Undergraduate Research Journal \\textbf{1}(2) (2023). https://doi.org/10.55894/dv1.21",
+      "paper_url": "https://doi.org/10.55894/dv1.21",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv2_13",
+      "bibtex": "@article{10_55894_dv2_13,\n  title={Relations of and between Family Business and Private Enterprise},\n  author={Michael Cao},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2023},\n  doi={10.55894/dv2.13},\n  url={https://doi.org/10.55894/dv2.13}\n}",
+      "apa": "Cao, M. (2023). Relations of and between Family Business and Private Enterprise. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Michael Cao, \"Relations of and between Family Business and Private Enterprise,\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "mla": "Cao, M.. \"Relations of and between Family Business and Private Enterprise.\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "custom_format": "\\bibitem{Ca23} M. Cao, Relations of and between family business and private enterprise, Vertices: Duke's Undergraduate Research Journal \\textbf{2}(1) (2023). https://doi.org/10.55894/dv2.13",
+      "paper_url": "https://doi.org/10.55894/dv2.13",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv2_11",
+      "bibtex": "@article{10_55894_dv2_11,\n  title={Quorum Sensing in Pseudomonas aeruginosa: Mechanisms, strategies, and a novel inhibitor},\n  author={Aditya Raj and Natasha Kirienko},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2023},\n  doi={10.55894/dv2.11},\n  url={https://doi.org/10.55894/dv2.11}\n}",
+      "apa": "Raj, A. & Kirienko, N. (2023). Quorum Sensing in Pseudomonas aeruginosa: Mechanisms, strategies, and a novel inhibitor. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Aditya Raj, Natasha Kirienko, \"Quorum Sensing in Pseudomonas aeruginosa: Mechanisms, strategies, and a novel inhibitor,\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "mla": "Raj, A., and Natasha Kirienko. \"Quorum Sensing in Pseudomonas aeruginosa: Mechanisms, strategies, and a novel inhibitor.\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "custom_format": "\\bibitem{RaKi23} A. Raj, N. Kirienko, Quorum sensing in pseudomonas aeruginosa: mechanisms, strategies, and a novel inhibitor, Vertices: Duke's Undergraduate Research Journal \\textbf{2}(1) (2023). https://doi.org/10.55894/dv2.11",
+      "paper_url": "https://doi.org/10.55894/dv2.11",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv2_12",
+      "bibtex": "@article{10_55894_dv2_12,\n  title={Modeling the Northern Great Barrier Reef Population of Green Sea Turtles},\n  author={Jackson D. Nowacek},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2023},\n  doi={10.55894/dv2.12},\n  url={https://doi.org/10.55894/dv2.12}\n}",
+      "apa": "Nowacek, J. D. (2023). Modeling the Northern Great Barrier Reef Population of Green Sea Turtles. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Jackson D. Nowacek, \"Modeling the Northern Great Barrier Reef Population of Green Sea Turtles,\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "mla": "Nowacek, J. D.. \"Modeling the Northern Great Barrier Reef Population of Green Sea Turtles.\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "custom_format": "\\bibitem{No23} J.D. Nowacek, Modeling the northern great barrier reef population of green sea turtles, Vertices: Duke's Undergraduate Research Journal \\textbf{2}(1) (2023). https://doi.org/10.55894/dv2.12",
+      "paper_url": "https://doi.org/10.55894/dv2.12",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv1_22",
+      "bibtex": "@article{10_55894_dv1_22,\n  title={Application of Palladium Chemistry in Organic Synthesis Techniques: the Larock Indole Synthesis, a Literature Review},\n  author={Angikar Ghosal},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2023},\n  doi={10.55894/dv1.22},\n  url={https://doi.org/10.55894/dv1.22}\n}",
+      "apa": "Ghosal, A. (2023). Application of Palladium Chemistry in Organic Synthesis Techniques: the Larock Indole Synthesis, a Literature Review. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Angikar Ghosal, \"Application of Palladium Chemistry in Organic Synthesis Techniques: the Larock Indole Synthesis, a Literature Review,\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "mla": "Ghosal, A.. \"Application of Palladium Chemistry in Organic Synthesis Techniques: the Larock Indole Synthesis, a Literature Review.\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "custom_format": "\\bibitem{Gh23} A. Ghosal, Application of palladium chemistry in organic synthesis techniques: the larock indole synthesis, a literature review, Vertices: Duke's Undergraduate Research Journal \\textbf{1}(2) (2023). https://doi.org/10.55894/dv1.22",
+      "paper_url": "https://doi.org/10.55894/dv1.22",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv1_24",
+      "bibtex": "@article{10_55894_dv1_24,\n  title={Data Corroboration of The Catastrophic Chernobyl Tragedy Using Arc-Length Estimate Conjecture},\n  author={Manan Choudhury and Anurag Dutta and Arnab Kumar De},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2023},\n  doi={10.55894/dv1.24},\n  url={https://doi.org/10.55894/dv1.24}\n}",
+      "apa": "Choudhury, M., Dutta, A., & De, A. K. (2023). Data Corroboration of The Catastrophic Chernobyl Tragedy Using Arc-Length Estimate Conjecture. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Manan Choudhury, Anurag Dutta, Arnab Kumar De, \"Data Corroboration of The Catastrophic Chernobyl Tragedy Using Arc-Length Estimate Conjecture,\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "mla": "Choudhury, M., et al.. \"Data Corroboration of The Catastrophic Chernobyl Tragedy Using Arc-Length Estimate Conjecture.\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "custom_format": "\\bibitem{ChDuDe23} M. Choudhury, A. Dutta, A.K. De, Data corroboration of the catastrophic chernobyl tragedy using arc-length estimate conjecture, Vertices: Duke's Undergraduate Research Journal \\textbf{1}(2) (2023). https://doi.org/10.55894/dv1.24",
+      "paper_url": "https://doi.org/10.55894/dv1.24",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv1_23",
+      "bibtex": "@article{10_55894_dv1_23,\n  title={Comparing experiences with mental health issues to perceptions of their prevalence: A study of Duke University undergraduates},\n  author={Sean Woytowitz and Paul Seli Ph.D.},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2023},\n  doi={10.55894/dv1.23},\n  url={https://doi.org/10.55894/dv1.23}\n}",
+      "apa": "Woytowitz, S. & Ph.D., P. S. (2023). Comparing experiences with mental health issues to perceptions of their prevalence: A study of Duke University undergraduates. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Sean Woytowitz, Paul Seli Ph.D., \"Comparing experiences with mental health issues to perceptions of their prevalence: A study of Duke University undergraduates,\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "mla": "Woytowitz, S., and Paul Seli Ph.D.. \"Comparing experiences with mental health issues to perceptions of their prevalence: A study of Duke University undergraduates.\" Vertices: Duke's Undergraduate Research Journal, 2023.",
+      "custom_format": "\\bibitem{WoPh23} S. Woytowitz, P.S. Ph.D., Comparing experiences with mental health issues to perceptions of their prevalence: a study of duke university undergraduates, Vertices: Duke's Undergraduate Research Journal \\textbf{1}(2) (2023). https://doi.org/10.55894/dv1.23",
+      "paper_url": "https://doi.org/10.55894/dv1.23",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2023
+    },
+    {
+      "paper_id": "10_55894_dv1_11",
+      "bibtex": "@article{10_55894_dv1_11,\n  title={Masculinity and Novel Male Contraceptives: Does Masculine Norm Conformity Influence Preference?},\n  author={Connie Dean},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2022},\n  doi={10.55894/dv1.11},\n  url={https://doi.org/10.55894/dv1.11}\n}",
+      "apa": "Dean, C. (2022). Masculinity and Novel Male Contraceptives: Does Masculine Norm Conformity Influence Preference?. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Connie Dean, \"Masculinity and Novel Male Contraceptives: Does Masculine Norm Conformity Influence Preference?,\" Vertices: Duke's Undergraduate Research Journal, 2022.",
+      "mla": "Dean, C.. \"Masculinity and Novel Male Contraceptives: Does Masculine Norm Conformity Influence Preference?.\" Vertices: Duke's Undergraduate Research Journal, 2022.",
+      "custom_format": "\\bibitem{De22} C. Dean, Masculinity and novel male contraceptives: does masculine norm conformity influence preference?, Vertices: Duke's Undergraduate Research Journal (2022). https://doi.org/10.55894/dv1.11",
+      "paper_url": "https://doi.org/10.55894/dv1.11",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_55894_dv1_14",
+      "bibtex": "@article{10_55894_dv1_14,\n  title={Customizable crying and connection: personalization and its effect on player emotion and empathy},\n  author={Devinne Moses},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2022},\n  doi={10.55894/dv1.14},\n  url={https://doi.org/10.55894/dv1.14}\n}",
+      "apa": "Moses, D. (2022). Customizable crying and connection: personalization and its effect on player emotion and empathy. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Devinne Moses, \"Customizable crying and connection: personalization and its effect on player emotion and empathy,\" Vertices: Duke's Undergraduate Research Journal, 2022.",
+      "mla": "Moses, D.. \"Customizable crying and connection: personalization and its effect on player emotion and empathy.\" Vertices: Duke's Undergraduate Research Journal, 2022.",
+      "custom_format": "\\bibitem{Mo22} D. Moses, Customizable crying and connection: personalization and its effect on player emotion and empathy, Vertices: Duke's Undergraduate Research Journal \\textbf{1}(1) (2022). https://doi.org/10.55894/dv1.14",
+      "paper_url": "https://doi.org/10.55894/dv1.14",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2022
+    },
+    {
+      "paper_id": "10_55894_dv1_12",
+      "bibtex": "@article{10_55894_dv1_12,\n  title={Utilizing Patient Characteristics to Predict the Likelihood of Heart Condition},\n  author={Jackson Cathey and Carson Herman and Michelle Tetro and Melody Gao},\n  journal={Vertices: Duke's Undergraduate Research Journal},\n  year={2022},\n  doi={10.55894/dv1.12},\n  url={https://doi.org/10.55894/dv1.12}\n}",
+      "apa": "Cathey, J., Herman, C., Tetro, M., & Gao, M. (2022). Utilizing Patient Characteristics to Predict the Likelihood of Heart Condition. Vertices: Duke's Undergraduate Research Journal.",
+      "ieee": "Jackson Cathey et al., \"Utilizing Patient Characteristics to Predict the Likelihood of Heart Condition,\" Vertices: Duke's Undergraduate Research Journal, 2022.",
+      "mla": "Cathey, J., et al.. \"Utilizing Patient Characteristics to Predict the Likelihood of Heart Condition.\" Vertices: Duke's Undergraduate Research Journal, 2022.",
+      "custom_format": "\\bibitem{CaHeTe22} J. Cathey, C. Herman, M. Tetro, M. Gao, Utilizing patient characteristics to predict the likelihood of heart condition, Vertices: Duke's Undergraduate Research Journal (2022). https://doi.org/10.55894/dv1.12",
+      "paper_url": "https://doi.org/10.55894/dv1.12",
+      "journal_name": "Vertices: Duke's Undergraduate Research Journal",
+      "year": 2022
+    }
+  ]
+}
